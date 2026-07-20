@@ -27,18 +27,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.11"
-          cache: pip
-
-      - name: Install dependencies
-        run: pip install .
+          enable-cache: true
 
       - name: Generate squad TODO
         run: |
-          python -m wd_squads \
+          uv run python -m wd_squads \
             --config config/teams.yaml \
             --reports-dir reports \
             --docs-dir docs \
