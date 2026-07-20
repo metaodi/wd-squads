@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>wd-squads — Wikidata squad TODO</title>
+<style>
+  :root { color-scheme: light dark; --bg:#fff; --fg:#1b1b1b; --muted:#666;
+    --card:#f6f6f6; --border:#e2e2e2; --accent:#3366cc; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#14161a; --fg:#e8e8e8; --muted:#9aa0a6; --card:#1e2127;
+      --border:#2c2f36; --accent:#7aa2f7; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    background:var(--bg); color:var(--fg); line-height:1.5; }
+  .wrap { max-width:960px; margin:0 auto; padding:1.5rem 1rem 4rem; }
+  h1 { margin:0 0 .25rem; font-size:1.6rem; }
+  .sub { color:var(--muted); margin:0 0 1.5rem; }
+  .totals { display:flex; gap:1rem; flex-wrap:wrap; margin-bottom:1.5rem; }
+  .stat { background:var(--card); border:1px solid var(--border); border-radius:10px;
+    padding:.75rem 1rem; min-width:120px; }
+  .stat b { font-size:1.5rem; display:block; }
+  .team { border:1px solid var(--border); border-radius:10px; margin-bottom:1rem;
+    background:var(--card); overflow:hidden; }
+  .team > summary { cursor:pointer; padding:.9rem 1rem; font-weight:600;
+    display:flex; justify-content:space-between; align-items:center; gap:1rem; }
+  .team > summary::-webkit-details-marker { display:none; }
+  .count { background:var(--accent); color:#fff; border-radius:999px;
+    padding:.1rem .6rem; font-size:.8rem; font-weight:600; }
+  .count.zero { background:#3aa657; }
+  .body { padding:0 1rem 1rem; }
+  .kind { margin:1rem 0 .3rem; font-size:.95rem; color:var(--muted);
+    text-transform:uppercase; letter-spacing:.03em; }
+  ul { margin:.2rem 0 .6rem; padding-left:1.2rem; }
+  li { margin:.35rem 0; }
+  a { color:var(--accent); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  .detail { color:var(--muted); }
+  footer { color:var(--muted); font-size:.85rem; margin-top:2rem; }
+  code { background:var(--card); padding:.05rem .3rem; border-radius:4px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>wd-squads &mdash; suggested Wikidata edits</h1>
+  <p class="sub">Football squads on Wikipedia vs. membership data (P54) on
+     Wikidata. Generated 2026-07-20 21:42 UTC.</p>
+
+  <div class="totals">
+    <div class="stat"><b>0</b> suggested edits</div>
+    <div class="stat"><b>0</b> teams checked</div>
+    <div class="stat"><b>0</b> teams need attention</div>
+  </div>
+
+  
+
+  <footer>
+    Built by <a href="https://github.com/metaodi/wd-squads">wd-squads</a>.
+    Suggestions are heuristics &mdash; always verify before editing Wikidata.
+  </footer>
+</div>
+</body>
+</html>
