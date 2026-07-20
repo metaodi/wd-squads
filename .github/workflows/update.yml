@@ -1,0 +1,57 @@
+name: Update squad TODO
+
+on:
+  # Run every Monday at 06:00 UTC.
+  schedule:
+    - cron: "0 6 * * 1"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Only process the first N teams (leave empty for all)"
+        required: false
+        default: ""
+
+# Needed so the workflow can commit the generated reports back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: wd-squads-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate squad TODO
+        run: |
+          python -m wd_squads \
+            --config config/teams.yaml \
+            --reports-dir reports \
+            --docs-dir docs \
+            ${{ github.event.inputs.limit && format('--limit {0}', github.event.inputs.limit) || '' }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update squad TODO ($(date -u +%Y-%m-%d))"
+            git push
+          fi

@@ -1,0 +1,46 @@
+# wd-squads configuration
+#
+# The tool discovers the football clubs to check, then for each club compares
+# the "current squad" on English Wikipedia against the membership statements
+# (P54, member of sports team) on Wikidata, and reports suggested edits.
+
+# Wikipedia language edition used to read squad lists (currently only "en" is
+# tuned, because the {{fs player}} squad templates are most consistent there).
+language: en
+
+# A descriptive User-Agent is REQUIRED by the Wikimedia APIs. Please keep a
+# contact URL / e-mail so operators can reach you if your bot misbehaves.
+# See https://meta.wikimedia.org/wiki/User-Agent_policy
+user_agent: "wd-squads/0.1 (https://github.com/metaodi/wd-squads; oderbolz@gmail.com)"
+
+# Seconds to wait between HTTP requests, to stay polite to the APIs.
+request_delay: 1.0
+
+# ---------------------------------------------------------------------------
+# Team discovery (SPARQL auto-discovery)
+# ---------------------------------------------------------------------------
+# Leagues are given as Wikidata Q-IDs. For each league the tool runs a SPARQL
+# query that returns every association-football club that has the league set as
+# its `league` (P118) value.
+leagues:
+  - id: Q331268        # Swiss Super League (small: good for a first run)
+    label: Swiss Super League
+  # - id: Q9448        # Premier League (England)
+  # - id: Q324867      # La Liga (Spain)
+  # - id: Q82595       # Bundesliga (Germany)
+
+# Optional: a fully custom SPARQL SELECT that returns the teams to check.
+# It MUST bind ?team (a wd:Q… entity). ?teamLabel and ?article (the enwiki
+# article URL) are used when present. When set, this REPLACES league discovery.
+# discovery_query: |
+#   SELECT ?team ?teamLabel ?article WHERE {
+#     ?team wdt:P118 wd:Q9448 .
+#     ?team wdt:P31/wdt:P279* wd:Q476028 .
+#     OPTIONAL { ?article schema:about ?team ; schema:isPartOf <https://en.wikipedia.org/> . }
+#     SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+#   }
+
+# Optional: pin an explicit list of team Q-IDs. When set, this REPLACES both
+# league discovery and discovery_query. Handy for testing a single club.
+# teams:
+#   - Q18500        # FC Basel

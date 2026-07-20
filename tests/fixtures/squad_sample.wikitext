@@ -1,0 +1,15 @@
+'''FC Example''' is a fictional football club used in the tests.
+
+== Current squad ==
+''As of 1 July 2026''
+{{Fs start}}
+{{fs player|no=1|nat=CHE|name=[[Alice Keeper]]|pos=GK}}
+{{fs player |no=9 |nat=BRA |name=[[Bob Striker|Bob]] |pos=FW}}
+{{football squad player|no=7|nat=ARG|name=Charlie Noitem|pos=MF}}
+{{Fs end}}
+
+=== Out on loan ===
+{{fs player|no=22|nat=FRA|name=[[Dave Loanee]]|pos=DF}}
+
+== Notable former players ==
+{{fs player|no=|nat=ENG|name=[[Old Timer]]|pos=FW}}
