@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wd-squads"
+version = "0.1.0"
+description = "Compare football squads on Wikipedia with membership data on Wikidata and generate a TODO list of suggested Wikidata edits."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Stefan Oderbolz" }]
+dependencies = [
+    "requests>=2.31",
+    "mwparserfromhell>=0.6",
+    "PyYAML>=6.0",
+    "Jinja2>=3.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+wd-squads = "wd_squads.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
