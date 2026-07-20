@@ -28,7 +28,7 @@ request_delay: 1.0
 # edition that maintains that league best; if omitted it uses the default
 # `language` above.
 leagues:
-  - id: Q331268        # Swiss Super League (small: good for a first run)
+  - id: Q202699        # Swiss Super League (small: good for a first run)
     label: Swiss Super League
     language: de       # Swiss clubs' squads are best kept on German Wikipedia
   # - id: Q9448        # Premier League (England)
