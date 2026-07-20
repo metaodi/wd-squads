@@ -104,15 +104,19 @@ Network access to `query.wikidata.org` and `<lang>.wikipedia.org` is required.
 
 The [`Update squad TODO`](.github/workflows/update.yml) workflow runs weekly
 (and on demand via *workflow_dispatch*), regenerates the reports, and commits
-them back to the repository. To publish the dashboard:
+them back to the repository. The
+[`Deploy dashboard to GitHub Pages`](.github/workflows/pages.yml) workflow then
+publishes `docs/` to GitHub Pages. To publish the dashboard:
 
 1. Push this repository to GitHub.
-2. In **Settings → Pages**, set the source to **Deploy from a branch**,
-   branch = your default branch, folder = **`/docs`**.
+2. In **Settings → Pages**, set the source to **GitHub Actions**.
 3. The dashboard will be served at `https://<user>.github.io/wd-squads/`.
 
-The workflow needs `contents: write` permission (already declared) so it can
-commit the refreshed reports.
+The Pages workflow runs after each scheduled update (via `workflow_run`), on any
+push to `main` that touches `docs/`, and on demand from the Actions tab. It needs
+the `pages: write` and `id-token: write` permissions (already declared) to
+deploy. The update workflow needs `contents: write` permission (already
+declared) so it can commit the refreshed reports.
 
 ## Development
 
