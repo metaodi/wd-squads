@@ -40,6 +40,7 @@ class Team:
     qid: str
     label: str
     wikipedia_title: Optional[str] = None
+    language: str = "en"  # Wikipedia edition its squad is read from
 
 
 @dataclass

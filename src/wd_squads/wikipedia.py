@@ -97,12 +97,14 @@ def parse_squad_players(wikitext: str) -> List[SquadPlayer]:
 class WikipediaClient:
     def __init__(self, http: HttpClient, language: str = "en") -> None:
         self.http = http
-        self.language = language
-        self.api_url = f"https://{language}.wikipedia.org/w/api.php"
+        self.default_language = language
 
-    def fetch_wikitext(self, title: str) -> Optional[str]:
+    def _api_url(self, language: Optional[str]) -> str:
+        return f"https://{language or self.default_language}.wikipedia.org/w/api.php"
+
+    def fetch_wikitext(self, title: str, language: Optional[str] = None) -> Optional[str]:
         data = self.http.get_json(
-            self.api_url,
+            self._api_url(language),
             params={
                 "action": "parse",
                 "page": title,
@@ -117,17 +119,21 @@ class WikipediaClient:
             return None
         return data.get("parse", {}).get("wikitext")
 
-    def resolve_qids(self, titles: List[str]) -> Dict[str, Optional[str]]:
+    def resolve_qids(
+        self, titles: List[str], language: Optional[str] = None
+    ) -> Dict[str, Optional[str]]:
         """Map each Wikipedia article title to its Wikidata Q-ID (or None)."""
         result: Dict[str, Optional[str]] = {}
         unique = list(dict.fromkeys(t for t in titles if t))
         for batch in _chunks(unique, 50):
-            result.update(self._resolve_batch(batch))
+            result.update(self._resolve_batch(batch, language))
         return result
 
-    def _resolve_batch(self, titles: List[str]) -> Dict[str, Optional[str]]:
+    def _resolve_batch(
+        self, titles: List[str], language: Optional[str] = None
+    ) -> Dict[str, Optional[str]]:
         data = self.http.get_json(
-            self.api_url,
+            self._api_url(language),
             params={
                 "action": "query",
                 "prop": "pageprops",
@@ -166,13 +172,20 @@ class WikipediaClient:
     def get_squad(self, team: Team) -> List[SquadPlayer]:
         """Return the current squad for ``team`` with Wikidata Q-IDs resolved."""
         if not team.wikipedia_title:
-            log.info("Team %s (%s) has no English Wikipedia article", team.qid, team.label)
+            log.info(
+                "Team %s (%s) has no %s.wikipedia article",
+                team.qid,
+                team.label,
+                team.language,
+            )
             return []
-        wikitext = self.fetch_wikitext(team.wikipedia_title)
+        wikitext = self.fetch_wikitext(team.wikipedia_title, team.language)
         if not wikitext:
             return []
         players = parse_squad_players(wikitext)
-        mapping = self.resolve_qids([p.title for p in players if p.title])
+        mapping = self.resolve_qids(
+            [p.title for p in players if p.title], team.language
+        )
         for player in players:
             if player.title:
                 player.qid = mapping.get(player.title)

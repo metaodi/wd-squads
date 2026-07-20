@@ -27,6 +27,26 @@ leagues:
     assert not cfg.has_explicit_teams()
 
 
+def test_per_league_language_with_fallback(tmp_path):
+    cfg = load_config(
+        _write(
+            tmp_path,
+            """
+language: en
+user_agent: "wd-squads-test/0.1 (mailto:me@here.org)"
+leagues:
+  - id: Q331268
+    language: de
+  - id: Q9448
+""",
+        )
+    )
+    # Explicit per-league language is kept...
+    assert cfg.leagues[0].language == "de"
+    # ...and a league without one falls back to the global default.
+    assert cfg.leagues[1].language == "en"
+
+
 def test_explicit_teams(tmp_path):
     cfg = load_config(
         _write(

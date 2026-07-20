@@ -14,7 +14,6 @@ log = logging.getLogger(__name__)
 
 WDQS_ENDPOINT = "https://query.wikidata.org/sparql"
 ENTITY_RE = re.compile(r"/entity/(Q\d+)$")
-ARTICLE_TITLE_RE = re.compile(r"https://en\.wikipedia\.org/wiki/(.+)$")
 
 
 def qid_from_uri(uri: str) -> Optional[str]:
@@ -22,15 +21,15 @@ def qid_from_uri(uri: str) -> Optional[str]:
     return m.group(1) if m else None
 
 
-def _title_from_article_url(url: Optional[str]) -> Optional[str]:
+def _title_from_article_url(url: Optional[str], language: str) -> Optional[str]:
     if not url:
         return None
-    m = ARTICLE_TITLE_RE.match(url)
-    if not m:
+    prefix = f"https://{language}.wikipedia.org/wiki/"
+    if not url.startswith(prefix):
         return None
     from urllib.parse import unquote
 
-    return unquote(m.group(1)).replace("_", " ")
+    return unquote(url[len(prefix) :]).replace("_", " ")
 
 
 class WikidataClient:
@@ -50,48 +49,50 @@ class WikidataClient:
     # -- team discovery ------------------------------------------------------
     def discover_teams(self, config: Config) -> List[Team]:
         if config.has_explicit_teams():
-            return self._teams_from_qids(config.teams)
+            return self._teams_from_qids(config.teams, config.language)
         if config.discovery_query:
-            return self._teams_from_query(config.discovery_query)
+            return self._teams_from_query(config.discovery_query, config.language)
         teams: List[Team] = []
         seen: set[str] = set()
         for league in config.leagues:
-            for team in self._teams_from_query(self._league_query(league.id)):
+            language = league.language or config.language
+            query = self._league_query(league.id, language)
+            for team in self._teams_from_query(query, language):
                 if team.qid not in seen:
                     seen.add(team.qid)
                     teams.append(team)
         return teams
 
     @staticmethod
-    def _league_query(league_qid: str) -> str:
+    def _league_query(league_qid: str, language: str) -> str:
         # Association football club (Q476028) that has this league as its
-        # `league` (P118) value, with the English Wikipedia article if any.
+        # `league` (P118) value, with the article on the chosen Wikipedia.
         return f"""
 SELECT ?team ?teamLabel ?article WHERE {{
   ?team wdt:P118 wd:{league_qid} .
   ?team wdt:P31/wdt:P279* wd:Q476028 .
-  OPTIONAL {{ ?article schema:about ?team ; schema:isPartOf <https://en.wikipedia.org/> . }}
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+  OPTIONAL {{ ?article schema:about ?team ; schema:isPartOf <https://{language}.wikipedia.org/> . }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{language},en". }}
 }}
 ORDER BY ?teamLabel
 """.strip()
 
     @staticmethod
-    def _values_query(qids: List[str]) -> str:
+    def _values_query(qids: List[str], language: str) -> str:
         values = " ".join(f"wd:{q}" for q in qids)
         return f"""
 SELECT ?team ?teamLabel ?article WHERE {{
   VALUES ?team {{ {values} }}
-  OPTIONAL {{ ?article schema:about ?team ; schema:isPartOf <https://en.wikipedia.org/> . }}
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+  OPTIONAL {{ ?article schema:about ?team ; schema:isPartOf <https://{language}.wikipedia.org/> . }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{language},en". }}
 }}
 ORDER BY ?teamLabel
 """.strip()
 
-    def _teams_from_qids(self, qids: List[str]) -> List[Team]:
-        return self._teams_from_query(self._values_query(qids))
+    def _teams_from_qids(self, qids: List[str], language: str) -> List[Team]:
+        return self._teams_from_query(self._values_query(qids, language), language)
 
-    def _teams_from_query(self, sparql: str) -> List[Team]:
+    def _teams_from_query(self, sparql: str, language: str) -> List[Team]:
         teams: List[Team] = []
         seen: set[str] = set()
         for row in self.run_query(sparql):
@@ -100,8 +101,10 @@ ORDER BY ?teamLabel
                 continue
             seen.add(qid)
             label = row.get("teamLabel", {}).get("value", qid)
-            title = _title_from_article_url(row.get("article", {}).get("value"))
-            teams.append(Team(qid=qid, label=label, wikipedia_title=title))
+            title = _title_from_article_url(row.get("article", {}).get("value"), language)
+            teams.append(
+                Team(qid=qid, label=label, wikipedia_title=title, language=language)
+            )
         return teams
 
     # -- memberships ---------------------------------------------------------

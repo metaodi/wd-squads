@@ -22,8 +22,9 @@ committing a refreshed report and a browsable HTML dashboard on a schedule.
 ## What it checks
 
 For every club it discovers, it reads the *current squad* from the club's
-English Wikipedia article (the `{{fs player}}` / `{{football squad player}}`
-templates) and the P54 statements from Wikidata, then reports:
+Wikipedia article — in the language configured for its league — (the
+`{{fs player}}` / `{{football squad player}}` templates) and the P54 statements
+from Wikidata, then reports:
 
 | Suggestion | Meaning |
 | --- | --- |
@@ -56,14 +57,18 @@ Edit [`config/teams.yaml`](config/teams.yaml). Teams are discovered with
 **SPARQL auto-discovery** from the leagues you list (by Wikidata Q-ID):
 
 ```yaml
-language: en
+language: en    # default Wikipedia edition
 user_agent: "wd-squads/0.1 (https://github.com/metaodi/wd-squads; you@example.org)"
 request_delay: 1.0
 
 leagues:
-  - id: Q331268   # Swiss Super League
-  - id: Q9448     # Premier League
+  - id: Q331268        # Swiss Super League
+    language: de       # read this league's squads from German Wikipedia
+  - id: Q9448          # Premier League (uses the default `language: en`)
 ```
+
+Each league can set its own `language:` — clubs are often best maintained on the
+Wikipedia edition of their country. If omitted, the top-level `language` is used.
 
 Other ways to choose teams (each overrides the one above it):
 
@@ -121,9 +126,10 @@ see [`tests/`](tests/).
 
 ## Scope and roadmap
 
-The MVP targets **association football** on the **English** Wikipedia, where the
-squad templates are the most consistent. The design keeps the pieces separable
-so future work can add other sports, other Wikipedia languages, or emit
+The MVP targets **association football**, reading squads from any Wikipedia
+edition you configure per league (the `{{fs player}}` templates are shared
+across the major editions). The design keeps the pieces separable so future
+work can add other sports or emit
 [QuickStatements](https://quickstatements.toolforge.org/) once a suggested edit
 has enough information (e.g. a confirmed date) to be applied safely.
 

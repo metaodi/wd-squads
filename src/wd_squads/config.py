@@ -13,6 +13,7 @@ import yaml
 class League:
     id: str
     label: Optional[str] = None
+    language: Optional[str] = None  # Wikipedia edition; falls back to Config.language
 
 
 @dataclass
@@ -32,15 +33,20 @@ def load_config(path: str | Path) -> Config:
     """Read a YAML config file into a :class:`Config`."""
     data = yaml.safe_load(Path(path).read_text(encoding="utf-8")) or {}
 
+    default_language = data.get("language", "en")
     leagues = [
-        League(id=str(item["id"]), label=item.get("label"))
+        League(
+            id=str(item["id"]),
+            label=item.get("label"),
+            language=item.get("language", default_language),
+        )
         if isinstance(item, dict)
-        else League(id=str(item))
+        else League(id=str(item), language=default_language)
         for item in (data.get("leagues") or [])
     ]
 
     cfg = Config(
-        language=data.get("language", "en"),
+        language=default_language,
         user_agent=data.get("user_agent", Config.user_agent),
         request_delay=float(data.get("request_delay", 1.0)),
         leagues=leagues,

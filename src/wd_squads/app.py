@@ -63,9 +63,7 @@ def process(
             memberships = wikidata.get_memberships(team.qid)
             result.squad_size = len([p for p in squad if p.qid or p.name])
             result.wikidata_current = len({m.player_qid for m in memberships if m.is_open})
-            result.suggestions = compute_suggestions(
-                team, squad, memberships, language=config.language
-            )
+            result.suggestions = compute_suggestions(team, squad, memberships)
         except Exception as exc:  # keep going even if one team fails
             log.exception("Failed to process %s", team.qid)
             result.error = str(exc)

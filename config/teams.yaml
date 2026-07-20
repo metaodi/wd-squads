@@ -4,8 +4,9 @@
 # the "current squad" on English Wikipedia against the membership statements
 # (P54, member of sports team) on Wikidata, and reports suggested edits.
 
-# Wikipedia language edition used to read squad lists (currently only "en" is
-# tuned, because the {{fs player}} squad templates are most consistent there).
+# Default Wikipedia language edition used to read squad lists. It can be
+# overridden per league (see `language:` under each league below). The English
+# ("en") and other major editions use the same {{fs player}} squad templates.
 language: en
 
 # A descriptive User-Agent is REQUIRED by the Wikimedia APIs. Please keep a
@@ -22,12 +23,20 @@ request_delay: 1.0
 # Leagues are given as Wikidata Q-IDs. For each league the tool runs a SPARQL
 # query that returns every association-football club that has the league set as
 # its `league` (P118) value.
+#
+# Each league may set its own `language:` to read squads from the Wikipedia
+# edition that maintains that league best; if omitted it uses the default
+# `language` above.
 leagues:
   - id: Q331268        # Swiss Super League (small: good for a first run)
     label: Swiss Super League
+    language: de       # Swiss clubs' squads are best kept on German Wikipedia
   # - id: Q9448        # Premier League (England)
+  #   language: en
   # - id: Q324867      # La Liga (Spain)
+  #   language: es
   # - id: Q82595       # Bundesliga (Germany)
+  #   language: de
 
 # Optional: a fully custom SPARQL SELECT that returns the teams to check.
 # It MUST bind ?team (a wd:Q… entity). ?teamLabel and ?article (the enwiki

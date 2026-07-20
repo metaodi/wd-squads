@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from collections import defaultdict
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 from .models import (
     KIND_ADD_END_DATE,
@@ -30,9 +30,10 @@ def compute_suggestions(
     team: Team,
     squad: List[SquadPlayer],
     memberships: List[Membership],
-    language: str = "en",
+    language: Optional[str] = None,
 ) -> List[Suggestion]:
     """Produce the list of suggested edits for a single team."""
+    language = language or team.language
     by_player: Dict[str, List[Membership]] = defaultdict(list)
     for m in memberships:
         by_player[m.player_qid].append(m)

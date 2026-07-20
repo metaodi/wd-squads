@@ -48,7 +48,10 @@ def render_team_markdown(result: TeamResult, generated_at: str) -> str:
     ]
     if team.wikipedia_title:
         wp = team.wikipedia_title.replace(" ", "_")
-        lines.append(f"- Wikipedia article: [{team.wikipedia_title}](https://en.wikipedia.org/wiki/{wp})")
+        lines.append(
+            f"- Wikipedia article: [{team.wikipedia_title}]"
+            f"(https://{team.language}.wikipedia.org/wiki/{wp})"
+        )
     lines += [
         f"- Players in Wikipedia squad: {result.squad_size}",
         f"- Current members on Wikidata: {result.wikidata_current}",
@@ -82,9 +85,9 @@ def _markdown_player(s: Suggestion) -> str:
         name = f"**[{s.player_label}](https://www.wikidata.org/wiki/{s.player_qid})**"
     else:
         name = f"**{s.player_label}**"
-    if s.wikipedia_title:
-        wp = s.wikipedia_title.replace(" ", "_")
-        name += f" ([WP](https://en.wikipedia.org/wiki/{wp}))"
+    wp_url = s.links.get("wikipedia")
+    if wp_url:
+        name += f" ([WP]({wp_url}))"
     return name
 
 
@@ -219,7 +222,7 @@ _HTML_TEMPLATE = """<!doctype html>
           <li>
             {% if s.player_qid %}<a href="https://www.wikidata.org/wiki/{{ s.player_qid }}">{{ s.player_label }}</a>
             {% else %}<strong>{{ s.player_label }}</strong>{% endif %}
-            {% if s.wikipedia_title %}(<a href="https://en.wikipedia.org/wiki/{{ s.wikipedia_title|replace(' ','_') }}">WP</a>){% endif %}
+            {% if s.links.wikipedia %}(<a href="{{ s.links.wikipedia }}">WP</a>){% endif %}
             <span class="detail">&mdash; {{ s.detail }}</span>
           </li>
           {% endfor %}
