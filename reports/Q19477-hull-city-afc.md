@@ -1,0 +1,172 @@
+# Hull City A.F.C. — Wikidata squad TODO
+
+- Wikidata item: [Q19477](https://www.wikidata.org/wiki/Q19477)
+- Wikipedia article: [Hull City A.F.C.](https://en.wikipedia.org/wiki/Hull_City_A.F.C.)
+- Players in Wikipedia squad: 61
+- Current members on Wikidata: 94
+- Suggested edits: 155
+- Generated: 2026-07-21 20:56 UTC
+
+## In current squad, but no membership statement on Wikidata (34)
+
+- **[Abdülkadir Ömür](https://www.wikidata.org/wiki/Q27832286)** ([WP](https://en.wikipedia.org/wiki/Abdülkadir_Ömür)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Cathal McCarthy](https://www.wikidata.org/wiki/Q134664423)** ([WP](https://en.wikipedia.org/wiki/Cathal_McCarthy_(footballer))) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Charlie Hughes](https://www.wikidata.org/wiki/Q116413058)** ([WP](https://en.wikipedia.org/wiki/Charlie_Hughes_(footballer,_born_2003))) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Cody Drameh](https://www.wikidata.org/wiki/Q98815258)** ([WP](https://en.wikipedia.org/wiki/Cody_Drameh)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Darko Gyabi](https://www.wikidata.org/wiki/Q112801051)** ([WP](https://en.wikipedia.org/wiki/Darko_Gyabi)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[David Akintola](https://www.wikidata.org/wiki/Q27671136)** ([WP](https://en.wikipedia.org/wiki/David_Akintola)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Dillon Phillips](https://www.wikidata.org/wiki/Q17496506)** ([WP](https://en.wikipedia.org/wiki/Dillon_Phillips)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Eliot Matazo](https://www.wikidata.org/wiki/Q98829607)** ([WP](https://en.wikipedia.org/wiki/Eliot_Matazo)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Enis Destan](https://www.wikidata.org/wiki/Q105473101)** ([WP](https://en.wikipedia.org/wiki/Enis_Destan)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Harvey Cartwright](https://www.wikidata.org/wiki/Q110966213)** ([WP](https://en.wikipedia.org/wiki/Harvey_Cartwright)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Hugh Parker](https://www.wikidata.org/wiki/Q133544851)** ([WP](https://en.wikipedia.org/wiki/Hugh_Parker_(footballer))) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Jack Butland](https://www.wikidata.org/wiki/Q313089)** ([WP](https://en.wikipedia.org/wiki/Jack_Butland)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[John Egan](https://www.wikidata.org/wiki/Q150332)** ([WP](https://en.wikipedia.org/wiki/John_Egan_(footballer,_born_1992))) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[João Mendes](https://www.wikidata.org/wiki/Q116449437)** ([WP](https://en.wikipedia.org/wiki/João_Mendes_(footballer,_born_2005))) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Kieran Dowell](https://www.wikidata.org/wiki/Q18627270)** ([WP](https://en.wikipedia.org/wiki/Kieran_Dowell)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Lewie Coyle](https://www.wikidata.org/wiki/Q22003774)** ([WP](https://en.wikipedia.org/wiki/Lewie_Coyle)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Liam Millar](https://www.wikidata.org/wiki/Q50505969)** ([WP](https://en.wikipedia.org/wiki/Liam_Millar)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Mason Burstow](https://www.wikidata.org/wiki/Q109460255)** ([WP](https://en.wikipedia.org/wiki/Mason_Burstow)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Matt Crooks](https://www.wikidata.org/wiki/Q17496496)** ([WP](https://en.wikipedia.org/wiki/Matt_Crooks)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Matty Jacob](https://www.wikidata.org/wiki/Q124157117)** ([WP](https://en.wikipedia.org/wiki/Matty_Jacob)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Mohamed Belloumi](https://www.wikidata.org/wiki/Q107294602)** ([WP](https://en.wikipedia.org/wiki/Mohamed_Belloumi)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Noah Wadsworth](https://www.wikidata.org/wiki/Q125113486)** ([WP](https://en.wikipedia.org/wiki/Noah_Wadsworth)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Oli McBurnie](https://www.wikidata.org/wiki/Q16239659)** ([WP](https://en.wikipedia.org/wiki/Oli_McBurnie)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Paddy McNair](https://www.wikidata.org/wiki/Q18142105)** ([WP](https://en.wikipedia.org/wiki/Paddy_McNair)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Pharrell Brown](https://www.wikidata.org/wiki/Q118213235)** ([WP](https://en.wikipedia.org/wiki/Pharrell_Brown)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Regan Slater](https://www.wikidata.org/wiki/Q48545157)** ([WP](https://en.wikipedia.org/wiki/Regan_Slater)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Rocco Coyle](https://www.wikidata.org/wiki/Q139445468)** ([WP](https://en.wikipedia.org/wiki/Rocco_Coyle)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Ryan Giles](https://www.wikidata.org/wiki/Q59914064)** ([WP](https://en.wikipedia.org/wiki/Ryan_Giles)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Sammy Henia-Kamau](https://www.wikidata.org/wiki/Q140132319)** ([WP](https://en.wikipedia.org/wiki/Sammy_Henia-Kamau)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Semi Ajayi](https://www.wikidata.org/wiki/Q21592164)** ([WP](https://en.wikipedia.org/wiki/Semi_Ajayi)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Stan Ashbee](https://www.wikidata.org/wiki/Q128123226)** ([WP](https://en.wikipedia.org/wiki/Stan_Ashbee)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Thimothée Lo-Tutala](https://www.wikidata.org/wiki/Q117474288)** ([WP](https://en.wikipedia.org/wiki/Thimothée_Lo-Tutala)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Tyrell Sellars-Fleming](https://www.wikidata.org/wiki/Q123737444)** ([WP](https://en.wikipedia.org/wiki/Tyrell_Sellars-Fleming)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Óscar Zambrano](https://www.wikidata.org/wiki/Q113467730)** ([WP](https://en.wikipedia.org/wiki/Óscar_Zambrano)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+
+## Recorded as a current member, but no longer in the squad (94)
+
+- **[Adama Diomande](https://www.wikidata.org/wiki/Q4680083)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Alan Jarvis](https://www.wikidata.org/wiki/Q24007311)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Alex Bruce](https://www.wikidata.org/wiki/Q2733524)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Alex Gibson](https://www.wikidata.org/wiki/Q4717051)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Amir Hadžiahmetović](https://www.wikidata.org/wiki/Q22833412)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Andy Brown](https://www.wikidata.org/wiki/Q25172004)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Arthur Atkinson](https://www.wikidata.org/wiki/Q67998896)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Arthur Prince](https://www.wikidata.org/wiki/Q4800027)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Arthur Wigglesworth](https://www.wikidata.org/wiki/Q4800663)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ben Bridges](https://www.wikidata.org/wiki/Q64492191)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ben Hinchliffe](https://www.wikidata.org/wiki/Q41249245)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ben Hinkliff](https://www.wikidata.org/wiki/Q55199055)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Bill Smith](https://www.wikidata.org/wiki/Q4910923)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Bob Dennison](https://www.wikidata.org/wiki/Q60693765)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Bob Jackson](https://www.wikidata.org/wiki/Q4932909)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Brandon Fleming](https://www.wikidata.org/wiki/Q41247406)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Brian Bulless](https://www.wikidata.org/wiki/Q27983359)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Brian Lenihan](https://www.wikidata.org/wiki/Q18637633)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Calaum Jahraldo-Martin](https://www.wikidata.org/wiki/Q15731357)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Chris Swan](https://www.wikidata.org/wiki/Q110633710)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Christopher Needler](https://www.wikidata.org/wiki/Q5112938)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Craig Lawford](https://www.wikidata.org/wiki/Q27889040)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Cyrus Christie](https://www.wikidata.org/wiki/Q5201080)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Daniel Batty](https://www.wikidata.org/wiki/Q31300883)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Dave King](https://www.wikidata.org/wiki/Q20645742)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[David Fraser](https://www.wikidata.org/wiki/Q81146903)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[David Parker](https://www.wikidata.org/wiki/Q96376046)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[David Taylor](https://www.wikidata.org/wiki/Q28824254)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Don Beardsley](https://www.wikidata.org/wiki/Q5292208)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Dušan Kuciak](https://www.wikidata.org/wiki/Q439930)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Edwin Smith](https://www.wikidata.org/wiki/Q5346825)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Eldin Jakupović](https://www.wikidata.org/wiki/Q458781)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ellis Barkworth](https://www.wikidata.org/wiki/Q37810334)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Eric Holah](https://www.wikidata.org/wiki/Q24053859)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Erik Bukrán](https://www.wikidata.org/wiki/Q59268719)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ernie Shepherd](https://www.wikidata.org/wiki/Q5394725)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Fred Stringer](https://www.wikidata.org/wiki/Q5496354)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[George Long](https://www.wikidata.org/wiki/Q5541820)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[George Richardson](https://www.wikidata.org/wiki/Q5543864)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[George Wienand](https://www.wikidata.org/wiki/Q5546250)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Gordon Wright](https://www.wikidata.org/wiki/Q324690)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Greg Luer](https://www.wikidata.org/wiki/Q19655029)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Harvey Elliott](https://www.wikidata.org/wiki/Q66077924)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Harvey Rodgers](https://www.wikidata.org/wiki/Q28528660)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ian Bennyworth](https://www.wikidata.org/wiki/Q16194433)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jack Lyon](https://www.wikidata.org/wiki/Q95148453)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jack Needham](https://www.wikidata.org/wiki/Q6114290)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jack Vickers](https://www.wikidata.org/wiki/Q6115586)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jacob Greaves](https://www.wikidata.org/wiki/Q66685109)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jaden Philogene](https://www.wikidata.org/wiki/Q106916429)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jake Livermore](https://www.wikidata.org/wiki/Q342282)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[James Berry](https://www.wikidata.org/wiki/Q96384116)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[James Ramster](https://www.wikidata.org/wiki/Q6141834)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jean Seri](https://www.wikidata.org/wiki/Q6171506)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jim McIntosh](https://www.wikidata.org/wiki/Q96096869)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jimmy Walsh](https://www.wikidata.org/wiki/Q6201491)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jock Gibson](https://www.wikidata.org/wiki/Q50365590)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[John Davies](https://www.wikidata.org/wiki/Q60734441)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[John Mackie](https://www.wikidata.org/wiki/Q16009327)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[John McLeod](https://www.wikidata.org/wiki/Q28935277)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Joseph Campbell](https://www.wikidata.org/wiki/Q16073451)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Josh Tymon](https://www.wikidata.org/wiki/Q23762015)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[João Pedro Galvao](https://www.wikidata.org/wiki/Q2626107)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Keane Lewis-Potter](https://www.wikidata.org/wiki/Q62269289)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ken Boden](https://www.wikidata.org/wiki/Q6387346)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Lincoln Henrique](https://www.wikidata.org/wiki/Q19822751)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Matt Ingram](https://www.wikidata.org/wiki/Q10557783)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Max Clark](https://www.wikidata.org/wiki/Q24005423)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Max Sheaf](https://www.wikidata.org/wiki/Q62269258)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Micky Horswill](https://www.wikidata.org/wiki/Q6838918)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Nick Powell](https://www.wikidata.org/wiki/Q321082)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ola Aina](https://www.wikidata.org/wiki/Q20730338)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ozan Tufan](https://www.wikidata.org/wiki/Q2043015)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Pat Raftery](https://www.wikidata.org/wiki/Q7143943)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Patrick Lavery](https://www.wikidata.org/wiki/Q27835028)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Paul Anderson](https://www.wikidata.org/wiki/Q360217)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Percy Lewis](https://www.wikidata.org/wiki/Q7167460)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Robbie McKenzie](https://www.wikidata.org/wiki/Q37809638)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Robert Snodgrass](https://www.wikidata.org/wiki/Q567642)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ryan Fallowfield](https://www.wikidata.org/wiki/Q99362138)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ryan Mason](https://www.wikidata.org/wiki/Q4459692)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Sam Clucas](https://www.wikidata.org/wiki/Q7411126)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Sam Smith](https://www.wikidata.org/wiki/Q7408174)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Samuel Cheetham](https://www.wikidata.org/wiki/Q7411102)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Sean McLoughlin](https://www.wikidata.org/wiki/Q57210827)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Shaun Maloney](https://www.wikidata.org/wiki/Q37717)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Sone Aluko](https://www.wikidata.org/wiki/Q572260)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Tom Huddlestone](https://www.wikidata.org/wiki/Q276213)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Tom Swinburne](https://www.wikidata.org/wiki/Q63364819)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Tony Weldon](https://www.wikidata.org/wiki/Q17018112)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Tyler Hamilton](https://www.wikidata.org/wiki/Q38492805)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Viv Chalwin](https://www.wikidata.org/wiki/Q53900257)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Will Annan](https://www.wikidata.org/wiki/Q37810321)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Will Mannion](https://www.wikidata.org/wiki/Q37803076)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but the Wikipedia article has no Wikidata item (27)
+
+- **Aidon Shehu** — 'Aidon Shehu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Albert Matique** — 'Albert Matique' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Alfie Maskell** — 'Alfie Maskell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Archie Howard** — 'Archie Howard' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Bobby Moore** — 'Bobby Moore' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Callum Yam** — 'Callum Yam' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Calvin Okike** — 'Calvin Okike' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Cayden Cole** — 'Cayden Cole' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Charlie Leach** — 'Charlie Leach' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Dellan Robinson** — 'Dellan Robinson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Ed Devine** — 'Ed Devine' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Ekemini Umoren** — 'Ekemini Umoren' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Emmanuel Sarpong** — 'Emmanuel Sarpong' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Harry Revill** — 'Harry Revill' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jack Hopper** — 'Jack Hopper' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jack Topley** — 'Jack Topley' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Josh Ocaya** — 'Josh Ocaya' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Nathan Tinsdale** — 'Nathan Tinsdale' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Oskar Gruszkowski** — 'Oskar Gruszkowski' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Ramell Carter** — 'Ramell Carter' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Reuben Silk** — 'Reuben Silk' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Rory Leech** — 'Rory Leech' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Sasha Gomeniuk** — 'Sasha Gomeniuk' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Stan Hewitt** — 'Stan Hewitt' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Ted Gode** — 'Ted Gode' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Zac Jagielka** — 'Zac Jagielka' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Zane Myers** — 'Zane Myers' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

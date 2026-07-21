@@ -1,0 +1,51 @@
+# SV Elversberg — Wikidata squad TODO
+
+- Wikidata item: [Q692691](https://www.wikidata.org/wiki/Q692691)
+- Wikipedia article: [SV Elversberg](https://de.wikipedia.org/wiki/SV_Elversberg)
+- Players in Wikipedia squad: 0
+- Current members on Wikidata: 40
+- Suggested edits: 40
+- Generated: 2026-07-21 20:56 UTC
+
+## Recorded as a current member, but no longer in the squad (40)
+
+- **[Aldin Skenderovic](https://www.wikidata.org/wiki/Q30142777)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Alexander Schmieden](https://www.wikidata.org/wiki/Q17310192)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Aykut Soyak](https://www.wikidata.org/wiki/Q28800358)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Bernd Rohrbacher](https://www.wikidata.org/wiki/Q824067)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Christian Adam](https://www.wikidata.org/wiki/Q1078708)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Christian Eggert](https://www.wikidata.org/wiki/Q1079387)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Daniel Batz](https://www.wikidata.org/wiki/Q1160026)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[David Schloffer](https://www.wikidata.org/wiki/Q1176525)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Florian Buchler](https://www.wikidata.org/wiki/Q12014050)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Heinz-Dieter Kobel](https://www.wikidata.org/wiki/Q15814907)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jan Washausen](https://www.wikidata.org/wiki/Q1682343)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jens Kiefer](https://www.wikidata.org/wiki/Q14583729)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jeremy Karikari](https://www.wikidata.org/wiki/Q1560544)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Kevin Fend](https://www.wikidata.org/wiki/Q16233136)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Kevin Maek](https://www.wikidata.org/wiki/Q832156)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Leandro Grech](https://www.wikidata.org/wiki/Q1810664)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Luca Sirch](https://www.wikidata.org/wiki/Q107035469)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Lukas Kohler](https://www.wikidata.org/wiki/Q1876917)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Marc Gross](https://www.wikidata.org/wiki/Q14596035)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Markus Obernosterer](https://www.wikidata.org/wiki/Q1901703)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Matthew Silva](https://www.wikidata.org/wiki/Q18128076)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Matthias Cuntz](https://www.wikidata.org/wiki/Q1909807)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Michael Blum](https://www.wikidata.org/wiki/Q201745)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Mijo Tunjić](https://www.wikidata.org/wiki/Q1565218)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Mohammad Mahmoud](https://www.wikidata.org/wiki/Q134547208)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Morten Jensen](https://www.wikidata.org/wiki/Q322662)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Murat Adigüzel](https://www.wikidata.org/wiki/Q17325254)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Nabil Dafi](https://www.wikidata.org/wiki/Q472452)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Niko Dobros](https://www.wikidata.org/wiki/Q26197248)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Oleksandr Haiduk](https://www.wikidata.org/wiki/Q37392062)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Oliver Oschkenat](https://www.wikidata.org/wiki/Q66475715)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Patrick Dulleck](https://www.wikidata.org/wiki/Q2057542)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Pierre Merkel](https://www.wikidata.org/wiki/Q2093694)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Samir Kozarac](https://www.wikidata.org/wiki/Q2491397)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Stefan Minkwitz](https://www.wikidata.org/wiki/Q869597)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Thomas Birk](https://www.wikidata.org/wiki/Q1371951)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Tim Lawson](https://www.wikidata.org/wiki/Q7803810)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Tobias Feisthammel](https://www.wikidata.org/wiki/Q2437779)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Yilmaz Örtülü](https://www.wikidata.org/wiki/Q2600317)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Younes Ebnoutalib](https://www.wikidata.org/wiki/Q136388604)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
