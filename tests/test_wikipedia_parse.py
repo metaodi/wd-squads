@@ -21,6 +21,10 @@ def _load_schalke() -> str:
     return (FIXTURES / "squad_sample_schalke.wikitext").read_text(encoding="utf-8")
 
 
+def _load_vfb() -> str:
+    return (FIXTURES / "squad_sample_vfb.wikitext").read_text(encoding="utf-8")
+
+
 def test_parses_expected_players():
     players = parse_squad_players(_load())
     names = {p.name for p in players}
@@ -179,3 +183,46 @@ def test_schalke_plaintext_captain_and_footnote():
 
     # Disambiguated link target is preserved.
     assert players["Timo Becker"].title == "Timo Becker (Fußballspieler, 1997)"
+
+
+def test_parses_vfb_wikilink_table():
+    players = parse_squad_players(_load_vfb())
+    names = [p.name for p in players]
+    name_set = set(names)
+
+    # 32 current players across the four position groups.
+    assert len(players) == 32
+    assert {"Fabian Bredlow", "Angelo Stiller", "Deniz Undav", "Tiago Tomás"} <= name_set
+
+    # Comments that open *inside* a cell (e.g. "|| 2027<!-- VERLIEHEN...")
+    # swallow the following rows; those loaned players must not appear, while
+    # the player whose own row merely ends with the comment is still kept.
+    assert "Stefan Drljača" in name_set  # row ends with the opening comment
+    assert "Laurin Ulrich" in name_set  # row ends with the opening comment
+    assert "Florian Hellstern" not in name_set  # inside the comment
+    assert "Noah Darvich" not in name_set  # inside the comment
+    assert "Yannik Keitel" not in name_set  # inside the comment
+
+    # The coaching-staff table is excluded by its heading.
+    assert "Sebastian Hoeneß" not in name_set
+
+    # "Die Jahrhundert-Elf" is a wikitable with a "Spieler" header column, but
+    # its heading is not a squad heading, so the gate keeps the historic XI out.
+    assert "Timo Hildebrand" not in name_set
+    assert "Jürgen Klinsmann" not in name_set
+
+    # A player also listed under Transfers is not double-counted.
+    assert names.count("Marius Funk") == 1
+
+
+def test_vfb_link_targets():
+    players = {p.name: p for p in parse_squad_players(_load_vfb())}
+
+    # Empty "Nr." cell yields no number, but the player is still parsed.
+    assert players["Laurin Ulrich"].number is None
+    # Disambiguated links keep their full target.
+    assert players["Chema"].title == "Chema (Fußballspieler)"
+    assert players["Lazar Jovanović"].title == "Lazar Jovanović (Fußballspieler, 2006)"
+    # Trailing {{Kapitän}} does not corrupt the linked name/number.
+    assert players["Atakan Karazor"].title == "Atakan Karazor"
+    assert players["Atakan Karazor"].number == "16"

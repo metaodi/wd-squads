@@ -1,0 +1,136 @@
+=== Profimannschaft ===
+==== Profikader 2026/27 ====
+<small>(Stand: 2. Juli 2026)<ref>{{Internetquelle |url=https://www.vfb.de/de/1893/profis/kader/saisonen/2024-2025/listenansicht/ |titel=Kader 2025/26 |werk=vfb.de |abruf=2025-08-15}}</ref></small>
+{| class="wikitable" style="text-align:center; width:60%;"
+|-
+! Nr. !! Nat. !! Name !! Geburtstag !! Im Verein seit !! Vertrag bis
+|-
+! colspan="6"| Torhüter
+|- style="background:#FFECCE;"
+| {{0}}1 || {{DEU|#}} || style="text-align:left;" | [[Fabian Bredlow]] || 2. März 1995 || 2019 || 2027
+|- style="background:#FFECCE;"
+| 33 || {{DEU|#}} || style="text-align:left" | [[Marius Funk]] || 1. Januar 1996 || 2026 || 2028
+|- style="background:#FFECCE;"
+| 41 || {{DEU|#}} || style="text-align:left" | [[Dennis Seimen]] || 1. Dezember 2005 || 2015 || 2029
+|- style="background:#FFECCE;"
+| 46 || {{DEU|#}} || style="text-align:left" | [[Stefan Drljača]] || 20. April 1999 || 2024 || 2027<!-- VERLIEHEN BIS 30.6.27
+|- style="background:#FFECCE;"
+| || {{DEU|#}} || style="text-align:left" | [[Florian Hellstern]] || 18. Oktober 2007 || 2017 || 2030
+-->
+|-
+! colspan="6"| Abwehr
+|- style="background:#E7FAEC;"
+| {{0}}2 || {{BEL|#}} || style="text-align:left;" | [[Ameen al-Dakhil]] || 6. März 2002 || 2024 || 2028
+|- style="background:#E7FAEC;"
+| {{0}}3 || {{NLD|#}} || style="text-align:left;" | [[Ramon Hendriks]] || 18. Juli 2001 || 2024 || 2028
+|- style="background:#E7FAEC;"
+| {{0}}4 || {{DEU|#}} || style="text-align:left;" | [[Josha Vagnoman]] || 11. Dezember 2000 || 2022 || 2028
+|- style="background:#E7FAEC;"
+| {{0}}7 || {{DEU|#}} || style="text-align:left;" | [[Maximilian Mittelstädt]] || 18. März 1997 || 2023 || 2028
+|- style="background:#E7FAEC;"
+| 14 || {{CHE|#}} || style="text-align:left;" | [[Luca Jaquez]] || 2. Juni 2003 || 2025 || 2029
+|- style="background:#E7FAEC;"
+| 20 || {{CHE|#}} || style="text-align:left;" | [[Leonidas Stergiou]] || 3. März 2002 || 2023 || 2028
+|- style="background:#E7FAEC;"
+| 22 || {{FRA|#}} || style="text-align:left;" | [[Lorenz Assignon]] || 22. Juni 2000 || 2025 || 2029
+|- style="background:#E7FAEC;"
+| 23 || {{FRA|#}} || style="text-align:left;" | [[Dan-Axel Zagadou]] || 3. Juni 1999 || 2022 || 2027
+|- style="background:#E7FAEC;"
+| 24 || {{DEU|#}} || style="text-align:left;" | [[Jeff Chabot]] || 12. Februar 1998 || 2024 || 2028
+|- style="background:#E7FAEC;"
+| 29 || {{DEU|#}} || style="text-align:left;" | [[Finn Jeltsch]] || 17. Juli 2006 || 2025 || 2030
+|-
+! colspan="6"| Mittelfeld
+|- style="background:#DFEDFD;"
+| {{0}}6 || {{DEU|#}} || style="text-align:left;" | [[Angelo Stiller]] || 4. April 2001 || 2023 || 2028
+|- style="background:#DFEDFD;"
+| 10 || {{DEU|#}} || style="text-align:left;" | [[Chris Führich]] || 9. Januar 1998 || 2021 || 2028
+|- style="background:#DFEDFD;"
+| 11 || {{MAR|#}} || style="text-align:left;" | [[Bilal El Khannouss]] || 10. Mai 2004 || 2025 || 2030
+|- style="background:#DFEDFD;"
+| 16 || {{TUR|#}} || style="text-align:left;" | [[Atakan Karazor]] {{Kapitän}} || 13. Oktober 1996 || 2019 || 2028
+|- style="background:#DFEDFD;"
+| 21 || {{DEU|#}} || style="text-align:left;" | [[Grischa Prömel]] ||  9. Januar 1995 || 2026 || 2029
+|- style="background:#DFEDFD;"
+| 28 || {{DNK|#}} || style="text-align:left;" | [[Nikolas Nartey]] || 22. Februar 2000 || 2019 || 2028
+|- style="background:#DFEDFD;"
+| 30 || {{ESP|#}} || style="text-align:left;" | [[Chema (Fußballspieler)|Chema]] || 25. April 2005 || 2025 || 2030
+|- style="background:#DFEDFD;"
+| 35 || {{SRB|#}} || style="text-align:left;" | [[Mirza Ćatović]] || 1. Mai 2007 || 2022 || 2028
+|- style="background:#DFEDFD;"
+| 45 || {{SRB|#}} || style="text-align:left;" | [[Lazar Jovanović (Fußballspieler, 2006)|Lazar Jovanović]] || 30. November 2006 || 2025 || 2029
+|- style="background:#DFEDFD;"
+| || {{DEU|#}} || style="text-align:left;" | [[Laurin Ulrich]] || 31.01.2005 || 2016 ||<!-- VERLIEHEN BIS 30.6.27
+|- style="background:#DFEDFD;"
+| || {{DEU|#}} || style="text-align:left;" | [[Noah Darvich]] || 25. September 2006 || 2025 || 2029
+|- style="background:#DFEDFD;"
+| || {{DEU|#}} || style="text-align:left;" | [[Yannik Keitel]] || 15. Februar 2000 || 2024 || 2028
+-->
+|-
+! colspan="6"| Sturm
+|- style="background:#FFD2D6;"
+| {{0}}8 || {{PRT|#}}|| style="text-align:left;" | [[Tiago Tomás]] || 16. Juni 2002 || 2025 || 2029
+|- style="background:#FFD2D6;"
+| {{0}}9 || {{BIH|#}}|| style="text-align:left;" | [[Ermedin Demirović]] || 25. März 1998 || 2024 || 2028
+|- style="background:#FFD2D6;"
+| 17 || {{DEU|#}} || style="text-align:left;" | [[Justin Diehl]] || 27. November 2004 || 2024 || 2029
+|- style="background:#FFD2D6;"
+| 18 || {{DEU|#}} || style="text-align:left;" | [[Jamie Leweling]] || 26. Februar 2001 || 2023 || 2029
+|- style="background:#FFD2D6;"
+| 19 || {{SRB|#}} || style="text-align:left;" | [[Jovan Milošević]] || 31. Juli 2005 || 2023 || 2029
+|- style="background:#FFD2D6;"
+| 25 || {{ECU|#}}|| style="text-align:left;" | [[Jeremy Arévalo]] || 19. März 2005 || 2026 || 2031
+|- style="background:#FFD2D6;"
+| 26 || {{DEU|#}}|| style="text-align:left;" | [[Deniz Undav]] || 19. Juli 1996 || 2023 || 2029
+|- style="background:#FFD2D6;"
+| 27 || {{DZA|#}}|| style="text-align:left;" | [[Badredine Bouanani]] || 8. Dezember 2004 || 2025 || 2030
+|}
+
+==== Transfers der Saison 2026/27 ====
+{|
+| style="vertical-align:top;" |
+{| class="wikitable float-left" style="width:30em"
+|- class="hintergrundfarbe9"
+! colspan="2"| Zugänge
+|-
+! style="width:50%"|Spieler
+! style="width:50%"|Abgebender Verein
+|-
+| [[Marius Funk]]
+| [[Energie Cottbus]]
+|}
+| style="vertical-align:top;" |
+{| class="wikitable float-left" style="width:30em"
+|- class="hintergrundfarbe7"
+! colspan="2"| Abgänge
+|-
+! style="width:50%"|Spieler
+! style="width:50%"|Aufnehmender Verein
+|-
+| [[Noah Darvich]]
+| [[SV Elversberg]] (Leihe)
+|}
+|}<div style="clear:both;"></div>
+
+==== Trainer- und Betreuerstab 2026/27 ====
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:30px"| Nat.
+! style="width:140px"| Name
+! style="width:160px"| Funktion
+! style="width:110px"| seit
+|-
+! colspan="4"| Trainerstab
+|-
+| {{DEU|#}} || style="text-align:left;" | [[Sebastian Hoeneß]] || Cheftrainer || April 2023
+|}
+
+==== Die Jahrhundert-Elf ====
+{| class="wikitable sortable zebra" style="text-align:center;"
+|-
+! Pos !! Spieler !! für den<br />VfB aktiv
+|-
+| TW ||style="text-align:left;" data-sort-value="Hil"|{{DEU|Timo Hildebrand|Timo Hildebrand}} || 1999–2007
+|-
+| A ||style="text-align:left;" data-sort-value="Kli"|{{DEU|Jürgen Klinsmann|Jürgen Klinsmann}} || 1984–1989
+|}
