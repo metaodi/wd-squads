@@ -55,8 +55,7 @@ class HttpClient:
                         f"{resp.status_code} for {url}", response=resp
                     )
                 resp.raise_for_status()
-                return resp.json()
-            except (requests.RequestException, ValueError) as exc:
+            except requests.RequestException as exc:
                 last_exc = exc
                 backoff = 2 ** (attempt + 1)
                 log.warning(
@@ -68,4 +67,18 @@ class HttpClient:
                     backoff,
                 )
                 time.sleep(backoff)
+                continue
+
+            # We received a complete response body. If it does not parse as
+            # JSON (e.g. WDQS truncated a too-large result), that is not a
+            # transient error — retrying the same request just returns the same
+            # broken body — so fail fast instead of spending the backoff budget.
+            try:
+                return resp.json()
+            except ValueError as exc:
+                raise RuntimeError(
+                    f"Request to {url} returned a body that is not valid JSON "
+                    f"({exc}); the response was likely truncated by the server, "
+                    "which can happen when a query result is too large."
+                ) from exc
         raise RuntimeError(f"Request to {url} failed after {self.max_retries} attempts") from last_exc

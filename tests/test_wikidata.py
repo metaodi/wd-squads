@@ -11,6 +11,44 @@ def test_title_from_article_url_respects_language():
     assert _title_from_article_url(de, "en") is None
 
 
+def test_get_memberships_splits_labels_into_a_separate_query():
+    client = WikidataClient(http=None)
+    queries = []
+
+    def fake_run_query(sparql):
+        queries.append(sparql)
+        if "ps:P54" in sparql:
+            # The statement query must NOT carry the label service, otherwise
+            # the combined result grows large enough for WDQS to truncate it.
+            assert "wikibase:label" not in sparql
+            return [
+                {
+                    "player": {"value": "http://www.wikidata.org/entity/Q10"},
+                    "statement": {"value": "stmt-1"},
+                    "start": {"value": "2020-01-01T00:00:00Z"},
+                }
+            ]
+        # The label lookup is a lean VALUES query.
+        assert "VALUES ?player" in sparql
+        return [
+            {
+                "player": {"value": "http://www.wikidata.org/entity/Q10"},
+                "playerLabel": {"value": "Alice Example"},
+            }
+        ]
+
+    client.run_query = fake_run_query  # type: ignore[assignment]
+
+    memberships = client.get_memberships("Q1")
+
+    assert len(queries) == 2
+    assert len(memberships) == 1
+    assert memberships[0].player_qid == "Q10"
+    assert memberships[0].player_label == "Alice Example"
+    assert memberships[0].start == "2020-01-01"
+    assert memberships[0].is_open
+
+
 def test_discover_teams_uses_per_league_language():
     client = WikidataClient(http=None)
     captured = {}
