@@ -69,6 +69,7 @@ class Membership:
     statement_id: str
     start: Optional[str] = None  # P580, ISO date string
     end: Optional[str] = None  # P582, ISO date string
+    wikipedia_url: Optional[str] = None  # sitelink read off the Wikidata item
 
     @property
     def is_open(self) -> bool:

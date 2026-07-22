@@ -135,18 +135,24 @@ ORDER BY ?teamLabel
         return teams
 
     # -- memberships ---------------------------------------------------------
-    def get_memberships(self, team_qid: str) -> List[Membership]:
+    def get_memberships(self, team_qid: str, language: str = "en") -> List[Membership]:
         """Return every P54 statement pointing at ``team_qid``.
 
         Includes open (no end date) and closed statements, so the diff can
         tell "add end date" apart from "review a closed membership".
+
+        Also reads the player's Wikipedia sitelink (in ``language`` first,
+        falling back to English) so reports can link to the article even for
+        players who are no longer in the Wikipedia squad list.
         """
         sparql = f"""
-SELECT ?player ?playerLabel ?statement ?start ?end WHERE {{
+SELECT ?player ?playerLabel ?statement ?start ?end ?article ?articleEn WHERE {{
   ?statement ps:P54 wd:{team_qid} .
   ?player p:P54 ?statement .
   OPTIONAL {{ ?statement pq:P580 ?start . }}
   OPTIONAL {{ ?statement pq:P582 ?end . }}
+  OPTIONAL {{ ?article schema:about ?player ; schema:isPartOf <https://{language}.wikipedia.org/> . }}
+  OPTIONAL {{ ?articleEn schema:about ?player ; schema:isPartOf <https://en.wikipedia.org/> . }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
 }}
 """.strip()
@@ -155,6 +161,9 @@ SELECT ?player ?playerLabel ?statement ?start ?end WHERE {{
             player_qid = qid_from_uri(row.get("player", {}).get("value", ""))
             if not player_qid:
                 continue
+            wikipedia_url = row.get("article", {}).get("value") or row.get(
+                "articleEn", {}
+            ).get("value")
             memberships.append(
                 Membership(
                     player_qid=player_qid,
@@ -162,6 +171,7 @@ SELECT ?player ?playerLabel ?statement ?start ?end WHERE {{
                     statement_id=row.get("statement", {}).get("value", ""),
                     start=_date_value(row.get("start")),
                     end=_date_value(row.get("end")),
+                    wikipedia_url=wikipedia_url,
                 )
             )
         return memberships

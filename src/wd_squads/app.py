@@ -60,7 +60,7 @@ def process(
         result = TeamResult(team=team)
         try:
             squad = wikipedia.get_squad(team)
-            memberships = wikidata.get_memberships(team.qid)
+            memberships = wikidata.get_memberships(team.qid, language=team.language)
             result.squad_size = len([p for p in squad if p.qid or p.name])
             result.wikidata_current = len({m.player_qid for m in memberships if m.is_open})
             result.suggestions = compute_suggestions(team, squad, memberships)

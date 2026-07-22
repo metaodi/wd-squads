@@ -57,3 +57,21 @@ def test_open_membership_with_start_is_clean():
     squad = [SquadPlayer(name="Alice", title="Alice", qid="Q10")]
     memberships = [Membership("Q10", "Alice", "s1", start="2020-01-01", end=None)]
     assert compute_suggestions(_team(), squad, memberships) == []
+
+
+def test_add_end_date_includes_wikipedia_link_from_sitelink():
+    squad = [SquadPlayer(name="Eve", title="Eve", qid="Q12")]
+    memberships = [
+        Membership(
+            "Q99",
+            "Zoe",
+            "s4",
+            start="2018-01-01",
+            end=None,
+            wikipedia_url="https://en.wikipedia.org/wiki/Zoe",
+        )
+    ]
+    suggestions = compute_suggestions(_team(), squad, memberships)
+    zoe = next(s for s in suggestions if s.player_label == "Zoe")
+    assert zoe.links["wikipedia"] == "https://en.wikipedia.org/wiki/Zoe"
+    assert zoe.links["item"] == "https://www.wikidata.org/wiki/Q99"

@@ -127,6 +127,15 @@ def compute_suggestions(
         if not open_memberships:
             continue
         label = open_memberships[0].player_label
+        links = {
+            "item": _wikidata_item_url(player_qid),
+            "team": _wikidata_item_url(team.qid),
+        }
+        wikipedia_url = next(
+            (m.wikipedia_url for m in open_memberships if m.wikipedia_url), None
+        )
+        if wikipedia_url:
+            links["wikipedia"] = wikipedia_url
         suggestions.append(
             Suggestion(
                 kind=KIND_ADD_END_DATE,
@@ -138,10 +147,7 @@ def compute_suggestions(
                     f"({team.qid}); Wikidata lists the player as a current member, but "
                     "they are no longer in the squad on Wikipedia."
                 ),
-                links={
-                    "item": _wikidata_item_url(player_qid),
-                    "team": _wikidata_item_url(team.qid),
-                },
+                links=links,
             )
         )
 
