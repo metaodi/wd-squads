@@ -27,6 +27,18 @@ def test_league_query_excludes_ended_memberships():
     # Deprecated-rank statements stay excluded (as wdt: did).
     assert "wikibase:DeprecatedRank" in query
 
+    # Defaults to the football team class when none is given.
+    assert "wdt:P31/wdt:P279* wd:Q476028" in query
+
+
+def test_league_query_accepts_a_different_team_class():
+    # A non-football team_class (e.g. for another sport) is used verbatim,
+    # without touching any other part of the query.
+    query = WikidataClient._league_query("Q331268", "de", team_class="Q999001")
+
+    assert "wdt:P31/wdt:P279* wd:Q999001" in query
+    assert "Q476028" not in query
+
 
 def test_discover_teams_uses_per_league_language():
     client = WikidataClient(http=None)
