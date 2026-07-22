@@ -1,0 +1,191 @@
+== Aktueller Kader 2026/27 ==
+{{Hauptartikel|1. FC Köln/Saison 2026/27}}
+=== Spieler ===
+* Stand: 17. Juli 2026<ref>{{Internetquelle |url=https://fc.de/mannschaften/maenner/kader |titel=Kader |sprache=de |abruf=2026-07-14}}</ref>
+[[Datei:2021-08-08 FC Carl Zeiss Jena gegen 1. FC Köln (DFB-Pokal) by Sandro Halank–051.jpg|mini|200px|Marvin Schwäbe]]
+[[Datei:2021-08-08 FC Carl Zeiss Jena gegen 1. FC Köln (DFB-Pokal) by Sandro Halank–290.jpg|mini|200px|Timo Hübers]]
+[[Datei:2023 World Dwarf Games 076.jpg|mini|200px|Jan Thielmann]]
+
+{| class="wikitable" style="width:45em"
+|-
+! Nr. !! Nat. !! Spieler !! geboren !! im Verein seit !! Vertrag bis
+|- style="background:#FFCBCB"
+! colspan="6"| Tor
+|- style="text-align:center"
+| '''{{0}}1''' || {{DEU|#}} ||style="text-align:left"| [[Marvin Schwäbe]] {{Kapitän}} || {{DatumZelle|1995-04-25}} || 2021 || 2027
+|- style="text-align:center"
+| '''20''' || {{DEU|#}} ||style="text-align:left"| [[Ron-Robert Zieler]] || {{DatumZelle|1989-02-12}} || 2025 || 2027
+|- style="text-align:center"
+| '''44''' || {{DEU|#}} ||style="text-align:left"| Matthias Köbbing || {{DatumZelle|1997-05-28}} || 2020 || 2027
+|- style="text-align:center"
+! colspan="6"| Abwehr
+|- style="text-align:center"
+| '''{{0}}2''' || {{CHE|#}} ||style="text-align:left"| [[Joël Schmied]] || {{DatumZelle|1998-09-23}} || 2025 || 2029
+|- style="text-align:center"
+| '''{{0}}3''' || {{DEU|#}} || style="text-align:left" | [[Julian Pauli]] || {{DatumZelle|2005-07-18}} || 2021 || 2028
+|- style="text-align:center"
+| '''{{0}}4''' || {{DEU|#}} ||style="text-align:left"| [[Timo Hübers]] || {{DatumZelle|1996-07-20}} || 2021 || 2027
+|- style="text-align:center"
+| '''14''' || {{GHA|#}} || style="text-align:left" | [[Gideon Mensah]] || {{DatumZelle|1998-07-18}} || 2026 || 2028
+|- style="text-align:center"
+| '''22''' || {{ENG|#}} || style="text-align:left" | [[Jahmai Simpson-Pusey]] || {{DatumZelle|2005-11-04}} || 2026 || 2030
+|- style="text-align:center"
+| '''24''' || {{GEO|#}} || style="text-align:left" | [[Luka Lotschoschwili]] || {{DatumZelle|1998-05-29}} || 2026 || 2029
+|- style="text-align:center"
+| '''28''' || {{NOR|#}} ||style="text-align:left"| [[Sebastian Sebulonsen]] || {{DatumZelle|2000-01-27}} || 2025 || 2028
+|- style="text-align:center"
+| '''33''' || {{NED|#}} || style="text-align:left" | [[Rav van den Berg]] || {{DatumZelle|2004-07-07}} || 2025 || 2030
+|- style="text-align:center"
+| ''' ''' || {{DEU|#}} ||style="text-align:left"| [[Elias Bakatukanda]] || {{DatumZelle|2004-04-13}} || 2021 || 2028
+<!--
+|- style="text-align:center"
+| '''36''' || {{DEU|#}} ||style="text-align:left"| [[Cenny Neumann]]{{FN|II}} || {{DatumZelle|2007-01-12}} || 2025 || 2027 -->
+|-
+! colspan="6"| Mittelfeld
+|- style="text-align:center"
+| '''{{0}}5''' || {{DEU|#}} ||style="text-align:left"| [[Tom Krauß]] || {{DatumZelle|2001-06-22}} || 2025 || 2029
+|- style="text-align:center"
+| '''{{0}}8''' || {{ISL|#}} ||style="text-align:left"| [[Ísak Jóhannesson]] || {{DatumZelle|2003-03-23}} || 2025 || 2030
+|- style="text-align:center"
+| '''11''' || {{ENG|#}} ||style="text-align:left"| [[Reigan Heskey]] || {{DatumZelle|2008-01-18}} || 2026 || 2031
+|- style="text-align:center"
+| '''13''' || {{DEU|#}} ||style="text-align:left"| [[Saïd El Mala]] || {{DatumZelle|2006-08-26}} || 2025 || 2030
+|- style="text-align:center"
+| '''17''' || {{BEL|#}} ||style="text-align:left"| [[Alessio Castro-Montes]] || {{DatumZelle|1997-05-17}} || 2025 || 2028
+|- style="text-align:center"
+| '''29''' || {{DEU|#}} ||style="text-align:left"| [[Jan Thielmann]] || {{DatumZelle|2002-05-26}} || 2017 || 2028
+|- style="text-align:center"
+| '''34''' || {{DEU|#}} ||style="text-align:left"| Fayssal Harchaoui{{FN|II}} || {{DatumZelle|2006-01-15}} || 2019 || 2028
+|- style="text-align:center"
+| '''37''' || {{DEU|#}} ||style="text-align:left"| [[Linton Maina]] || {{DatumZelle|1999-06-23}} || 2022 || 2027
+<!-- UNTER VERTRAG, ABER NICHT IM KADER
+|- style="text-align:center"
+| ''' ''' || {{BIH|#}} ||style="text-align:left"| [[Emin Kujović]]{{FN|II}} || {{DatumZelle|2004-09-29}} || 2020 || 2028
+-->
+|-
+! colspan="6"| Sturm
+|- style="text-align:center"
+| '''{{0}}7''' || {{DEU|#}} ||style="text-align:left"| [[Luca Waldschmidt]] || {{DatumZelle|1996-05-19}} || 2023 || 2027
+|- style="text-align:center"
+| '''{{0}}9''' || {{DEU|#}} ||style="text-align:left"| [[Ragnar Ache]] || {{DatumZelle|1998-07-28}} || 2025 || 2029
+|- style="text-align:center"
+| '''19''' || {{DEU|#}} ||style="text-align:left"| [[Malek El Mala]]{{FN|II}} || {{DatumZelle|2005-04-02}} || 2025 || 2030
+|- style="text-align:center"
+| '''30''' || {{DEU|#}} ||style="text-align:left"| [[Marius Bülter]] || {{DatumZelle|1993-03-29}} || 2025 || 2027
+|- style="text-align:center"
+| '''38''' || {{DEU|#}} || style="text-align:left" | [[Youssoupha Niang]]{{FN|II}} || {{DatumZelle|2006-03-25}} || 2025 || 2027
+|- style="text-align:center"
+| '''40''' || {{DEU|#}} || style="text-align:left" | [[Fynn Schenten]]{{FN|II}} || {{DatumZelle|2007-09-14}} || 2024 || 2030
+<!-- VERLIEHEN BIS SOMMER 2027
+|- style="text-align:center"
+| '''43''' || {{SVN|#}} ||style="text-align:left"| [[Jaka Čuber Potočnik]] || {{DatumZelle|2005-06-17}} || 2022 ||
+-->
+|}
+{{FNBox|
+  {{FNZ|II|auch aktiv für die [[1. FC Köln II|zweite Mannschaft]]<ref>[https://fc.de/mannschaften/fc-akademie/u21 ''U21 2026/27''], fc.de.</ref>}}
+}}
+
+=== Transfers 2026/27 ===
+* Stand: 17. Juli 2026
+{| class="wikitable float-left" style="width:48%"
+|- class="hintergrundfarbe9"
+! colspan="2"| Zugänge
+|-
+! style="width:50%"| Spieler
+! style="width:50%"| Abgebender Verein
+|-
+! colspan="2"| Sommerpause
+|-
+| [[Elias Bakatukanda]] || [[FC Blau-Weiß Linz]] (Leihende)
+|-
+| [[Jusuf Gazibegović]] || [[Sturm Graz]] (Leihende)
+|-
+| [[Reigan Heskey]] || [[Manchester City U21]]
+|-
+| [[Luka Lotschoschwili]] || [[1. FC Nürnberg]]
+|-
+| [[Gideon Mensah]] || [[AJ Auxerre]]
+|-
+| [[Julian Pauli]] || [[Dynamo Dresden]] (Leihende)
+|-
+| [[Imad Rondić]] || [[Preußen Münster]] (Leihende)
+|-
+|}
+{| class="wikitable float-right" style="width:48%"
+|- class="hintergrundfarbe7"
+! colspan="2"| Abgänge
+|-
+! style="width:50%"| Spieler
+! style="width:50%"| Aufnehmender Verein
+|-
+! colspan="2"| Sommerpause
+|-
+| [[Rasmus Carstensen]] || [[Aarhus GF]]{{FN|*|gruppe=transfers2627}}
+|-
+| [[Felipe Chávez]] || [[FC Bayern München]] (Leihende)
+|-
+| [[Dominique Heintz]] || [[Fortuna Düsseldorf]]
+|-
+| [[Denis Huseinbašić]] || [[Sporting Braga]]
+|-
+| [[Florian Kainz]] || Karriereende
+|-
+| [[Jakub Kamiński]] || [[Benfica Lissabon]]
+|-
+| [[Luca Kilian]] || Vertragsende; Ziel unbekannt
+|-
+| [[Kristoffer Lund]] || [[FC Palermo]] (Leihende)
+|-
+| [[Eric Martel]] || [[1. FSV Mainz 05]]
+|-
+| [[Cenk Özkacar]] || [[FC Valencia]] (Leihende)
+|-
+|}
+<div style="clear:both;"></div>
+{{FNBox|
+{{FNZ|*|Festverpflichtung nach verstrichener Kaufoption|gruppe=transfers2627}}
+}}
+
+=== Trainerstab ===
+* Stand: 1. Juli 2026
+{| class="wikitable" width="50%"
+|-
+! Nat. !! Name !! Funktion !! im Verein seit
+|- align="center"
+| {{DEU|#}} || align="left"| [[René Wagner (Fußballtrainer, 1988)|René Wagner]] || Cheftrainer || 2025
+|- align="center"
+| {{DEU|#}} || align="left"| [[Armin Reutershahn]] || rowspan="3" style="text-align:center;" | Co-Trainer || 2026
+|- align="center"
+| {{CAN|#}} || align="left"| [[Kevin McKenna (Fußballspieler)|Kevin McKenna]] || 2026
+|- align="center"
+| {{GRC|#}} || align="left"| Evangelos Sbonias || 2026
+|- align="center"
+| {{DEU|#}} ||align="left"| Peter Greiber || Torwarttrainer || 2024
+|- align="center"
+| {{DEU|#}} ||align="left"| Max Weuthen || rowspan="4" style="text-align:center;" | Athletiktrainer || 2015
+|- align="center"
+| {{DEU|#}} ||align="left"| Leif Frach || 2018
+|- align="center"
+| {{DEU|#}} ||align="left"| Tillmann Bockhorst || 2020
+|- align="center"
+| {{DEU|#}} ||align="left"| Niko Romm || 2021
+|- align="center"
+| {{DEU|#}} || align="left"| Denis Huckestein || rowspan="3" style="text-align:center;" | Spielanalyst || 2019
+|- align="center"
+| {{DEU|#}} ||align="left"| Felix Handke || 2025
+|- align="center"
+| {{DEU|#}} ||align="left"| Sven Herrmann || 2026
+|}
+
+=== Sportliche Leitung ===
+* Stand: 1. Juni 2026
+{| class="wikitable" style="width:50%"
+|-
+! Nat. !! Name !! Funktion !! im Verein seit
+|- style="text-align:center"
+| {{DEU|#}} ||style="text-align:left"| [[Thomas Kessler (Fußballspieler)|Thomas Kessler]] || Geschäftsführer Sport || 2021
+|- style="text-align:center"
+| {{DEU|#}} ||style="text-align:left"| Lukas Berg || Technischer Direktor || 2016
+|- style="text-align:center"
+| {{DEU|#}} ||style="text-align:left"| Tim Steidten || Direktor Kaderplanung & Recruiting || 2026
+|}

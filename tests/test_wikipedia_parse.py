@@ -29,6 +29,10 @@ def _load_fcb() -> str:
     return (FIXTURES / "squad_sample_fcb.wikitext").read_text(encoding="utf-8")
 
 
+def _load_fck() -> str:
+    return (FIXTURES / "squad_sample_fck.wikitext").read_text(encoding="utf-8")
+
+
 def test_parses_expected_players():
     players = parse_squad_players(_load())
     names = {p.name for p in players}
@@ -257,6 +261,55 @@ def test_fcb_link_targets_and_numbers():
     assert players["Nicolas Vouilloz"].title == "Nicolas Vouilloz (Fussballspieler)"
     assert players["Ibrahim Salah"].title == "Ibrahim Salah (Fußballspieler, 2001)"
     assert players["Ibrahim Salah"].number == "21"
+
+
+def test_parses_fck_spieler_subsection():
+    # 1. FC Köln nests the table one level deeper: the "Kader" heading is on the
+    # parent ("== Aktueller Kader 2026/27 =="), the table under a bare
+    # "=== Spieler ===". Read flat, that subsection is judged on its own heading,
+    # so the gate must accept a whole-heading "Spieler".
+    players = parse_squad_players(_load_fck())
+    names = [p.name for p in players]
+    name_set = set(names)
+
+    assert len(players) == 26
+    assert "Marvin Schwäbe" in name_set  # first row, {{Kapitän}} suffix, {{0}} nr
+    assert "Matthias Köbbing" in name_set  # plain-text player (no article link)
+    assert "Fynn Schenten" in name_set  # last row, {{FN|II}} footnote suffix
+
+    # Commented-out rows must not be parsed.
+    assert "Cenny Neumann" not in name_set
+    assert "Emin Kujović" not in name_set
+    assert "Jaka Čuber Potočnik" not in name_set
+
+    # The Transfers table's heading is excluded ("transfer").
+    assert "Rasmus Carstensen" not in name_set
+    assert "Eric Martel" not in name_set
+
+    # The Trainerstab table's heading is excluded ("trainer").
+    assert "René Wagner" not in name_set
+
+    # "Sportliche Leitung" is not a squad heading, so its "Name"-column
+    # management table (Geschäftsführer, Direktoren) must not be read.
+    assert "Thomas Kessler" not in name_set
+    assert "Lukas Berg" not in name_set
+    assert "Tim Steidten" not in name_set
+
+
+def test_fck_link_targets_and_numbers():
+    players = {p.name: p for p in parse_squad_players(_load_fck())}
+
+    # {{0}} padding stripped; trailing {{Kapitän}} does not corrupt the link.
+    assert players["Marvin Schwäbe"].title == "Marvin Schwäbe"
+    assert players["Marvin Schwäbe"].number == "1"
+    assert players["Marvin Schwäbe"].section == "Spieler"
+
+    # Plain-text player: no article link, so no title.
+    assert players["Matthias Köbbing"].title is None
+    assert players["Matthias Köbbing"].number == "44"
+
+    # Empty "Nr." cell yields no number, but the player is still parsed.
+    assert players["Elias Bakatukanda"].number is None
 
 
 def test_vfb_link_targets():

@@ -47,8 +47,17 @@ EXCLUDE_HEADING_RE = re.compile(
 # ("1." or "Erste") so reserve/youth/women sides ("2. Mannschaft",
 # "U-19-Mannschaft", "Frauenmannschaft") — which are separate Wikidata teams —
 # do not leak into the squad.
+#
+# Others nest the table one level deeper under a bare "Spieler" subsection whose
+# parent carries the "Kader" heading (e.g. 1. FC Köln: "== Aktueller Kader ==" →
+# "=== Spieler ==="). Because sections are read flat, that subsection is judged
+# on its own heading, so we accept a *whole-heading* "Spieler"/"Spielerinnen".
+# It is anchored (not a substring) on purpose: a bare "Spieler" heading is the
+# squad, but "Bekannte Spieler" (notable players) or a "Name"-column management
+# table under "Sportliche Leitung" must stay out.
 SQUAD_HEADING_RE = re.compile(
-    r"kader|aufgebot|(?:\b1\.|\berste)\s*mannschaft", re.IGNORECASE
+    r"kader|aufgebot|(?:\b1\.|\berste)\s*mannschaft|^spieler(?:innen)?$",
+    re.IGNORECASE,
 )
 
 # Some German/Swiss squads are plain ``{| class="wikitable"`` tables that link
