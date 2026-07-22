@@ -5,6 +5,7 @@
     {
       "qid": "Q190526",
       "label": "BSC Young Boys",
+      "league": "Swiss Super League",
       "wikipedia_title": "BSC Young Boys",
       "squad_size": 31,
       "wikidata_current": 90,
@@ -1224,6 +1225,7 @@
     {
       "qid": "Q189671",
       "label": "FC Basel",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Basel",
       "squad_size": 30,
       "wikidata_current": 280,
@@ -4580,6 +4582,7 @@
     {
       "qid": "Q309456",
       "label": "FC Lausanne-Sport",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Lausanne-Sport",
       "squad_size": 27,
       "wikidata_current": 67,
@@ -5593,6 +5596,7 @@
     {
       "qid": "Q633521",
       "label": "FC Lugano",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Lugano",
       "squad_size": 29,
       "wikidata_current": 57,
@@ -6497,6 +6501,7 @@
     {
       "qid": "Q223262",
       "label": "FC Luzern",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Luzern",
       "squad_size": 31,
       "wikidata_current": 60,
@@ -7512,6 +7517,7 @@
     {
       "qid": "Q321061",
       "label": "FC Sion",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Sion",
       "squad_size": 27,
       "wikidata_current": 84,
@@ -8743,6 +8749,7 @@
     {
       "qid": "Q659212",
       "label": "FC St. Gallen",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC St. Gallen",
       "squad_size": 29,
       "wikidata_current": 92,
@@ -10068,6 +10075,7 @@
     {
       "qid": "Q464775",
       "label": "FC Thun",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Thun",
       "squad_size": 26,
       "wikidata_current": 48,
@@ -10880,6 +10888,7 @@
     {
       "qid": "Q216773",
       "label": "FC Vaduz",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Vaduz",
       "squad_size": 25,
       "wikidata_current": 38,
@@ -11595,6 +11604,7 @@
     {
       "qid": "Q206692",
       "label": "FC Zürich",
+      "league": "Swiss Super League",
       "wikipedia_title": "FC Zürich",
       "squad_size": 26,
       "wikidata_current": 84,
@@ -12803,6 +12813,7 @@
     {
       "qid": "Q201360",
       "label": "Grasshopper Club Zürich",
+      "league": "Swiss Super League",
       "wikipedia_title": "Grasshopper Club Zürich",
       "squad_size": 24,
       "wikidata_current": 55,
@@ -13654,6 +13665,7 @@
     {
       "qid": "Q219235",
       "label": "Servette FC Genève",
+      "league": "Swiss Super League",
       "wikipedia_title": "Servette FC",
       "squad_size": 35,
       "wikidata_current": 69,
@@ -14789,6 +14801,7 @@
     {
       "qid": "Q104770",
       "label": "1. FC Köln",
+      "league": "Bundesliga",
       "wikipedia_title": "1. FC Köln",
       "squad_size": 26,
       "wikidata_current": 134,
@@ -16490,6 +16503,7 @@
     {
       "qid": "Q141971",
       "label": "1. FC Union Berlin",
+      "league": "Bundesliga",
       "wikipedia_title": "1. FC Union Berlin",
       "squad_size": 49,
       "wikidata_current": 88,
@@ -17917,6 +17931,7 @@
     {
       "qid": "Q105254",
       "label": "1. FSV Mainz 05",
+      "league": "Bundesliga",
       "wikipedia_title": "1. FSV Mainz 05",
       "squad_size": 38,
       "wikidata_current": 113,
@@ -19484,6 +19499,7 @@
     {
       "qid": "Q104761",
       "label": "Bayer 04 Leverkusen",
+      "league": "Bundesliga",
       "wikipedia_title": "Bayer 04 Leverkusen",
       "squad_size": 26,
       "wikidata_current": 94,
@@ -20645,6 +20661,7 @@
     {
       "qid": "Q41420",
       "label": "Borussia Dortmund",
+      "league": "Bundesliga",
       "wikipedia_title": "Borussia Dortmund",
       "squad_size": 28,
       "wikidata_current": 79,
@@ -21559,6 +21576,7 @@
     {
       "qid": "Q101959",
       "label": "Borussia Mönchengladbach",
+      "league": "Bundesliga",
       "wikipedia_title": "Borussia Mönchengladbach",
       "squad_size": 29,
       "wikidata_current": 84,
@@ -22623,6 +22641,7 @@
     {
       "qid": "Q38245",
       "label": "Eintracht Frankfurt",
+      "league": "Bundesliga",
       "wikipedia_title": "Eintracht Frankfurt",
       "squad_size": 26,
       "wikidata_current": 135,
@@ -24188,6 +24207,7 @@
     {
       "qid": "Q15789",
       "label": "FC Bayern München",
+      "league": "Bundesliga",
       "wikipedia_title": "FC Bayern München",
       "squad_size": 85,
       "wikidata_current": 213,
@@ -27124,6 +27144,7 @@
     {
       "qid": "Q32494",
       "label": "FC Schalke 04",
+      "league": "Bundesliga",
       "wikipedia_title": "FC Schalke 04",
       "squad_size": 40,
       "wikidata_current": 142,
@@ -29123,6 +29144,7 @@
     {
       "qid": "Q51974",
       "label": "Hamburger SV",
+      "league": "Bundesliga",
       "wikipedia_title": "Hamburger SV",
       "squad_size": 26,
       "wikidata_current": 166,
@@ -31141,6 +31163,7 @@
     {
       "qid": "Q702455",
       "label": "RB Leipzig",
+      "league": "Bundesliga",
       "wikipedia_title": "RB Leipzig",
       "squad_size": 30,
       "wikidata_current": 100,
@@ -32333,6 +32356,7 @@
     {
       "qid": "Q106394",
       "label": "SC Freiburg",
+      "league": "Bundesliga",
       "wikipedia_title": "SC Freiburg",
       "squad_size": 57,
       "wikidata_current": 76,
@@ -33594,6 +33618,7 @@
     {
       "qid": "Q160532",
       "label": "SC Paderborn 07",
+      "league": "Bundesliga",
       "wikipedia_title": "SC Paderborn 07",
       "squad_size": 29,
       "wikidata_current": 47,
@@ -34463,6 +34488,7 @@
     {
       "qid": "Q692691",
       "label": "SV Elversberg",
+      "league": "Bundesliga",
       "wikipedia_title": "SV Elversberg",
       "squad_size": 27,
       "wikidata_current": 40,
@@ -35233,6 +35259,7 @@
     {
       "qid": "Q22707",
       "label": "TSG 1899 Hoffenheim",
+      "league": "Bundesliga",
       "wikipedia_title": "TSG 1899 Hoffenheim",
       "squad_size": 67,
       "wikidata_current": 78,
@@ -36677,6 +36704,7 @@
     {
       "qid": "Q4512",
       "label": "VfB Stuttgart",
+      "league": "Bundesliga",
       "wikipedia_title": "VfB Stuttgart",
       "squad_size": 51,
       "wikidata_current": 322,
@@ -40578,6 +40606,7 @@
     {
       "qid": "Q51976",
       "label": "Werder Bremen",
+      "league": "Bundesliga",
       "wikipedia_title": "Werder Bremen",
       "squad_size": 29,
       "wikidata_current": 97,
@@ -41806,6 +41835,7 @@
     {
       "qid": "Q19568",
       "label": "AFC Bournemouth",
+      "league": "Premier League",
       "wikipedia_title": "AFC Bournemouth",
       "squad_size": 33,
       "wikidata_current": 130,
@@ -43447,6 +43477,7 @@
     {
       "qid": "Q9617",
       "label": "Arsenal F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Arsenal F.C.",
       "squad_size": 35,
       "wikidata_current": 177,
@@ -45307,6 +45338,7 @@
     {
       "qid": "Q18711",
       "label": "Aston Villa F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Aston Villa F.C.",
       "squad_size": 55,
       "wikidata_current": 283,
@@ -48695,6 +48727,7 @@
     {
       "qid": "Q19571",
       "label": "Brentford F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Brentford F.C.",
       "squad_size": 53,
       "wikidata_current": 200,
@@ -51302,6 +51335,7 @@
     {
       "qid": "Q19453",
       "label": "Brighton & Hove Albion F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Brighton & Hove Albion F.C.",
       "squad_size": 40,
       "wikidata_current": 203,
@@ -53623,6 +53657,7 @@
     {
       "qid": "Q9616",
       "label": "Chelsea F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Chelsea F.C.",
       "squad_size": 52,
       "wikidata_current": 151,
@@ -55251,6 +55286,7 @@
     {
       "qid": "Q19580",
       "label": "Coventry City F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Coventry City F.C.",
       "squad_size": 44,
       "wikidata_current": 118,
@@ -56975,6 +57011,7 @@
     {
       "qid": "Q19467",
       "label": "Crystal Palace F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Crystal Palace F.C.",
       "squad_size": 33,
       "wikidata_current": 171,
@@ -58998,6 +59035,7 @@
     {
       "qid": "Q5794",
       "label": "Everton F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Everton F.C.",
       "squad_size": 24,
       "wikidata_current": 306,
@@ -62490,6 +62528,7 @@
     {
       "qid": "Q18708",
       "label": "Fulham F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Fulham F.C.",
       "squad_size": 23,
       "wikidata_current": 279,
@@ -65593,6 +65632,7 @@
     {
       "qid": "Q19477",
       "label": "Hull City A.F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Hull City A.F.C.",
       "squad_size": 61,
       "wikidata_current": 94,
@@ -67315,6 +67355,7 @@
     {
       "qid": "Q9653",
       "label": "Ipswich Town F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Ipswich Town F.C.",
       "squad_size": 29,
       "wikidata_current": 98,
@@ -68625,6 +68666,7 @@
     {
       "qid": "Q1128631",
       "label": "Leeds United F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Leeds United F.C.",
       "squad_size": 28,
       "wikidata_current": 180,
@@ -70745,6 +70787,7 @@
     {
       "qid": "Q1130849",
       "label": "Liverpool F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Liverpool F.C.",
       "squad_size": 32,
       "wikidata_current": 364,
@@ -74649,6 +74692,7 @@
     {
       "qid": "Q50602",
       "label": "Manchester City F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Manchester City F.C.",
       "squad_size": 48,
       "wikidata_current": 212,
@@ -76958,6 +77002,7 @@
     {
       "qid": "Q18656",
       "label": "Manchester United F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Manchester United F.C.",
       "squad_size": 44,
       "wikidata_current": 405,
@@ -81501,6 +81546,7 @@
     {
       "qid": "Q18716",
       "label": "Newcastle United F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Newcastle United F.C.",
       "squad_size": 32,
       "wikidata_current": 142,
@@ -82927,6 +82973,7 @@
     {
       "qid": "Q19490",
       "label": "Nottingham Forest F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Nottingham Forest F.C.",
       "squad_size": 52,
       "wikidata_current": 210,
@@ -85573,6 +85620,7 @@
     {
       "qid": "Q18739",
       "label": "Sunderland A.F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Sunderland A.F.C.",
       "squad_size": 32,
       "wikidata_current": 158,
@@ -87579,6 +87627,7 @@
     {
       "qid": "Q18741",
       "label": "Tottenham Hotspur F.C.",
+      "league": "Premier League",
       "wikipedia_title": "Tottenham Hotspur F.C.",
       "squad_size": 46,
       "wikidata_current": 197,
