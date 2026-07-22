@@ -36,6 +36,10 @@ leagues:
   - id: Q202699        # Swiss Super League (small: good for a first run)
     label: Swiss Super League
     language: de       # Swiss clubs' squads are best kept on German Wikipedia
+  - id: Q688866            # Nationalliga A
+    label: National League 
+    team_class: Q4498974  # ice hockey team
+    language: de
   - id: Q82595         # Bundesliga (Germany)
     label: Bundesliga
     language: de
