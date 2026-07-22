@@ -33,6 +33,10 @@ def _load_fck() -> str:
     return (FIXTURES / "squad_sample_fck.wikitext").read_text(encoding="utf-8")
 
 
+def _load_servette() -> str:
+    return (FIXTURES / "squad_sample_servette.wikitext").read_text(encoding="utf-8")
+
+
 def test_parses_expected_players():
     players = parse_squad_players(_load())
     names = {p.name for p in players}
@@ -310,6 +314,37 @@ def test_fck_link_targets_and_numbers():
 
     # Empty "Nr." cell yields no number, but the player is still parsed.
     assert players["Elias Bakatukanda"].number is None
+
+
+def test_parses_servette_first_team_subsection():
+    # Servette nests "=== Die 1. Mannschaft ===" under "== Kader 2026/27 ==".
+    # Either heading is enough on its own; here it exercises the first-team
+    # subsection path plus dash-placeholder shirt numbers.
+    players = parse_squad_players(_load_servette())
+    name_set = {p.name for p in players}
+
+    assert len(players) == 35
+    assert "Edvinas Gertmonas" in name_set  # first row
+    assert "Florian Ayé" in name_set  # last row
+
+    # The "Staff/Betreuerstab" table is excluded by its heading ("betreuer").
+    assert "Jocelyn Gourvennec" not in name_set
+    assert "Alexandre Alphonse" not in name_set
+    # The "Transfers 2026/27" bullet lists are excluded by heading ("transfer").
+    assert "Jamie Atangana" not in name_set
+    assert "Joel Mall" not in name_set
+
+
+def test_servette_dash_number_is_none():
+    players = {p.name: p for p in parse_squad_players(_load_servette())}
+
+    # A "'''-'''" placeholder in the "Nr." column means no number assigned.
+    assert players["Leart Zuka"].number is None
+    assert players["Mattéo Anselme"].number is None
+    assert players["Sidiki Camara"].number is None
+    # Real numbers are unaffected.
+    assert players["Edvinas Gertmonas"].number == "1"
+    assert players["Samuel Mráz"].title == "Samuel Mráz (Fußballspieler)"
 
 
 def test_vfb_link_targets():

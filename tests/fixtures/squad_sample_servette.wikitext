@@ -1,0 +1,156 @@
+== Kader 2026/27 ==
+=== Die 1. Mannschaft ===
+<small>Stand: 14. Juli 2026. Profispieler des Servette FC, die an einen anderen Club ausgeliehen sind, werden nicht aufgeführt</small><ref>{{Internetquelle |url=https://servettefc.ch/equipe-premiere/effectif/ |titel=Effectif |sprache=fr |abruf=2025-12-31}}</ref>
+{| class="wikitable"
+|- style="background:#9799F3"
+! Nr. !! Nat.<!-- Eine Flagge, bei Doppelstaatsbürgerschaft die Flagge des Landes, für das der Spieler gegenwärtig spielt. --> !! Spieler !! Im Team seit !! Letzter Verein
+|-
+! colspan="5" style="background:#EFEFEF"| '''Torhüter'''
+|- style="background:#FFECCE"
+| '''1''' || {{LIT|#}} || [[Edvinas Gertmonas]] || 2026 || [[Universitatea Cluj]]
+|- style="background:#FFECCE"
+| '''32''' || {{CHE|#}} || [[Jérémy Frick]] || 2016 || [[FC Biel-Bienne]]
+|- style="background:#FFECCE"
+| '''40''' || {{KOS|#}} {{CHE|#}}|| [[Léo Besson]] || 2023 || Eigene Jugend
+|- style="background:#FFECCE"
+| '''44''' || {{CHE|#}}|| [[Louis Rieder]] || 2026 || Eigene Jugend
+|-
+! colspan="5" style="background:#EFEFEF"| '''Verteidigung'''
+|- style="background:#E7FAEC"
+| '''4''' || {{CHE|#}} || [[Steve Rouiller]] || 2018 || [[FC Lugano]]
+|- style="background:#E7FAEC"
+| '''14''' || {{FRA|#}} {{CMR|#}}  || [[Lilian Njoh]] || 2025 || [[US Salernitana]]
+|- style="background:#E7FAEC"
+| '''15''' || {{CHE|#}} || [[Marco Burch]] || 2026 || [[Legia Warschau]]
+|- style="background:#E7FAEC"
+| '''17''' || {{GNB|#}} {{FRA|#}} || [[Houboulang Mendes]] || 2026 || [[Fortuna Sittard]]
+|- style="background:#E7FAEC"
+| '''18''' || {{COG|#}} {{FRA|#}} || [[Bradley Mazikou]] || 2023 || [[Aris Thessaloniki (Fußball)|Aris Thessaloniki]]
+|- style="background:#E7FAEC"
+| '''19''' || {{FRA|#}} || [[Yoan Severin]] || 2018 || [[SV Zulte Waregem]]
+|- style="background:#E7FAEC"
+| '''23''' || {{SUI|#}} {{ESP|#}}|| [[Quentin Maceiras]] || 2026 || [[Puskás Akadémia FC]]
+|- style="background:#E7FAEC"
+| '''25''' || {{TUN|#}} {{FRA|#}} || [[Dylan Bronn]] || 2025 || [[US Salernitana]]
+|- style="background:#E7FAEC"
+| '''34''' || {{FRA|#}} || [[Téo Allix]] || 2026 || Eigene Jugend
+|- style="background:#E7FAEC"
+| '''37''' || {{BRA|#}} {{CMR|#}} || [[Sylvain Djoho]] || 2025 || Eigene Jugend
+|- style="background:#E7FAEC"
+| '''-''' || {{ALB|#}} {{CHE|#}} || [[Leart Zuka]] || 2025 || Eigene Jugend
+|-
+! colspan="5" style="background:#EFEFEF"| '''Mittelfeld'''
+|- style="background:#DFEDFD"
+| '''6''' || {{BRA|#}} || [[Pedro Naressi]] || 2026 || [[Ludogorets Razgrad]]
+|- style="background:#DFEDFD"
+| '''7''' || {{CHE|#}} || [[Giotto Morandi]] || 2025 || [[Grasshopper Club Zürich]]
+|- style="background:#DFEDFD"
+| '''8''' || {{FRA|#}} || [[Timothé Cognat]] || 2018 || [[Olympique Lyon]]
+|- style="background:#DFEDFD"
+| '''9''' || {{BIH|#}} {{SRB|#}} || [[Miroslav Stevanović]] || 2017 || [[FK Željezničar Sarajevo]]
+|- style="background:#DFEDFD"
+| '''11''' || {{FRA|#}} {{MLI|#}} || [[Lamine Fomba]] || 2025 || [[AS Saint-Étienne]]
+|- style="background:#DFEDFD"
+| '''20''' || {{CHE|#}} || [[Jarell Njiké Simo]] || 2025 || Eigene Jugend
+|- style="background:#DFEDFD"
+| '''28''' || {{FRA|#}} || [[David Douline]] || 2021 || [[AF Rodez]]
+|- style="background:#DFEDFD"
+| '''30''' || {{GAM|#}} || [[Ablie Jallow]] || 2025 || [[FC Metz]]
+|- style="background:#DFEDFD"
+| '''35''' || {{SUI|#}} {{PER|#}} || [[Alonzo Vincent]] || 2026 || Eigene Jugend
+|- style="background:#DFEDFD"
+| '''36''' || {{FRA|#}} || [[Thomas Lopes]] || 2026 || Eigene Jugend
+|- style="background:#DFEDFD"
+| '''42''' || {{CHE|#}} {{ESP|#}} || [[Ivan Izquierdo]] || 2025 || Eigene Jugend
+|- style="background:#DFEDFD"
+| '''-''' || {{FRA|#}} || [[Mattéo Anselme]] || 2025 || Eigene Jugend
+|- style="background:#DFEDFD"
+| '''-''' || {{CIV|#}} {{CHE|#}} || [[Sidiki Camara]] || 2022 || Eigene Jugend
+|-
+! colspan="5" style="background:#EFEFEF"| '''Stürmer'''
+|- style="background:#FFD2D6"
+| '''10''' || {{FRA|#}} {{COD|#}} || [[Junior Kadile]] || 2026 || [[Almere City FC]]
+|- style="background:#FFD2D6"
+| '''22''' || {{FRA|#}} {{GLP|#}} || [[Mathis Lambourde]] || 2026 || [[Hellas Verona]]
+|- style="background:#FFD2D6"
+| '''41''' || {{FRA|#}}  || [[Tristan Nunez]] || 2026 || Eigene Jugend
+|- style="background:#FFD2D6"
+| '''77''' || {{CHE|#}} || [[Tiemoko Ouattara]] || 2023 || Eigene Jugend
+|- style="background:#FFD2D6"
+| '''81''' || {{CHE|#}} || [[Julian von Moos]] || 2024 || [[FC St. Gallen]]
+|- style="background:#FFD2D6"
+| '''90''' || {{SVK|#}} || [[Samuel Mráz (Fußballspieler)|Samuel Mráz]] || 2025 || [[Motor Lublin]]
+|- style="background:#FFD2D6"
+| '''97''' || {{FRA|#}} || [[Florian Ayé]] || 2025 || [[AJ Auxerre]]
+|}
+
+=== Staff/Betreuerstab ===
+<small>Stand: 1. Juni 2026.</small><ref>{{Webarchiv |url=http://association.servettefc.ch/staff.php |text=Staff des Servette FC |wayback=20160209130554}}, Website Servette FC (franz.).</ref>
+{| style="width:550px"
+|- style="color:#FFFFFF; background:#8B0000;"
+! Name, Vorname
+! Funktion
+|- style="background:#FFFFFF"
+| [[Jocelyn Gourvennec]] || style="text-align:center"| Cheftrainer
+|- style="background:#EEEEEE"
+| Bojan Dimic || style="text-align:center"| Co-Trainer
+|- style="background:#FFFFFF"
+| [[John Williams]] || style="text-align:center"| Sportdirektor
+|- style="background:#EEEEEE"
+| Massimo Lombardo || style="text-align:center"| Technischer Direktor
+|- style="background:#FFFFFF"
+| [[Lionel Pizzinat]] || style="text-align:center"| Teammanager
+|- style="background:#EEEEEE"
+| Jacques Lacharme || style="text-align:center"| Analyst
+|- style="background:#FFFFFF"
+| Mathieu Degrange || style="text-align:center"| Konditionstrainer
+|- style="background:#EEEEEE"
+| Daniel Blanco || style="text-align:center"| Torhütertrainer
+|- style="background:#FFFFFF"
+| [[Alexandre Alphonse]] || style="text-align:center"| Stürmertrainer
+|}
+
+=== Transfers 2026/27 ===
+<small>Stand: 14. Juli 2026</small><ref name="Transfers des Servette FC">{{Webarchiv |url=http://www.sfl.ch/challengeleague/transfers/sommer-201617/ |text=Transfers des Servette FC |wayback=20160713095737}}, SFL, sfl.ch</ref>
+
+{| class="wikitable"
+! style="color:#FFFFFF; background:#8B0000; width:50%"| Zugänge
+! style="color:#FFFFFF; background:#8B0000; width:50%"| Abgänge
+|-
+! colspan="2" | Sommer 2026
+|-
+| valign="top" width="50%" |
+* [[Mattéo Anselme]] (FC Grand-Saconnex, Leih-Ende)
+* [[Léo Besson]] (FC Stade Lausanne-Ouchy, Leih-Ende)
+* [[Sidiki Camara]] (Yverdon Sport FC, Leih-Ende)
+* [[Edvinas Gertmonas]] (Universitatea Cluj)
+* [[Junior Kadile]] (Almere City FC, Def. Übernahme)
+* [[Mathis Lambourde]] (Hellas Verona)
+* [[Quentin Maceiras]] (Puskas Akademia FC)
+* [[Pedro Naressi]] (Ludogorets Razgrad)
+* [[Tristan Nunez]] (Eigene Jugend)
+* [[Tiemoko Ouattara]] (FC St. Gallen, Leih-Ende)
+* [[Louis Rieder]] (Eigene Jugend)
+* [[Jarell Njiké Simo]] (FC Stade Nyonnais, Leih-Ende)
+* [[Julian von Moos]] (FC Luzern, Leih-Ende)
+* [[Alonzo Vincent]] (Eigene Jugend)
+| valign="top" width="50%" |
+* [[Jamie Atangana]] (Stade Lausanne-Ouchy, Leihe)
+* [[Marwan Aubert]] (Stade Nyonnais, Leihe)
+* [[Samuel Fankhauser]] (Stade Nyonnais, Leihe)
+* [[Jérémy Guillemenot]] (vereinslos)
+* [[Malek Ishuayed]] (SC Kriens, Leihe)
+* [[Joel Mall]] (BSC Young Boys)
+* [[Mardochée Miguel]] (Stade Nyonnais, Leihe)
+* [[Emilien Ndjoko]] (Stade Nyonnais, Leihe)
+* [[Gael Ondoua]] (vereinslos)
+* [[Loun Srdanovic]] (LOSC Lille)
+* [[Keyan Varela]] (RKC Waalwijk, Leihe)
+* [[Patrick Weber]] (FC Wil 1900, Leihe)
+|-
+! colspan="2" | Winter 2026
+|-
+| valign="top" width="50%" |
+
+| valign="top" width="50%" |
+|}

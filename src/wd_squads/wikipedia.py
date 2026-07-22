@@ -225,6 +225,10 @@ def _players_from_wikitable(table, heading: Optional[str]) -> List[SquadPlayer]:
         number = None
         if number_col is not None and len(cells) > number_col:
             number = cells[number_col].contents.strip_code().strip() or None
+            # A dash placeholder ("-"/"–"/"—") means "no number assigned"
+            # (e.g. Servette's academy call-ups); treat it like an empty cell.
+            if number and set(number) <= {"-", "–", "—"}:
+                number = None
         players.append(
             SquadPlayer(name=display, title=title, number=number, section=heading)
         )
