@@ -1,0 +1,387 @@
+{{Eishockeykader/Kopf|Format={{{Format}}}
+| Bild          = RZ ZSC Logo RGB.png
+| Bildbreite    =
+| Team          = ZSC Lions
+| Liga          = National League
+| Klammerzusatz = Eishockey
+| Saison        = 2025/26
+| Stand         = 23. Februar 2026<!-- Bitte daran denken, das Aktualisierungsdatum zu ergänzen! -->
+}}
+{{#ifeq:{{{Format}}}|Tabelle||'''Torhüter:'''}} <!-- Hier TORHÜTER alphabetisch einsortieren -->{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Šimon
+| Nachname     = Hrubec
+| Position     = G
+| Nummer       = 30
+| Ländercode   = CZE
+| Seit         = 2022
+| Geburtsdatum = {{DatumZelle|1991-06-30|kurz=0}}
+| Geburtsort   = [[Vimperk]], [[Tschechoslowakei]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Robin
+| Nachname     = Zumbühl
+| Position     = G
+| Nummer       = 40
+| Ländercode   = CHE
+| Ländercode2  = ITA
+| Seit         = 2020
+| Geburtsdatum = {{DatumZelle|1998-11-16|kurz=0}}
+| Geburtsort   = <!--[[]], -->[[Schweiz]]
+| Sonstiges    =
+| Letzter      = ja
+}}
+{{#ifeq:{{{Format}}}|Tabelle||<br />'''Verteidiger:'''}} <!-- Hier VERTEIDIGER alphabetisch einsortieren -->
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Timo
+| Nachname     = Bünzli
+| Position     = D
+| Nummer       = 77
+| Ländercode   = CHE
+| Seit         = 2019
+| Geburtsdatum = {{DatumZelle|2005-01-31|kurz=0}}
+| Geburtsort   = [[Zürich]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Patrick
+| Nachname     = Geering
+| Position     = D
+| Nummer       = 4
+| Ländercode   = CHE
+| Seit         = 2008
+| Geburtsdatum = {{DatumZelle|1990-02-12|kurz=0}}
+| Geburtsort   = [[Zürich]], [[Schweiz]]
+| Sonstiges    = C
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Dean
+| Nachname     = Kukan
+| Position     = D
+| Nummer       = 46
+| Ländercode   = CHE
+| Seit         = 2022
+| Geburtsdatum = {{DatumZelle|1993-07-08|kurz=0}}
+| Geburtsort   = [[Volketswil]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Mikko
+| Nachname     = Lehtonen
+| Link         = Mikko Lehtonen (Eishockeyspieler, 1994)
+| Position     = D
+| Nummer       = 44
+| Ländercode   = FIN
+| Seit         = 2022
+| Geburtsdatum = {{DatumZelle|1994-01-16|kurz=0}}
+| Geburtsort   = [[Turku]], [[Finnland]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Christian
+| Nachname     = Marti
+| Link         = Christian Marti (Eishockeyspieler)
+| Position     = D
+| Nummer       = 54
+| Ländercode   = CHE
+| Seit         = 2016
+| Geburtsdatum = {{DatumZelle|1993-03-29|kurz=0}}
+| Geburtsort   = [[Bülach]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Jan
+| Nachname     = Schwendeler
+| Position     = D
+| Nummer       = 33
+| Ländercode   = CHE
+| Ländercode2  = SVK
+| Seit         = 2023
+| Geburtsdatum = {{DatumZelle|2003-12-09|kurz=0}}
+| Geburtsort   = [[Zug (Stadt)|Zug]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Dario
+| Nachname     = Trutmann
+| Position     = D
+| Nummer       = 86
+| Ländercode   = CHE
+| Seit         = 2019
+| Geburtsdatum = {{DatumZelle|1992-09-17|kurz=0}}
+| Geburtsort   = [[Zug (Stadt)|Zug]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Daniil
+| Nachname     = Ustinkov
+| Position     = D
+| Nummer       = 29
+| Ländercode   = CHE
+| Ländercode2  = RUS
+| Seit         = 2022
+| Geburtsdatum = {{DatumZelle|2006-08-26|kurz=0}}
+| Geburtsort   = <!--[[]], -->[[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Yannick
+| Nachname     = Weber
+| Position     = D
+| Nummer       = 6
+| Ländercode   = CHE
+| Seit         = 2021
+| Geburtsdatum = {{DatumZelle|1988-09-23|kurz=0}}
+| Geburtsort   = [[Morges]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = ja
+}}
+{{#ifeq:{{{Format}}}|Tabelle||<br />'''Angreifer:'''}} <!-- Hier ANGREIFER alphabetisch einsortieren -->
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Sven
+| Nachname     = Andrighetto
+| Position     = RW
+| Nummer       = 10
+| Ländercode   = CHE
+| Seit         = 2020
+| Geburtsdatum = {{DatumZelle|1993-03-21|kurz=0}}
+| Geburtsort   = [[Zürich]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Thierry
+| Nachname     = Bader
+| Position     = C
+| Nummer       = 79
+| Ländercode   = CHE
+| Seit         = 2025
+| Geburtsdatum = {{DatumZelle|1997-09-01|kurz=0}}
+| Geburtsort   = [[Winterthur]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Nicolas
+| Nachname     = Baechler
+| Position     = F
+| Nummer       = 18
+| Ländercode   = CHE
+| Seit         = 2022
+| Geburtsdatum = {{DatumZelle|2003-08-23|kurz=0}}
+| Geburtsort   = <!--[[]], -->[[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Rūdolfs
+| Nachname     = Balcers
+| Position     = LW
+| Nummer       = 38
+| Ländercode   = LVA
+| Seit         = 2023
+| Geburtsdatum = {{DatumZelle|kurz=0|1997-04-08}}
+| Geburtsort   = [[Liepāja]], [[Lettland]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Chris
+| Nachname     = Baltisberger
+| Position     = RW
+| Nummer       = 14
+| Ländercode   = CHE
+| Seit         = 2012
+| Geburtsdatum = {{DatumZelle|1991-10-31|kurz=0}}
+| Geburtsort   = [[Zofingen]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Jesper
+| Nachname     = Frödén
+| Position     = RW
+| Nummer       = 28
+| Ländercode   = SWE
+| Seit         = 2023
+| Geburtsdatum = {{DatumZelle|1994-09-21|kurz=0}}
+| Geburtsort   = [[Stockholm]], [[Schweden]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Derek
+| Nachname     = Grant
+| Link         = Derek Grant (Eishockeyspieler, 1990)
+| Position     = C
+| Nummer       = 27
+| Ländercode   = CAN
+| Seit         = 2023
+| Geburtsdatum = {{DatumZelle|1990-04-20|kurz=0}}
+| Geburtsort   = [[Abbotsford (British Columbia)|Abbotsford]], [[British Columbia]], [[Kanada]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Denis
+| Nachname     = Hollenstein
+| Position     = LW
+| Nummer       = 91
+| Ländercode   = CHE
+| Seit         = 2018
+| Geburtsdatum = {{DatumZelle|1989-10-15|kurz=0}}
+| Geburtsort   = [[Mosnang]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Juho
+| Nachname     = Lammikko
+| Position     = LW
+| Nummer       =
+| Ländercode   = FIN
+| Seit         = 2026
+| Geburtsdatum = {{DatumZelle|1996-01-29|kurz=0}}
+| Geburtsort   = [[Noormarkku]], [[Finnland]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Denis
+| Nachname     = Malgin
+| Position     = C
+| Nummer       = 62
+| Ländercode   = CHE
+| Ländercode2  = RUS
+| Seit         = 2023
+| Geburtsdatum = {{DatumZelle|1997-01-18|kurz=0}}
+| Geburtsort   = [[Olten]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Daniel
+| Nachname     = Olsson
+| Position     = F
+| Nummer       = 89
+| Ländercode   = DNK
+| Seit         = 2016
+| Geburtsdatum = {{DatumZelle|2005-06-01|kurz=0}}
+| Geburtsort   = <!--[[]], -->[[Dänemark]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Willy
+| Nachname     = Riedi
+| Position     = F
+| Nummer       = 8
+| Ländercode   = CHE
+| Seit         = 2019
+| Geburtsdatum = {{DatumZelle|1998-04-19|kurz=0}}
+| Geburtsort   = <!--[[]], -->[[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Vinzenz
+| Nachname     = Rohrer
+| Position     = C
+| Nummer       = 9
+| Ländercode   = AUT
+| Seit         = 2023
+| Geburtsdatum = {{DatumZelle|2004-09-09|kurz=0}}
+| Geburtsort   = [[Rankweil]], [[Österreich]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Harrison
+| Nachname     = Schreiber
+| Position     = C
+| Nummer       =
+| Ländercode   = the United States and Germany
+| Seit         = 2026
+| Geburtsdatum = {{DatumZelle|2001-07-06|kurz=0}}
+| Geburtsort   = [[New York City]], [[New York (Bundesstaat)|New York]], [[Vereinigte Staaten|USA]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Alessandro
+| Nachname     = Segafredo
+| Position     = RW
+| Nummer       = 17
+| Ländercode   = ITA
+| Ländercode2  = ZAF
+| Seit         = 2022
+| Geburtsdatum = {{DatumZelle|2004-09-15|kurz=0}}
+| Geburtsort   = [[Asiago (Venetien)|Asiago]], [[Italien]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Justin
+| Nachname     = Sigrist
+| Position     = C
+| Nummer       = 13
+| Ländercode   = CHE
+| Seit         = 2018
+| Geburtsdatum = {{DatumZelle|1999-04-20|kurz=0}}
+| Geburtsort   = [[Niederuzwil]], [[Schweiz]]
+| Sonstiges    =
+| Letzter      = nein
+}}
+{{Eishockeykader/Spieler|Format={{{Format}}}
+| Vorname      = Johan
+| Nachname     = Sundström
+| Position     = C
+| Nummer       = 12
+| Ländercode   = SWE
+| Seit         = 2026
+| Geburtsdatum = {{DatumZelle|1992-09-21|kurz=0}}
+| Geburtsort   = [[Göteborg]], [[Schweden]]
+| Sonstiges    =
+| Letzter      = ja
+}}
+{{#ifeq:{{{Format}}}|Tabelle|
+|{{Eishockeykader/Trainer
+| Cheftrainer-Vorname        =
+| Cheftrainer-Nachname       =
+| Cheftrainer-Link           =
+| Vakant                     = ja
+| Assistenztrainer-Vakant    =
+| Assistenztrainer-Anzahl    = 2
+| Assistenztrainer1-Vorname  = Andreas
+| Assistenztrainer1-Nachname = Lilja
+| Assistenztrainer1-Link     =
+| Assistenztrainer2-Vorname  = Fabio
+| Assistenztrainer2-Nachname = Schwarz
+| Assistenztrainer2-Link     =
+| GM-Vorname                 = Sven
+| GM-Nachname                = Leuenberger
+| GM-Link                    = Sven Leuenberger (Eishockeyspieler, 1969)
+| GM-Vakant                  =
+}}
+}}
+{{#ifeq:{{{Format}}}|Tabelle|{{!}}}|</div></div></div>}}<noinclude>
+Zur Überprüfung und Aktualisierung:
+
+* [http://www.eliteprospects.com/team.php?team=118 Kaderliste]
+----
+{{Navigationsleistenwartung
+ |Wikipedia:WikiProjekt Eishockey
+ |Portal:Eishockey
+}}
+{{Eishockeykader}}
+
+[[Kategorie:Vorlage:Navigationsleiste Eishockeykader (Schweiz)|Zurich Lions, Zsc]]</noinclude>

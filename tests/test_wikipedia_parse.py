@@ -2,7 +2,7 @@ from pathlib import Path
 
 from conftest import FIXTURES
 
-from wd_squads.wikipedia import parse_squad_players
+from wd_squads.wikipedia import find_squad_template_title, parse_squad_players
 
 
 def _load() -> str:
@@ -35,6 +35,14 @@ def _load_fck() -> str:
 
 def _load_servette() -> str:
     return (FIXTURES / "squad_sample_servette.wikitext").read_text(encoding="utf-8")
+
+
+def _load_hockey_zsc() -> str:
+    return (FIXTURES / "hockey_squad_sample_zsc.wikitext").read_text(encoding="utf-8")
+
+
+def _load_hockey_zsc_article() -> str:
+    return (FIXTURES / "hockey_article_sample_zsc.wikitext").read_text(encoding="utf-8")
 
 
 def test_parses_expected_players():
@@ -358,3 +366,58 @@ def test_vfb_link_targets():
     # Trailing {{Kapitän}} does not corrupt the linked name/number.
     assert players["Atakan Karazor"].title == "Atakan Karazor"
     assert players["Atakan Karazor"].number == "16"
+
+
+# --- Swiss/German ice hockey ({{Eishockeykader/Spieler}}) format ------------
+#
+# These clubs don't list a squad inline: the article transcludes a per-club
+# navbox template (find_squad_template_title), and the actual roster lives in
+# that template's own wikitext as one {{Eishockeykader/Spieler}} call per
+# player, alongside a {{Eishockeykader/Kopf}} header, {{#ifeq:}} formatting
+# noise, an {{Eishockeykader/Trainer}} coaching-staff box, and a trailing
+# <noinclude> documentation block — none of which must be mistaken for a
+# player.
+
+
+def test_finds_transcluded_squad_template():
+    title = find_squad_template_title(_load_hockey_zsc_article())
+    assert title == "Navigationsleiste Kader der ZSC Lions"
+
+
+def test_no_squad_template_found_in_inline_squad_article():
+    # A football article with an inline squad has no such transclusion.
+    assert find_squad_template_title(_load()) is None
+
+
+def test_parses_eishockeykader_players():
+    players = parse_squad_players(_load_hockey_zsc())
+    names = {p.name for p in players}
+
+    # 2 goalkeepers + 9 defencemen + 17 forwards = 28 players.
+    assert len(players) == 28
+    assert "Šimon Hrubec" in names
+    assert "Johan Sundström" in names  # last entry
+
+    # The header, coaching-staff box, and noinclude doc section must not
+    # leak in as players.
+    assert "Andreas Lilja" not in names
+    assert "Fabio Schwarz" not in names
+    assert "Sven Leuenberger" not in names
+
+
+def test_eishockeykader_link_targets_numbers_and_positions():
+    players = {p.name: p for p in parse_squad_players(_load_hockey_zsc())}
+
+    # No explicit Link: default title is "Vorname Nachname".
+    hrubec = players["Šimon Hrubec"]
+    assert hrubec.title == "Šimon Hrubec"
+    assert hrubec.number == "30"
+    assert hrubec.position == "G"
+
+    # Explicit Link overrides the default (disambiguated article title).
+    lehtonen = players["Mikko Lehtonen"]
+    assert lehtonen.title == "Mikko Lehtonen (Eishockeyspieler, 1994)"
+
+    # Blank "Nummer" (no jersey number assigned yet) yields None, not "".
+    assert players["Juho Lammikko"].number is None
+    assert players["Harrison Schreiber"].number is None

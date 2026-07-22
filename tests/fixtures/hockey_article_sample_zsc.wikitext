@@ -1,0 +1,34 @@
+== Kader der Saison 2025/26 ==
+{{Navigationsleiste Kader der ZSC Lions|Format=Tabelle}}
+
+'''Trainerstab'''
+{| class="wikitable" style="width:100%; text-align:center;"
+|- style="background:#E8E8E8"
+! width="5%"|Pos.
+! width="5%"|Nat.
+! width="30%"|Name
+! width="15%"| Geburtsdatum
+! width="10%"| Im Team seit
+! width="30%"| Geburtsort
+|-
+| Cheftrainer
+| {{CHE|#}}
+|style="text-align:left;"| vakant
+|
+|
+|style="text-align:left;"|
+|-
+|Co-Trainer
+| {{SWE|#}}
+|style="text-align:left;"| [[Andreas Lilja]]
+| 13. Juli 1975
+| 2025
+|style="text-align:left;"|[[Helsingborg]], [[Schweden]]
+|-
+|Co-Trainer
+| {{CHE|#}}
+|style="text-align:left;"| [[Fabio Schwarz]]
+| 13. Juli 1986
+| 2023
+|style="text-align:left;"|[[Schlieren]], [[Schweiz]]
+|}
