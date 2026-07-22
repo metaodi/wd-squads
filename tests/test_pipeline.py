@@ -12,7 +12,7 @@ class FakeWikidata:
     def discover_teams(self, config):
         return [Team(qid="Q1", label="FC Example", wikipedia_title="FC Example")]
 
-    def get_memberships(self, qid):
+    def get_memberships(self, qid, language="en"):
         return [
             Membership("Q10", "Alice", "s1", start="2020-01-01", end=None),
             Membership("Q99", "Zoe", "s4", start="2018-01-01", end=None),
