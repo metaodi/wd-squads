@@ -41,6 +41,7 @@ class Team:
     label: str
     wikipedia_title: Optional[str] = None
     language: str = "en"  # Wikipedia edition its squad is read from
+    league: Optional[str] = None  # league label, when discovered via config.leagues
 
 
 @dataclass

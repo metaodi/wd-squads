@@ -33,8 +33,10 @@ leagues:
     label: Swiss Super League
     language: de       # Swiss clubs' squads are best kept on German Wikipedia
   - id: Q82595         # Bundesliga (Germany)
+    label: Bundesliga
     language: de
   - id: Q9448        # Premier League (England)
+    label: Premier League
     language: en
   # - id: Q324867      # La Liga (Spain)
   #   language: es

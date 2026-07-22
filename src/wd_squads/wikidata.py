@@ -57,7 +57,9 @@ class WikidataClient:
         for league in config.leagues:
             language = league.language or config.language
             query = self._league_query(league.id, language)
-            for team in self._teams_from_query(query, language):
+            for team in self._teams_from_query(
+                query, language, league_label=league.label or league.id
+            ):
                 if team.qid not in seen:
                     seen.add(team.qid)
                     teams.append(team)
@@ -105,7 +107,9 @@ ORDER BY ?teamLabel
     def _teams_from_qids(self, qids: List[str], language: str) -> List[Team]:
         return self._teams_from_query(self._values_query(qids, language), language)
 
-    def _teams_from_query(self, sparql: str, language: str) -> List[Team]:
+    def _teams_from_query(
+        self, sparql: str, language: str, league_label: Optional[str] = None
+    ) -> List[Team]:
         teams: List[Team] = []
         seen: set[str] = set()
         for row in self.run_query(sparql):
@@ -116,7 +120,13 @@ ORDER BY ?teamLabel
             label = row.get("teamLabel", {}).get("value", qid)
             title = _title_from_article_url(row.get("article", {}).get("value"), language)
             teams.append(
-                Team(qid=qid, label=label, wikipedia_title=title, language=language)
+                Team(
+                    qid=qid,
+                    label=label,
+                    wikipedia_title=title,
+                    language=language,
+                    league=league_label,
+                )
             )
         return teams
 

@@ -91,8 +91,20 @@ def _markdown_player(s: Suggestion) -> str:
     return name
 
 
+def _group_by_league(results: List[TeamResult]) -> List[tuple[str, List[TeamResult]]]:
+    """Bucket results by ``team.league``, teams without one under "Other".
+
+    Leagues are ordered alphabetically, with "Other" always last.
+    """
+    buckets: dict[str, List[TeamResult]] = {}
+    for r in results:
+        buckets.setdefault(r.team.league or "Other", []).append(r)
+    return sorted(buckets.items(), key=lambda kv: (kv[0] == "Other", kv[0].lower()))
+
+
 def render_index_markdown(results: List[TeamResult], generated_at: str) -> str:
     total = sum(len(r.suggestions) for r in results)
+    leagues = _group_by_league(results)
     lines = [
         "# wd-squads — suggested Wikidata edits",
         "",
@@ -100,17 +112,28 @@ def render_index_markdown(results: List[TeamResult], generated_at: str) -> str:
         "",
         f"**{total} suggested edits** across **{len(results)} teams**.",
         "",
-        "| Team | Squad | WD current | Suggestions | Report |",
-        "| --- | ---: | ---: | ---: | --- |",
     ]
-    for r in sorted(results, key=lambda x: (-len(x.suggestions), x.team.label.lower())):
-        link = team_filename(r.team)
-        lines.append(
-            f"| [{r.team.label}](https://www.wikidata.org/wiki/{r.team.qid}) "
-            f"| {r.squad_size} | {r.wikidata_current} | {len(r.suggestions)} "
-            f"| [details]({link}) |"
-        )
+
+    lines.append("## Leagues")
     lines.append("")
+    for league_name, league_results in leagues:
+        n = len(league_results)
+        lines.append(f"- [{league_name}](#{_slug(league_name)}) ({n} team{'' if n == 1 else 's'})")
+    lines.append("")
+
+    for league_name, league_results in leagues:
+        lines.append(f"## {league_name}")
+        lines.append("")
+        lines.append("| Team | Squad | WD current | Suggestions | Report |")
+        lines.append("| --- | ---: | ---: | ---: | --- |")
+        for r in sorted(league_results, key=lambda x: (-len(x.suggestions), x.team.label.lower())):
+            link = team_filename(r.team)
+            lines.append(
+                f"| [{r.team.label}](https://www.wikidata.org/wiki/{r.team.qid}) "
+                f"| {r.squad_size} | {r.wikidata_current} | {len(r.suggestions)} "
+                f"| [details]({link}) |"
+            )
+        lines.append("")
     return "\n".join(lines)
 
 
@@ -123,6 +146,7 @@ def to_json(results: List[TeamResult], generated_at: str) -> dict:
             {
                 "qid": r.team.qid,
                 "label": r.team.label,
+                "league": r.team.league,
                 "wikipedia_title": r.team.wikipedia_title,
                 "squad_size": r.squad_size,
                 "wikidata_current": r.wikidata_current,
@@ -168,6 +192,12 @@ _HTML_TEMPLATE = """<!doctype html>
   .stat { background:var(--card); border:1px solid var(--border); border-radius:10px;
     padding:.75rem 1rem; min-width:120px; }
   .stat b { font-size:1.5rem; display:block; }
+  .league-nav { display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.5rem; }
+  .league-nav a { background:var(--card); border:1px solid var(--border);
+    border-radius:999px; padding:.3rem .8rem; font-size:.9rem; }
+  .league { margin-bottom:2rem; }
+  .league h2 { font-size:1.2rem; border-bottom:1px solid var(--border);
+    padding-bottom:.3rem; scroll-margin-top:1rem; }
   .team { border:1px solid var(--border); border-radius:10px; margin-bottom:1rem;
     background:var(--card); overflow:hidden; }
   .team > summary { cursor:pointer; padding:.9rem 1rem; font-weight:600;
@@ -200,37 +230,49 @@ _HTML_TEMPLATE = """<!doctype html>
     <div class="stat"><b>{{ teams_with_todos }}</b> teams need attention</div>
   </div>
 
-  {% for r in results %}
-  <details class="team" {% if r.suggestions %}open{% endif %}>
-    <summary>
-      <span><a href="https://www.wikidata.org/wiki/{{ r.team.qid }}">{{ r.team.label }}</a>
-        <span class="detail">&nbsp;{{ r.team.qid }}</span></span>
-      <span class="count {% if not r.suggestions %}zero{% endif %}">
-        {{ r.suggestions|length }} to&nbsp;do</span>
-    </summary>
-    <div class="body">
-      <p class="detail">Squad on Wikipedia: {{ r.squad_size }} &middot;
-        current members on Wikidata: {{ r.wikidata_current }}
-        {% if r.error %}&middot; <strong>error:</strong> {{ r.error }}{% endif %}</p>
-      {% if not r.suggestions %}
-        <p>✅ Nothing to do &mdash; Wikipedia and Wikidata agree.</p>
-      {% else %}
-        {% for kind, items in r.grouped %}
-        <div class="kind">{{ kind_label[kind] }} ({{ items|length }})</div>
-        <ul>
-          {% for s in items %}
-          <li>
-            {% if s.player_qid %}<a href="https://www.wikidata.org/wiki/{{ s.player_qid }}">{{ s.player_label }}</a>
-            {% else %}<strong>{{ s.player_label }}</strong>{% endif %}
-            {% if s.links.wikipedia %}(<a href="{{ s.links.wikipedia }}">WP</a>){% endif %}
-            <span class="detail">&mdash; {{ s.detail }}</span>
-          </li>
+  <nav class="league-nav">
+    {% for league_name, league_slug, league_results in leagues %}
+    <a href="#{{ league_slug }}">{{ league_name }}
+      ({{ league_results|length }} {{ 'team' if league_results|length == 1 else 'teams' }})</a>
+    {% endfor %}
+  </nav>
+
+  {% for league_name, league_slug, league_results in leagues %}
+  <section class="league">
+    <h2 id="{{ league_slug }}">{{ league_name }}</h2>
+    {% for r in league_results %}
+    <details class="team" {% if r.suggestions %}open{% endif %}>
+      <summary>
+        <span><a href="https://www.wikidata.org/wiki/{{ r.team.qid }}">{{ r.team.label }}</a>
+          <span class="detail">&nbsp;{{ r.team.qid }}</span></span>
+        <span class="count {% if not r.suggestions %}zero{% endif %}">
+          {{ r.suggestions|length }} to&nbsp;do</span>
+      </summary>
+      <div class="body">
+        <p class="detail">Squad on Wikipedia: {{ r.squad_size }} &middot;
+          current members on Wikidata: {{ r.wikidata_current }}
+          {% if r.error %}&middot; <strong>error:</strong> {{ r.error }}{% endif %}</p>
+        {% if not r.suggestions %}
+          <p>✅ Nothing to do &mdash; Wikipedia and Wikidata agree.</p>
+        {% else %}
+          {% for kind, items in r.grouped %}
+          <div class="kind">{{ kind_label[kind] }} ({{ items|length }})</div>
+          <ul>
+            {% for s in items %}
+            <li>
+              {% if s.player_qid %}<a href="https://www.wikidata.org/wiki/{{ s.player_qid }}">{{ s.player_label }}</a>
+              {% else %}<strong>{{ s.player_label }}</strong>{% endif %}
+              {% if s.links.wikipedia %}(<a href="{{ s.links.wikipedia }}">WP</a>){% endif %}
+              <span class="detail">&mdash; {{ s.detail }}</span>
+            </li>
+            {% endfor %}
+          </ul>
           {% endfor %}
-        </ul>
-        {% endfor %}
-      {% endif %}
-    </div>
-  </details>
+        {% endif %}
+      </div>
+    </details>
+    {% endfor %}
+  </section>
   {% endfor %}
 
   <footer>
@@ -253,14 +295,18 @@ def render_html(results: List[TeamResult], generated_at: str) -> str:
             buckets.setdefault(s.kind, []).append(s)
         return sorted(buckets.items(), key=lambda kv: PRIORITY.get(kv[0], 99))
 
-    ordered = sorted(results, key=lambda r: (-len(r.suggestions), r.team.label.lower()))
-    view = []
-    for r in ordered:
-        r.grouped = grouped(r)  # type: ignore[attr-defined]
-        view.append(r)
+    leagues = []
+    for league_name, league_results in _group_by_league(results):
+        ordered = sorted(
+            league_results, key=lambda r: (-len(r.suggestions), r.team.label.lower())
+        )
+        for r in ordered:
+            r.grouped = grouped(r)  # type: ignore[attr-defined]
+        leagues.append((league_name, _slug(league_name), ordered))
 
     return template.render(
-        results=view,
+        leagues=leagues,
+        results=results,
         generated_at=generated_at,
         total=sum(len(r.suggestions) for r in results),
         teams_with_todos=sum(1 for r in results if r.suggestions),
