@@ -3,11 +3,11 @@
 - Wikidata item: [Q136398](https://www.wikidata.org/wiki/Q136398)
 - Wikipedia article: [ZSC Lions](https://de.wikipedia.org/wiki/ZSC_Lions)
 - Players in Wikipedia squad: 28
-- Current members on Wikidata: 168
-- Suggested edits: 192
-- Generated: 2026-07-22 19:06 UTC
+- Current members on Wikidata: 166
+- Suggested edits: 189
+- Generated: 2026-07-22 23:20 UTC
 
-## Recorded as a current member, but no longer in the squad (164)
+## Recorded as a current member, but no longer in the squad (162)
 
 - **[Adrian Wichser](https://www.wikidata.org/wiki/Q374560)** ([WP](https://de.wikipedia.org/wiki/Adrian_Wichser)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Reist](https://www.wikidata.org/wiki/Q2830214)** ([WP](https://en.wikipedia.org/wiki/Alain_Reist)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -17,12 +17,10 @@
 - **[Andrea Cahenzli](https://www.wikidata.org/wiki/Q4754998)** — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andrew McKim](https://www.wikidata.org/wiki/Q282874)** ([WP](https://de.wikipedia.org/wiki/Andrew_McKim)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andri Stoffel](https://www.wikidata.org/wiki/Q509949)** ([WP](https://de.wikipedia.org/wiki/Andri_Stoffel)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Andy Andreoff](https://www.wikidata.org/wiki/Q16197318)** ([WP](https://de.wikipedia.org/wiki/Andy_Andreoff)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andy Egli](https://www.wikidata.org/wiki/Q19841083)** — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andy Sutton](https://www.wikidata.org/wiki/Q527802)** ([WP](https://de.wikipedia.org/wiki/Andy_Sutton)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andy Ton](https://www.wikidata.org/wiki/Q3616569)** ([WP](https://de.wikipedia.org/wiki/Andy_Ton)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Angela Taylor](https://www.wikidata.org/wiki/Q16225376)** ([WP](https://de.wikipedia.org/wiki/Angela_Taylor)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Ari Sulander](https://www.wikidata.org/wiki/Q653951)** ([WP](https://de.wikipedia.org/wiki/Ari_Sulander)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arne Ramholt](https://www.wikidata.org/wiki/Q692751)** ([WP](https://de.wikipedia.org/wiki/Arne_Ramholt)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arno del Curto](https://www.wikidata.org/wiki/Q321877)** ([WP](https://de.wikipedia.org/wiki/Arno_Del_Curto)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Beat Forster](https://www.wikidata.org/wiki/Q813061)** ([WP](https://de.wikipedia.org/wiki/Beat_Forster)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -191,11 +189,10 @@
 - **[Yannick Weber](https://www.wikidata.org/wiki/Q869663)** ([WP](https://de.wikipedia.org/wiki/Yannick_Weber)) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Šimon Hrubec](https://www.wikidata.org/wiki/Q4686350)** ([WP](https://de.wikipedia.org/wiki/Šimon_Hrubec)) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (4)
+## Current member, but the membership has no start date (3)
 
 - **[Dario Trutmann](https://www.wikidata.org/wiki/Q3016151)** ([WP](https://de.wikipedia.org/wiki/Dario_Trutmann)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Patrick Geering](https://www.wikidata.org/wiki/Q390592)** ([WP](https://de.wikipedia.org/wiki/Patrick_Geering)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-- **[Sven Andrighetto](https://www.wikidata.org/wiki/Q12057599)** ([WP](https://de.wikipedia.org/wiki/Sven_Andrighetto)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Vinzenz Rohrer](https://www.wikidata.org/wiki/Q125906913)** ([WP](https://de.wikipedia.org/wiki/Vinzenz_Rohrer)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 ## In current squad, but the Wikipedia article has no Wikidata item (10)

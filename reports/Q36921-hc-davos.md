@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 29
 - Current members on Wikidata: 222
 - Suggested edits: 245
-- Generated: 2026-07-22 19:06 UTC
+- Generated: 2026-07-22 23:20 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -225,8 +225,8 @@
 - **[Vitali Prokhorov](https://www.wikidata.org/wiki/Q1373863)** ([WP](https://de.wikipedia.org/wiki/Witali_Wladimirowitsch_Prochorow)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vojtěch Polák](https://www.wikidata.org/wiki/Q531038)** ([WP](https://de.wikipedia.org/wiki/Vojt%C4%9Bch_Pol%C3%A1k)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Václav Varaďa](https://www.wikidata.org/wiki/Q671087)** ([WP](https://de.wikipedia.org/wiki/V%C3%A1clav_Vara%C4%8Fa)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Walter Dürst](https://www.wikidata.org/wiki/Q550988)** ([WP](https://de.wikipedia.org/wiki/Walter_D%C3%BCrst)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Walter Dürst](https://www.wikidata.org/wiki/Q16145049)** ([WP](https://en.wikipedia.org/wiki/Walter_D%C3%BCrst_(ice_hockey,_born_1950))) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Walter Dürst](https://www.wikidata.org/wiki/Q550988)** ([WP](https://de.wikipedia.org/wiki/Walter_D%C3%BCrst)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yanick Bodemann](https://www.wikidata.org/wiki/Q4022507)** — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yves Sarault](https://www.wikidata.org/wiki/Q680239)** ([WP](https://de.wikipedia.org/wiki/Yves_Sarault)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zdeněk Kutlák](https://www.wikidata.org/wiki/Q169006)** ([WP](https://de.wikipedia.org/wiki/Zden%C4%9Bk_Kutl%C3%A1k)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

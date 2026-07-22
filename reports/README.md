@@ -1,8 +1,8 @@
 # wd-squads — suggested Wikidata edits
 
-Generated: 2026-07-22 19:06 UTC
+Generated: 2026-07-22 23:20 UTC
 
-**10321 suggested edits** across **60 teams**.
+**10318 suggested edits** across **60 teams**.
 
 ## Leagues
 
@@ -42,11 +42,11 @@ Generated: 2026-07-22 19:06 UTC
 | [HC Davos](https://www.wikidata.org/wiki/Q36921) | 29 | 222 | 245 | [details](Q36921-hc-davos.md) |
 | [SC Bern](https://www.wikidata.org/wiki/Q36916) | 30 | 194 | 219 | [details](Q36916-sc-bern.md) |
 | [HC Lugano](https://www.wikidata.org/wiki/Q688754) | 27 | 189 | 212 | [details](Q688754-hc-lugano.md) |
-| [ZSC Lions](https://www.wikidata.org/wiki/Q136398) | 28 | 168 | 192 | [details](Q136398-zsc-lions.md) |
 | [SCL Tigers](https://www.wikidata.org/wiki/Q36966) | 27 | 166 | 191 | [details](Q36966-scl-tigers.md) |
 | [Genève-Servette HC](https://www.wikidata.org/wiki/Q688882) | 27 | 165 | 189 | [details](Q688882-genève-servette-hc.md) |
 | [HC Ambrì-Piotta](https://www.wikidata.org/wiki/Q36932) | 26 | 165 | 189 | [details](Q36932-hc-ambrì-piotta.md) |
 | [Lausanne HC](https://www.wikidata.org/wiki/Q675245) | 26 | 164 | 189 | [details](Q675245-lausanne-hc.md) |
+| [ZSC Lions](https://www.wikidata.org/wiki/Q136398) | 28 | 166 | 189 | [details](Q136398-zsc-lions.md) |
 | [SC Rapperswil-Jona Lakers](https://www.wikidata.org/wiki/Q668549) | 29 | 133 | 162 | [details](Q668549-sc-rapperswil-jona-lakers.md) |
 
 ## Premier League
