@@ -6,7 +6,7 @@ import logging
 import re
 from typing import List, Optional
 
-from .config import Config
+from .config import DEFAULT_TEAM_CLASS, Config
 from .http_client import HttpClient
 from .models import Membership, Team
 
@@ -56,7 +56,8 @@ class WikidataClient:
         seen: set[str] = set()
         for league in config.leagues:
             language = league.language or config.language
-            query = self._league_query(league.id, language)
+            team_class = league.team_class or config.team_class
+            query = self._league_query(league.id, language, team_class)
             for team in self._teams_from_query(
                 query, language, league_label=league.label or league.id
             ):
@@ -66,9 +67,12 @@ class WikidataClient:
         return teams
 
     @staticmethod
-    def _league_query(league_qid: str, language: str) -> str:
-        # Association football club (Q476028) whose `league` (P118) is this
-        # league, with the article on the chosen Wikipedia.
+    def _league_query(league_qid: str, language: str, team_class: str = DEFAULT_TEAM_CLASS) -> str:
+        # A team of ``team_class`` (an instance of it, or a subclass thereof;
+        # defaults to association football club, Q476028) whose `league` (P118)
+        # is this league, with the article on the chosen Wikipedia. Passing a
+        # different class (e.g. "ice hockey team") lets the same query work for
+        # other sports without touching this code.
         #
         # We walk the statement node (p:/ps:) instead of the truthy predicate
         # (wdt:) so we can inspect qualifiers: a club whose league membership
@@ -85,7 +89,7 @@ SELECT ?team ?teamLabel ?article WHERE {{
     ?membership pq:P582 ?end .
     FILTER ( ?end < NOW() )
   }}
-  ?team wdt:P31/wdt:P279* wd:Q476028 .
+  ?team wdt:P31/wdt:P279* wd:{team_class} .
   OPTIONAL {{ ?article schema:about ?team ; schema:isPartOf <https://{language}.wikipedia.org/> . }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{language},en". }}
 }}

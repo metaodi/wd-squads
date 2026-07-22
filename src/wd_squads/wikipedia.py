@@ -22,6 +22,15 @@ log = logging.getLogger(__name__)
 FS_PLAYER_TEMPLATES = {"fs player", "football squad player"}
 PERSON_ZELLE_TEMPLATE = "personzelle"
 
+# Swiss/German ice hockey squads (e.g. National League clubs) are not listed
+# inline in the club article at all: the article just transcludes a
+# per-club navbox template (see SQUAD_NAVBOX_RE below) with Format=Tabelle,
+# and that template's own wikitext holds one ``{{Eishockeykader/Spieler}}``
+# call per player. It needs no heading gate: unlike {{PersonZelle}}, this
+# template name is unambiguous, and the coaching staff uses a distinct
+# ``Eishockeykader/Trainer`` template that we simply never match.
+EISHOCKEYKADER_SPIELER_TEMPLATE = "eishockeykader/spieler"
+
 # Section headings that list *former* players (or staff / transfers) even though
 # they use the same squad templates. Players found under these are ignored, so
 # we do not wrongly treat them as current members. The English terms are
@@ -68,6 +77,12 @@ SQUAD_HEADING_RE = re.compile(
 # mistaken for players. Header labels are matched lower-cased and stripped.
 TABLE_NAME_HEADERS = {"spieler", "spielerin", "spielername", "name"}
 TABLE_NUMBER_HEADERS = {"nr.", "nr", "no.", "no", "nummer", "rückennummer", "rn", "#"}
+
+# A club article whose squad is transcluded rather than inline (see above)
+# names the transclusion "Navigationsleiste Kader ..." by convention (e.g.
+# "Navigationsleiste Kader der ZSC Lions"). Matched loosely (no fixed
+# connecting word) since it may read "... der X", "... des X" etc.
+SQUAD_NAVBOX_RE = re.compile(r"^navigationsleiste kader\b", re.IGNORECASE)
 
 
 def _normalise_template_name(name: str) -> str:
@@ -148,6 +163,29 @@ def _player_from_person_zelle(template, heading: Optional[str]) -> Optional[Squa
         title = display
 
     return SquadPlayer(name=display, title=title, section=heading)
+
+
+def _player_from_eishockeykader_spieler(template, heading: Optional[str]) -> Optional[SquadPlayer]:
+    """Build a player from an ``{{Eishockeykader/Spieler}}`` call.
+
+    Used by Swiss/German ice hockey clubs. ``Vorname``/``Nachname`` give the
+    display name; an explicit ``Link`` (full, possibly disambiguated article
+    title) overrides the default of linking to "Vorname Nachname", the same
+    role ``l=`` plays for ``{{PersonZelle}}``.
+    """
+    given = _param(template, "Vorname") or ""
+    family = _param(template, "Nachname") or ""
+    display = " ".join(part for part in (given, family) if part).strip()
+    if not display:
+        return None
+    title = _param(template, "Link") or display
+    return SquadPlayer(
+        name=display,
+        title=title,
+        number=_param(template, "Nummer"),
+        position=_param(template, "Position"),
+        section=heading,
+    )
 
 
 def _table_rows(table) -> List[list]:
@@ -239,10 +277,14 @@ def parse_squad_players(wikitext: str) -> List[SquadPlayer]:
     """Extract the current-squad players from an article's wikitext.
 
     Auto-detects the squad format per section: English-style ``{{fs player}}``
-    templates, German-style ``{{PersonZelle}}`` table cells, and plain
+    templates, German-style ``{{PersonZelle}}`` table cells, plain
     ``{| class="wikitable"`` tables that link each player as a bare
-    ``[[wikilink]]`` in a "Spieler"/"Name" column (FC Zürich, Schalke 04) are
-    all recognised, so the same parser serves editions that use any of them.
+    ``[[wikilink]]`` in a "Spieler"/"Name" column (FC Zürich, Schalke 04), and
+    ``{{Eishockeykader/Spieler}}`` calls (Swiss/German ice hockey) are all
+    recognised, so the same parser serves editions/sports that use any of
+    them. Note that for the ice hockey format, ``wikitext`` is typically the
+    *transcluded squad template's* wikitext, not the club article's own (see
+    ``find_squad_template_title``).
 
     This is a pure function (no network) and is the heart of the tool, so it is
     covered directly by unit tests.
@@ -276,6 +318,8 @@ def parse_squad_players(wikitext: str) -> List[SquadPlayer]:
                 _add(_player_from_fs_template(template, heading))
             elif name == PERSON_ZELLE_TEMPLATE and is_squad_section:
                 _add(_player_from_person_zelle(template, heading))
+            elif name == EISHOCKEYKADER_SPIELER_TEMPLATE:
+                _add(_player_from_eishockeykader_spieler(template, heading))
 
         # Plain-wikilink squad tables (FC Zürich, Schalke 04): no player
         # template, players are [[wikilinks]] in a "Spieler"/"Name" column.
@@ -284,6 +328,24 @@ def parse_squad_players(wikitext: str) -> List[SquadPlayer]:
                 for player in _players_from_wikitable(table, heading):
                     _add(player)
     return players
+
+
+def find_squad_template_title(wikitext: str) -> Optional[str]:
+    """Return the title of a transcluded ``Navigationsleiste Kader ...``
+    squad template, or ``None`` if the article doesn't transclude one.
+
+    Some clubs (Swiss/German ice hockey) don't list their squad inline at
+    all; the article just transcludes a per-club navbox template, and the
+    actual roster lives in that template's own wikitext (fetch it as
+    ``f"Vorlage:{title}"`` and feed it to ``parse_squad_players`` instead).
+    Pure function, no network.
+    """
+    code = mwparserfromhell.parse(wikitext or "")
+    for template in code.filter_templates():
+        title = str(template.name).strip()
+        if SQUAD_NAVBOX_RE.match(_normalise_template_name(title)):
+            return title
+    return None
 
 
 class WikipediaClient:
@@ -374,6 +436,9 @@ class WikipediaClient:
         wikitext = self.fetch_wikitext(team.wikipedia_title, team.language)
         if not wikitext:
             return []
+        squad_template = find_squad_template_title(wikitext)
+        if squad_template:
+            wikitext = self.fetch_wikitext(f"Vorlage:{squad_template}", team.language) or ""
         players = parse_squad_players(wikitext)
         mapping = self.resolve_qids(
             [p.title for p in players if p.title], team.language

@@ -22,12 +22,16 @@ request_delay: 1.0
 # Team discovery (SPARQL auto-discovery)
 # ---------------------------------------------------------------------------
 # Leagues are given as Wikidata Q-IDs. For each league the tool runs a SPARQL
-# query that returns every association-football club that has the league set as
-# its `league` (P118) value.
+# query that returns every team that has the league set as its `league` (P118)
+# value and is an instance of `team_class` below (defaults to Q476028,
+# "association football club").
 #
 # Each league may set its own `language:` to read squads from the Wikipedia
 # edition that maintains that league best; if omitted it uses the default
-# `language` above.
+# `language` above. Likewise, a league may set its own `team_class:` to
+# discover a different kind of team (e.g. an ice hockey league); if omitted it
+# uses the top-level `team_class:` (or the football default).
+# team_class: Q476028
 leagues:
   - id: Q202699        # Swiss Super League (small: good for a first run)
     label: Swiss Super League

@@ -35,7 +35,7 @@ KIND_LABEL = {
 
 @dataclass
 class Team:
-    """A football club we compare across the two projects."""
+    """A sports team we compare across the two projects."""
 
     qid: str
     label: str
