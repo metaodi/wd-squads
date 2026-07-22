@@ -3,15 +3,15 @@
 - Wikidata item: [Q321061](https://www.wikidata.org/wiki/Q321061)
 - Wikipedia article: [FC Sion](https://de.wikipedia.org/wiki/FC_Sion)
 - Players in Wikipedia squad: 27
-- Current members on Wikidata: 84
-- Suggested edits: 110
-- Generated: 2026-07-22 07:49 UTC
+- Current members on Wikidata: 83
+- Suggested edits: 109
+- Generated: 2026-07-22 14:57 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
 - **[Benjamin Kololli](https://www.wikidata.org/wiki/Q16234710)** ([WP](https://de.wikipedia.org/wiki/Benjamin_Kololli)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (83)
+## Recorded as a current member, but no longer in the squad (82)
 
 - **[Aimery Pinga](https://www.wikidata.org/wiki/Q30905620)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Leandro](https://www.wikidata.org/wiki/Q2832978)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -43,7 +43,6 @@
 - **[Gabriel Cichero](https://www.wikidata.org/wiki/Q733037)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gregory Karlen](https://www.wikidata.org/wiki/Q23707675)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Guy Zock](https://www.wikidata.org/wiki/Q18719994)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Heinz Lindner](https://www.wikidata.org/wiki/Q686599)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ibrahima Gueye](https://www.wikidata.org/wiki/Q55196725)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ishmael Yartey](https://www.wikidata.org/wiki/Q2468834)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Itaitinga](https://www.wikidata.org/wiki/Q63345715)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

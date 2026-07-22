@@ -3,13 +3,9 @@
 - Wikidata item: [Q216773](https://www.wikidata.org/wiki/Q216773)
 - Wikipedia article: [FC Vaduz](https://de.wikipedia.org/wiki/FC_Vaduz)
 - Players in Wikipedia squad: 25
-- Current members on Wikidata: 38
-- Suggested edits: 63
-- Generated: 2026-07-22 07:49 UTC
-
-## Membership marked ended, but player is in the current squad (1)
-
-- **[Nicolas Hasler](https://www.wikidata.org/wiki/Q3544918)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Hasler)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- Current members on Wikidata: 39
+- Suggested edits: 62
+- Generated: 2026-07-22 14:57 UTC
 
 ## Recorded as a current member, but no longer in the squad (38)
 

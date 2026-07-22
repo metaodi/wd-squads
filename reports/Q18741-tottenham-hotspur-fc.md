@@ -2,10 +2,10 @@
 
 - Wikidata item: [Q18741](https://www.wikidata.org/wiki/Q18741)
 - Wikipedia article: [Tottenham Hotspur F.C.](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.)
-- Players in Wikipedia squad: 46
+- Players in Wikipedia squad: 45
 - Current members on Wikidata: 197
-- Suggested edits: 182
-- Generated: 2026-07-22 07:49 UTC
+- Suggested edits: 181
+- Generated: 2026-07-22 14:57 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -180,7 +180,7 @@
 - **[Willie Murray](https://www.wikidata.org/wiki/Q50365656)** — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zaine Francis-Angol](https://www.wikidata.org/wiki/Q144402)** — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (14)
+## In current squad, but no membership statement on Wikidata (13)
 
 - **[Brandon Austin](https://www.wikidata.org/wiki/Q107316392)** ([WP](https://en.wikipedia.org/wiki/Brandon_Austin)) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Callum Olusesi](https://www.wikidata.org/wiki/Q131573499)** ([WP](https://en.wikipedia.org/wiki/Callum_Olusesi)) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
@@ -195,7 +195,6 @@
 - **[Mikey Moore](https://www.wikidata.org/wiki/Q119700600)** ([WP](https://en.wikipedia.org/wiki/Mikey_Moore)) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Pape Matar Sarr](https://www.wikidata.org/wiki/Q104877690)** ([WP](https://en.wikipedia.org/wiki/Pape_Matar_Sarr)) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Souza](https://www.wikidata.org/wiki/Q124661440)** ([WP](https://en.wikipedia.org/wiki/Souza_(footballer,_born_2006))) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
-- **[Will Lankshear](https://www.wikidata.org/wiki/Q123001113)** ([WP](https://en.wikipedia.org/wiki/Will_Lankshear)) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (1)
 

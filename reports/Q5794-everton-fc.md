@@ -3,9 +3,9 @@
 - Wikidata item: [Q5794](https://www.wikidata.org/wiki/Q5794)
 - Wikipedia article: [Everton F.C.](https://en.wikipedia.org/wiki/Everton_F.C.)
 - Players in Wikipedia squad: 24
-- Current members on Wikidata: 306
-- Suggested edits: 315
-- Generated: 2026-07-22 07:49 UTC
+- Current members on Wikidata: 305
+- Suggested edits: 314
+- Generated: 2026-07-22 14:57 UTC
 
 ## Membership marked ended, but player is in the current squad (2)
 
@@ -29,7 +29,7 @@
 - **[Tyler Dibling](https://www.wikidata.org/wiki/Q115973966)** ([WP](https://en.wikipedia.org/wiki/Tyler_Dibling)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Tyrique George](https://www.wikidata.org/wiki/Q123002942)** ([WP](https://en.wikipedia.org/wiki/Tyrique_George)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (298)
+## Recorded as a current member, but no longer in the squad (297)
 
 - **[Adam Cummins](https://www.wikidata.org/wiki/Q4678918)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Eaton](https://www.wikidata.org/wiki/Q4679009)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -166,7 +166,6 @@
 - **[J Coyne](https://www.wikidata.org/wiki/Q48816261)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Deighton](https://www.wikidata.org/wiki/Q60791117)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Earp](https://www.wikidata.org/wiki/Q65048113)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jack Grealish](https://www.wikidata.org/wiki/Q16056053)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Humphreys](https://www.wikidata.org/wiki/Q23991396)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Kelleher](https://www.wikidata.org/wiki/Q21621667)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Keys](https://www.wikidata.org/wiki/Q47496193)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

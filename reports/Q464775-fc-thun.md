@@ -3,16 +3,16 @@
 - Wikidata item: [Q464775](https://www.wikidata.org/wiki/Q464775)
 - Wikipedia article: [FC Thun](https://de.wikipedia.org/wiki/FC_Thun)
 - Players in Wikipedia squad: 26
-- Current members on Wikidata: 48
-- Suggested edits: 72
-- Generated: 2026-07-22 07:49 UTC
+- Current members on Wikidata: 47
+- Suggested edits: 71
+- Generated: 2026-07-22 14:57 UTC
 
 ## Membership marked ended, but player is in the current squad (2)
 
 - **[Marco Bürki](https://www.wikidata.org/wiki/Q16229917)** ([WP](https://de.wikipedia.org/wiki/Marco_Bürki)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Nicolas Bürgy](https://www.wikidata.org/wiki/Q33891790)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Bürgy)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (47)
+## Recorded as a current member, but no longer in the squad (46)
 
 - **[Alejandro Henzi](https://www.wikidata.org/wiki/Q23799355)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Wittwer](https://www.wikidata.org/wiki/Q459680)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -48,7 +48,6 @@
 - **[Mickaël Facchinetti](https://www.wikidata.org/wiki/Q671587)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mirson Volina](https://www.wikidata.org/wiki/Q1539248)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nicola Sutter](https://www.wikidata.org/wiki/Q17403477)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Nicolas Hasler](https://www.wikidata.org/wiki/Q3544918)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Norman Peyretti](https://www.wikidata.org/wiki/Q23799365)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Omer Dzonlagic](https://www.wikidata.org/wiki/Q33891877)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Peter Kobel](https://www.wikidata.org/wiki/Q81919136)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

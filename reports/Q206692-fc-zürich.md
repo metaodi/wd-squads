@@ -3,9 +3,13 @@
 - Wikidata item: [Q206692](https://www.wikidata.org/wiki/Q206692)
 - Wikipedia article: [FC Zürich](https://de.wikipedia.org/wiki/FC_Zürich)
 - Players in Wikipedia squad: 26
-- Current members on Wikidata: 84
-- Suggested edits: 108
-- Generated: 2026-07-22 07:49 UTC
+- Current members on Wikidata: 87
+- Suggested edits: 103
+- Generated: 2026-07-22 14:57 UTC
+
+## Membership marked ended, but player is in the current squad (1)
+
+- **[Juan José Perea](https://www.wikidata.org/wiki/Q67816519)** ([WP](https://de.wikipedia.org/wiki/Juan_José_Perea)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 ## Recorded as a current member, but no longer in the squad (82)
 
@@ -92,21 +96,12 @@
 - **[Yann Kasai](https://www.wikidata.org/wiki/Q60791383)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yassin Maouche](https://www.wikidata.org/wiki/Q50820639)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (8)
+## In current squad, but no membership statement on Wikidata (4)
 
-- **[Alexander Hack](https://www.wikidata.org/wiki/Q14816335)** ([WP](https://de.wikipedia.org/wiki/Alexander_Hack)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
-- **[Heinz Lindner](https://www.wikidata.org/wiki/Q686599)** ([WP](https://de.wikipedia.org/wiki/Heinz_Lindner_(Fußballspieler))) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
-- **[Juan José Perea](https://www.wikidata.org/wiki/Q67816519)** ([WP](https://de.wikipedia.org/wiki/Juan_José_Perea)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
 - **[Kevin Spadanuda](https://www.wikidata.org/wiki/Q111149654)** ([WP](https://de.wikipedia.org/wiki/Kevin_Spadanuda)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
 - **[Lindrit Kamberi](https://www.wikidata.org/wiki/Q106797877)** ([WP](https://de.wikipedia.org/wiki/Lindrit_Kamberi)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
 - **[Livano Comenencia](https://www.wikidata.org/wiki/Q108800542)** ([WP](https://de.wikipedia.org/wiki/Livano_Comenencia)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
 - **[Umeh Emmanuel](https://www.wikidata.org/wiki/Q120444790)** ([WP](https://de.wikipedia.org/wiki/Umeh_Emmanuel)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
-- **[Valon Berisha](https://www.wikidata.org/wiki/Q275986)** ([WP](https://de.wikipedia.org/wiki/Valon_Berisha)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
-
-## Current member, but the membership has no start date (2)
-
-- **[Bledian Krasniqi](https://www.wikidata.org/wiki/Q60621353)** ([WP](https://de.wikipedia.org/wiki/Bledian_Krasniqi)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-- **[Ilan Sauter](https://www.wikidata.org/wiki/Q60791291)** ([WP](https://de.wikipedia.org/wiki/Ilan_Sauter)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 ## In current squad, but the Wikipedia article has no Wikidata item (16)
 

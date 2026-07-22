@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q692691](https://www.wikidata.org/wiki/Q692691)
 - Wikipedia article: [SV Elversberg](https://de.wikipedia.org/wiki/SV_Elversberg)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 28
 - Current members on Wikidata: 40
-- Suggested edits: 67
-- Generated: 2026-07-22 07:49 UTC
+- Suggested edits: 66
+- Generated: 2026-07-22 14:57 UTC
 
-## Recorded as a current member, but no longer in the squad (40)
+## Recorded as a current member, but no longer in the squad (39)
 
 - **[Aldin Skenderovic](https://www.wikidata.org/wiki/Q30142777)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Schmieden](https://www.wikidata.org/wiki/Q17310192)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -25,7 +25,6 @@
 - **[Kevin Fend](https://www.wikidata.org/wiki/Q16233136)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kevin Maek](https://www.wikidata.org/wiki/Q832156)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Leandro Grech](https://www.wikidata.org/wiki/Q1810664)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Luca Sirch](https://www.wikidata.org/wiki/Q107035469)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lukas Kohler](https://www.wikidata.org/wiki/Q1876917)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marc Gross](https://www.wikidata.org/wiki/Q14596035)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Markus Obernosterer](https://www.wikidata.org/wiki/Q1901703)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

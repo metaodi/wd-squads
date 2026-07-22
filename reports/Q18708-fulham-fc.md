@@ -2,16 +2,16 @@
 
 - Wikidata item: [Q18708](https://www.wikidata.org/wiki/Q18708)
 - Wikipedia article: [Fulham F.C.](https://en.wikipedia.org/wiki/Fulham_F.C.)
-- Players in Wikipedia squad: 23
+- Players in Wikipedia squad: 22
 - Current members on Wikidata: 279
-- Suggested edits: 280
-- Generated: 2026-07-22 07:49 UTC
+- Suggested edits: 281
+- Generated: 2026-07-22 14:57 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
 - **[Jorge Cuenca](https://www.wikidata.org/wiki/Q28972640)** ([WP](https://en.wikipedia.org/wiki/Jorge_Cuenca)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (267)
+## Recorded as a current member, but no longer in the squad (268)
 
 - **[Aboubakar Kamara](https://www.wikidata.org/wiki/Q18206847)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abraham Wales](https://www.wikidata.org/wiki/Q96313674)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -215,6 +215,7 @@
 - **[Percy Champion](https://www.wikidata.org/wiki/Q27178190)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Peter Docherty](https://www.wikidata.org/wiki/Q27914824)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Peter Scott](https://www.wikidata.org/wiki/Q85792950)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Q21621180](https://www.wikidata.org/wiki/Q21621180)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rachel Unitt](https://www.wikidata.org/wiki/Q10869)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Randolph Jenkins](https://www.wikidata.org/wiki/Q28868012)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Reece Jones](https://www.wikidata.org/wiki/Q7306576)** — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
