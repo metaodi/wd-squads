@@ -3,14 +3,12 @@
 - Wikidata item: [Q190526](https://www.wikidata.org/wiki/Q190526)
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
 - Players in Wikipedia squad: 0
-- Current members on Wikidata: 93
-- Suggested edits: 93
-- Generated: 2026-07-21 20:56 UTC
+- Current members on Wikidata: 90
+- Suggested edits: 90
+- Generated: 2026-07-22 05:04 UTC
 
-## Recorded as a current member, but no longer in the squad (93)
+## Recorded as a current member, but no longer in the squad (90)
 
-- **[Adrian Lingenhag](https://www.wikidata.org/wiki/Q16525302)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Alain Baumann](https://www.wikidata.org/wiki/Q65607879)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Gerndt](https://www.wikidata.org/wiki/Q610747)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alvyn Sanches](https://www.wikidata.org/wiki/Q105979851)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[André Daina](https://www.wikidata.org/wiki/Q251426)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -99,6 +97,5 @@
 - **[Werner Zehnder](https://www.wikidata.org/wiki/Q26997419)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yoric Ravet](https://www.wikidata.org/wiki/Q952280)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Youssouf Traoré](https://www.wikidata.org/wiki/Q2601406)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Yvon Mvogo](https://www.wikidata.org/wiki/Q16236380)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zenun Selimi](https://www.wikidata.org/wiki/Q23908317)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ľubomír Plevka](https://www.wikidata.org/wiki/Q10544885)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21 20:56 UTC",
-  "total_suggestions": 7344,
+  "generated": "2026-07-22 05:04 UTC",
+  "total_suggestions": 7494,
   "teams": [
     {
       "qid": "Q339492",
@@ -16,31 +16,9 @@
       "label": "BSC Young Boys",
       "wikipedia_title": "BSC Young Boys",
       "squad_size": 0,
-      "wikidata_current": 93,
+      "wikidata_current": 90,
       "error": null,
       "suggestions": [
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Adrian Lingenhag",
-          "player_qid": "Q16525302",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q16525302",
-            "team": "https://www.wikidata.org/wiki/Q190526"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Alain Baumann",
-          "player_qid": "Q65607879",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q65607879",
-            "team": "https://www.wikidata.org/wiki/Q190526"
-          }
-        },
         {
           "kind": "ADD_END_DATE",
           "player": "Alexander Gerndt",
@@ -1006,17 +984,6 @@
           "detail": "Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "links": {
             "item": "https://www.wikidata.org/wiki/Q2601406",
-            "team": "https://www.wikidata.org/wiki/Q190526"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Yvon Mvogo",
-          "player_qid": "Q16236380",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q16236380",
             "team": "https://www.wikidata.org/wiki/Q190526"
           }
         },
@@ -18112,7 +18079,7 @@
       "label": "Borussia Dortmund",
       "wikipedia_title": "Borussia Dortmund",
       "squad_size": 0,
-      "wikidata_current": 78,
+      "wikidata_current": 79,
       "error": null,
       "suggestions": [
         {
@@ -18167,6 +18134,17 @@
           "detail": "Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "links": {
             "item": "https://www.wikidata.org/wiki/Q55081295",
+            "team": "https://www.wikidata.org/wiki/Q41420"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Carney Chukwuemeka",
+          "player_qid": "Q106915801",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q106915801",
             "team": "https://www.wikidata.org/wiki/Q41420"
           }
         },
@@ -27170,7 +27148,7 @@
       "label": "RB Leipzig",
       "wikipedia_title": "RB Leipzig",
       "squad_size": 0,
-      "wikidata_current": 101,
+      "wikidata_current": 100,
       "error": null,
       "suggestions": [
         {
@@ -28259,17 +28237,6 @@
           "detail": "Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "links": {
             "item": "https://www.wikidata.org/wiki/Q16230194",
-            "team": "https://www.wikidata.org/wiki/Q702455"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Yvon Mvogo",
-          "player_qid": "Q16236380",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q16236380",
             "team": "https://www.wikidata.org/wiki/Q702455"
           }
         },
@@ -39112,7 +39079,7 @@
       "label": "Aston Villa F.C.",
       "wikipedia_title": "Aston Villa F.C.",
       "squad_size": 55,
-      "wikidata_current": 284,
+      "wikidata_current": 283,
       "error": null,
       "suggestions": [
         {
@@ -41511,17 +41478,6 @@
             "team": "https://www.wikidata.org/wiki/Q18711",
             "wikipedia": "https://en.wikipedia.org/wiki/Modou_Kéba_Cissé",
             "item": "https://www.wikidata.org/wiki/Q132719377"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Morgan Rogers",
-          "player_qid": "Q61598452",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q61598452",
-            "team": "https://www.wikidata.org/wiki/Q18711"
           }
         },
         {
@@ -47435,293 +47391,11 @@
       ]
     },
     {
-      "qid": "Q130302376",
-      "label": "CSM Târgu Jiu",
-      "wikipedia_title": "CSM Târgu Jiu (football)",
-      "squad_size": 27,
-      "wikidata_current": 0,
-      "error": null,
-      "suggestions": [
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Adelin Pîrcălabu",
-          "player_qid": "Q26209588",
-          "wikipedia_title": "Adelin Pîrcălabu",
-          "detail": "Add a 'member of sports team' (P54) statement → CSM Târgu Jiu (Q130302376); the player is in the current squad on Wikipedia.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376",
-            "wikipedia": "https://en.wikipedia.org/wiki/Adelin_Pîrcălabu",
-            "item": "https://www.wikidata.org/wiki/Q26209588"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Albert Cărămidaru",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Albert Cărămidaru' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Albert Filip",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Albert Filip' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Alexandru Lăpădat",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Alexandru Lăpădat' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Alexandru Oprița",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Alexandru Oprița' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Andrei Poenaru",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Andrei Poenaru' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Andrei Rasoveanu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Andrei Rasoveanu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Andrei Trancău",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Andrei Trancău' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Antonio Surcel",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Antonio Surcel' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Bebeto Lupuleț",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Bebeto Lupuleț' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Dragoș Blaj",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Dragoș Blaj' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Eduard Trăistaru",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Eduard Trăistaru' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Elis Detculescu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Elis Detculescu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Fabian Bărănescu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Fabian Bărănescu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Gheorghe Ciortan",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Gheorghe Ciortan' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Ionuț Budilică",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Ionuț Budilică' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Ionuț Buță",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Ionuț Buță' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Ionuț Purdescu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Ionuț Purdescu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Lucian Marina",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Lucian Marina' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Marian Habet",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Marian Habet' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Mario Țambu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Mario Țambu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Mihai Miculicean",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Mihai Miculicean' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Mihnea Tutunaru",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Mihnea Tutunaru' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Ovidiu Rasoveanu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Ovidiu Rasoveanu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Robert Stancu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Robert Stancu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Sebastian Popescu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Sebastian Popescu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Tudor Pătrășcoiu",
-          "player_qid": null,
-          "wikipedia_title": null,
-          "detail": "'Tudor Pătrășcoiu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q130302376"
-          }
-        }
-      ]
-    },
-    {
       "qid": "Q9616",
       "label": "Chelsea F.C.",
       "wikipedia_title": "Chelsea F.C.",
       "squad_size": 52,
-      "wikidata_current": 150,
+      "wikidata_current": 151,
       "error": null,
       "suggestions": [
         {
@@ -48836,18 +48510,6 @@
           "links": {
             "item": "https://www.wikidata.org/wiki/Q2033463",
             "team": "https://www.wikidata.org/wiki/Q9616"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Morgan Rogers",
-          "player_qid": "Q61598452",
-          "wikipedia_title": "Morgan Rogers",
-          "detail": "Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.",
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q9616",
-            "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Rogers",
-            "item": "https://www.wikidata.org/wiki/Q61598452"
           }
         },
         {
@@ -51801,22 +51463,22 @@
         {
           "kind": "ADD_END_DATE",
           "player": "George Walker",
-          "player_qid": "Q16886404",
+          "player_qid": "Q16030107",
           "wikipedia_title": null,
           "detail": "Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "links": {
-            "item": "https://www.wikidata.org/wiki/Q16886404",
+            "item": "https://www.wikidata.org/wiki/Q16030107",
             "team": "https://www.wikidata.org/wiki/Q19467"
           }
         },
         {
           "kind": "ADD_END_DATE",
           "player": "George Walker",
-          "player_qid": "Q16030107",
+          "player_qid": "Q16886404",
           "wikipedia_title": null,
           "detail": "Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "links": {
-            "item": "https://www.wikidata.org/wiki/Q16030107",
+            "item": "https://www.wikidata.org/wiki/Q16886404",
             "team": "https://www.wikidata.org/wiki/Q19467"
           }
         },
@@ -81688,10 +81350,2029 @@
       "qid": "Q18741",
       "label": "Tottenham Hotspur F.C.",
       "wikipedia_title": "Tottenham Hotspur F.C.",
-      "squad_size": 0,
-      "wikidata_current": 0,
-      "error": "Request to https://query.wikidata.org/sparql failed after 4 attempts",
-      "suggestions": []
+      "squad_size": 46,
+      "wikidata_current": 197,
+      "error": null,
+      "suggestions": [
+        {
+          "kind": "REVIEW_ENDED",
+          "player": "Alfie Dorrington",
+          "player_qid": "Q123353679",
+          "wikipedia_title": "Alfie Dorrington",
+          "detail": "Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Alfie_Dorrington",
+            "item": "https://www.wikidata.org/wiki/Q123353679"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Aaron McEneff",
+          "player_qid": "Q53567638",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q53567638",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Alan Connell",
+          "player_qid": "Q4706403",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4706403",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Albert Chester",
+          "player_qid": "Q20859550",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20859550",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Alex Hamill",
+          "player_qid": "Q20631173",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20631173",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Alexander Biggar",
+          "player_qid": "Q16197913",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q16197913",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Alf Freeman",
+          "player_qid": "Q4721674",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4721674",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Alfred Whyman",
+          "player_qid": "Q4723618",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4723618",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Andre Blackman",
+          "player_qid": "Q4754738",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4754738",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Andrew Thomas Ralston",
+          "player_qid": "Q19975095",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q19975095",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Andy Polston",
+          "player_qid": "Q4761180",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4761180",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Andy Theodosiou",
+          "player_qid": "Q4761386",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4761386",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Arthur Elliott",
+          "player_qid": "Q16066728",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q16066728",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Arthur Sinning",
+          "player_qid": "Q4800292",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4800292",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Arthur Turner",
+          "player_qid": "Q4800503",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4800503",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bill Edrich",
+          "player_qid": "Q3528662",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q3528662",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bill Joyce",
+          "player_qid": "Q4909649",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4909649",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bill Julian",
+          "player_qid": "Q2461222",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q2461222",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bill Parry",
+          "player_qid": "Q4910431",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4910431",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bill Whatley",
+          "player_qid": "Q4911339",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4911339",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Billy Leech",
+          "player_qid": "Q4912890",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4912890",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Billy Minter",
+          "player_qid": "Q4913040",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4913040",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Billy Roberts",
+          "player_qid": "Q4913246",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4913246",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Billy Smith",
+          "player_qid": "Q18148449",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q18148449",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Billy Sperrin",
+          "player_qid": "Q18128286",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q18128286",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bob Humphries",
+          "player_qid": "Q60674764",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q60674764",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bobby Bell",
+          "player_qid": "Q4934762",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4934762",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bobby Buckle",
+          "player_qid": "Q4934826",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4934826",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Bobby Flavell",
+          "player_qid": "Q4935001",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4935001",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Brandon Austin",
+          "player_qid": "Q107316392",
+          "wikipedia_title": "Brandon Austin",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Brandon_Austin",
+            "item": "https://www.wikidata.org/wiki/Q107316392"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Callum Olusesi",
+          "player_qid": "Q131573499",
+          "wikipedia_title": "Callum Olusesi",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Callum_Olusesi",
+            "item": "https://www.wikidata.org/wiki/Q131573499"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Callum Tapping",
+          "player_qid": "Q5022991",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5022991",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Cameron Carter-Vickers",
+          "player_qid": "Q21620981",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q21620981",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Charlie Sheringham",
+          "player_qid": "Q1245704",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q1245704",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Clayton Fortune",
+          "player_qid": "Q5130221",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5130221",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Connor Ogilvie",
+          "player_qid": "Q21014276",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q21014276",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Coşkun Ekim",
+          "player_qid": "Q5180178",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5180178",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Craig Edwards",
+          "player_qid": "Q5180923",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5180923",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Curtis Alexander",
+          "player_qid": "Q5195672",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5195672",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Cy Goddard",
+          "player_qid": "Q58973794",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q58973794",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Damola Ajayi",
+          "player_qid": "Q131953986",
+          "wikipedia_title": "Damola Ajayi",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Damola_Ajayi",
+            "item": "https://www.wikidata.org/wiki/Q131953986"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Danny Greaves",
+          "player_qid": "Q5220398",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5220398",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Darren McQueen",
+          "player_qid": "Q17517209",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q17517209",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "David Copeland",
+          "player_qid": "Q5232555",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5232555",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "David Jenkins",
+          "player_qid": "Q5235620",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5235620",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "David Nelson",
+          "player_qid": "Q5237965",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5237965",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Dennis Gordon",
+          "player_qid": "Q56036399",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q56036399",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Dominic Ball",
+          "player_qid": "Q18977729",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q18977729",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Drew Spence",
+          "player_qid": "Q21519848",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q21519848",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Dávinson Sánchez",
+          "player_qid": "Q20737387",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20737387",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Emmanuel Sonupe",
+          "player_qid": "Q19594196",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q19594196",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ernie Goldthorpe",
+          "player_qid": "Q10402233",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10402233",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Fanny Walden",
+          "player_qid": "Q5434068",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5434068",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Filip Lesniak",
+          "player_qid": "Q22099212",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q22099212",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Frank Scott-Walford",
+          "player_qid": "Q5489465",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5489465",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Fred Hopkin",
+          "player_qid": "Q10379931",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10379931",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Fred Kirkham",
+          "player_qid": "Q5495667",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5495667",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Freddie Cox",
+          "player_qid": "Q5496704",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5496704",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Fritz Schmid",
+          "player_qid": "Q50072113",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q50072113",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Gareth Knott",
+          "player_qid": "Q28864241",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q28864241",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "George Coomber",
+          "player_qid": "Q56036401",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q56036401",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "George Ephgrave",
+          "player_qid": "Q5539007",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5539007",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "George Marsh",
+          "player_qid": "Q60733852",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q60733852",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "George Moncur",
+          "player_qid": "Q4251001",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4251001",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "George Travers",
+          "player_qid": "Q5545301",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5545301",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Georges-Kévin Nkoudou",
+          "player_qid": "Q15084554",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q15084554",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Glynn Hurst",
+          "player_qid": "Q5572973",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5572973",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Grant Ward",
+          "player_qid": "Q17183995",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q17183995",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Harry Redknapp",
+          "player_qid": "Q221349",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q221349",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Harry Voss",
+          "player_qid": "Q22098855",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q22098855",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ian Gilzean",
+          "player_qid": "Q5981658",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5981658",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ian Stonebridge",
+          "player_qid": "Q5983004",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5983004",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ijah Anderson",
+          "player_qid": "Q5995067",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5995067",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ismail Azzaoui",
+          "player_qid": "Q21525444",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q21525444",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ivor Griffiths",
+          "player_qid": "Q6099393",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6099393",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jack Curtis",
+          "player_qid": "Q21592370",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q21592370",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jack Hall",
+          "player_qid": "Q6112882",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6112882",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jack Jull",
+          "player_qid": "Q6113381",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6113381",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jack Montgomery",
+          "player_qid": "Q93117627",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q93117627",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jack Rutherford",
+          "player_qid": "Q16030100",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q16030100",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jaden Brown",
+          "player_qid": "Q61118243",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q61118243",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jake Reeves",
+          "player_qid": "Q6124933",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6124933",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "James Moles",
+          "player_qid": "Q10464195",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10464195",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "James Reid",
+          "player_qid": "Q6141948",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6141948",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "James Rowswell",
+          "player_qid": "Q138681810",
+          "wikipedia_title": "James Rowswell",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/James_Rowswell",
+            "item": "https://www.wikidata.org/wiki/Q138681810"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jamie Attwell",
+          "player_qid": "Q6146572",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6146572",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Jamie Donley",
+          "player_qid": "Q123652463",
+          "wikipedia_title": "Jamie Donley",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Donley",
+            "item": "https://www.wikidata.org/wiki/Q123652463"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Jan Paul van Hecke",
+          "player_qid": "Q66828825",
+          "wikipedia_title": "Jan Paul van Hecke",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke",
+            "item": "https://www.wikidata.org/wiki/Q66828825"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jason Banton",
+          "player_qid": "Q6161973",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6161973",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jason Cook",
+          "player_qid": "Q16198276",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q16198276",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jimmy Anderson",
+          "player_qid": "Q6199522",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6199522",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jimmy Chipperfield",
+          "player_qid": "Q6199813",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6199813",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jimmy Melia",
+          "player_qid": "Q35679428",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q35679428",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jimmy Walker",
+          "player_qid": "Q1368131",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q1368131",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Joe Pritchard",
+          "player_qid": "Q22100168",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q22100168",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "John Cheesewright",
+          "player_qid": "Q6225843",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6225843",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "John Holsgrove",
+          "player_qid": "Q6239688",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6239688",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "John Watson",
+          "player_qid": "Q6263233",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6263233",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "John Westwood",
+          "player_qid": "Q3182716",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q3182716",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "John Whitbourn",
+          "player_qid": "Q55367583",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q55367583",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jon Jönsson",
+          "player_qid": "Q679778",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q679778",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jonathan Miles",
+          "player_qid": "Q10557688",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10557688",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Joseph William Julian",
+          "player_qid": "Q18225242",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q18225242",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Josh Onomah",
+          "player_qid": "Q18809182",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q18809182",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Jun'ai Byfield",
+          "player_qid": "Q136677630",
+          "wikipedia_title": "Jun'ai Byfield",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jun'ai_Byfield",
+            "item": "https://www.wikidata.org/wiki/Q136677630"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Junior McDougald",
+          "player_qid": "Q10435356",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10435356",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Kane Vincent-Young",
+          "player_qid": "Q20876422",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20876422",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Keith Blunt",
+          "player_qid": "Q3436873",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q3436873",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Keith Tonge",
+          "player_qid": "Q17388844",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q17388844",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Kenny Dyer",
+          "player_qid": "Q610475",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q610475",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Kevin Danso",
+          "player_qid": "Q28868192",
+          "wikipedia_title": "Kevin Danso",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Danso",
+            "item": "https://www.wikidata.org/wiki/Q28868192"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Kevin Dickenson",
+          "player_qid": "Q6396147",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6396147",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Kevin Stead",
+          "player_qid": "Q6397541",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6397541",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Kyle Walker-Peters",
+          "player_qid": "Q30128591",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q30128591",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Kōta Takai",
+          "player_qid": "Q111113892",
+          "wikipedia_title": "Kōta Takai",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Kōta_Takai",
+            "item": "https://www.wikidata.org/wiki/Q111113892"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Lucá Williams-Barnett",
+          "player_qid": "Q133455007",
+          "wikipedia_title": "Lucá Williams-Barnett",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Lucá_Williams-Barnett",
+            "item": "https://www.wikidata.org/wiki/Q133455007"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Luke Garrard",
+          "player_qid": "Q6701995",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6701995",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Luke Medley",
+          "player_qid": "Q5982940",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q5982940",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Luke Prosser",
+          "player_qid": "Q6702282",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6702282",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Lyle Della-Verde",
+          "player_qid": "Q20807337",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20807337",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Mark Newson",
+          "player_qid": "Q6769020",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6769020",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Mark Wright",
+          "player_qid": "Q6770436",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6770436",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Martin McIntosh",
+          "player_qid": "Q6776165",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6776165",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Martin Robinson",
+          "player_qid": "Q6776477",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6776477",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Martin Thomas",
+          "player_qid": "Q6776739",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6776739",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Matt Doherty",
+          "player_qid": "Q4167438",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q4167438",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Michel Vorm",
+          "player_qid": "Q208518",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q208518",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Mikey Moore",
+          "player_qid": "Q119700600",
+          "wikipedia_title": "Mikey Moore",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Mikey_Moore",
+            "item": "https://www.wikidata.org/wiki/Q119700600"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Musa Yahaya",
+          "player_qid": "Q20056621",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20056621",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Nabil Bentaleb",
+          "player_qid": "Q15410320",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q15410320",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Nathan Oduwa",
+          "player_qid": "Q19577463",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q19577463",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Neil Smith",
+          "player_qid": "Q6989325",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6989325",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Nesta Guinness-Walker",
+          "player_qid": "Q66132333",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q66132333",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Nya Kirby",
+          "player_qid": "Q44737879",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q44737879",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ollie Morah",
+          "player_qid": "Q10513501",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10513501",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Pape Matar Sarr",
+          "player_qid": "Q104877690",
+          "wikipedia_title": "Pape Matar Sarr",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Pape_Matar_Sarr",
+            "item": "https://www.wikidata.org/wiki/Q104877690"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Pat Gallacher",
+          "player_qid": "Q21997527",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q21997527",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Paul Baxter",
+          "player_qid": "Q7149271",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7149271",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Paulo Gazzaniga",
+          "player_qid": "Q93578",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q93578",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Peter Murphy",
+          "player_qid": "Q2057277",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q2057277",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Philip Holyoak",
+          "player_qid": "Q11995594",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q11995594",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ramil Sheriff",
+          "player_qid": "Q17403441",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q17403441",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ray White",
+          "player_qid": "Q7298281",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7298281",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Reece Oxford",
+          "player_qid": "Q20641277",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20641277",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Robert Codner",
+          "player_qid": "Q7343008",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7343008",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Roger Smith",
+          "player_qid": "Q46996225",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q46996225",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ron Ward",
+          "player_qid": "Q17019992",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q17019992",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Roy Bailey",
+          "player_qid": "Q7372539",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7372539",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Roy Cotton",
+          "player_qid": "Q17402856",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q17402856",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Roy Hollis",
+          "player_qid": "Q7372966",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7372966",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ryan Maxwell",
+          "player_qid": "Q7384290",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7384290",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ryan Sessegnon",
+          "player_qid": "Q26250297",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q26250297",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Shaun Murray",
+          "player_qid": "Q7490926",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7490926",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Simon Wormull",
+          "player_qid": "Q10431301",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10431301",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Souza",
+          "player_qid": "Q124661440",
+          "wikipedia_title": "Souza (footballer, born 2006)",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Souza_(footballer,_born_2006)",
+            "item": "https://www.wikidata.org/wiki/Q124661440"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Taffy O'Callaghan",
+          "player_qid": "Q7674966",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7674966",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tashan Oakley-Boothe",
+          "player_qid": "Q34756734",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q34756734",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Ted Bassett",
+          "player_qid": "Q7692988",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7692988",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Terry Curran",
+          "player_qid": "Q18719356",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q18719356",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Thomas Clay",
+          "player_qid": "Q7788455",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7788455",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Thomas Fitchie",
+          "player_qid": "Q7789608",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7789608",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "TJ Eyoma",
+          "player_qid": "Q44737868",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q44737868",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tom Carroll",
+          "player_qid": "Q599963",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q599963",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tom Evans",
+          "player_qid": "Q7815737",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7815737",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tom Glover",
+          "player_qid": "Q42287927",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q42287927",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tom Morris",
+          "player_qid": "Q7816944",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7816944",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tom Smith",
+          "player_qid": "Q10463682",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q10463682",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tommy Atherton",
+          "player_qid": "Q20806863",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20806863",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Tommy Gipps",
+          "player_qid": "Q7819443",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7819443",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Trevor Smith",
+          "player_qid": "Q23301493",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q23301493",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Troy Parrott",
+          "player_qid": "Q67243168",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q67243168",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Vincent Janssen",
+          "player_qid": "Q14856634",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q14856634",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Wally Odell",
+          "player_qid": "Q28023268",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q28023268",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Walter Bull",
+          "player_qid": "Q7964415",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q7964415",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Warney Cresswell",
+          "player_qid": "Q3566357",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q3566357",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Warren Gravette",
+          "player_qid": "Q18719444",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q18719444",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Will Lankshear",
+          "player_qid": "Q123001113",
+          "wikipedia_title": "Will Lankshear",
+          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Will_Lankshear",
+            "item": "https://www.wikidata.org/wiki/Q123001113"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Willie Hall",
+          "player_qid": "Q6613340",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q6613340",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Willie McIver",
+          "player_qid": "Q20876741",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q20876741",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Willie Murray",
+          "player_qid": "Q50365656",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q50365656",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Zaine Francis-Angol",
+          "player_qid": "Q144402",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q144402",
+            "team": "https://www.wikidata.org/wiki/Q18741"
+          }
+        },
+        {
+          "kind": "ADD_START_DATE",
+          "player": "George Abbott",
+          "player_qid": "Q118915232",
+          "wikipedia_title": "George Abbott (footballer, born August 2005)",
+          "detail": "Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.",
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/George_Abbott_(footballer,_born_August_2005)",
+            "item": "https://www.wikidata.org/wiki/Q118915232"
+          }
+        }
+      ]
     }
   ]
 }

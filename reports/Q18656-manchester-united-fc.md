@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 44
 - Current members on Wikidata: 405
 - Suggested edits: 410
-- Generated: 2026-07-21 20:56 UTC
+- Generated: 2026-07-22 05:04 UTC
 
 ## Membership marked ended, but player is in the current squad (2)
 

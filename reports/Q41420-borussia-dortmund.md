@@ -3,17 +3,18 @@
 - Wikidata item: [Q41420](https://www.wikidata.org/wiki/Q41420)
 - Wikipedia article: [Borussia Dortmund](https://de.wikipedia.org/wiki/Borussia_Dortmund)
 - Players in Wikipedia squad: 0
-- Current members on Wikidata: 78
-- Suggested edits: 78
-- Generated: 2026-07-21 20:56 UTC
+- Current members on Wikidata: 79
+- Suggested edits: 79
+- Generated: 2026-07-22 05:04 UTC
 
-## Recorded as a current member, but no longer in the squad (78)
+## Recorded as a current member, but no longer in the squad (79)
 
 - **[Alfred Kohlhäufl](https://www.wikidata.org/wiki/Q2645311)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alfred Mikuda](https://www.wikidata.org/wiki/Q61663379)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Müller](https://www.wikidata.org/wiki/Q499722)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Atakan Karazor](https://www.wikidata.org/wiki/Q47487632)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Berkant Güner](https://www.wikidata.org/wiki/Q55081295)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Carney Chukwuemeka](https://www.wikidata.org/wiki/Q106915801)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Cedric Wilmes](https://www.wikidata.org/wiki/Q2943799)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Cole Campbell](https://www.wikidata.org/wiki/Q116725515)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Damir Vrančić](https://www.wikidata.org/wiki/Q715885)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

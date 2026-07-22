@@ -3,9 +3,9 @@
 - Wikidata item: [Q9616](https://www.wikidata.org/wiki/Q9616)
 - Wikipedia article: [Chelsea F.C.](https://en.wikipedia.org/wiki/Chelsea_F.C.)
 - Players in Wikipedia squad: 52
-- Current members on Wikidata: 150
-- Suggested edits: 146
-- Generated: 2026-07-21 20:56 UTC
+- Current members on Wikidata: 151
+- Suggested edits: 145
+- Generated: 2026-07-22 05:04 UTC
 
 ## Membership marked ended, but player is in the current squad (3)
 
@@ -137,7 +137,7 @@
 - **[Yuriel Celi](https://www.wikidata.org/wiki/Q64008958)** — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Álvaro Fernández](https://www.wikidata.org/wiki/Q110001765)** — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+## In current squad, but no membership statement on Wikidata (18)
 
 - **[Deivid Washington](https://www.wikidata.org/wiki/Q114405335)** ([WP](https://en.wikipedia.org/wiki/Deivid_Washington)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Dujuan Richards](https://www.wikidata.org/wiki/Q117076000)** ([WP](https://en.wikipedia.org/wiki/Dujuan_Richards)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
@@ -150,7 +150,6 @@
 - **[Kendry Páez](https://www.wikidata.org/wiki/Q116466426)** ([WP](https://en.wikipedia.org/wiki/Kendry_Páez)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Kiano Dyer](https://www.wikidata.org/wiki/Q123002504)** ([WP](https://en.wikipedia.org/wiki/Kiano_Dyer)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Mamadou Sarr](https://www.wikidata.org/wiki/Q108187024)** ([WP](https://en.wikipedia.org/wiki/Mamadou_Sarr)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
-- **[Morgan Rogers](https://www.wikidata.org/wiki/Q61598452)** ([WP](https://en.wikipedia.org/wiki/Morgan_Rogers)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Omari Kellyman](https://www.wikidata.org/wiki/Q120866977)** ([WP](https://en.wikipedia.org/wiki/Omari_Kellyman)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Reggie Walsh](https://www.wikidata.org/wiki/Q133443961)** ([WP](https://en.wikipedia.org/wiki/Reggie_Walsh)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Ronnie Stutter](https://www.wikidata.org/wiki/Q122641931)** ([WP](https://en.wikipedia.org/wiki/Ronnie_Stutter)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.

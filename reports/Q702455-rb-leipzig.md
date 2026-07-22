@@ -3,11 +3,11 @@
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
 - Players in Wikipedia squad: 0
-- Current members on Wikidata: 101
-- Suggested edits: 101
-- Generated: 2026-07-21 20:56 UTC
+- Current members on Wikidata: 100
+- Suggested edits: 100
+- Generated: 2026-07-22 05:04 UTC
 
-## Recorded as a current member, but no longer in the squad (101)
+## Recorded as a current member, but no longer in the squad (100)
 
 - **[Alexander Siebeck](https://www.wikidata.org/wiki/Q20437173)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Sorge](https://www.wikidata.org/wiki/Q24701204)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -108,5 +108,4 @@
 - **[Xaver Schlager](https://www.wikidata.org/wiki/Q20190657)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yan Diomande](https://www.wikidata.org/wiki/Q133698867)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yuliyan Chapaev](https://www.wikidata.org/wiki/Q16230194)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Yvon Mvogo](https://www.wikidata.org/wiki/Q16236380)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zsolt Kalmár](https://www.wikidata.org/wiki/Q16236806)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

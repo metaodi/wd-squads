@@ -3,9 +3,9 @@
 - Wikidata item: [Q18711](https://www.wikidata.org/wiki/Q18711)
 - Wikipedia article: [Aston Villa F.C.](https://en.wikipedia.org/wiki/Aston_Villa_F.C.)
 - Players in Wikipedia squad: 55
-- Current members on Wikidata: 284
-- Suggested edits: 306
-- Generated: 2026-07-21 20:56 UTC
+- Current members on Wikidata: 283
+- Suggested edits: 305
+- Generated: 2026-07-22 05:04 UTC
 
 ## Membership marked ended, but player is in the current squad (3)
 
@@ -13,7 +13,7 @@
 - **[Tammy Abraham](https://www.wikidata.org/wiki/Q24050378)** ([WP](https://en.wikipedia.org/wiki/Tammy_Abraham)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Tyrone Mings](https://www.wikidata.org/wiki/Q16235643)** ([WP](https://en.wikipedia.org/wiki/Tyrone_Mings)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (265)
+## Recorded as a current member, but no longer in the squad (264)
 
 - **[Aaron Tshibola](https://www.wikidata.org/wiki/Q18128872)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abbey-Leigh Stringer](https://www.wikidata.org/wiki/Q24452314)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -209,7 +209,6 @@
 - **[Michael Tait](https://www.wikidata.org/wiki/Q85785225)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Micky Noon](https://www.wikidata.org/wiki/Q95610040)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mitch Clark](https://www.wikidata.org/wiki/Q37794990)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Morgan Rogers](https://www.wikidata.org/wiki/Q61598452)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mungo Bridge](https://www.wikidata.org/wiki/Q104737183)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nathan Baker](https://www.wikidata.org/wiki/Q970896)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Niall Mason](https://www.wikidata.org/wiki/Q26251658)** — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
