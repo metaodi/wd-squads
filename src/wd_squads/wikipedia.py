@@ -14,22 +14,37 @@ from .models import SquadPlayer, Team
 log = logging.getLogger(__name__)
 
 # Template names (normalised) that describe one squad player.
+#
+# English (and other {{fs player}}-style) editions wrap each player in an
+# ``{{fs player}}`` template. German Wikipedia instead renders the squad as a
+# ``{| class="wikitable"`` table whose player cells use ``{{PersonZelle}}``.
+# We recognise both so a single parser works across editions (auto-detect).
 FS_PLAYER_TEMPLATES = {"fs player", "football squad player"}
+PERSON_ZELLE_TEMPLATE = "personzelle"
 
-# Section headings that list *former* players even though they sometimes use
-# the {{fs player}} template. Players found under these are ignored, so we do
-# not wrongly treat them as current members.
+# Section headings that list *former* players (or staff / transfers) even though
+# they use the same squad templates. Players found under these are ignored, so
+# we do not wrongly treat them as current members. The English terms are
+# word-anchored; the German stems are matched as substrings because German
+# forms compounds (e.g. "Kaderveränderungen", "Trainer- und Betreuerstab").
 EXCLUDE_HEADING_RE = re.compile(
-    r"\b(former|retired number|notable|hall of fame|no longer)\b", re.IGNORECASE
+    r"\b(former|retired number|notable|hall of fame|no longer)\b"
+    r"|ehemalig|berühmt|zugäng|abgäng|transfer|wechsel|veränderung"
+    r"|trainer|betreuer|funktionstea?m|vorstand|präsidium|vereinsführung"
+    r"|aufsichtsrat|geschäftsführung|verwaltung",
+    re.IGNORECASE,
 )
+
+# Positive marker that a section actually holds a squad. This gate is applied
+# only to the German table format ({{PersonZelle}}), which also appears in
+# unrelated tables (coaching staff, record appearances, …); requiring a
+# "Kader"/"Aufgebot" heading keeps those out. The {{fs player}} format keeps
+# its original, ungated behaviour.
+SQUAD_HEADING_RE = re.compile(r"kader|aufgebot", re.IGNORECASE)
 
 
 def _normalise_template_name(name: str) -> str:
     return re.sub(r"\s+", " ", name.strip()).lower()
-
-
-def _is_fs_player(template) -> bool:
-    return _normalise_template_name(str(template.name)) in FS_PLAYER_TEMPLATES
 
 
 def _parse_name_param(value) -> tuple[Optional[str], str]:
@@ -56,8 +71,64 @@ def _param(template, name: str) -> Optional[str]:
     return value or None
 
 
+def _positional_args(template) -> List[str]:
+    """Return the unnamed (positional) parameter values of a template."""
+    return [p.value.strip_code().strip() for p in template.params if not p.showkey]
+
+
+def _player_from_fs_template(template, heading: Optional[str]) -> Optional[SquadPlayer]:
+    """Build a player from an English-style ``{{fs player}}`` template."""
+    if not template.has("name"):
+        return None
+    title, display = _parse_name_param(template.get("name").value)
+    if not display:
+        return None
+    return SquadPlayer(
+        name=display,
+        title=title,
+        number=_param(template, "no"),
+        position=_param(template, "pos"),
+        section=heading,
+    )
+
+
+def _player_from_person_zelle(template, heading: Optional[str]) -> Optional[SquadPlayer]:
+    """Build a player from a German-style ``{{PersonZelle}}`` table cell.
+
+    ``{{PersonZelle|Vorname|Nachname}}`` renders (and links) "Vorname Nachname".
+    Named parameters refine the link target:
+
+    * ``nl=1``  – the player has no article, so there is no link (``title`` None);
+    * ``l=…``   – an explicit article title (Lemma) that differs from the name;
+    * ``k=…``   – a disambiguator appended in parentheses, e.g.
+      ``{{PersonZelle|Alexander|Meyer|k=Fußballspieler, 1991}}`` links to
+      "Alexander Meyer (Fußballspieler, 1991)".
+    """
+    args = _positional_args(template)
+    given = args[0] if len(args) >= 1 else ""
+    family = args[1] if len(args) >= 2 else ""
+    display = " ".join(part for part in (given, family) if part).strip()
+    if not display:
+        return None
+
+    if _param(template, "nl"):
+        title: Optional[str] = None
+    elif _param(template, "l"):
+        title = _param(template, "l")
+    elif _param(template, "k"):
+        title = f"{display} ({_param(template, 'k')})"
+    else:
+        title = display
+
+    return SquadPlayer(name=display, title=title, section=heading)
+
+
 def parse_squad_players(wikitext: str) -> List[SquadPlayer]:
     """Extract the current-squad players from an article's wikitext.
+
+    Auto-detects the squad format per section: English-style ``{{fs player}}``
+    templates and German-style ``{{PersonZelle}}`` table cells are both
+    recognised, so the same parser serves editions that use either.
 
     This is a pure function (no network) and is the heart of the tool, so it is
     covered directly by unit tests.
@@ -71,26 +142,25 @@ def parse_squad_players(wikitext: str) -> List[SquadPlayer]:
         heading = headings[0].title.strip_code().strip() if headings else None
         if heading and EXCLUDE_HEADING_RE.search(heading):
             continue
+        # {{PersonZelle}} appears in non-squad tables too (staff, records), so
+        # only trust it under an explicit "Kader"/"Aufgebot" heading.
+        allow_person_zelle = bool(heading and SQUAD_HEADING_RE.search(heading))
 
         for template in section.filter_templates():
-            if not _is_fs_player(template):
+            name = _normalise_template_name(str(template.name))
+            if name in FS_PLAYER_TEMPLATES:
+                player = _player_from_fs_template(template, heading)
+            elif name == PERSON_ZELLE_TEMPLATE and allow_person_zelle:
+                player = _player_from_person_zelle(template, heading)
+            else:
                 continue
-            if not template.has("name"):
+            if player is None:
                 continue
-            title, display = _parse_name_param(template.get("name").value)
-            key = title or display
+            key = player.title or player.name
             if not key or key in seen:
                 continue
             seen.add(key)
-            players.append(
-                SquadPlayer(
-                    name=display,
-                    title=title,
-                    number=_param(template, "no"),
-                    position=_param(template, "pos"),
-                    section=heading,
-                )
-            )
+            players.append(player)
     return players
 
 

@@ -5,8 +5,9 @@
 # (P54, member of sports team) on Wikidata, and reports suggested edits.
 
 # Default Wikipedia language edition used to read squad lists. It can be
-# overridden per league (see `language:` under each league below). The English
-# ("en") and other major editions use the same {{fs player}} squad templates.
+# overridden per league (see `language:` under each league below). English
+# ("en") and similar editions list squads with {{fs player}} templates, while
+# German ("de") uses a {{PersonZelle}} squad table; the parser handles both.
 language: en
 
 # A descriptive User-Agent is REQUIRED by the Wikimedia APIs. Please keep a

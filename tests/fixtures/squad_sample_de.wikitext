@@ -1,0 +1,53 @@
+'''Beispiel-Verein''' ist ein fiktiver Fußballverein für die Tests.
+
+==== Aktueller Kader ====
+<small>Stand Kader: 17. Mai 2026</small>
+{| class="wikitable sortable zebra" style="text-align:center"
+! Pos.
+!data-sort-type="number"| Nr.
+! Nat.
+! Name
+! Geburtstag
+<!-- TOR -->
+|- style="background:#FFECCE;"
+|data-sort-value="1" rowspan="2"| '''Tor''' || {{0}}1 || {{CHE|#}} ||style="text-align:left" {{PersonZelle|Gregor|Kobel}} || {{DatumZelle|1997-12-06}}
+|- style="background:#FFECCE;"
+| 33 || {{DEU|#}} ||style="text-align:left" {{PersonZelle|Alexander|Meyer|k=Fußballspieler, 1991}} || {{DatumZelle|1991-04-13}}
+<!-- ABWEHR -->
+|- style="background:#E7FAEC;"
+|data-sort-value="2" rowspan="2"| '''Abwehr''' || {{0}}4 || {{DEU|#}} ||style="text-align:left" {{PersonZelle|Nico|Schlotterbeck}} || {{DatumZelle|1999-12-01}}
+|- style="background:#E7FAEC;"
+| 24 || {{SWE|#}} ||style="text-align:left" {{PersonZelle|Daniel|Svensson|k=Fußballspieler}} || {{DatumZelle|2002-02-12}}
+<!-- MITTELFELD -->
+|- style="background:#DFEDFD;"
+|data-sort-value="3" rowspan="2"| '''Mittelfeld''' || 23 || {{DEU|#}}||style="text-align:left" {{PersonZelle|Emre|Can}} {{Kapitän}} || {{DatumZelle|1994-01-12}}
+|- style="background:#DFEDFD;"
+|  || {{DEU|#}}||style="text-align:left" {{PersonZelle|Mussa|Kaba|nl=1}} || {{DatumZelle|2008-11-17}}
+<!-- NICHT GELISTET/ZWEITE MANNSCHAFT
+|- style="background:#DFEDFD;"
+| 46 || {{MAR|#}} ||style="text-align:left" {{PersonZelle|Ayman|Azhil}} || {{DatumZelle|2001-04-10}}
+-->
+<!-- AUSGELIEHEN
+|- style="background:#FFD2D6;"
+|  || {{BEL|#}} ||style="text-align:left" {{PersonZelle|Julien|Duranville}} || {{DatumZelle|2006-05-05}}
+-->
+|}
+
+==== Trainer- und Betreuerstab ====
+{| class="wikitable"
+|- style="background:#EFEFEF;"
+| Cheftrainer || {{DEU|#}} ||style="text-align:left" {{PersonZelle|Niko|Kovač}}
+|}
+
+=== Kaderveränderungen zur Saison 2025/26 ===
+{| class="wikitable"
+! Zugänge
+|-
+| {{PersonZelle|Jobe|Bellingham}}
+|}
+
+== Bekannte ehemalige Spieler ==
+{| class="wikitable"
+|-
+| {{PersonZelle|Marco|Reus}}
+|}
