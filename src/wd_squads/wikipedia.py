@@ -38,9 +38,27 @@ EXCLUDE_HEADING_RE = re.compile(
 # Positive marker that a section actually holds a squad. This gate is applied
 # to the German formats (the {{PersonZelle}} cells *and* the plain-wikilink
 # wikitable, see below), which also appear in unrelated tables (coaching staff,
-# record appearances, …); requiring a "Kader"/"Aufgebot" heading keeps those
-# out. The {{fs player}} format keeps its original, ungated behaviour.
-SQUAD_HEADING_RE = re.compile(r"kader|aufgebot", re.IGNORECASE)
+# record appearances, …); requiring a squad heading keeps those out. The
+# {{fs player}} format keeps its original, ungated behaviour.
+#
+# Besides "Kader"/"Aufgebot", some clubs put the table straight under a
+# first-team heading with no "Kader" subsection (e.g. FC Basel's "Die 1.
+# Mannschaft"). We accept "Mannschaft" only when marked as the *first* team
+# ("1." or "Erste") so reserve/youth/women sides ("2. Mannschaft",
+# "U-19-Mannschaft", "Frauenmannschaft") — which are separate Wikidata teams —
+# do not leak into the squad.
+#
+# Others nest the table one level deeper under a bare "Spieler" subsection whose
+# parent carries the "Kader" heading (e.g. 1. FC Köln: "== Aktueller Kader ==" →
+# "=== Spieler ==="). Because sections are read flat, that subsection is judged
+# on its own heading, so we accept a *whole-heading* "Spieler"/"Spielerinnen".
+# It is anchored (not a substring) on purpose: a bare "Spieler" heading is the
+# squad, but "Bekannte Spieler" (notable players) or a "Name"-column management
+# table under "Sportliche Leitung" must stay out.
+SQUAD_HEADING_RE = re.compile(
+    r"kader|aufgebot|(?:\b1\.|\berste)\s*mannschaft|^spieler(?:innen)?$",
+    re.IGNORECASE,
+)
 
 # Some German/Swiss squads are plain ``{| class="wikitable"`` tables that link
 # each player as a bare ``[[wikilink]]`` in a dedicated column instead of using
@@ -207,6 +225,10 @@ def _players_from_wikitable(table, heading: Optional[str]) -> List[SquadPlayer]:
         number = None
         if number_col is not None and len(cells) > number_col:
             number = cells[number_col].contents.strip_code().strip() or None
+            # A dash placeholder ("-"/"–"/"—") means "no number assigned"
+            # (e.g. Servette's academy call-ups); treat it like an empty cell.
+            if number and set(number) <= {"-", "–", "—"}:
+                number = None
         players.append(
             SquadPlayer(name=display, title=title, number=number, section=heading)
         )

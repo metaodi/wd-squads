@@ -1,0 +1,112 @@
+== Die 1. Mannschaft ==
+<small>Stand: 17. Juli 2027</small><ref>{{Internetquelle |url=https://www.fcb.ch/teams/1-mannschaft/spieler |titel=Spieler |hrsg=FC Basel |sprache=de |abruf=2025-05-30}}</ref><br />
+<small>Profispieler des FC Basel, die an einen anderen Club ausgeliehen sind, werden nicht aufgeführt.</small>
+{| class="wikitable" style="text-align:center"
+! Nr. !! Nat. !! Spieler !! Im Verein seit !! Letzter Verein
+|-
+! colspan="7" style="font-size:120%;"| Torhüter
+|- class="hintergrundfarbe8"
+| '''{{0}}1''' || {{CHE|#}} ||style="text-align:left"| [[Jonas Omlin]] || 2026 ||style="text-align:left"| [[Borussia Mönchengladbach]]
+|- class="hintergrundfarbe8"
+| '''13''' || {{CHE|#}} ||style="text-align:left"| [[Mirko Salvi]] || 2022 ||style="text-align:left"| [[Yverdon Sport FC]]
+|- class="hintergrundfarbe8"
+| '''48''' || {{CHE|#}} ||style="text-align:left"| [[Bennett Hoch]] || 2021 ||style="text-align:left"| eigene Jugend
+|- class="hintergrundfarbe8"
+| '''49''' || {{ITA|#}} ||style="text-align:left"| [[Renato Widmer d’Autilia]] || 2025 ||style="text-align:left"| eigene Jugend
+|-
+! colspan="7" style="font-size:120%;"| Verteidigung
+|- class="hintergrundfarbe9"
+| '''{{0}}3'''|| {{CHE|#}} ||style="text-align:left"| [[Nicolas Vouilloz (Fussballspieler)|Nicolas Vouilloz]]|| 2024 ||style="text-align:left"| [[Servette FC]]
+|- class="hintergrundfarbe9"
+| '''{{0}}4'''|| {{CHE|#}} ||style="text-align:left"| [[Bećir Omeragić]]|| 2026 ||style="text-align:left"| [[HSC Montpellier]]
+|- class="hintergrundfarbe9"
+| '''{{0}}6'''|| {{JPN|#}} ||style="text-align:left"| [[Keigo Tsunemoto]]|| 2025 ||style="text-align:left"| [[Servette FC]]
+|- class="hintergrundfarbe9"
+| '''24'''|| {{AUT|#}} ||style="text-align:left"| [[Flavius Daniliuc]]|| 2025 ||style="text-align:left"| [[US Salernitana]]
+|- class="hintergrundfarbe9"
+| '''25'''|| {{FRA|#}} ||style="text-align:left"| [[Coleen Louis]]|| 2026 ||style="text-align:left"| [[Amiens SC]]
+|- class="hintergrundfarbe9"
+| '''27'''|| {{CHE|#}} ||style="text-align:left"| [[Kevin Rüegg]]|| 2023 ||style="text-align:left"| [[Hellas Verona]]
+|- class="hintergrundfarbe9"
+| '''29'''|| {{FRA|#}} ||style="text-align:left"| [[Moussa Cissé (Fußballspieler)|Moussa Cissé]]|| 2024 ||style="text-align:left"| [[VfB Stuttgart]]
+|- class="hintergrundfarbe9"
+| '''42'''|| {{FRA|#}} ||style="text-align:left"| [[Evann Seyram Junior Senaya]] || 2019 ||style="text-align:left"| eigene Jugend
+|- class="hintergrundfarbe9"
+| '''55'''|| {{NGA|#}} ||style="text-align:left"| [[Akpe Victory Maduabuchukwu]]|| 2021 ||style="text-align:left"| [[Zalaegerszegi TE FC]]
+|-
+! colspan="7" style="font-size:120%;"| Mittelfeld
+|- style="background:#DFEDFD; color:#202122;"
+| '''{{0}}5'''|| {{COD|#}} ||style="text-align:left"| [[Metinho]] || 2025 ||style="text-align:left"| [[ES Troyes AC]]
+|- style="background:#DFEDFD; color:#202122;"
+| '''{{0}}8'''|| {{SWE|#}} ||style="text-align:left"| [[Ludwig Simon Malachowski Thorell]]|| 2026 ||style="text-align:left"| [[Mjällby AIF]]
+|- style="background:#DFEDFD; color:#202122;"
+| '''10'''|| {{CHE|#}} ||style="text-align:left"| [[Xherdan Shaqiri]] || 2024 ||style="text-align:left"| [[Chicago Fire (MLS)|Chicago Fire]]
+|- style="background:#DFEDFD; color:#202122;"
+| '''14'''|| {{SRB|#}} ||style="text-align:left"| [[Andrei Bačanin]]|| 2025 ||style="text-align:left"| [[FK Čukarički]]
+|- style="background:#DFEDFD; color:#202122;"
+| '''22'''|| {{FRA|#}} ||style="text-align:left"| [[Léo Leroy]]|| 2024 ||style="text-align:left"| [[HSC Montpellier]]
+|- style="background:#DFEDFD; color:#202122;"
+| '''28'''|| {{GEO|#}} ||style="text-align:left"| [[Gabriel Sigua]]|| 2023 ||style="text-align:left"| [[FC Lausanne-Sport]]
+|- style="background:#DFEDFD; color:#202122;"
+| '''44'''|| {{ITA|#}} ||style="text-align:left"| [[Jonas Harder]]|| 2026 ||style="text-align:left"| [[Padova Calcio]]
+|-
+! colspan="7" style="font-size:120%;"| Stürmer
+|- class="hintergrundfarbe7"
+| '''7''' || {{NER|#}} ||style="text-align:left"| [[Philip Otele]] || 2025 ||style="text-align:left"| [[Hamburger SV]]
+|- class="hintergrundfarbe7"
+| '''9''' || {{NER|#}} ||style="text-align:left"| [[Žan Celar]] || 2026 ||style="text-align:left"| [[Queens Park Rangers]]
+|- class="hintergrundfarbe7"
+| '''11''' || {{BEL|#}} ||style="text-align:left"| [[Kazeem Olaigbe]] || 2026 ||style="text-align:left"| [[Konyaspor]]
+|- class="hintergrundfarbe7"
+| '''18''' || {{ITA|#}} ||style="text-align:left"| [[Asane Sow]] || 2026 ||style="text-align:left"| [[FC Pro Vercelli]]
+|- class="hintergrundfarbe7"
+| '''19''' || {{HRV|#}} ||style="text-align:left"| [[Marin Šotiček]] || 2024 ||style="text-align:left"| [[NK Lokomotiva Zagreb]]
+|- class="hintergrundfarbe7"
+| '''21''' || {{MAR|#}} ||style="text-align:left"| [[Ibrahim Salah (Fußballspieler, 2001)|Ibrahim Salah]] || 2025 ||style="text-align:left"| [[Stade Rennes]]
+|- class="hintergrundfarbe7"
+| '''23''' || {{CHE|#}} ||style="text-align:left"| [[Albian Ajeti]] || 2024 ||style="text-align:left"| [[Gaziantep FK]]
+<!-- |- class="hintergrundfarbe7"
+| '''33''' || {{ARG|#}} ||style="text-align:left"| [[Juan Carlos Gauto]] || 2026 ||style="text-align:left"| [[Club Atlético Platense]] -->
+|- class="hintergrundfarbe7"
+| '''37''' || {{CHE|#}} ||style="text-align:left"| [[Giacomo Koloto]] || 2026 ||style="text-align:left"| eigene Jugend
+|- class="hintergrundfarbe7"
+| '''46''' || {{BRA|#}} ||style="text-align:left"| [[Kaio Eduardo]] || 2025 ||style="text-align:left"| [[Capivariano FC]]
+|- class="hintergrundfarbe7"
+| '''99''' || {{SRB|#}} ||style="text-align:left"| [[Djordje Jovanovic]] || 2023 ||style="text-align:left"| [[Maccabi Haifa FC]]
+|}
+
+=== Verwaltungsrat, Vorstand und Betreuerstab ===
+{| class="wikitable hintergrundfarbe-basis"
+|-
+! Vorname, Name !! Funktion
+|- class="hintergrundfarbe5"
+|colspan="3" style="text-align:left;"| '''Verwaltungsrat'''
+|- class=""
+| {{CHE|#}} [[David Degen]] ||style="text-align:center;"| Präsident
+|- class="hintergrundfarbe5"
+|colspan="3" style="text-align:left;"| '''Vorstand'''
+|-
+| {{CHE|#}} [[Reto Baumgartner]] ||style="text-align:center;"| Delegierter
+|- class="hintergrundfarbe5"
+|colspan="3" style="text-align:left;"| '''Sportchef'''
+|-
+| {{CHE|#}} [[Valentin Stocker]] ||style="text-align:center;"| Sportchef
+|- class="hintergrundfarbe5"
+|colspan="7" style="text-align:left;"| '''Trainerstab'''
+|-
+| {{CHE|#}} [[Stephan Lichtsteiner]]||style="text-align:center;"| Cheftrainer
+|-
+| {{CHE|#}} [[Mario Cantaluppi]] ||style="text-align:center;"| Assistenztrainer
+|-
+| {{CHE|#}} [[Simone Grippo]] ||style="text-align:center;"| Assistenztrainer
+|-
+| {{ITA|#}} [[Luigi Nocentini]] ||style="text-align:center;"| Assistenztrainer
+|-
+| {{CHE|#}} [[Gabriel Wüthrich]] ||style="text-align:center;"| Torhütertrainer
+|-
+| {{GBR|#}} [[Archie Ogden]] ||style="text-align:center;"| Athletiktrainer
+|-
+| {{CHE|#}} [[Roger Thöni]] ||style="text-align:center;"| Athletiktrainer
+|-
+| {{CHE|#}} [[Pascal Bader (Fussballspieler)|Pascal Bader]] ||style="text-align:center;"| Talent Manager
+|}

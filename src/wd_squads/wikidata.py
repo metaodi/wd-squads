@@ -65,11 +65,24 @@ class WikidataClient:
 
     @staticmethod
     def _league_query(league_qid: str, language: str) -> str:
-        # Association football club (Q476028) that has this league as its
-        # `league` (P118) value, with the article on the chosen Wikipedia.
+        # Association football club (Q476028) whose `league` (P118) is this
+        # league, with the article on the chosen Wikipedia.
+        #
+        # We walk the statement node (p:/ps:) instead of the truthy predicate
+        # (wdt:) so we can inspect qualifiers: a club whose league membership
+        # carries an `end time` (P582) already in the past no longer competes
+        # there and is excluded. Deprecated-rank statements are dropped too,
+        # to keep the wdt: semantics we replaced.
         return f"""
 SELECT ?team ?teamLabel ?article WHERE {{
-  ?team wdt:P118 wd:{league_qid} .
+  ?team p:P118 ?membership .
+  ?membership ps:P118 wd:{league_qid} ;
+              wikibase:rank ?rank .
+  FILTER ( ?rank != wikibase:DeprecatedRank )
+  FILTER NOT EXISTS {{
+    ?membership pq:P582 ?end .
+    FILTER ( ?end < NOW() )
+  }}
   ?team wdt:P31/wdt:P279* wd:Q476028 .
   OPTIONAL {{ ?article schema:about ?team ; schema:isPartOf <https://{language}.wikipedia.org/> . }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{language},en". }}

@@ -11,6 +11,23 @@ def test_title_from_article_url_respects_language():
     assert _title_from_article_url(de, "en") is None
 
 
+def test_league_query_excludes_ended_memberships():
+    query = WikidataClient._league_query("Q331268", "de")
+
+    # Walk the statement node so qualifiers are visible (not the truthy wdt:).
+    assert "p:P118 ?membership" in query
+    assert "ps:P118 wd:Q331268" in query
+    assert "wdt:P118" not in query
+
+    # A membership whose end time (P582) is in the past is filtered out.
+    assert "pq:P582 ?end" in query
+    assert "NOW()" in query
+    assert "FILTER NOT EXISTS" in query
+
+    # Deprecated-rank statements stay excluded (as wdt: did).
+    assert "wikibase:DeprecatedRank" in query
+
+
 def test_discover_teams_uses_per_league_language():
     client = WikidataClient(http=None)
     captured = {}
