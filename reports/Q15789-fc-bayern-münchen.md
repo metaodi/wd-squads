@@ -2,18 +2,23 @@
 
 - Wikidata item: [Q15789](https://www.wikidata.org/wiki/Q15789)
 - Wikipedia article: [FC Bayern München](https://de.wikipedia.org/wiki/FC_Bayern_München)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 213
 - Suggested edits: 213
-- Generated: 2026-07-22 05:04 UTC
+- Generated: 2026-07-22 05:53 UTC
 
-## Recorded as a current member, but no longer in the squad (213)
+## Membership marked ended, but player is in the current squad (3)
+
+- **[Raphaël Guerreiro](https://www.wikidata.org/wiki/Q4241680)** ([WP](https://de.wikipedia.org/wiki/Raphaël_Guerreiro)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Serge Gnabry](https://www.wikidata.org/wiki/Q59490)** ([WP](https://de.wikipedia.org/wiki/Serge_Gnabry)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Sven Ulreich](https://www.wikidata.org/wiki/Q60340)** ([WP](https://de.wikipedia.org/wiki/Sven_Ulreich)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+
+## Recorded as a current member, but no longer in the squad (198)
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Fein](https://www.wikidata.org/wiki/Q56705037)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alara Şehitler](https://www.wikidata.org/wiki/Q121260651)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Zoepfel](https://www.wikidata.org/wiki/Q81750533)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Aleksandar Pavlović](https://www.wikidata.org/wiki/Q121068701)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Renfroe](https://www.wikidata.org/wiki/Q3013805)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Timossi Andersson](https://www.wikidata.org/wiki/Q29627904)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Dürr](https://www.wikidata.org/wiki/Q59769986)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -23,7 +28,6 @@
 - **[Alfred Dippold](https://www.wikidata.org/wiki/Q83653347)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alfred Schreiweis](https://www.wikidata.org/wiki/Q84049669)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alfréd Schaffer](https://www.wikidata.org/wiki/Q605398)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Alphonso Davies](https://www.wikidata.org/wiki/Q23540953)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Amber Wisner](https://www.wikidata.org/wiki/Q3955890)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ana Muñoz Pérez](https://www.wikidata.org/wiki/Q66501556)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andrea Schlemmer](https://www.wikidata.org/wiki/Q495023)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -49,7 +53,6 @@
 - **[Daniel Peretz](https://www.wikidata.org/wiki/Q100272666)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Wein](https://www.wikidata.org/wiki/Q17492724)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniela Leonbacher](https://www.wikidata.org/wiki/Q22342643)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Dayot Upamecano](https://www.wikidata.org/wiki/Q20723878)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Deniz Emre Ofli](https://www.wikidata.org/wiki/Q137435615)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dennis Waidner](https://www.wikidata.org/wiki/Q96211454)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Derrick Köhn](https://www.wikidata.org/wiki/Q70206730)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -83,7 +86,6 @@
 - **[Hans Bermühler](https://www.wikidata.org/wiki/Q33133154)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Hans Schiefele](https://www.wikidata.org/wiki/Q1582288)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Hans Schmid](https://www.wikidata.org/wiki/Q83981893)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Harry Kane](https://www.wikidata.org/wiki/Q969725)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Hector Fisher](https://www.wikidata.org/wiki/Q17496518)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Heinrich Worst](https://www.wikidata.org/wiki/Q86080756)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Helmut Fritz](https://www.wikidata.org/wiki/Q24278989)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -95,7 +97,6 @@
 - **[Ismael Saibari](https://www.wikidata.org/wiki/Q98784065)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ivan Lucic](https://www.wikidata.org/wiki/Q17123759)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ivan Volf](https://www.wikidata.org/wiki/Q131748678)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jamal Musiala](https://www.wikidata.org/wiki/Q96072055)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jana Plachá](https://www.wikidata.org/wiki/Q66363896)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jannik Rochelt](https://www.wikidata.org/wiki/Q65683669)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jasmina Srna](https://www.wikidata.org/wiki/Q66364012)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -103,11 +104,8 @@
 - **[Jeong Woo-yeong](https://www.wikidata.org/wiki/Q36346274)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Johannes Sarkany](https://www.wikidata.org/wiki/Q84417155)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jonas Hummels](https://www.wikidata.org/wiki/Q1358419)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jonathan Tah](https://www.wikidata.org/wiki/Q14640027)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Josef Mauder](https://www.wikidata.org/wiki/Q16216118)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Josef Pollack](https://www.wikidata.org/wiki/Q18334012)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Joshua Kimmich](https://www.wikidata.org/wiki/Q13865408)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Josip Stanišić](https://www.wikidata.org/wiki/Q65950201)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[João Palhinha](https://www.wikidata.org/wiki/Q16236952)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Julia Meier](https://www.wikidata.org/wiki/Q66364009)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Julian Green](https://www.wikidata.org/wiki/Q15241424)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -120,16 +118,13 @@
 - **[Katrin Stauber](https://www.wikidata.org/wiki/Q66369889)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kim Min-jae](https://www.wikidata.org/wiki/Q28699707)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kim Rogers](https://www.wikidata.org/wiki/Q22236742)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Konrad Laimer](https://www.wikidata.org/wiki/Q18670270)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kristina Wiest](https://www.wikidata.org/wiki/Q66501525)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kuno Friederich](https://www.wikidata.org/wiki/Q81748487)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kurt Landauer](https://www.wikidata.org/wiki/Q216395)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kwasi Okyere Wriedt](https://www.wikidata.org/wiki/Q27047920)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lars Lukas Mai](https://www.wikidata.org/wiki/Q52084009)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lena Lotzen](https://www.wikidata.org/wiki/Q1817308)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Lennart Karl](https://www.wikidata.org/wiki/Q130776450)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Leon Fesser](https://www.wikidata.org/wiki/Q39159954)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Leon Goretzka](https://www.wikidata.org/wiki/Q520721)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Leopold Zingerle](https://www.wikidata.org/wiki/Q18223974)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lisa Flötzner](https://www.wikidata.org/wiki/Q83808637)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lisa Schöppl](https://www.wikidata.org/wiki/Q64138223)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -138,10 +133,8 @@
 - **[Ludwig Fickenscher](https://www.wikidata.org/wiki/Q83727458)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ludwig Hymon](https://www.wikidata.org/wiki/Q89288181)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ludwig Sklarski](https://www.wikidata.org/wiki/Q19630898)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Luis Díaz](https://www.wikidata.org/wiki/Q28531111)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luise Weiß](https://www.wikidata.org/wiki/Q66442287)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manfred Schwalm](https://www.wikidata.org/wiki/Q21031884)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Manuel Neuer](https://www.wikidata.org/wiki/Q107365)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manuel Wintzheimer](https://www.wikidata.org/wiki/Q60053932)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marc Roca Junqué](https://www.wikidata.org/wiki/Q26708753)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marcel Zylla](https://www.wikidata.org/wiki/Q64031833)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -162,7 +155,6 @@
 - **[Michael Eberwein](https://www.wikidata.org/wiki/Q55819563)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michael Hobmeier](https://www.wikidata.org/wiki/Q84049644)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michael Netolitzky](https://www.wikidata.org/wiki/Q54666767)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Michael Olise](https://www.wikidata.org/wiki/Q62050484)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michaël Cuisance](https://www.wikidata.org/wiki/Q40352866)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nadine Angerer](https://www.wikidata.org/wiki/Q273530)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nicole Maurer](https://www.wikidata.org/wiki/Q1987036)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -209,7 +201,6 @@
 - **[Thomas Poppler Isherwood](https://www.wikidata.org/wiki/Q27300005)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Timo Becker](https://www.wikidata.org/wiki/Q54552783)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tobias Thalhammer](https://www.wikidata.org/wiki/Q2438016)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Tom Bischof](https://www.wikidata.org/wiki/Q111308591)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tom Starke](https://www.wikidata.org/wiki/Q312115)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Torben Rhein](https://www.wikidata.org/wiki/Q96474241)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Traudl Gleixner](https://www.wikidata.org/wiki/Q66442282)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -222,3 +213,24 @@
 - **[Wilhelm Ostermeier](https://www.wikidata.org/wiki/Q20973077)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Willi Schimankowitz](https://www.wikidata.org/wiki/Q85325784)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wolfgang Comploy](https://www.wikidata.org/wiki/Q22342418)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but no membership statement on Wikidata (9)
+
+- **[Bara Ndiaye](https://www.wikidata.org/wiki/Q137733792)** ([WP](https://de.wikipedia.org/wiki/Bara_Ndiaye)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Cassiano Kiala](https://www.wikidata.org/wiki/Q134462732)** ([WP](https://de.wikipedia.org/wiki/Cassiano_Kiala)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[David Santos Daiber](https://www.wikidata.org/wiki/Q134713602)** ([WP](https://de.wikipedia.org/wiki/David_Santos_Daiber)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Filip Pavić](https://www.wikidata.org/wiki/Q137435622)** ([WP](https://de.wikipedia.org/wiki/Filip_Pavić)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Hiroki Itō](https://www.wikidata.org/wiki/Q30933054)** ([WP](https://de.wikipedia.org/wiki/Hiroki_Itō_(Fußballspieler,_1999))) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Jonas Urbig](https://www.wikidata.org/wiki/Q116752839)** ([WP](https://de.wikipedia.org/wiki/Jonas_Urbig)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Maycon Cardozo](https://www.wikidata.org/wiki/Q135728711)** ([WP](https://de.wikipedia.org/wiki/Maycon_Cardozo)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Nicolas Jackson](https://www.wikidata.org/wiki/Q100144350)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Jackson)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Wisdom Mike](https://www.wikidata.org/wiki/Q132171805)** ([WP](https://de.wikipedia.org/wiki/Wisdom_Mike)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+
+## Current member, but the membership has no start date (1)
+
+- **[Josip Stanišić](https://www.wikidata.org/wiki/Q65950201)** ([WP](https://de.wikipedia.org/wiki/Josip_Stanišić)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+## In current squad, but the Wikipedia article has no Wikidata item (2)
+
+- **Leon Klanac** — 'Leon Klanac' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Min-jae Kim** ([WP](https://de.wikipedia.org/wiki/Min-jae_Kim)) — 'Min-jae Kim' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
