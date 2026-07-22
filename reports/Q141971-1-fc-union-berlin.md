@@ -2,16 +2,35 @@
 
 - Wikidata item: [Q141971](https://www.wikidata.org/wiki/Q141971)
 - Wikipedia article: [1. FC Union Berlin](https://de.wikipedia.org/wiki/1._FC_Union_Berlin)
-- Players in Wikipedia squad: 26
+- Players in Wikipedia squad: 49
 - Current members on Wikidata: 88
-- Suggested edits: 106
-- Generated: 2026-07-22 06:38 UTC
+- Suggested edits: 125
+- Generated: 2026-07-22 07:49 UTC
 
-## Membership marked ended, but player is in the current squad (1)
+## Membership marked ended, but player is in the current squad (20)
 
+- **[Christian Beeck](https://www.wikidata.org/wiki/Q1078927)** ([WP](https://de.wikipedia.org/wiki/Christian_Beeck)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Daniel Teixeira](https://www.wikidata.org/wiki/Q1162895)** ([WP](https://de.wikipedia.org/wiki/Daniel_Teixeira)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Günter Hoge](https://www.wikidata.org/wiki/Q1560598)** ([WP](https://de.wikipedia.org/wiki/Günter_Hoge)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Ilyas Ansah](https://www.wikidata.org/wiki/Q124260632)** ([WP](https://de.wikipedia.org/wiki/Ilyas_Ansah)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Jan Glinker](https://www.wikidata.org/wiki/Q830680)** ([WP](https://de.wikipedia.org/wiki/Jan_Glinker)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Jens Härtel](https://www.wikidata.org/wiki/Q1687220)** ([WP](https://de.wikipedia.org/wiki/Jens_Härtel)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Joachim Sigusch](https://www.wikidata.org/wiki/Q1690473)** ([WP](https://de.wikipedia.org/wiki/Joachim_Sigusch)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Karsten Heine](https://www.wikidata.org/wiki/Q78297)** ([WP](https://de.wikipedia.org/wiki/Karsten_Heine)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Marko Rehmer](https://www.wikidata.org/wiki/Q549542)** ([WP](https://de.wikipedia.org/wiki/Marko_Rehmer)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Olaf Seier](https://www.wikidata.org/wiki/Q118397)** ([WP](https://de.wikipedia.org/wiki/Olaf_Seier)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Oskar Kosche](https://www.wikidata.org/wiki/Q1411397)** ([WP](https://de.wikipedia.org/wiki/Oskar_Kosche)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Ralf Sträßer](https://www.wikidata.org/wiki/Q84575)** ([WP](https://de.wikipedia.org/wiki/Ralf_Sträßer)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Reinhard Lauck](https://www.wikidata.org/wiki/Q541356)** ([WP](https://de.wikipedia.org/wiki/Reinhard_Lauck)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Sebastian Bönig](https://www.wikidata.org/wiki/Q1288184)** ([WP](https://de.wikipedia.org/wiki/Sebastian_Bönig)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Sergej Barbarez](https://www.wikidata.org/wiki/Q431455)** ([WP](https://de.wikipedia.org/wiki/Sergej_Barbarez)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Steffen Menze](https://www.wikidata.org/wiki/Q1387951)** ([WP](https://de.wikipedia.org/wiki/Steffen_Menze)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Tom Persich](https://www.wikidata.org/wiki/Q1500568)** ([WP](https://de.wikipedia.org/wiki/Tom_Persich)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Torsten Mattuschka](https://www.wikidata.org/wiki/Q829388)** ([WP](https://de.wikipedia.org/wiki/Torsten_Mattuschka)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Wolfgang Matthies](https://www.wikidata.org/wiki/Q1750524)** ([WP](https://de.wikipedia.org/wiki/Wolfgang_Matthies)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Wolfgang Wruck](https://www.wikidata.org/wiki/Q1757403)** ([WP](https://de.wikipedia.org/wiki/Wolfgang_Wruck_(Fußballspieler,_April_1944))) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (84)
+## Recorded as a current member, but no longer in the squad (81)
 
 - **[Abdallah Gomaa](https://www.wikidata.org/wiki/Q15770027)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Nikçi](https://www.wikidata.org/wiki/Q373742)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -51,7 +70,6 @@
 - **[Heiner Thomas](https://www.wikidata.org/wiki/Q1596192)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Heini Brüll](https://www.wikidata.org/wiki/Q42397273)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Heinz Rogge](https://www.wikidata.org/wiki/Q1600827)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Herbert Raddatz](https://www.wikidata.org/wiki/Q1608939)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Horst Franke](https://www.wikidata.org/wiki/Q67198723)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jakob Busk](https://www.wikidata.org/wiki/Q12318944)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Joshua Mees](https://www.wikidata.org/wiki/Q33854739)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -72,7 +90,6 @@
 - **[Max Franke](https://www.wikidata.org/wiki/Q67198546)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Maximilian Thiel](https://www.wikidata.org/wiki/Q1913799)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Meinhard Uentz](https://www.wikidata.org/wiki/Q1918090)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Michael Parensen](https://www.wikidata.org/wiki/Q1289675)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mohamed Amsif](https://www.wikidata.org/wiki/Q692353)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Olaf Reinhold](https://www.wikidata.org/wiki/Q2018063)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Otto Splittgerber](https://www.wikidata.org/wiki/Q67198540)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -93,12 +110,11 @@
 - **[Susann Kunkel](https://www.wikidata.org/wiki/Q65455949)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sören Brandy](https://www.wikidata.org/wiki/Q2379962)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Torsten Wruck](https://www.wikidata.org/wiki/Q84034309)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Uwe Borchardt](https://www.wikidata.org/wiki/Q2504050)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Willi Jachmann](https://www.wikidata.org/wiki/Q67198542)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wolfgang Horter](https://www.wikidata.org/wiki/Q22342533)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wolfgang Juhrsch](https://www.wikidata.org/wiki/Q2590114)** — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (20)
+## In current squad, but no membership statement on Wikidata (21)
 
 - **[Aljoscha Kemlein](https://www.wikidata.org/wiki/Q121720422)** ([WP](https://de.wikipedia.org/wiki/Aljoscha_Kemlein)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Andrej Ilić](https://www.wikidata.org/wiki/Q97924313)** ([WP](https://de.wikipedia.org/wiki/Andrej_Ilić)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
@@ -113,6 +129,7 @@
 - **[Josip Juranović](https://www.wikidata.org/wiki/Q19968645)** ([WP](https://de.wikipedia.org/wiki/Josip_Juranović)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Leopold Querfeld](https://www.wikidata.org/wiki/Q100894027)** ([WP](https://de.wikipedia.org/wiki/Leopold_Querfeld)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Livan Burcu](https://www.wikidata.org/wiki/Q121243464)** ([WP](https://de.wikipedia.org/wiki/Livan_Burcu)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
+- **[Lutz Hendel](https://www.wikidata.org/wiki/Q1878106)** ([WP](https://de.wikipedia.org/wiki/Lutz_Hendel)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Matheo Raab](https://www.wikidata.org/wiki/Q104418651)** ([WP](https://de.wikipedia.org/wiki/Matheo_Raab)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Oliver Burke](https://www.wikidata.org/wiki/Q18125392)** ([WP](https://de.wikipedia.org/wiki/Oliver_Burke)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Rani Khedira](https://www.wikidata.org/wiki/Q86312)** ([WP](https://de.wikipedia.org/wiki/Rani_Khedira)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
@@ -120,6 +137,11 @@
 - **[Stanley N’Soki](https://www.wikidata.org/wiki/Q46258476)** ([WP](https://de.wikipedia.org/wiki/Stanley_N’Soki)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Tim Skarke](https://www.wikidata.org/wiki/Q21146090)** ([WP](https://de.wikipedia.org/wiki/Tim_Skarke)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Tom Rothe](https://www.wikidata.org/wiki/Q111626301)** ([WP](https://de.wikipedia.org/wiki/Tom_Rothe)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
+
+## Current member, but the membership has no start date (2)
+
+- **[Herbert Raddatz](https://www.wikidata.org/wiki/Q1608939)** ([WP](https://de.wikipedia.org/wiki/Herbert_Raddatz)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Uwe Borchardt](https://www.wikidata.org/wiki/Q2504050)** ([WP](https://de.wikipedia.org/wiki/Uwe_Borchardt)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 ## In current squad, but the Wikipedia article has no Wikidata item (1)
 

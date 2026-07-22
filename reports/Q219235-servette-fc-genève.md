@@ -2,12 +2,28 @@
 
 - Wikidata item: [Q219235](https://www.wikidata.org/wiki/Q219235)
 - Wikipedia article: [Servette FC](https://de.wikipedia.org/wiki/Servette_FC)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 35
 - Current members on Wikidata: 69
-- Suggested edits: 69
-- Generated: 2026-07-22 06:38 UTC
+- Suggested edits: 101
+- Generated: 2026-07-22 07:49 UTC
 
-## Recorded as a current member, but no longer in the squad (69)
+## In current squad, but no membership statement on Wikidata (13)
+
+- **[Ablie Jallow](https://www.wikidata.org/wiki/Q33183524)** ([WP](https://de.wikipedia.org/wiki/Ablie_Jallow)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[David Douline](https://www.wikidata.org/wiki/Q41767128)** ([WP](https://de.wikipedia.org/wiki/David_Douline)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Dylan Bronn](https://www.wikidata.org/wiki/Q26405549)** ([WP](https://de.wikipedia.org/wiki/Dylan_Bronn)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Florian Ayé](https://www.wikidata.org/wiki/Q21004899)** ([WP](https://de.wikipedia.org/wiki/Florian_Ayé)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Giotto Morandi](https://www.wikidata.org/wiki/Q108866814)** ([WP](https://de.wikipedia.org/wiki/Giotto_Morandi)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Houboulang Mendes](https://www.wikidata.org/wiki/Q30320323)** ([WP](https://de.wikipedia.org/wiki/Houboulang_Mendes)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Julian von Moos](https://www.wikidata.org/wiki/Q63943813)** ([WP](https://de.wikipedia.org/wiki/Julian_von_Moos)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Marco Burch](https://www.wikidata.org/wiki/Q87138083)** ([WP](https://de.wikipedia.org/wiki/Marco_Burch)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Miroslav Stevanović](https://www.wikidata.org/wiki/Q2695494)** ([WP](https://de.wikipedia.org/wiki/Miroslav_Stevanović)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Quentin Maceiras](https://www.wikidata.org/wiki/Q33296888)** ([WP](https://de.wikipedia.org/wiki/Quentin_Maceiras)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Steve Rouiller](https://www.wikidata.org/wiki/Q27473642)** ([WP](https://de.wikipedia.org/wiki/Steve_Rouiller)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Timothé Cognat](https://www.wikidata.org/wiki/Q20666445)** ([WP](https://de.wikipedia.org/wiki/Timothé_Cognat)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+- **[Yoan Severin](https://www.wikidata.org/wiki/Q29016862)** ([WP](https://de.wikipedia.org/wiki/Yoan_Severin)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
+
+## Recorded as a current member, but no longer in the squad (67)
 
 - **[Alexis Mbongo Tekumu](https://www.wikidata.org/wiki/Q9147331)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[André Belli](https://www.wikidata.org/wiki/Q26972479)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -30,7 +46,6 @@
 - **[Donato Müller](https://www.wikidata.org/wiki/Q26972509)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Eddy Barea](https://www.wikidata.org/wiki/Q3047312)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Eduard Duriaux](https://www.wikidata.org/wiki/Q33083392)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Edvinas Gertmonas](https://www.wikidata.org/wiki/Q16636551)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Edwin Fabricio Castro Barros](https://www.wikidata.org/wiki/Q27663141)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Eric Pédat](https://www.wikidata.org/wiki/Q65122951)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Florian Berisha](https://www.wikidata.org/wiki/Q3746725)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -47,7 +62,6 @@
 - **[Joseph Rodriguez](https://www.wikidata.org/wiki/Q3185572)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[João Filipe Poceiro](https://www.wikidata.org/wiki/Q10540258)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jérémy Faug-Porret](https://www.wikidata.org/wiki/Q1714978)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jérémy Frick](https://www.wikidata.org/wiki/Q65948559)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Karim Gazzetta](https://www.wikidata.org/wiki/Q14886299)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kastriot Imeri](https://www.wikidata.org/wiki/Q70780296)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kurt Pichler](https://www.wikidata.org/wiki/Q26035031)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -78,3 +92,30 @@
 - **[Tibert Pont](https://www.wikidata.org/wiki/Q3528083)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Varol Tasar](https://www.wikidata.org/wiki/Q65949787)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vincent Sasso](https://www.wikidata.org/wiki/Q3559838)** — Add an end date (P582) to the membership → Servette FC Genève (Q219235); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## Current member, but the membership has no start date (1)
+
+- **[Jérémy Frick](https://www.wikidata.org/wiki/Q65948559)** ([WP](https://de.wikipedia.org/wiki/Jérémy_Frick)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+## In current squad, but the Wikipedia article has no Wikidata item (20)
+
+- **Alonzo Vincent** ([WP](https://de.wikipedia.org/wiki/Alonzo_Vincent)) — 'Alonzo Vincent' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Bradley Mazikou** ([WP](https://de.wikipedia.org/wiki/Bradley_Mazikou)) — 'Bradley Mazikou' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Ivan Izquierdo** ([WP](https://de.wikipedia.org/wiki/Ivan_Izquierdo)) — 'Ivan Izquierdo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jarell Njiké Simo** ([WP](https://de.wikipedia.org/wiki/Jarell_Njiké_Simo)) — 'Jarell Njiké Simo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Junior Kadile** ([WP](https://de.wikipedia.org/wiki/Junior_Kadile)) — 'Junior Kadile' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Lamine Fomba** ([WP](https://de.wikipedia.org/wiki/Lamine_Fomba)) — 'Lamine Fomba' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Leart Zuka** ([WP](https://de.wikipedia.org/wiki/Leart_Zuka)) — 'Leart Zuka' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Lilian Njoh** ([WP](https://de.wikipedia.org/wiki/Lilian_Njoh)) — 'Lilian Njoh' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Louis Rieder** ([WP](https://de.wikipedia.org/wiki/Louis_Rieder)) — 'Louis Rieder' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Léo Besson** ([WP](https://de.wikipedia.org/wiki/Léo_Besson)) — 'Léo Besson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Mathis Lambourde** ([WP](https://de.wikipedia.org/wiki/Mathis_Lambourde)) — 'Mathis Lambourde' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Mattéo Anselme** ([WP](https://de.wikipedia.org/wiki/Mattéo_Anselme)) — 'Mattéo Anselme' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Pedro Naressi** ([WP](https://de.wikipedia.org/wiki/Pedro_Naressi)) — 'Pedro Naressi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Samuel Mráz** ([WP](https://de.wikipedia.org/wiki/Samuel_Mráz_(Fußballspieler))) — 'Samuel Mráz' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Sidiki Camara** ([WP](https://de.wikipedia.org/wiki/Sidiki_Camara)) — 'Sidiki Camara' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Sylvain Djoho** ([WP](https://de.wikipedia.org/wiki/Sylvain_Djoho)) — 'Sylvain Djoho' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Thomas Lopes** ([WP](https://de.wikipedia.org/wiki/Thomas_Lopes)) — 'Thomas Lopes' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Tiemoko Ouattara** ([WP](https://de.wikipedia.org/wiki/Tiemoko_Ouattara)) — 'Tiemoko Ouattara' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Tristan Nunez** ([WP](https://de.wikipedia.org/wiki/Tristan_Nunez)) — 'Tristan Nunez' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Téo Allix** ([WP](https://de.wikipedia.org/wiki/Téo_Allix)) — 'Téo Allix' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 33
 - Current members on Wikidata: 171
 - Suggested edits: 181
-- Generated: 2026-07-22 06:38 UTC
+- Generated: 2026-07-22 07:49 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -71,8 +71,8 @@
 - **[George Cooper](https://www.wikidata.org/wiki/Q40750243)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Johnson](https://www.wikidata.org/wiki/Q16027049)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Rumbold](https://www.wikidata.org/wiki/Q5544106)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[George Walker](https://www.wikidata.org/wiki/Q16030107)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Walker](https://www.wikidata.org/wiki/Q16886404)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[George Walker](https://www.wikidata.org/wiki/Q16030107)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Watson](https://www.wikidata.org/wiki/Q5546082)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Salt](https://www.wikidata.org/wiki/Q24284661)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Henry Thompson](https://www.wikidata.org/wiki/Q85766295)** — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
