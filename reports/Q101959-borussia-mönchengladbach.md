@@ -2,12 +2,16 @@
 
 - Wikidata item: [Q101959](https://www.wikidata.org/wiki/Q101959)
 - Wikipedia article: [Borussia Mönchengladbach](https://de.wikipedia.org/wiki/Borussia_Mönchengladbach)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 84
-- Suggested edits: 84
-- Generated: 2026-07-22 05:53 UTC
+- Suggested edits: 94
+- Generated: 2026-07-22 06:38 UTC
 
-## Recorded as a current member, but no longer in the squad (84)
+## Membership marked ended, but player is in the current squad (1)
+
+- **[Giovanni Reyna](https://www.wikidata.org/wiki/Q75019636)** ([WP](https://de.wikipedia.org/wiki/Giovanni_Reyna)) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+
+## Recorded as a current member, but no longer in the squad (74)
 
 - **[Alassane Pléa](https://www.wikidata.org/wiki/Q4708679)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Jansen](https://www.wikidata.org/wiki/Q2638234)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -29,7 +33,6 @@
 - **[Ewald Nienhaus](https://www.wikidata.org/wiki/Q59489420)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fabian Johnson](https://www.wikidata.org/wiki/Q529815)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Florian Mayer](https://www.wikidata.org/wiki/Q51526161)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Florian Neuhaus](https://www.wikidata.org/wiki/Q27651401)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gerd Schommen](https://www.wikidata.org/wiki/Q1510811)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gert Engels](https://www.wikidata.org/wiki/Q329140)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gianluca Rizzo](https://www.wikidata.org/wiki/Q26212052)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -41,14 +44,11 @@
 - **[Heinz Reh](https://www.wikidata.org/wiki/Q59422349)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Heinz-Willi Raßmanns](https://www.wikidata.org/wiki/Q26215658)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Hermann Pohl](https://www.wikidata.org/wiki/Q71320179)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Hugo Bolin](https://www.wikidata.org/wiki/Q118151312)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ibrahima Traoré](https://www.wikidata.org/wiki/Q720879)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Imke Kessels](https://www.wikidata.org/wiki/Q67215745)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jan Hammes](https://www.wikidata.org/wiki/Q15820770)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jan Olschowsky](https://www.wikidata.org/wiki/Q98168915)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Janis Blaswich](https://www.wikidata.org/wiki/Q20435757)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jannik Vestergaard](https://www.wikidata.org/wiki/Q66358)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Joe Scally](https://www.wikidata.org/wiki/Q54861644)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Johann Meulenberg](https://www.wikidata.org/wiki/Q1695515)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Joy-Lance Mickels](https://www.wikidata.org/wiki/Q85422258)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jule Dallmann](https://www.wikidata.org/wiki/Q27019943)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -58,7 +58,6 @@
 - **[Kim Everaerts](https://www.wikidata.org/wiki/Q30068868)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Klaus Amrath](https://www.wikidata.org/wiki/Q1744864)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lars Leese](https://www.wikidata.org/wiki/Q1782915)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Lukas Ullrich](https://www.wikidata.org/wiki/Q118108336)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mandela Egbo](https://www.wikidata.org/wiki/Q19561352)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manfred Bergfeld](https://www.wikidata.org/wiki/Q2776381)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marcel Benger](https://www.wikidata.org/wiki/Q45771146)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -68,9 +67,7 @@
 - **[Marlon Ritter](https://www.wikidata.org/wiki/Q18127547)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marvin Ajani](https://www.wikidata.org/wiki/Q15834280)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marvin Schulz](https://www.wikidata.org/wiki/Q20822661)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Moritz Nicolas](https://www.wikidata.org/wiki/Q57398922)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Muhittin Baştürk](https://www.wikidata.org/wiki/Q14542497)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Nico Elvedi](https://www.wikidata.org/wiki/Q18637339)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Niklas Bolten](https://www.wikidata.org/wiki/Q21986185)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Oliver Stang](https://www.wikidata.org/wiki/Q2020587)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Oscar Wendt](https://www.wikidata.org/wiki/Q521088)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -83,13 +80,35 @@
 - **[Stefan Lainer](https://www.wikidata.org/wiki/Q2336888)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Thomas Flath](https://www.wikidata.org/wiki/Q7789643)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tim Heubach](https://www.wikidata.org/wiki/Q1724431)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Tim Kleindienst](https://www.wikidata.org/wiki/Q15627096)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tobias Raschl](https://www.wikidata.org/wiki/Q66432952)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Tobias Sippel](https://www.wikidata.org/wiki/Q720139)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tobias Strobl](https://www.wikidata.org/wiki/Q2438006)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Torben Müsel](https://www.wikidata.org/wiki/Q41029410)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Udo Lattek](https://www.wikidata.org/wiki/Q290870)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Walter Wimmer](https://www.wikidata.org/wiki/Q1283304)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Werner Waddey](https://www.wikidata.org/wiki/Q2562836)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Yukhym Konoplia](https://www.wikidata.org/wiki/Q64031854)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Álvaro Domínguez](https://www.wikidata.org/wiki/Q182482)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but no membership statement on Wikidata (18)
+
+- **[Daniel Batz](https://www.wikidata.org/wiki/Q1160026)** ([WP](https://de.wikipedia.org/wiki/Daniel_Batz)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[David Herold](https://www.wikidata.org/wiki/Q116766165)** ([WP](https://de.wikipedia.org/wiki/David_Herold_(Fußballspieler))) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Enzo Leopold](https://www.wikidata.org/wiki/Q111955261)** ([WP](https://de.wikipedia.org/wiki/Enzo_Leopold)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Fabio Chiarodia](https://www.wikidata.org/wiki/Q110043588)** ([WP](https://de.wikipedia.org/wiki/Fabio_Chiarodia)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Franck Honorat](https://www.wikidata.org/wiki/Q15146137)** ([WP](https://de.wikipedia.org/wiki/Franck_Honorat)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Isac Lidberg](https://www.wikidata.org/wiki/Q21860037)** ([WP](https://de.wikipedia.org/wiki/Isac_Lidberg)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Jan Leszczyński](https://www.wikidata.org/wiki/Q140466945)** ([WP](https://de.wikipedia.org/wiki/Jan_Leszczyński)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Jens Castrop](https://www.wikidata.org/wiki/Q98829565)** ([WP](https://de.wikipedia.org/wiki/Jens_Castrop)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Kevin Diks](https://www.wikidata.org/wiki/Q17602824)** ([WP](https://de.wikipedia.org/wiki/Kevin_Diks)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Kevin Stöger](https://www.wikidata.org/wiki/Q86523)** ([WP](https://de.wikipedia.org/wiki/Kevin_Stöger)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Lion Schweers](https://www.wikidata.org/wiki/Q24006307)** ([WP](https://de.wikipedia.org/wiki/Lion_Schweers)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Nathan Ngoumou](https://www.wikidata.org/wiki/Q64746308)** ([WP](https://de.wikipedia.org/wiki/Nathan_Ngoumou)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Philipp Sander](https://www.wikidata.org/wiki/Q57579312)** ([WP](https://de.wikipedia.org/wiki/Philipp_Sander_(Fußballspieler))) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Robin Hack](https://www.wikidata.org/wiki/Q41487752)** ([WP](https://de.wikipedia.org/wiki/Robin_Hack)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Shūto Machino](https://www.wikidata.org/wiki/Q47582288)** ([WP](https://de.wikipedia.org/wiki/Shūto_Machino)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Tomáš Čvančara](https://www.wikidata.org/wiki/Q104650064)** ([WP](https://de.wikipedia.org/wiki/Tomáš_Čvančara)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Wael Mohya](https://www.wikidata.org/wiki/Q135879349)** ([WP](https://de.wikipedia.org/wiki/Wael_Mohya)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Zento Uno](https://www.wikidata.org/wiki/Q110403334)** ([WP](https://de.wikipedia.org/wiki/Zento_Uno)) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+
+## Current member, but the membership has no start date (1)
+
+- **[Moritz Nicolas](https://www.wikidata.org/wiki/Q57398922)** ([WP](https://de.wikipedia.org/wiki/Moritz_Nicolas)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.

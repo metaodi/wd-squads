@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 44
 - Current members on Wikidata: 118
 - Suggested edits: 155
-- Generated: 2026-07-22 05:53 UTC
+- Generated: 2026-07-22 06:38 UTC
 
 ## Recorded as a current member, but no longer in the squad (114)
 
@@ -98,8 +98,8 @@
 - **[Peter Denton](https://www.wikidata.org/wiki/Q27164594)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Peter Murphy](https://www.wikidata.org/wiki/Q2057277)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Peter Quinn](https://www.wikidata.org/wiki/Q65057918)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Peter Ramage](https://www.wikidata.org/wiki/Q940208)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Peter Ramage](https://www.wikidata.org/wiki/Q65057666)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Peter Ramage](https://www.wikidata.org/wiki/Q940208)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Reice Charles-Cook](https://www.wikidata.org/wiki/Q16200832)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Reise Allassani](https://www.wikidata.org/wiki/Q54861606)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Romain Vincelot](https://www.wikidata.org/wiki/Q7361544)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

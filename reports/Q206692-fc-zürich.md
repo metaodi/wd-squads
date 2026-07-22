@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q206692](https://www.wikidata.org/wiki/Q206692)
 - Wikipedia article: [FC Zürich](https://de.wikipedia.org/wiki/FC_Zürich)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 26
 - Current members on Wikidata: 84
-- Suggested edits: 84
-- Generated: 2026-07-22 05:53 UTC
+- Suggested edits: 108
+- Generated: 2026-07-22 06:38 UTC
 
-## Recorded as a current member, but no longer in the squad (84)
+## Recorded as a current member, but no longer in the squad (82)
 
 - **[Adilson Tavares Varela](https://www.wikidata.org/wiki/Q357286)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Nef](https://www.wikidata.org/wiki/Q668040)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -26,7 +26,6 @@
 - **[Becir Omeragic](https://www.wikidata.org/wiki/Q65029690)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Benjamin Kololli](https://www.wikidata.org/wiki/Q16234710)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Blaž Kramer](https://www.wikidata.org/wiki/Q65766558)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Bledian Krasniqi](https://www.wikidata.org/wiki/Q60621353)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Cédric Brunner](https://www.wikidata.org/wiki/Q21180995)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Denis Popović](https://www.wikidata.org/wiki/Q20744632)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Donis Avdijaj](https://www.wikidata.org/wiki/Q18712899)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -40,7 +39,6 @@
 - **[Franck Etoundi](https://www.wikidata.org/wiki/Q5484411)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gilles Yapi Yapo](https://www.wikidata.org/wiki/Q539846)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Hans Reutlinger](https://www.wikidata.org/wiki/Q68789460)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Ilan Sauter](https://www.wikidata.org/wiki/Q60791291)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ivan Kecojević](https://www.wikidata.org/wiki/Q1675556)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Izer Aliu](https://www.wikidata.org/wiki/Q48850236)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Karl Eggler](https://www.wikidata.org/wiki/Q32606698)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -93,3 +91,38 @@
 - **[Yanick Brecher](https://www.wikidata.org/wiki/Q20630620)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yann Kasai](https://www.wikidata.org/wiki/Q60791383)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yassin Maouche](https://www.wikidata.org/wiki/Q50820639)** — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but no membership statement on Wikidata (8)
+
+- **[Alexander Hack](https://www.wikidata.org/wiki/Q14816335)** ([WP](https://de.wikipedia.org/wiki/Alexander_Hack)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+- **[Heinz Lindner](https://www.wikidata.org/wiki/Q686599)** ([WP](https://de.wikipedia.org/wiki/Heinz_Lindner_(Fußballspieler))) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+- **[Juan José Perea](https://www.wikidata.org/wiki/Q67816519)** ([WP](https://de.wikipedia.org/wiki/Juan_José_Perea)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+- **[Kevin Spadanuda](https://www.wikidata.org/wiki/Q111149654)** ([WP](https://de.wikipedia.org/wiki/Kevin_Spadanuda)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+- **[Lindrit Kamberi](https://www.wikidata.org/wiki/Q106797877)** ([WP](https://de.wikipedia.org/wiki/Lindrit_Kamberi)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+- **[Livano Comenencia](https://www.wikidata.org/wiki/Q108800542)** ([WP](https://de.wikipedia.org/wiki/Livano_Comenencia)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+- **[Umeh Emmanuel](https://www.wikidata.org/wiki/Q120444790)** ([WP](https://de.wikipedia.org/wiki/Umeh_Emmanuel)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+- **[Valon Berisha](https://www.wikidata.org/wiki/Q275986)** ([WP](https://de.wikipedia.org/wiki/Valon_Berisha)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
+
+## Current member, but the membership has no start date (2)
+
+- **[Bledian Krasniqi](https://www.wikidata.org/wiki/Q60621353)** ([WP](https://de.wikipedia.org/wiki/Bledian_Krasniqi)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Ilan Sauter](https://www.wikidata.org/wiki/Q60791291)** ([WP](https://de.wikipedia.org/wiki/Ilan_Sauter)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+## In current squad, but the Wikipedia article has no Wikidata item (16)
+
+- **Chris Kablan** ([WP](https://de.wikipedia.org/wiki/Chris_Kablan)) — 'Chris Kablan' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Cosimo Fiorini** ([WP](https://de.wikipedia.org/wiki/Cosimo_Fiorini)) — 'Cosimo Fiorini' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Damienus Reverson** ([WP](https://de.wikipedia.org/wiki/Damienus_Reverson)) — 'Damienus Reverson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Daniel Ihendu** ([WP](https://de.wikipedia.org/wiki/Daniel_Ihendu)) — 'Daniel Ihendu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **David Vujevic** ([WP](https://de.wikipedia.org/wiki/David_Vujevic)) — 'David Vujevic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jewgen Morozow** ([WP](https://de.wikipedia.org/wiki/Jewgen_Morozow)) — 'Jewgen Morozow' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jill Stiel** ([WP](https://de.wikipedia.org/wiki/Jill_Stiel)) — 'Jill Stiel' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jorge Segura** ([WP](https://de.wikipedia.org/wiki/Jorge_Segura)) — 'Jorge Segura' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Miguel Reichmuth** ([WP](https://de.wikipedia.org/wiki/Miguel_Reichmuth)) — 'Miguel Reichmuth' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Mohamed Bangoura** ([WP](https://de.wikipedia.org/wiki/Mohamed_Bangoura)) — 'Mohamed Bangoura' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Neil Volken** ([WP](https://de.wikipedia.org/wiki/Neil_Volken)) — 'Neil Volken' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Nevio Di Giusto** ([WP](https://de.wikipedia.org/wiki/Nevio_Di_Giusto)) — 'Nevio Di Giusto' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Philippe Kény** ([WP](https://de.wikipedia.org/wiki/Philippe_Kény)) — 'Philippe Kény' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Sebastian Walker** ([WP](https://de.wikipedia.org/wiki/Sebastian_Walker)) — 'Sebastian Walker' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Selmin Hodza** ([WP](https://de.wikipedia.org/wiki/Selmin_Hodza)) — 'Selmin Hodza' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Silas Huber** ([WP](https://de.wikipedia.org/wiki/Silas_Huber)) — 'Silas Huber' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

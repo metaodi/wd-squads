@@ -2,30 +2,25 @@
 
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 100
-- Suggested edits: 100
-- Generated: 2026-07-22 05:53 UTC
+- Suggested edits: 106
+- Generated: 2026-07-22 06:38 UTC
 
-## Recorded as a current member, but no longer in the squad (100)
+## Recorded as a current member, but no longer in the squad (88)
 
 - **[Alexander Siebeck](https://www.wikidata.org/wiki/Q20437173)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Sorge](https://www.wikidata.org/wiki/Q24701204)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Amadou Haidara](https://www.wikidata.org/wiki/Q26220864)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Angeliño](https://www.wikidata.org/wiki/Q20688718)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Anthony Barylla](https://www.wikidata.org/wiki/Q36090654)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Antonio Nusa](https://www.wikidata.org/wiki/Q107357509)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arthur Vermeeren](https://www.wikidata.org/wiki/Q113499581)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Atınç Nukan](https://www.wikidata.org/wiki/Q758356)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ben Klefisch](https://www.wikidata.org/wiki/Q110983882)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Benjamin Bellot](https://www.wikidata.org/wiki/Q15739706)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Benjamin Girth](https://www.wikidata.org/wiki/Q33450297)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Benjamin Henrichs](https://www.wikidata.org/wiki/Q20992981)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bernardo Fernandes da Silva Junior](https://www.wikidata.org/wiki/Q22675674)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Brajan Gruda](https://www.wikidata.org/wiki/Q116432094)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Christoph Baumgartner](https://www.wikidata.org/wiki/Q55999670)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christopher Lenz](https://www.wikidata.org/wiki/Q27663045)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[David Raum](https://www.wikidata.org/wiki/Q28540571)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dominik Franke](https://www.wikidata.org/wiki/Q66124553)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dominik Kaiser](https://www.wikidata.org/wiki/Q442372)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dominik Martinović](https://www.wikidata.org/wiki/Q52354845)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -62,7 +57,6 @@
 - **[Lisa Reichenbach](https://www.wikidata.org/wiki/Q55028463)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Loïs Openda](https://www.wikidata.org/wiki/Q56183407)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luan Cândido](https://www.wikidata.org/wiki/Q59207116)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Lukas Klostermann](https://www.wikidata.org/wiki/Q16239602)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lukas Krüger](https://www.wikidata.org/wiki/Q55935425)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lutsharel Geertruida](https://www.wikidata.org/wiki/Q42328360)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Madlen Frank](https://www.wikidata.org/wiki/Q15990527)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -77,7 +71,6 @@
 - **[Miriam Schwermer](https://www.wikidata.org/wiki/Q104831699)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mohamed Simakan](https://www.wikidata.org/wiki/Q60147292)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Niclas Stierlin](https://www.wikidata.org/wiki/Q55767090)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Nicolas Seiwald](https://www.wikidata.org/wiki/Q64010197)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nils Quaschner](https://www.wikidata.org/wiki/Q819682)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Oliver Bias](https://www.wikidata.org/wiki/Q55935497)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Oliver Burke](https://www.wikidata.org/wiki/Q18125392)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -85,10 +78,8 @@
 - **[Paul Schinke](https://www.wikidata.org/wiki/Q12815634)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Köhn](https://www.wikidata.org/wiki/Q56612830)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Tschauner](https://www.wikidata.org/wiki/Q878033)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Péter Gulácsi](https://www.wikidata.org/wiki/Q357507)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rani Khedira](https://www.wikidata.org/wiki/Q86312)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Robert Klauß](https://www.wikidata.org/wiki/Q55443134)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Rômulo José Cardoso da Cruz](https://www.wikidata.org/wiki/Q110970778)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sascha Lense](https://www.wikidata.org/wiki/Q7425029)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sidney Raebiger](https://www.wikidata.org/wiki/Q106862884)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Smail Prevljak](https://www.wikidata.org/wiki/Q17517329)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -104,8 +95,29 @@
 - **[Tyler Adams](https://www.wikidata.org/wiki/Q19871581)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vincent Rabiega](https://www.wikidata.org/wiki/Q9368807)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vitaly Janelt](https://www.wikidata.org/wiki/Q26212017)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Willi Orban](https://www.wikidata.org/wiki/Q2577379)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Xaver Schlager](https://www.wikidata.org/wiki/Q20190657)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Yan Diomande](https://www.wikidata.org/wiki/Q133698867)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yuliyan Chapaev](https://www.wikidata.org/wiki/Q16230194)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zsolt Kalmár](https://www.wikidata.org/wiki/Q16236806)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but no membership statement on Wikidata (17)
+
+- **[Andrija Maksimović](https://www.wikidata.org/wiki/Q122260202)** ([WP](https://de.wikipedia.org/wiki/Andrija_Maksimović)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Assan Ouédraogo](https://www.wikidata.org/wiki/Q114825245)** ([WP](https://de.wikipedia.org/wiki/Assan_Ouédraogo)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Ayodele Thomas](https://www.wikidata.org/wiki/Q130459793)** ([WP](https://de.wikipedia.org/wiki/Ayodele_Thomas)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Castello Lukeba](https://www.wikidata.org/wiki/Q106766554)** ([WP](https://de.wikipedia.org/wiki/Castello_Lukeba)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Conrad Harder](https://www.wikidata.org/wiki/Q122618590)** ([WP](https://de.wikipedia.org/wiki/Conrad_Harder)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[El Chadaille Bitshiabu](https://www.wikidata.org/wiki/Q110211916)** ([WP](https://de.wikipedia.org/wiki/El_Chadaille_Bitshiabu)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Ezechiel Banzuzi](https://www.wikidata.org/wiki/Q110831293)** ([WP](https://de.wikipedia.org/wiki/Ezechiel_Banzuzi)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Johan Bakayoko](https://www.wikidata.org/wiki/Q102179077)** ([WP](https://de.wikipedia.org/wiki/Johan_Bakayoko)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Kosta Nedeljković](https://www.wikidata.org/wiki/Q119719443)** ([WP](https://de.wikipedia.org/wiki/Kosta_Nedeljković)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Leopold Zingerle](https://www.wikidata.org/wiki/Q18223974)** ([WP](https://de.wikipedia.org/wiki/Leopold_Zingerle)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Maarten Vandevoordt](https://www.wikidata.org/wiki/Q60791064)** ([WP](https://de.wikipedia.org/wiki/Maarten_Vandevoordt)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Max Finkgräfe](https://www.wikidata.org/wiki/Q121630775)** ([WP](https://de.wikipedia.org/wiki/Max_Finkgräfe)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Ridle Baku](https://www.wikidata.org/wiki/Q46126025)** ([WP](https://de.wikipedia.org/wiki/Ridle_Baku)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Samba Konaté](https://www.wikidata.org/wiki/Q137204751)** ([WP](https://de.wikipedia.org/wiki/Samba_Konaté)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Suleman Sani](https://www.wikidata.org/wiki/Q132413182)** ([WP](https://de.wikipedia.org/wiki/Suleman_Sani)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Tidiam Gomis](https://www.wikidata.org/wiki/Q118611120)** ([WP](https://de.wikipedia.org/wiki/Tidiam_Gomis)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+- **[Viggo Gebel](https://www.wikidata.org/wiki/Q129259791)** ([WP](https://de.wikipedia.org/wiki/Viggo_Gebel)) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
+
+## In current squad, but the Wikipedia article has no Wikidata item (1)
+
+- **Benno Kaltefleiter** — 'Benno Kaltefleiter' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

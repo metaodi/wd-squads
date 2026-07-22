@@ -2,10 +2,10 @@
 
 - Wikidata item: [Q51974](https://www.wikidata.org/wiki/Q51974)
 - Wikipedia article: [Hamburger SV](https://de.wikipedia.org/wiki/Hamburger_SV)
-- Players in Wikipedia squad: 25
+- Players in Wikipedia squad: 26
 - Current members on Wikidata: 166
-- Suggested edits: 180
-- Generated: 2026-07-22 05:53 UTC
+- Suggested edits: 181
+- Generated: 2026-07-22 06:38 UTC
 
 ## Recorded as a current member, but no longer in the squad (160)
 
@@ -195,6 +195,7 @@
 
 - **[Bakery Jatta](https://www.wikidata.org/wiki/Q24577799)** ([WP](https://de.wikipedia.org/wiki/Bakery_Jatta)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (1)
+## In current squad, but the Wikipedia article has no Wikidata item (2)
 
+- **()** — '()' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Fernando Dickes** — 'Fernando Dickes' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

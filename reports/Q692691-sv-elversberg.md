@@ -2,10 +2,10 @@
 
 - Wikidata item: [Q692691](https://www.wikidata.org/wiki/Q692691)
 - Wikipedia article: [SV Elversberg](https://de.wikipedia.org/wiki/SV_Elversberg)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 27
 - Current members on Wikidata: 40
-- Suggested edits: 40
-- Generated: 2026-07-22 05:53 UTC
+- Suggested edits: 67
+- Generated: 2026-07-22 06:38 UTC
 
 ## Recorded as a current member, but no longer in the squad (40)
 
@@ -49,3 +49,36 @@
 - **[Tobias Feisthammel](https://www.wikidata.org/wiki/Q2437779)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yilmaz Örtülü](https://www.wikidata.org/wiki/Q2600317)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Younes Ebnoutalib](https://www.wikidata.org/wiki/Q136388604)** — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but no membership statement on Wikidata (25)
+
+- **[Amara Condé](https://www.wikidata.org/wiki/Q26211996)** ([WP](https://de.wikipedia.org/wiki/Amara_Condé)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Cole Campbell](https://www.wikidata.org/wiki/Q116725515)** ([WP](https://de.wikipedia.org/wiki/Cole_Campbell)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[David Mokwa](https://www.wikidata.org/wiki/Q117266388)** ([WP](https://de.wikipedia.org/wiki/David_Mokwa)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Felix Keidel](https://www.wikidata.org/wiki/Q116687736)** ([WP](https://de.wikipedia.org/wiki/Felix_Keidel)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Filimon Gerezgiher](https://www.wikidata.org/wiki/Q130449502)** ([WP](https://de.wikipedia.org/wiki/Filimon_Gerezgiher)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Florian Le Joncour](https://www.wikidata.org/wiki/Q20991472)** ([WP](https://de.wikipedia.org/wiki/Florian_Le_Joncour)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Francis Onyeka](https://www.wikidata.org/wiki/Q130729966)** ([WP](https://de.wikipedia.org/wiki/Francis_Onyeka)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Frank Lehmann](https://www.wikidata.org/wiki/Q1443647)** ([WP](https://de.wikipedia.org/wiki/Frank_Lehmann_(Fußballspieler,_1989))) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Frederik Schmahl](https://www.wikidata.org/wiki/Q130390911)** ([WP](https://de.wikipedia.org/wiki/Frederik_Schmahl)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Jan Gyamerah](https://www.wikidata.org/wiki/Q15729468)** ([WP](https://de.wikipedia.org/wiki/Jan_Gyamerah)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Jason Çeka](https://www.wikidata.org/wiki/Q107671130)** ([WP](https://de.wikipedia.org/wiki/Jason_Çeka)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Lasse Günther](https://www.wikidata.org/wiki/Q106451287)** ([WP](https://de.wikipedia.org/wiki/Lasse_Günther)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Luca Pfeiffer](https://www.wikidata.org/wiki/Q56434183)** ([WP](https://de.wikipedia.org/wiki/Luca_Pfeiffer)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Luca Schnellbacher](https://www.wikidata.org/wiki/Q14776663)** ([WP](https://de.wikipedia.org/wiki/Luca_Schnellbacher)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Lukas Petkov](https://www.wikidata.org/wiki/Q106938641)** ([WP](https://de.wikipedia.org/wiki/Lukas_Petkov)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Lukas Pinckert](https://www.wikidata.org/wiki/Q107642880)** ([WP](https://de.wikipedia.org/wiki/Lukas_Pinckert)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Maurice Krattenmacher](https://www.wikidata.org/wiki/Q124150768)** ([WP](https://de.wikipedia.org/wiki/Maurice_Krattenmacher)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Maximilian Rohr](https://www.wikidata.org/wiki/Q66125888)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Rohr)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Nicholas Mickelson](https://www.wikidata.org/wiki/Q31080531)** ([WP](https://de.wikipedia.org/wiki/Nicholas_Mickelson)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Nicolas Kristof](https://www.wikidata.org/wiki/Q113226875)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Kristof)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Noah Darvich](https://www.wikidata.org/wiki/Q118465124)** ([WP](https://de.wikipedia.org/wiki/Noah_Darvich)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Raif Adam](https://www.wikidata.org/wiki/Q140559114)** ([WP](https://de.wikipedia.org/wiki/Raif_Adam)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Tim Boss](https://www.wikidata.org/wiki/Q21191141)** ([WP](https://de.wikipedia.org/wiki/Tim_Boss)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Tom Zimmerschied](https://www.wikidata.org/wiki/Q99244389)** ([WP](https://de.wikipedia.org/wiki/Tom_Zimmerschied)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Łukasz Poręba](https://www.wikidata.org/wiki/Q61910842)** ([WP](https://de.wikipedia.org/wiki/Łukasz_Poręba)) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+
+## In current squad, but the Wikipedia article has no Wikidata item (2)
+
+- **Elias Etringer** — 'Elias Etringer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Luis Seifert** — 'Luis Seifert' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

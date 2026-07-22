@@ -2,19 +2,50 @@
 
 - Wikidata item: [Q22707](https://www.wikidata.org/wiki/Q22707)
 - Wikipedia article: [TSG 1899 Hoffenheim](https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 67
 - Current members on Wikidata: 78
-- Suggested edits: 78
-- Generated: 2026-07-22 05:53 UTC
+- Suggested edits: 129
+- Generated: 2026-07-22 06:38 UTC
 
-## Recorded as a current member, but no longer in the squad (78)
+## In current squad, but no membership statement on Wikidata (30)
 
-- **[Adam Hložek](https://www.wikidata.org/wiki/Q59782306)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Albian Hajdari](https://www.wikidata.org/wiki/Q99694316)** ([WP](https://de.wikipedia.org/wiki/Albian_Hajdari)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Alessandro Vogt](https://www.wikidata.org/wiki/Q136121363)** ([WP](https://de.wikipedia.org/wiki/Alessandro_Vogt)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Alexander Prass](https://www.wikidata.org/wiki/Q62006510)** ([WP](https://de.wikipedia.org/wiki/Alexander_Prass)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Arian Llugiqi](https://www.wikidata.org/wiki/Q110230907)** ([WP](https://de.wikipedia.org/wiki/Arian_Llugiqi)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Arthur Chaves](https://www.wikidata.org/wiki/Q110943061)** ([WP](https://de.wikipedia.org/wiki/Arthur_Chaves)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Bambasé Conté](https://www.wikidata.org/wiki/Q123409527)** ([WP](https://de.wikipedia.org/wiki/Bambasé_Conté)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Bernardo](https://www.wikidata.org/wiki/Q22675674)** ([WP](https://de.wikipedia.org/wiki/Bernardo_(Fußballspieler,_1995))) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Cajetan Lenz](https://www.wikidata.org/wiki/Q135678341)** ([WP](https://de.wikipedia.org/wiki/Cajetan_Lenz)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Deniz Zeitler](https://www.wikidata.org/wiki/Q123651623)** ([WP](https://de.wikipedia.org/wiki/Deniz_Zeitler)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Fisnik Asllani](https://www.wikidata.org/wiki/Q109653419)** ([WP](https://de.wikipedia.org/wiki/Fisnik_Asllani)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Florian Micheler](https://www.wikidata.org/wiki/Q130215867)** ([WP](https://de.wikipedia.org/wiki/Florian_Micheler)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Gift Orban](https://www.wikidata.org/wiki/Q112963287)** ([WP](https://de.wikipedia.org/wiki/Gift_Orban)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Klaus Gjasula](https://www.wikidata.org/wiki/Q20631116)** ([WP](https://de.wikipedia.org/wiki/Klaus_Gjasula)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Konstantin Aleksa](https://www.wikidata.org/wiki/Q128841262)** ([WP](https://de.wikipedia.org/wiki/Konstantin_Aleksa)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Lars Strobl](https://www.wikidata.org/wiki/Q140378976)** ([WP](https://de.wikipedia.org/wiki/Lars_Strobl)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Leon Avdullahu](https://www.wikidata.org/wiki/Q123575103)** ([WP](https://de.wikipedia.org/wiki/Leon_Avdullahu)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Luca Philipp](https://www.wikidata.org/wiki/Q98106393)** ([WP](https://de.wikipedia.org/wiki/Luca_Philipp)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Luis Engelns](https://www.wikidata.org/wiki/Q135875446)** ([WP](https://de.wikipedia.org/wiki/Luis_Engelns)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Lúkas Petersson](https://www.wikidata.org/wiki/Q124670649)** ([WP](https://de.wikipedia.org/wiki/Lúkas_Petersson)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Mats Rots](https://www.wikidata.org/wiki/Q121746385)** ([WP](https://de.wikipedia.org/wiki/Mats_Rots)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Max Moerstedt](https://www.wikidata.org/wiki/Q113510031)** ([WP](https://de.wikipedia.org/wiki/Max_Moerstedt)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Muhammed Damar](https://www.wikidata.org/wiki/Q113461168)** ([WP](https://de.wikipedia.org/wiki/Muhammed_Damar)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Nader Jindaoui](https://www.wikidata.org/wiki/Q112265242)** ([WP](https://de.wikipedia.org/wiki/Nader_Jindaoui)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Nathan De Cat](https://www.wikidata.org/wiki/Q124416502)** ([WP](https://de.wikipedia.org/wiki/Nathan_De_Cat)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Patrick Wimmer](https://www.wikidata.org/wiki/Q65948837)** ([WP](https://de.wikipedia.org/wiki/Patrick_Wimmer)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Robin Hranáč](https://www.wikidata.org/wiki/Q107647351)** ([WP](https://de.wikipedia.org/wiki/Robin_Hranáč)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Tim Lemperle](https://www.wikidata.org/wiki/Q96678433)** ([WP](https://de.wikipedia.org/wiki/Tim_Lemperle)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Umut Tohumcu](https://www.wikidata.org/wiki/Q112041896)** ([WP](https://de.wikipedia.org/wiki/Umut_Tohumcu)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Vladimír Coufal](https://www.wikidata.org/wiki/Q15113326)** ([WP](https://de.wikipedia.org/wiki/Vladimír_Coufal)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Wouter Burger](https://www.wikidata.org/wiki/Q53998229)** ([WP](https://de.wikipedia.org/wiki/Wouter_Burger)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+
+## Recorded as a current member, but no longer in the squad (70)
+
 - **[Alexander Rossipal](https://www.wikidata.org/wiki/Q44966010)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Stolz](https://www.wikidata.org/wiki/Q77941)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alfons Amade](https://www.wikidata.org/wiki/Q60870405)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Schön](https://www.wikidata.org/wiki/Q500643)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Andrej Kramarić](https://www.wikidata.org/wiki/Q502898)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Antonio Čolak](https://www.wikidata.org/wiki/Q15431979)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Benjamin Hübner](https://www.wikidata.org/wiki/Q777404)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bruno dos Santos Nazário](https://www.wikidata.org/wiki/Q15060011)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -22,7 +53,6 @@
 - **[Christoph Martschinko](https://www.wikidata.org/wiki/Q5111722)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Connor Krempicki](https://www.wikidata.org/wiki/Q55819922)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David Otto](https://www.wikidata.org/wiki/Q44965254)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Dennis Geiger](https://www.wikidata.org/wiki/Q36194149)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dóra Zeller](https://www.wikidata.org/wiki/Q1467012)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ermin Bičakčić](https://www.wikidata.org/wiki/Q75993)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erwin Rupp](https://www.wikidata.org/wiki/Q30253095)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -45,7 +75,6 @@
 - **[Kevin Vogt](https://www.wikidata.org/wiki/Q573312)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kingsley Schindler](https://www.wikidata.org/wiki/Q27070247)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kristin Demann](https://www.wikidata.org/wiki/Q1789289)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Kōki Machida](https://www.wikidata.org/wiki/Q22910803)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Laura Wienroither](https://www.wikidata.org/wiki/Q90583626)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lena Lattwein](https://www.wikidata.org/wiki/Q58457114)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Leonie Keilbach](https://www.wikidata.org/wiki/Q16029088)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -64,8 +93,6 @@
 - **[Nadiem Amiri](https://www.wikidata.org/wiki/Q19274473)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nico Schulz](https://www.wikidata.org/wiki/Q1350685)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nicole Billa](https://www.wikidata.org/wiki/Q17386759)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Oliver Baumann](https://www.wikidata.org/wiki/Q129116)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Ozan Kabak](https://www.wikidata.org/wiki/Q53280628)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Park In-hyeok](https://www.wikidata.org/wiki/Q21033648)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Pavel Kadeřábek](https://www.wikidata.org/wiki/Q3898288)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Ochs](https://www.wikidata.org/wiki/Q20822710)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -75,7 +102,6 @@
 - **[Russell Canouse](https://www.wikidata.org/wiki/Q23054701)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sarai Linder](https://www.wikidata.org/wiki/Q27824497)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sargis Adamyan](https://www.wikidata.org/wiki/Q7423943)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Sean Dulic](https://www.wikidata.org/wiki/Q131983290)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Silvana Chojnowski](https://www.wikidata.org/wiki/Q2286443)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Stefan Posch](https://www.wikidata.org/wiki/Q41447930)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sven Eller](https://www.wikidata.org/wiki/Q2371026)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -84,6 +110,37 @@
 - **[Tiffany Cameron](https://www.wikidata.org/wiki/Q10552973)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tobias Strobl](https://www.wikidata.org/wiki/Q2438006)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Uwe Meyer](https://www.wikidata.org/wiki/Q15852299)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Valentin Gendrey](https://www.wikidata.org/wiki/Q60050172)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wout Weghorst](https://www.wikidata.org/wiki/Q2210473)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yannick Thermann](https://www.wikidata.org/wiki/Q36103196)** — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but the Wikipedia article has no Wikidata item (29)
+
+- **Alex Honajzer** ([WP](https://de.wikipedia.org/wiki/Alex_Honajzer)) — 'Alex Honajzer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Ben Opoku** ([WP](https://de.wikipedia.org/wiki/Ben_Opoku)) — 'Ben Opoku' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Blessing Makanda** ([WP](https://de.wikipedia.org/wiki/Blessing_Makanda)) — 'Blessing Makanda' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Denis Donkor** ([WP](https://de.wikipedia.org/wiki/Denis_Donkor)) — 'Denis Donkor' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Diren Dağdeviren** ([WP](https://de.wikipedia.org/wiki/Diren_Dağdeviren)) — 'Diren Dağdeviren' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Finn SherlockU19** — 'Finn SherlockU19' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jakov Dedić** ([WP](https://de.wikipedia.org/wiki/Jakov_Dedić)) — 'Jakov Dedić' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jykese Fields** ([WP](https://de.wikipedia.org/wiki/Jykese_Fields)) — 'Jykese Fields' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Kryštof ČížekU19** — 'Kryštof ČížekU19' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Lion Wagenbach** — 'Lion Wagenbach' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Luca Erlein** ([WP](https://de.wikipedia.org/wiki/Luca_Erlein)) — 'Luca Erlein' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Matthew Moore** — 'Matthew Moore' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Maxime Ndong-Penda** — 'Maxime Ndong-Penda' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Maximilian TheuerU19** — 'Maximilian TheuerU19' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Natnael Abraha** ([WP](https://de.wikipedia.org/wiki/Natnael_Abraha)) — 'Natnael Abraha' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Nico BiedermannU19** — 'Nico BiedermannU19' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Nils Schlosser** — 'Nils Schlosser' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Noah Mikrut** — 'Noah Mikrut' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Oskar Hencke** ([WP](https://de.wikipedia.org/wiki/Oskar_Hencke)) — 'Oskar Hencke' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Santino Pistrol** — 'Santino Pistrol' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Tiago Poller** ([WP](https://de.wikipedia.org/wiki/Tiago_Poller)) — 'Tiago Poller' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Tim Müller** — 'Tim Müller' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Tim Philipp** — 'Tim Philipp' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Timo Hildmann** — 'Timo Hildmann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Tobias Trautner** — 'Tobias Trautner' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Tristan Spranger** ([WP](https://de.wikipedia.org/wiki/Tristan_Spranger)) — 'Tristan Spranger' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Valentin Lässig** ([WP](https://de.wikipedia.org/wiki/Valentin_Lässig)) — 'Valentin Lässig' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Yasin Zor** — 'Yasin Zor' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Zain Biazid** ([WP](https://de.wikipedia.org/wiki/Zain_Biazid)) — 'Zain Biazid' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

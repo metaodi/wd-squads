@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q4512](https://www.wikidata.org/wiki/Q4512)
 - Wikipedia article: [VfB Stuttgart](https://de.wikipedia.org/wiki/VfB_Stuttgart)
-- Players in Wikipedia squad: 0
+- Players in Wikipedia squad: 51
 - Current members on Wikidata: 322
-- Suggested edits: 322
-- Generated: 2026-07-22 05:53 UTC
+- Suggested edits: 350
+- Generated: 2026-07-22 06:38 UTC
 
-## Recorded as a current member, but no longer in the squad (322)
+## Recorded as a current member, but no longer in the squad (309)
 
 - **[Abdelaziz Ahanfouf](https://www.wikidata.org/wiki/Q307843)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Grbić](https://www.wikidata.org/wiki/Q21033347)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -16,7 +16,6 @@
 - **[Alessandro Abruscia](https://www.wikidata.org/wiki/Q20731714)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alessandro Riedle](https://www.wikidata.org/wiki/Q562531)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Aschauer](https://www.wikidata.org/wiki/Q1739220)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Alexander Groiß](https://www.wikidata.org/wiki/Q24034336)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Merkel](https://www.wikidata.org/wiki/Q327205)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Meyer](https://www.wikidata.org/wiki/Q66005227)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Ogrinc](https://www.wikidata.org/wiki/Q1749972)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -25,16 +24,13 @@
 - **[Ali Gökdemir](https://www.wikidata.org/wiki/Q2619059)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ali Pala](https://www.wikidata.org/wiki/Q2646729)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Aly Keita](https://www.wikidata.org/wiki/Q20770929)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Ameen Al-Dakhil](https://www.wikidata.org/wiki/Q98546080)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Hindelang](https://www.wikidata.org/wiki/Q498064)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Ivan](https://www.wikidata.org/wiki/Q15727635)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Angelo Stiller](https://www.wikidata.org/wiki/Q68676722)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Anto Grgic](https://www.wikidata.org/wiki/Q22162713)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Antonis Aidonis](https://www.wikidata.org/wiki/Q58450334)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arianit Ferati](https://www.wikidata.org/wiki/Q20743290)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arno Schäfer](https://www.wikidata.org/wiki/Q694569)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Artem Kravets](https://www.wikidata.org/wiki/Q512820)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Atakan Karazor](https://www.wikidata.org/wiki/Q47487632)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Axel Thoma](https://www.wikidata.org/wiki/Q792382)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Aykut Erçetin](https://www.wikidata.org/wiki/Q729830)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Benedict Dos Santos](https://www.wikidata.org/wiki/Q24034264)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -47,13 +43,11 @@
 - **[Bernard Lacombe](https://www.wikidata.org/wiki/Q4232)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bernd Frick](https://www.wikidata.org/wiki/Q823467)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Besar Halimi](https://www.wikidata.org/wiki/Q14943013)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Bilal El Khannouss](https://www.wikidata.org/wiki/Q105955374)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Boris Vukčević](https://www.wikidata.org/wiki/Q167461)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Borys Tashchy](https://www.wikidata.org/wiki/Q2583285)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Caniggia Elva](https://www.wikidata.org/wiki/Q15917220)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Carlos Mané](https://www.wikidata.org/wiki/Q5042329)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Chadrac Akolo](https://www.wikidata.org/wiki/Q23939194)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Chris Führich](https://www.wikidata.org/wiki/Q45369082)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christian Endler](https://www.wikidata.org/wiki/Q1079421)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christian Gentner](https://www.wikidata.org/wiki/Q61230)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christian Haas](https://www.wikidata.org/wiki/Q1080088)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -74,7 +68,6 @@
 - **[David Grözinger](https://www.wikidata.org/wiki/Q65955696)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David Kopacz](https://www.wikidata.org/wiki/Q56738856)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David Müller](https://www.wikidata.org/wiki/Q1175842)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Deniz Undav](https://www.wikidata.org/wiki/Q55955918)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dennis Aogo](https://www.wikidata.org/wiki/Q154311)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dieter Feller](https://www.wikidata.org/wiki/Q1221897)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dieter Kohnle](https://www.wikidata.org/wiki/Q1222296)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -90,7 +83,6 @@
 - **[Erich Kaniber](https://www.wikidata.org/wiki/Q1352537)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erich Koch](https://www.wikidata.org/wiki/Q1352603)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erik Thommy](https://www.wikidata.org/wiki/Q15735586)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Ermedin Demirović](https://www.wikidata.org/wiki/Q47067481)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ernst Otterbach](https://www.wikidata.org/wiki/Q101681)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ernst Schnaitmann](https://www.wikidata.org/wiki/Q1360117)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ernst Wilimowski](https://www.wikidata.org/wiki/Q559779)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -98,7 +90,6 @@
 - **[Erwin Läpple](https://www.wikidata.org/wiki/Q1363214)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Eugen Weidner](https://www.wikidata.org/wiki/Q1372949)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fabian Aupperle](https://www.wikidata.org/wiki/Q1390201)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Fabian Bredlow](https://www.wikidata.org/wiki/Q16519559)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fabian Broghammer](https://www.wikidata.org/wiki/Q1390210)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fabian Eisele](https://www.wikidata.org/wiki/Q17427549)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fabian Weiß](https://www.wikidata.org/wiki/Q1390336)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -150,7 +141,6 @@
 - **[Jacob Bruun Larsen](https://www.wikidata.org/wiki/Q26221634)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jan Kliment](https://www.wikidata.org/wiki/Q12022676)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jean Zimmer](https://www.wikidata.org/wiki/Q15525954)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jeff Chabot](https://www.wikidata.org/wiki/Q39082971)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jens Grahl](https://www.wikidata.org/wiki/Q15285035)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jeremias Lorch](https://www.wikidata.org/wiki/Q22342654)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jeremy Karikari](https://www.wikidata.org/wiki/Q1560544)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -161,7 +151,6 @@
 - **[Josef Ledl](https://www.wikidata.org/wiki/Q1705123)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[José-Alex Ikeng](https://www.wikidata.org/wiki/Q326799)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Julian Green](https://www.wikidata.org/wiki/Q15241424)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Justin Diehl](https://www.wikidata.org/wiki/Q116294228)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jérôme Onguéné](https://www.wikidata.org/wiki/Q21039564)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jörn Schmiedel](https://www.wikidata.org/wiki/Q1715656)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jürgen Martin](https://www.wikidata.org/wiki/Q1717456)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -220,7 +209,6 @@
 - **[Mattia Maggio](https://www.wikidata.org/wiki/Q16054819)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Max Besuschkow](https://www.wikidata.org/wiki/Q20743335)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Maxime Awoudja](https://www.wikidata.org/wiki/Q65950040)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Maximilian Mittelstädt](https://www.wikidata.org/wiki/Q22998602)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mete Çelik](https://www.wikidata.org/wiki/Q20892728)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michael Fink](https://www.wikidata.org/wiki/Q683541)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michael Gardawski](https://www.wikidata.org/wiki/Q1789681)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -235,7 +223,6 @@
 - **[Moritz Kuhn](https://www.wikidata.org/wiki/Q968371)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nico Klotz](https://www.wikidata.org/wiki/Q1985962)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nico Rodewald](https://www.wikidata.org/wiki/Q27662976)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Nicolás Sessa](https://www.wikidata.org/wiki/Q56249397)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nikolaos Chatzis](https://www.wikidata.org/wiki/Q12014010)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nikolaos Nakas](https://www.wikidata.org/wiki/Q1991254)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Noah Darvich](https://www.wikidata.org/wiki/Q118465124)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -331,3 +318,50 @@
 - **[Yannik Keitel](https://www.wikidata.org/wiki/Q86740704)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ádám Szalai](https://www.wikidata.org/wiki/Q249572)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Öztürk Karataş](https://www.wikidata.org/wiki/Q307954)** — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+## In current squad, but no membership statement on Wikidata (38)
+
+- **[Antonijo Janjić](https://www.wikidata.org/wiki/Q140134226)** ([WP](https://de.wikipedia.org/wiki/Antonijo_Janjić)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Badredine Bouanani](https://www.wikidata.org/wiki/Q114593540)** ([WP](https://de.wikipedia.org/wiki/Badredine_Bouanani)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Chema](https://www.wikidata.org/wiki/Q127932393)** ([WP](https://de.wikipedia.org/wiki/Chema_(Fußballspieler))) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Christopher Olivier](https://www.wikidata.org/wiki/Q129782573)** ([WP](https://de.wikipedia.org/wiki/Christopher_Olivier)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Dan-Axel Zagadou](https://www.wikidata.org/wiki/Q30131952)** ([WP](https://de.wikipedia.org/wiki/Dan-Axel_Zagadou)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[David Preu](https://www.wikidata.org/wiki/Q131322119)** ([WP](https://de.wikipedia.org/wiki/David_Preu)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Dennis Seimen](https://www.wikidata.org/wiki/Q114825196)** ([WP](https://de.wikipedia.org/wiki/Dennis_Seimen)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Dominik Draband](https://www.wikidata.org/wiki/Q57580021)** ([WP](https://de.wikipedia.org/wiki/Dominik_Draband)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Dominik Nothnagel](https://www.wikidata.org/wiki/Q14863318)** ([WP](https://de.wikipedia.org/wiki/Dominik_Nothnagel)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Eliot Bujupi](https://www.wikidata.org/wiki/Q130268090)** ([WP](https://de.wikipedia.org/wiki/Eliot_Bujupi)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Finn Jeltsch](https://www.wikidata.org/wiki/Q118859259)** ([WP](https://de.wikipedia.org/wiki/Finn_Jeltsch)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Grischa Prömel](https://www.wikidata.org/wiki/Q20436216)** ([WP](https://de.wikipedia.org/wiki/Grischa_Prömel)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Jamie Leweling](https://www.wikidata.org/wiki/Q65964628)** ([WP](https://de.wikipedia.org/wiki/Jamie_Leweling)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Jarzinho Malanga](https://www.wikidata.org/wiki/Q118611564)** ([WP](https://de.wikipedia.org/wiki/Jarzinho_Malanga)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Jeremy Arévalo](https://www.wikidata.org/wiki/Q121410218)** ([WP](https://de.wikipedia.org/wiki/Jeremy_Arévalo)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Jerik von der Felsen](https://www.wikidata.org/wiki/Q139567682)** ([WP](https://de.wikipedia.org/wiki/Jerik_von_der_Felsen)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Jordan Majchrzak](https://www.wikidata.org/wiki/Q117084669)** ([WP](https://de.wikipedia.org/wiki/Jordan_Majchrzak)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Josha Vagnoman](https://www.wikidata.org/wiki/Q50384596)** ([WP](https://de.wikipedia.org/wiki/Josha_Vagnoman)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Jovan Milošević](https://www.wikidata.org/wiki/Q113138312)** ([WP](https://de.wikipedia.org/wiki/Jovan_Milošević)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Julian Lüers](https://www.wikidata.org/wiki/Q135582285)** ([WP](https://de.wikipedia.org/wiki/Julian_Lüers)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Lauri Penna](https://www.wikidata.org/wiki/Q135687046)** ([WP](https://de.wikipedia.org/wiki/Lauri_Penna)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Laurin Ulrich](https://www.wikidata.org/wiki/Q115190702)** ([WP](https://de.wikipedia.org/wiki/Laurin_Ulrich)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Lazar Jovanović](https://www.wikidata.org/wiki/Q121086658)** ([WP](https://de.wikipedia.org/wiki/Lazar_Jovanović_(Fußballspieler,_2006))) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Leonidas Stergiou](https://www.wikidata.org/wiki/Q64009619)** ([WP](https://de.wikipedia.org/wiki/Leonidas_Stergiou)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Lorenz Assignon](https://www.wikidata.org/wiki/Q108199499)** ([WP](https://de.wikipedia.org/wiki/Lorenz_Assignon)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Luca Jaquez](https://www.wikidata.org/wiki/Q122160785)** ([WP](https://de.wikipedia.org/wiki/Luca_Jaquez)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Marius Funk](https://www.wikidata.org/wiki/Q20743348)** ([WP](https://de.wikipedia.org/wiki/Marius_Funk)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Mattheos Tsigkas](https://www.wikidata.org/wiki/Q136260087)** ([WP](https://de.wikipedia.org/wiki/Mattheos_Tsigkas)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Maximilian Herwerth](https://www.wikidata.org/wiki/Q123641559)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Herwerth)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Michael Glück](https://www.wikidata.org/wiki/Q114342115)** ([WP](https://de.wikipedia.org/wiki/Michael_Glück)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Mirza Ćatović](https://www.wikidata.org/wiki/Q131444982)** ([WP](https://de.wikipedia.org/wiki/Mirza_Ćatović)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Nikolas Nartey](https://www.wikidata.org/wiki/Q43780652)** ([WP](https://de.wikipedia.org/wiki/Nikolas_Nartey)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Ramon Hendriks](https://www.wikidata.org/wiki/Q56306162)** ([WP](https://de.wikipedia.org/wiki/Ramon_Hendriks)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Stefan Drljača](https://www.wikidata.org/wiki/Q104520730)** ([WP](https://de.wikipedia.org/wiki/Stefan_Drljača)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Tiago Tomás](https://www.wikidata.org/wiki/Q96793422)** ([WP](https://de.wikipedia.org/wiki/Tiago_Tomás)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Tim Köhler](https://www.wikidata.org/wiki/Q130251125)** ([WP](https://de.wikipedia.org/wiki/Tim_Köhler)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Veit Stange](https://www.wikidata.org/wiki/Q118112363)** ([WP](https://de.wikipedia.org/wiki/Veit_Stange)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Yanik Spalt](https://www.wikidata.org/wiki/Q136384878)** ([WP](https://de.wikipedia.org/wiki/Yanik_Spalt)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+
+## Current member, but the membership has no start date (3)
+
+- **[Alexander Groiß](https://www.wikidata.org/wiki/Q24034336)** ([WP](https://de.wikipedia.org/wiki/Alexander_Groiß)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Atakan Karazor](https://www.wikidata.org/wiki/Q47487632)** ([WP](https://de.wikipedia.org/wiki/Atakan_Karazor)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Nicolás Sessa](https://www.wikidata.org/wiki/Q56249397)** ([WP](https://de.wikipedia.org/wiki/Nicolás_Sessa)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
