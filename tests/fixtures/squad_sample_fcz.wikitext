@@ -1,0 +1,50 @@
+== Die 1. Mannschaft ==
+=== Kader der Saison 2026/27 ===
+<small>Stand: 15. Juli 2026</small><ref>{{Internetquelle |url=https://www.fcz.ch/pages/profis-erste-mannschaft |titel=Profis – Erste Mannschaft |sprache=de |abruf=2025-10-08}}</ref>
+{| class="wikitable"
+|- style="background:#BBCCDD;"
+! Nr. !! Nat. !! Spieler !! Im Verein seit !! Letzter Verein
+|-
+! colspan="5" style="background:#EFEFEF;"|
+<big>Torhüter</big>
+|- style="background:#FFECCE;"
+| '''{{0}}1''' || {{CHE|#}} || [[Silas Huber]] || 2024 || eigene Jugend
+|- style="background:#FFECCE;"
+| '''12''' || {{UKR|#}} || [[Jewgen Morozow]] || 2025 || eigene Jugend
+|- style="background:#FFECCE;"
+| '''13''' || {{AUT|#}} || [[Heinz Lindner (Fußballspieler)|Heinz Lindner]] || 2015 || [[BSC Young Boys]]
+|- style="background:#FFECCE;"
+|-
+! colspan="5" style="background:#EFEFEF;" |
+<big>Verteidigung</big>
+|- style="background:#E7FAEC;"
+| '''{{0}}2''' || {{CHE|#}} {{KOS|#}} ||  [[Lindrit Kamberi]] || 2021 || [[FC Winterthur]]
+|- style="background:#E7FAEC;"
+| '''{{0}}3'''|| {{CUW|#}} {{NLD|#}} || [[Livano Comenencia]] || 2025 || [[Juventus Next Gen]]
+|- style="background:#E7FAEC;"
+| '''22''' || {{CHE|#}} {{FRA|#}} || [[Chris Kablan]] || 2026 || [[FC Luzern]]
+|- style="background:#E7FAEC;"
+| '''27''' || {{SUI|#}} {{USA|#}} || [[Ilan Sauter]] || 2025 || [[AC Bellinzona]]
+|-
+! colspan="5" style="background:#EFEFEF;" |
+<big>Mittelfeld</big>
+|-style="background:#DFEDFD;"
+| '''{{0}}7'''|| {{KOS|#}} {{CHE|#}} || [[Bledian Krasniqi]] || 2021 || [[FC Wil]]
+|- style="background:#DFEDFD;"
+| '''46''' || {{CHE|#}} || [[Jill Stiel]] || 2015 || eigene Jugend
+|-
+! colspan="5" style="background:#EFEFEF;" |
+<big>Stürmer</big>
+|- style="background:#FFD2D6;"
+| '''{{0}}9''' || {{COL|#}} || [[Juan José Perea]] || 2025 || [[VfB Stuttgart]]
+|-
+|}
+
+=== Betreuerstab und Vorstand ===
+{| style="width:550px;"
+|- style="background:#DDDDDD;"
+!Vorname, Name
+!Funktion
+|- class="hintergrundfarbe-basis"
+| [[Marcel Koller]] || style="text-align:center;"| Cheftrainer
+|}
