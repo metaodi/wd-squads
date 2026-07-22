@@ -45,7 +45,11 @@ class Team:
 
 @dataclass
 class SquadPlayer:
-    """A player read from a {{fs player}} template on Wikipedia."""
+    """A player read from a Wikipedia squad list.
+
+    Sourced from an English-style {{fs player}} template or a German-style
+    {{PersonZelle}} table cell; see ``wikipedia.parse_squad_players``.
+    """
 
     name: str
     title: Optional[str] = None  # Wikipedia article title (from the wikilink)
