@@ -13,6 +13,18 @@ def _load_de() -> str:
     return (FIXTURES / "squad_sample_de.wikitext").read_text(encoding="utf-8")
 
 
+def _load_fcz() -> str:
+    return (FIXTURES / "squad_sample_fcz.wikitext").read_text(encoding="utf-8")
+
+
+def _load_schalke() -> str:
+    return (FIXTURES / "squad_sample_schalke.wikitext").read_text(encoding="utf-8")
+
+
+def _load_vfb() -> str:
+    return (FIXTURES / "squad_sample_vfb.wikitext").read_text(encoding="utf-8")
+
+
 def test_parses_expected_players():
     players = parse_squad_players(_load())
     names = {p.name for p in players}
@@ -83,3 +95,134 @@ def test_german_link_targets():
 
     # nl=1 marks a player with no article, so there is no link title.
     assert players["Mussa Kaba"].title is None
+
+
+# --- German/Swiss wikilink-table format (FC Zürich, Schalke 04) --------------
+#
+# Some squads are plain ``{| class="wikitable"`` tables that link each player as
+# a bare ``[[wikilink]]`` in a "Spieler"/"Name" column rather than using
+# {{PersonZelle}}. The player column is found by its header; other columns
+# (previous club) also hold links and must be ignored.
+
+
+def test_parses_fcz_wikilink_table():
+    players = parse_squad_players(_load_fcz())
+    names = {p.name for p in players}
+    # Every player from the "Kader der Saison 2026/27" table (header "Spieler").
+    assert names == {
+        "Silas Huber",
+        "Jewgen Morozow",
+        "Heinz Lindner",
+        "Lindrit Kamberi",
+        "Livano Comenencia",
+        "Chris Kablan",
+        "Ilan Sauter",
+        "Bledian Krasniqi",
+        "Jill Stiel",
+        "Juan José Perea",
+    }
+    # Links in the "Letzter Verein" column are clubs, not players.
+    assert "FC Winterthur" not in names
+    assert "BSC Young Boys" not in names
+    # The Betreuerstab/Vorstand table's coach must not be counted.
+    assert "Marcel Koller" not in names
+
+
+def test_fcz_link_targets_numbers_and_section():
+    players = {p.name: p for p in parse_squad_players(_load_fcz())}
+
+    # Plain wikilink: title equals the display name; number comes from "Nr.".
+    assert players["Silas Huber"].title == "Silas Huber"
+    assert players["Silas Huber"].number == "1"
+    assert players["Silas Huber"].section == "Kader der Saison 2026/27"
+
+    # Piped, disambiguated wikilink: title differs from the display name.
+    assert players["Heinz Lindner"].title == "Heinz Lindner (Fußballspieler)"
+    assert players["Heinz Lindner"].number == "13"
+
+
+def test_parses_schalke_wikilink_table():
+    players = parse_squad_players(_load_schalke())
+    names = {p.name for p in players}
+    # Header "Name" sits directly under {| (no leading |-); position separators
+    # are colspan cells; plain-text players have no article link.
+    assert names == {
+        "Loris Karius",
+        "Kevin Müller",
+        "Johannes Siebeking",
+        "Dylan Leonard",
+        "Timo Becker",
+        "Vitalie Becker",
+        "Kenan Karaman",
+        "Mika Wallentowitz",
+        "Luca Vozar",
+    }
+    # Commented-out rows (loaned out / second team) are ignored.
+    assert "Luca Podlech" not in names
+    assert "Steve Noode" not in names
+    assert "Ibrahima Cissé" not in names
+    # Transfers and coaching-staff sections are excluded by their headings.
+    assert "Junior Adamu" not in names
+    assert "Miron Muslić" not in names
+    # The previous-club column ("letzte Station") links clubs, not players.
+    assert "Newcastle United" not in names
+    assert "Holstein Kiel" not in names
+
+
+def test_schalke_plaintext_captain_and_footnote():
+    players = {p.name: p for p in parse_squad_players(_load_schalke())}
+
+    # No-article players are kept with a name but no link title.
+    assert players["Johannes Siebeking"].title is None
+    assert players["Luca Vozar"].title is None
+
+    # A trailing {{Kapitän}}/{{FN}} template does not corrupt the linked name.
+    assert players["Kenan Karaman"].title == "Kenan Karaman"
+    assert players["Kenan Karaman"].number == "19"
+    assert players["Mika Wallentowitz"].title == "Mika Wallentowitz"
+
+    # Disambiguated link target is preserved.
+    assert players["Timo Becker"].title == "Timo Becker (Fußballspieler, 1997)"
+
+
+def test_parses_vfb_wikilink_table():
+    players = parse_squad_players(_load_vfb())
+    names = [p.name for p in players]
+    name_set = set(names)
+
+    # 32 current players across the four position groups.
+    assert len(players) == 32
+    assert {"Fabian Bredlow", "Angelo Stiller", "Deniz Undav", "Tiago Tomás"} <= name_set
+
+    # Comments that open *inside* a cell (e.g. "|| 2027<!-- VERLIEHEN...")
+    # swallow the following rows; those loaned players must not appear, while
+    # the player whose own row merely ends with the comment is still kept.
+    assert "Stefan Drljača" in name_set  # row ends with the opening comment
+    assert "Laurin Ulrich" in name_set  # row ends with the opening comment
+    assert "Florian Hellstern" not in name_set  # inside the comment
+    assert "Noah Darvich" not in name_set  # inside the comment
+    assert "Yannik Keitel" not in name_set  # inside the comment
+
+    # The coaching-staff table is excluded by its heading.
+    assert "Sebastian Hoeneß" not in name_set
+
+    # "Die Jahrhundert-Elf" is a wikitable with a "Spieler" header column, but
+    # its heading is not a squad heading, so the gate keeps the historic XI out.
+    assert "Timo Hildebrand" not in name_set
+    assert "Jürgen Klinsmann" not in name_set
+
+    # A player also listed under Transfers is not double-counted.
+    assert names.count("Marius Funk") == 1
+
+
+def test_vfb_link_targets():
+    players = {p.name: p for p in parse_squad_players(_load_vfb())}
+
+    # Empty "Nr." cell yields no number, but the player is still parsed.
+    assert players["Laurin Ulrich"].number is None
+    # Disambiguated links keep their full target.
+    assert players["Chema"].title == "Chema (Fußballspieler)"
+    assert players["Lazar Jovanović"].title == "Lazar Jovanović (Fußballspieler, 2006)"
+    # Trailing {{Kapitän}} does not corrupt the linked name/number.
+    assert players["Atakan Karazor"].title == "Atakan Karazor"
+    assert players["Atakan Karazor"].number == "16"

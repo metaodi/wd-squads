@@ -72,12 +72,16 @@ Module responsibilities (`src/wd_squads/`):
   queries. `get_memberships` returns **both open and closed** P54 statements so
   the diff can distinguish "add end date" from "review a closed membership".
 - **`wikipedia.py`** — `parse_squad_players(wikitext)` is a **pure function and
-  the heart of the tool** (directly unit-tested). It auto-detects two squad
-  formats per section: English-style `{{fs player}}` templates and German-style
-  `{{PersonZelle}}` table cells. Two regexes gate what counts as a current
-  squad: `EXCLUDE_HEADING_RE` drops former-players/staff/transfer sections, and
-  `SQUAD_HEADING_RE` (Kader/Aufgebot) is a *positive* gate applied **only** to
-  the German `{{PersonZelle}}` format, which also appears in unrelated tables.
+  the heart of the tool** (directly unit-tested). It auto-detects three squad
+  formats per section: English-style `{{fs player}}` templates, German-style
+  `{{PersonZelle}}` table cells, and plain `{| class="wikitable"` tables that
+  link each player as a bare `[[wikilink]]` in a "Spieler"/"Name" column (FC
+  Zürich, Schalke 04) — the player column is found by its header so the club
+  links in the "previous club" column are not mistaken for players. Two regexes
+  gate what counts as a current squad: `EXCLUDE_HEADING_RE` drops
+  former-players/staff/transfer sections, and `SQUAD_HEADING_RE` (Kader/Aufgebot)
+  is a *positive* gate applied **only** to the two German formats, which also
+  appear in unrelated tables.
   `WikipediaClient` then resolves article titles → Q-IDs via the Action API
   (batched, following redirects/normalisation).
 - **`diff.py`** — `compute_suggestions` is the pure comparison logic. It walks

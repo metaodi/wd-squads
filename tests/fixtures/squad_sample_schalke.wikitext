@@ -1,0 +1,59 @@
+== Erste Mannschaft ==
+=== Kader 2026/27 ===
+* Stand: 15. Juli 2026<ref>Vereinsinformation: [https://schalke04.de/funktion/kader/ ''Die Mannschaft des FC Schalke 04''], In: schalke04.de, abgerufen am 3. November 2025</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Nr. !! Nat. !! Name !! Geburtstag !! Im Verein seit !! Vertrag bis !! letzte Station
+|- class="sortbottom"
+| colspan="7" style="background:#02499D; color:#FFFFFF" | '''Tor'''
+|-
+| '''{{0}}1''' || {{DEU|#}} ||style="text-align:left"| [[Loris Karius]] || 22. Juni 1993 || 2025 || 2027 || [[Newcastle United]]
+|-
+| '''22''' || {{DEU|#}} ||style="text-align:left"| [[Kevin Müller]] || 15. März 1991 || 2026 ||  || [[1. FC Heidenheim]]
+|-
+| '''36''' || {{DEU|#}} ||style="text-align:left"| Johannes Siebeking || 2. März 2006 || 2022 || 2029 || [[RB Leipzig#U17|RB Leipzig [Jugend]]]
+<!-- AUSGELIEHEN BIS SOMMER 2027
+|-
+| ''' ''' || {{DEU|#}} ||style="text-align:left"| Luca Podlech || 23. März 2005 || 2016 || 2028 || SV Leithe [Jugend]
+-->
+|- class="sortbottom"
+| colspan="7" style="background:#02499D; color:#FFFFFF"| '''Abwehr'''
+|-
+| '''{{0}}3''' || {{AUS|#}} ||style="text-align:left"| [[Dylan Leonard]] || 30. August 2007 || 2025 || 2030 || [[Western United]]
+|-
+| '''{{0}}5''' || {{DEU|#}} ||style="text-align:left"| [[Timo Becker (Fußballspieler, 1997)|Timo Becker]] || 25. März 1997 || 2025 || 2029 || [[Holstein Kiel]]
+|-
+| '''33''' || {{DEU|#}} ||style="text-align:left"| [[Vitalie Becker]] || 3. März 2005 || 2013 || 2027 || SV Zweckel [Jugend]
+<!--
+|- ZWEITE MANNSCHAFT
+| ''' ''' || {{CMR|#}} ||style="text-align:left"| [[Steve Noode]] || 2. Juni 2005 || 2024 || 2029 || A.S. International Football Académie
+|-
+| ''' ''' || {{BEL|#}} ||style="text-align:left"| [[Martin Wasinski]] || 7. April 2004 || 2024 || 2028 || [[KV Kortrijk]]
+|- NICHT GELISTET
+| '''22''' || {{MLI|#}} ||style="text-align:left"| [[Ibrahima Cissé (Fußballspieler, 2001)|Ibrahima Cissé]] || 15. Februar 2001 || 2022 || 2026 || [[KAA Gent]]
+-->
+|- class="sortbottom"
+| colspan="7" style="background:#02499D; color:#FFFFFF"| '''Sturm'''
+|-
+| '''19''' || {{TUR|#}} ||style="text-align:left"| [[Kenan Karaman]] {{Kapitän}} || 5. März 1994 || 2022 || 2028 || [[Beşiktaş Istanbul]]
+|-
+| '''35''' || {{DEU|#}} ||style="text-align:left"| [[Mika Wallentowitz]]{{FN|U19}}  || 28. Dezember 2007 || 2024 || 2030 || [[Werder Bremen#Jugendfußball|Werder Bremen [Jugend]]]
+|-
+| '''38''' || {{DEU|#}} ||style="text-align:left"| Luca Vozar|| 6. Mai 2007 || 2015 ||  || SpVgg Sterkrade-Nord [Jugend]
+|}
+
+=== Transfers der Saison 2026/27 ===
+{| class="wikitable float-left" style="width:48%"
+! style="width:50%"| Spieler
+! style="width:50%"| Abgebender Verein
+|-
+| [[Junior Adamu]] || [[SC Freiburg]]
+|}
+
+=== Aktueller Trainerstab ===
+{| class="wikitable" style="text-align:center"
+! style="width:180px"| Name
+! style="width:270px"| Funktion
+|-
+|| [[Miron Muslić]] || Cheftrainer
+|}
