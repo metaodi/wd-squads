@@ -25,6 +25,10 @@ def _load_vfb() -> str:
     return (FIXTURES / "squad_sample_vfb.wikitext").read_text(encoding="utf-8")
 
 
+def _load_fcb() -> str:
+    return (FIXTURES / "squad_sample_fcb.wikitext").read_text(encoding="utf-8")
+
+
 def test_parses_expected_players():
     players = parse_squad_players(_load())
     names = {p.name for p in players}
@@ -213,6 +217,46 @@ def test_parses_vfb_wikilink_table():
 
     # A player also listed under Transfers is not double-counted.
     assert names.count("Marius Funk") == 1
+
+
+def test_parses_fcb_first_team_heading():
+    # FC Basel puts the Spieler-column wikitable straight under "Die 1.
+    # Mannschaft" with no "Kader" subsection, so the squad heading gate must
+    # also recognise a first-team heading — otherwise the whole table is skipped.
+    players = parse_squad_players(_load_fcb())
+    names = [p.name for p in players]
+    name_set = set(names)
+
+    assert len(players) == 30
+    assert "Jonas Omlin" in name_set  # first row, {{0}}-padded number
+    assert "Djordje Jovanovic" in name_set  # last row
+
+    # The commented-out row must not be parsed.
+    assert "Juan Carlos Gauto" not in name_set
+
+    # "Letzter Verein" holds clubs, not players.
+    assert "Borussia Mönchengladbach" not in name_set
+    assert "eigene Jugend" not in name_set
+
+    # The "Verwaltungsrat, Vorstand und Betreuerstab" table is excluded by its
+    # heading — no board members or coaches leak in.
+    assert "David Degen" not in name_set
+    assert "Stephan Lichtsteiner" not in name_set
+    assert "Valentin Stocker" not in name_set
+
+
+def test_fcb_link_targets_and_numbers():
+    players = {p.name: p for p in parse_squad_players(_load_fcb())}
+
+    # {{0}} padding is stripped from the number; plain link title == name.
+    assert players["Jonas Omlin"].number == "1"
+    assert players["Jonas Omlin"].title == "Jonas Omlin"
+    assert players["Jonas Omlin"].section == "Die 1. Mannschaft"
+
+    # Disambiguated, piped wikilinks keep their full target.
+    assert players["Nicolas Vouilloz"].title == "Nicolas Vouilloz (Fussballspieler)"
+    assert players["Ibrahim Salah"].title == "Ibrahim Salah (Fußballspieler, 2001)"
+    assert players["Ibrahim Salah"].number == "21"
 
 
 def test_vfb_link_targets():

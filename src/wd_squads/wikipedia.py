@@ -38,9 +38,18 @@ EXCLUDE_HEADING_RE = re.compile(
 # Positive marker that a section actually holds a squad. This gate is applied
 # to the German formats (the {{PersonZelle}} cells *and* the plain-wikilink
 # wikitable, see below), which also appear in unrelated tables (coaching staff,
-# record appearances, …); requiring a "Kader"/"Aufgebot" heading keeps those
-# out. The {{fs player}} format keeps its original, ungated behaviour.
-SQUAD_HEADING_RE = re.compile(r"kader|aufgebot", re.IGNORECASE)
+# record appearances, …); requiring a squad heading keeps those out. The
+# {{fs player}} format keeps its original, ungated behaviour.
+#
+# Besides "Kader"/"Aufgebot", some clubs put the table straight under a
+# first-team heading with no "Kader" subsection (e.g. FC Basel's "Die 1.
+# Mannschaft"). We accept "Mannschaft" only when marked as the *first* team
+# ("1." or "Erste") so reserve/youth/women sides ("2. Mannschaft",
+# "U-19-Mannschaft", "Frauenmannschaft") — which are separate Wikidata teams —
+# do not leak into the squad.
+SQUAD_HEADING_RE = re.compile(
+    r"kader|aufgebot|(?:\b1\.|\berste)\s*mannschaft", re.IGNORECASE
+)
 
 # Some German/Swiss squads are plain ``{| class="wikitable"`` tables that link
 # each player as a bare ``[[wikilink]]`` in a dedicated column instead of using
