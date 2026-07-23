@@ -1,0 +1,34 @@
+{{Infobox Eishockeyspieler
+| Name         =
+| Ländercode   = CHE
+| Bild         =
+| Geburtsdatum = [[18. März]] [[1980]]
+| Geburtsort   = [[Winterthur]], [[Schweiz]]
+| Todesdatum   =
+| Sterbeort    =
+| Spitzname    =
+| Größe        = 182 cm
+| Gewicht      = 84 kg
+| Position     = Center
+| Nummer       = #97
+| Schusshand   = Links
+| Draft1       = NHL Entry Draft
+| Draftjahr1   = 1998
+| Runde1       = 9
+| Stelle1      = 231
+| Draftverein1 = [[Florida Panthers]]
+| Jahre1       = bis 1997
+| Verein1      = [[EHC Winterthur]]
+| Jahre2       = 1997–2002
+| Verein2      = [[Kloten Flyers]]
+| Jahre3       = 2002–2005
+| Verein3      = [[HC Lugano]]
+| Jahre4       = 2005–2011
+| Verein4      = [[ZSC Lions]]
+| Jahre5       = 2011–2014
+| Verein5      = [[Rapperswil-Jona Lakers]]
+| Jahre6       = 2014–2016
+| Verein6      = [[HC Thurgau|Hockey Thurgau]]
+| Jahre7       = 2016–2018
+| Verein7      = [[EHC Winterthur]]
+}}

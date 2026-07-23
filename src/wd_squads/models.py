@@ -61,6 +61,24 @@ class SquadPlayer:
 
 
 @dataclass
+class CareerSpell:
+    """One club spell read from a player's own Wikipedia infobox.
+
+    Sourced from the English ``{{Infobox football biography}}`` (``yearsN``/
+    ``clubsN``) or German ``{{Infobox Fußballspieler}}`` (``vereine_tabelle``
+    of ``{{Team-Station}}`` calls) formats; see
+    ``wikipedia.parse_career_spells``.
+    """
+
+    club_name: str
+    club_title: Optional[str] = None
+    start_year: Optional[int] = None
+    end_year: Optional[int] = None  # None + ongoing=True means still active
+    ongoing: bool = False
+    loan: bool = False
+
+
+@dataclass
 class Membership:
     """A P54 (member of sports team) statement on Wikidata."""
 
@@ -88,6 +106,12 @@ class Suggestion:
     player_qid: Optional[str] = None
     wikipedia_title: Optional[str] = None
     links: dict = field(default_factory=dict)
+    # Possible start/end year for the membership, read off the player's own
+    # Wikipedia infobox career history when available (see
+    # ``diff.enrich_career_years``). A club spell still in progress leaves
+    # ``end_year`` unset.
+    start_year: Optional[int] = None
+    end_year: Optional[int] = None
 
     @property
     def priority(self) -> int:
@@ -96,3 +120,16 @@ class Suggestion:
     @property
     def kind_label(self) -> str:
         return KIND_LABEL.get(self.kind, self.kind)
+
+    @property
+    def years_label(self) -> str:
+        """Human-readable "2020–2023" / "2020–" / "2020" / "" label."""
+        if self.start_year and self.end_year:
+            if self.start_year == self.end_year:
+                return str(self.start_year)
+            return f"{self.start_year}–{self.end_year}"
+        if self.start_year:
+            return f"{self.start_year}–"
+        if self.end_year:
+            return f"–{self.end_year}"
+        return ""

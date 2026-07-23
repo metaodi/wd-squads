@@ -9,7 +9,7 @@ from typing import Dict, List, Optional
 import mwparserfromhell
 
 from .http_client import HttpClient
-from .models import SquadPlayer, Team
+from .models import CareerSpell, SquadPlayer, Team
 
 log = logging.getLogger(__name__)
 
@@ -348,6 +348,193 @@ def find_squad_template_title(wikitext: str) -> Optional[str]:
     return None
 
 
+# --- Player career history (start/end years per club) -----------------------
+#
+# A player's own Wikipedia article often carries an infobox with a per-club
+# career history that can suggest P54 start/end years. Three formats are
+# recognised (auto-detected, like the squad formats above): the English
+# ``{{Infobox football biography}}``, whose ``yearsN``/``clubsN`` positional
+# pairs list one club per index; the German ``{{Infobox Fußballspieler}}``,
+# whose ``vereine_tabelle`` parameter holds one ``{{Team-Station}}`` call per
+# club; and the German ``{{Infobox Eishockeyspieler}}``, whose ``JahreN``/
+# ``VereinN`` pairs mirror the English football biography's numbered-field
+# shape. Other infoboxes (e.g. the *English* ``{{Infobox ice hockey player}}``,
+# which only gives an overall ``career_start``/``career_end`` and a
+# ``played_for`` list with no years per club) cannot be attributed to a
+# specific club and are skipped rather than guessed at.
+
+_DASH_RE = re.compile(r"[\-‐‑‒–—−]")
+_YEAR_RE = re.compile(r"(\d{4})")
+_LOAN_MARKER_RE = re.compile(r"\(\s*loan\s*\)", re.IGNORECASE)
+# The German ice hockey infobox spells open-ended spans out in words instead
+# of a trailing/leading dash: "seit 2019" (since) and "bis 1997" (until).
+_SEIT_RE = re.compile(r"\bseit\b", re.IGNORECASE)
+_BIS_RE = re.compile(r"\bbis\b", re.IGNORECASE)
+
+
+def _first_year(text: str) -> Optional[int]:
+    m = _YEAR_RE.search(text)
+    return int(m.group(1)) if m else None
+
+
+def _parse_years_range(raw: str) -> tuple:
+    """Parse an infobox ``years`` value into ``(start, end, ongoing)``.
+
+    ``"1994–1999"`` -> ``(1994, 1999, False)``; ``"1994"`` (no dash, a single
+    season) -> ``(1994, 1994, False)``; ``"2020–"`` (open-ended, still
+    active) -> ``(2020, None, True)``; ``"seit 2019"`` ("since", the German
+    ice hockey infobox's open-ended form) -> ``(2019, None, True)``; ``"bis
+    1997"`` ("until", an unknown start year) -> ``(None, 1997, False)``.
+    """
+    raw = (raw or "").strip()
+    if not raw:
+        return None, None, False
+    if _SEIT_RE.search(raw):
+        year = _first_year(raw)
+        return year, None, year is not None
+    if _BIS_RE.search(raw):
+        return None, _first_year(raw), False
+    parts = _DASH_RE.split(raw, maxsplit=1)
+    if len(parts) == 1:
+        year = _first_year(parts[0])
+        return year, year, False
+    start = _first_year(parts[0])
+    end = _first_year(parts[1])
+    ongoing = start is not None and end is None
+    return start, end, ongoing
+
+
+def _parse_club_value(value) -> tuple:
+    """Return ``(article_title, display_name, is_loan)`` for a club value.
+
+    Handles a bare wikilink, a piped wikilink, plain text, a leading ``→``
+    (the English convention for a loan move), and a trailing ``(loan)``.
+    """
+    text = str(value)
+    loan = "→" in text or bool(_LOAN_MARKER_RE.search(text))
+    text = text.replace("→", "")
+    code = mwparserfromhell.parse(text)
+    links = code.filter_wikilinks()
+    if links:
+        link = links[0]
+        title: Optional[str] = str(link.title).strip()
+        display = str(link.text).strip() if link.text else title
+    else:
+        title = None
+        display = code.strip_code().strip()
+    display = _LOAN_MARKER_RE.sub("", display).strip()
+    return title or None, display, loan
+
+
+def _spells_from_numbered_fields(template, years_key: str, club_key: str) -> List[CareerSpell]:
+    """Read ``{years_key}1``/``{club_key}1``, ``{years_key}2``/``{club_key}2``,
+    ... pairs — the shape shared by the English football biography infobox
+    (``years``/``clubs``) and the German ice hockey infobox (``Jahre``/
+    ``Verein``).
+    """
+    spells: List[CareerSpell] = []
+    n = 1
+    while n <= 40 and (template.has(f"{years_key}{n}") or template.has(f"{club_key}{n}")):
+        if template.has(f"{club_key}{n}"):
+            years_raw = _param(template, f"{years_key}{n}") or ""
+            title, display, loan = _parse_club_value(template.get(f"{club_key}{n}").value)
+            if display:
+                start, end, ongoing = _parse_years_range(years_raw)
+                spells.append(
+                    CareerSpell(
+                        club_name=display,
+                        club_title=title,
+                        start_year=start,
+                        end_year=end,
+                        ongoing=ongoing,
+                        loan=loan,
+                    )
+                )
+        n += 1
+    return spells
+
+
+def _spells_from_football_biography(template) -> List[CareerSpell]:
+    return _spells_from_numbered_fields(template, "years", "clubs")
+
+
+def _spells_from_eishockeyspieler(template) -> List[CareerSpell]:
+    return _spells_from_numbered_fields(template, "Jahre", "Verein")
+
+
+def _spells_from_fussballspieler(template) -> List[CareerSpell]:
+    if not template.has("vereine_tabelle"):
+        return []
+    spells: List[CareerSpell] = []
+    for sub in template.get("vereine_tabelle").value.filter_templates():
+        if _normalise_template_name(str(sub.name)) != "team-station":
+            continue
+        values = [p.value for p in sub.params if not p.showkey]
+        if len(values) < 2:
+            continue
+        years_raw = values[0].strip_code().strip()
+        title, display, _loan = _parse_club_value(values[1])
+        if not display:
+            continue
+        start, end, ongoing = _parse_years_range(years_raw)
+        spells.append(
+            CareerSpell(
+                club_name=display,
+                club_title=title,
+                start_year=start,
+                end_year=end,
+                ongoing=ongoing,
+                loan=bool(_param(sub, "leihe")),
+            )
+        )
+    return spells
+
+
+# Normalised infobox template name -> parser. Checked in this order; the
+# first infobox template found in the article wins (a player has exactly one).
+_CAREER_INFOBOX_PARSERS = {
+    "infobox football biography": _spells_from_football_biography,
+    "infobox footballer": _spells_from_football_biography,
+    "infobox fußballspieler": _spells_from_fussballspieler,
+    "infobox eishockeyspieler": _spells_from_eishockeyspieler,
+}
+
+
+def parse_career_spells(wikitext: str) -> List[CareerSpell]:
+    """Extract senior-club career spells from a player's own infobox.
+
+    Returns ``[]`` when the article has no infobox, or an infobox in a
+    format with no per-club years (e.g. ice hockey's ``played_for`` list).
+    Pure function, no network; see ``_CAREER_INFOBOX_PARSERS`` for the
+    recognised formats.
+    """
+    code = mwparserfromhell.parse(wikitext or "")
+    for template in code.filter_templates():
+        parser = _CAREER_INFOBOX_PARSERS.get(_normalise_template_name(str(template.name)))
+        if parser:
+            return parser(template)
+    return []
+
+
+def _redirect_map(query: dict) -> Dict[str, str]:
+    rename: Dict[str, str] = {}
+    for entry in query.get("normalized", []):
+        rename[entry["from"]] = entry["to"]
+    for entry in query.get("redirects", []):
+        rename[entry["from"]] = entry["to"]
+    return rename
+
+
+def _follow_redirects(rename: Dict[str, str], title: str) -> str:
+    resolved = title
+    for _ in range(5):
+        if resolved in rename:
+            resolved = rename[resolved]
+        else:
+            break
+    return resolved
+
+
 class WikipediaClient:
     def __init__(self, http: HttpClient, language: str = "en") -> None:
         self.http = http
@@ -400,28 +587,74 @@ class WikipediaClient:
         )
         query = data.get("query", {})
         # Follow title normalisation and redirects to the final page title.
-        rename: Dict[str, str] = {}
-        for entry in query.get("normalized", []):
-            rename[entry["from"]] = entry["to"]
-        for entry in query.get("redirects", []):
-            rename[entry["from"]] = entry["to"]
+        rename = _redirect_map(query)
 
         final_qid: Dict[str, Optional[str]] = {}
         for page in query.get("pages", []):
             qid = page.get("pageprops", {}).get("wikibase_item")
             final_qid[page.get("title")] = qid
 
-        out: Dict[str, Optional[str]] = {}
-        for title in titles:
-            resolved = title
-            # A title may be normalised, then redirected; follow the chain.
-            for _ in range(5):
-                if resolved in rename:
-                    resolved = rename[resolved]
-                else:
-                    break
-            out[title] = final_qid.get(resolved)
-        return out
+        return {
+            title: final_qid.get(_follow_redirects(rename, title)) for title in titles
+        }
+
+    def fetch_wikitext_batch(
+        self, titles: List[str], language: Optional[str] = None
+    ) -> Dict[str, str]:
+        """Map each of ``titles`` to its current wikitext, in one request.
+
+        Unlike ``fetch_wikitext`` (one page via the ``parse`` action, used for
+        club squads), this batches up to ~50 titles through ``action=query``
+        so per-player infobox lookups (``get_career_spells``) don't cost one
+        request each. Titles with no page (or no content) map to ``""``.
+        """
+        data = self.http.get_json(
+            self._api_url(language),
+            params={
+                "action": "query",
+                "prop": "revisions",
+                "rvprop": "content",
+                "rvslots": "main",
+                "titles": "|".join(titles),
+                "redirects": 1,
+                "format": "json",
+                "formatversion": 2,
+            },
+        )
+        query = data.get("query", {})
+        rename = _redirect_map(query)
+
+        content_by_title: Dict[str, str] = {}
+        for page in query.get("pages", []):
+            revisions = page.get("revisions") or []
+            if not revisions:
+                continue
+            content = revisions[0].get("slots", {}).get("main", {}).get("content")
+            if content:
+                content_by_title[page.get("title")] = content
+
+        return {
+            title: content_by_title.get(_follow_redirects(rename, title), "")
+            for title in titles
+        }
+
+    def get_career_spells(
+        self, titles: List[str], language: Optional[str] = None
+    ) -> Dict[str, List[CareerSpell]]:
+        """Fetch and parse the career history from each player's own article.
+
+        Only meant to be called for players a suggestion is already being
+        made about (see ``diff.suggestion_titles``) — fetching every squad
+        member's full biography just to enrich the few that need it would be
+        wasteful.
+        """
+        result: Dict[str, List[CareerSpell]] = {}
+        unique = list(dict.fromkeys(t for t in titles if t))
+        for batch in _chunks(unique, 20):
+            wikitexts = self.fetch_wikitext_batch(batch, language)
+            for title, wikitext in wikitexts.items():
+                result[title] = parse_career_spells(wikitext)
+        return result
 
     def get_squad(self, team: Team) -> List[SquadPlayer]:
         """Return the current squad for ``team`` with Wikidata Q-IDs resolved."""

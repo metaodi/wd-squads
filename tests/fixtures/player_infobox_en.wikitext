@@ -1,0 +1,53 @@
+{{Infobox football biography
+| name = Marc-Vivien Foé
+| image = Marc-Vivien Foé, 2003.jpg
+| image_size = 200
+| caption = Foé playing for [[Cameroon national football team|Cameroon]] in 2003
+| full_name = Marc-Vivien Foé
+| birth_date = {{birth date|df=yes|1975|5|21}}
+| birth_place = [[Yaoundé]], Cameroon
+| death_date = {{death date and age|2003|6|26|1975|5|1|df=yes}}
+| death_place = [[Lyon]], France
+| height = 1.88 m
+| position = [[Midfielder]]
+| youthyears1 = 1991–1992
+| youthclubs1 = Union de Garoua
+| youthyears2 = 1992–1994
+| youthclubs2 = Fogape Yaoundé
+| years1 = 1994
+| clubs1 = [[Canon Yaoundé]]
+| caps1 =
+| goals1 =
+| years2 = 1994–1999
+| clubs2 = [[RC Lens|Lens]]
+| caps2 = 85
+| goals2 = 11
+| years3 = 1999–2000
+| clubs3 = [[West Ham United F.C.|West Ham United]]
+| caps3 = 38
+| goals3 = 1
+| years4 = 2000–2003
+| clubs4 = [[Olympique Lyonnais|Lyon]]
+| caps4 = 43
+| goals4 = 3
+| years5 = 2002–2003
+| clubs5 = → [[Manchester City F.C.|Manchester City]] (loan)
+| caps5 = 35
+| goals5 = 9
+| totalcaps = 201
+| totalgoals = 24
+| nationalyears1 = 1993
+| nationalteam1 = [[Cameroon national under-20 football team|Cameroon U20]]
+| nationalcaps1 = 3
+| nationalgoals1 = 1
+| nationalyears2 = 1993–2003
+| nationalteam2 = [[Cameroon national football team|Cameroon]]
+| nationalcaps2 = 62
+| nationalgoals2 = 8
+| medaltemplates = {{MedalCountry|{{CMR}}}}
+{{MedalComp|[[Africa Cup of Nations]]}}
+{{Medal|W|[[2000 Africa Cup of Nations|2000 Ghana-Nigeria]]|}}
+{{Medal|W|[[2002 Africa Cup of Nations|2002 Mali]]|}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{Medal|RU|[[2003 FIFA Confederations Cup|2003 France]]|}}
+}}

@@ -1,0 +1,25 @@
+{{Infobox Eishockeyspieler
+ | Ländercode   = CHE
+ | Bild         = 2024-12-04 Eisbären Berlin gegen ZSC Lions (Champions Hockey League 2024-25) by Sandro Halank–046.jpg
+ | Geburtsdatum = [[17. September]] [[1992]]
+ | Geburtsort   = [[Küssnacht SZ|Küssnacht]], [[Schweiz]]
+ | Todesdatum   =
+ | Sterbeort    =
+ | Spitzname    =
+ | Größe        = 182 cm
+ | Gewicht      = 83 kg
+ | Position     = Verteidiger
+ | Schusshand   = Links
+ | Jahre1       = bis 2010
+ | Verein1      = [[EV Zug]]
+ | Jahre2       = 2010–2012
+ | Verein2      = [[Plymouth Whalers]]
+ | Jahre3       = 2012–2014
+ | Verein3      = [[EHC Biel]]
+ | Jahre4       = 2014–2015
+ | Verein4      = [[Genève-Servette HC]]
+ | Jahre5       = 2015–2019
+ | Verein5      = [[Lausanne HC]]
+ | Jahre6       = seit 2019
+ | Verein6      = [[ZSC Lions]]
+}}

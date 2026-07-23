@@ -49,16 +49,21 @@ config.load_config → WikidataClient.discover_teams → for each team:
     WikipediaClient.get_squad  (parse wikitext + resolve player Q-IDs)
     WikidataClient.get_memberships  (P54 statements)
     diff.compute_suggestions   → list[Suggestion]
+    diff.suggestion_titles → WikipediaClient.get_career_spells → diff.enrich_career_years
+        (fills in Suggestion.start_year/end_year from the player's own infobox,
+        only for players a suggestion was already made about)
 report.write_reports → reports/*.md + docs/index.html + docs/data.json
 ```
 
 Module responsibilities (`src/wd_squads/`):
 
 - **`models.py`** — the shared dataclasses (`Team`, `SquadPlayer`, `Membership`,
-  `Suggestion`) and, crucially, the **suggestion taxonomy**: `KIND_*` constants,
-  their `PRIORITY` sort weights (lower = more urgent), and `KIND_LABEL` human
-  strings. Adding a new kind of suggestion means touching all three maps here
-  plus `diff.py`.
+  `CareerSpell`, `Suggestion`) and, crucially, the **suggestion taxonomy**:
+  `KIND_*` constants, their `PRIORITY` sort weights (lower = more urgent), and
+  `KIND_LABEL` human strings. Adding a new kind of suggestion means touching
+  all three maps here plus `diff.py`. `Suggestion.start_year`/`end_year`
+  (with the `years_label` display property) hold the possible P580/P582 years
+  suggested from the player's Wikipedia infobox, when one was found.
 - **`config.py`** — loads/validates `config/teams.yaml`. Enforces that a
   descriptive `user_agent` is set (rejects `example.com` placeholders) because
   the Wikimedia APIs require it, and that at least one of `leagues` /
@@ -84,11 +89,42 @@ Module responsibilities (`src/wd_squads/`):
   appear in unrelated tables.
   `WikipediaClient` then resolves article titles → Q-IDs via the Action API
   (batched, following redirects/normalisation).
+
+  `parse_career_spells(wikitext)` is a second pure parser, run on a *player's
+  own* article (not the squad page): it reads their infobox's per-club career
+  history to suggest P54 start/end years. It auto-detects three formats — the
+  English `{{Infobox football biography}}` and German
+  `{{Infobox Eishockeyspieler}}`, both numbered `yearsN`/`clubsN` (or
+  `JahreN`/`VereinN`) positional pairs sharing one parser
+  (`_spells_from_numbered_fields`); and the German `{{Infobox
+  Fußballspieler}}`, whose `vereine_tabelle` parameter holds one
+  `{{Team-Station}}` call per club — and returns `[]` for anything else,
+  including infoboxes that simply don't carry per-club years (e.g. the
+  *English* `{{Infobox ice hockey player}}`'s `played_for` list). An
+  open-ended/current spell is spelled a few different ways depending on
+  format: a trailing dash with no end year (`years5 = 2020–`) in the two
+  numbered-field/`Team-Station` styles, or the German ice hockey infobox's
+  words-not-punctuation `"seit 2019"` ("since") / `"bis 1997"` ("until", an
+  unknown *start* year) — all handled by `_parse_years_range`.
+  `WikipediaClient.get_career_spells` fetches many players' wikitext in one
+  batched `action=query&prop=revisions` call (`fetch_wikitext_batch`), unlike
+  the single-page `action=parse` call `fetch_wikitext` uses for squad pages.
 - **`diff.py`** — `compute_suggestions` is the pure comparison logic. It walks
   the Wikipedia squad checking each player against Wikidata (missing item,
   missing membership, missing start date, ended-but-still-listed), then walks
   Wikidata's open memberships for players Wikipedia dropped (add end date).
   Results are sorted by `priority` then player name.
+
+  A second pure pass enriches those results with possible start/end years:
+  `suggestion_titles` picks out which players' articles are worth fetching
+  (only those a suggestion was already made about — fetching every squad
+  member's biography just to enrich the few that need it would be wasteful),
+  and `enrich_career_years` fills `Suggestion.start_year`/`end_year` back in
+  from the fetched `CareerSpell`s via `select_team_spell`, which matches a
+  spell to `team` by wikilinked article title first, falling back to a
+  plain-text club name equal to the team's label (a repeat spell at a club
+  already linked earlier in the infobox is often written as plain text the
+  second time).
 - **`report.py`** — renders three outputs from the same `TeamResult` list:
   per-team Markdown (`reports/<Qid>-<slug>.md`), an index (`reports/README.md`),
   a JSON dump (`docs/data.json`), and a self-contained HTML dashboard

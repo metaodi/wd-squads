@@ -1,0 +1,18 @@
+{{Infobox ice hockey player
+| alt =
+| name = Alain Reist
+| image = Alain Reist - Lausanne HC.jpg
+| caption =
+| image_size = 230px
+| played_for = [[SC Rapperswil-Jona]]<br>[[Kloten Flyers]]<br>[[Lausanne HC]]<br>[[HC Fribourg-Gottéron]]<br>[[ZSC Lions]]
+| position = [[Defenceman|Defence]]
+| birth_date = {{birth date and age|1979|12|07}}
+| birth_place = [[Biel]], [[Switzerland]]
+| height_ft = 6
+| height_in = 0
+| weight_lb = 209
+| shoots = Left
+| draft =
+| career_start = 1997
+| career_end = 2014
+}}
