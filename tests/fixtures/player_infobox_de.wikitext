@@ -1,0 +1,27 @@
+{{Infobox Fußballspieler
+| kurzname = Alain Nef
+| bildname =
+| bildunterschrift =
+| langname = Alain Adrian Nef
+| geburtstag = [[6. Februar]] [[1982]]
+| geburtsort = [[Wädenswil]]
+| geburtsland = [[Schweiz]]
+| position = [[Abwehrspieler|Abwehr]]
+| grösse = 190 cm
+| jugendvereine_tabelle =
+{{Team-Station|1989–1998|FC Wädenswil}}
+{{Team-Station|1998–2001|[[FC Zürich]]}}
+| vereine_tabelle =
+{{Team-Station|2001–2006|[[FC Zürich]]|108 (9)}}
+{{Team-Station|2006–2008|[[Lupa Piacenza|Piacenza Calcio]]|69 (5)}}
+{{Team-Station|2008–2013|[[Udinese Calcio]]|2 (0)}}
+{{Team-Station|2009     |[[Recreativo Huelva]]|8 (0)|leihe=1}}
+{{Team-Station|2009–2010|[[US Triestina]]|35 (1)|leihe=1}}
+{{Team-Station|2010–2013|[[BSC Young Boys]]|91 (8)|leihe=1}}
+{{Team-Station|2013–2019|FC Zürich|147 (9)}}
+| nationalmannschaft_tabelle =
+{{Team-Station|2003|[[Schweizer Fussballnationalmannschaft (U-20-Männer)|Schweiz U20]]|1 {{0}}(0)}}
+{{Team-Station|2002–2004|[[Schweizer Fussballnationalmannschaft (U-21-Männer)|Schweiz U21]]|18 {{0}}(3)}}
+{{Team-Station|2008–2011|[[Schweizer Fussballnationalmannschaft|Schweiz]]|4 {{0}}(1)}}
+| trainer_tabelle =
+}}

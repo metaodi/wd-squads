@@ -88,6 +88,8 @@ def _markdown_player(s: Suggestion) -> str:
     wp_url = s.links.get("wikipedia")
     if wp_url:
         name += f" ([WP]({wp_url}))"
+    if s.years_label:
+        name += f" ({s.years_label})"
     return name
 
 
@@ -158,6 +160,8 @@ def to_json(results: List[TeamResult], generated_at: str) -> dict:
                         "player_qid": s.player_qid,
                         "wikipedia_title": s.wikipedia_title,
                         "detail": s.detail,
+                        "start_year": s.start_year,
+                        "end_year": s.end_year,
                         "links": s.links,
                     }
                     for s in r.suggestions
@@ -263,6 +267,7 @@ _HTML_TEMPLATE = """<!doctype html>
               {% if s.player_qid %}<a href="https://www.wikidata.org/wiki/{{ s.player_qid }}">{{ s.player_label }}</a>
               {% else %}<strong>{{ s.player_label }}</strong>{% endif %}
               {% if s.links.wikipedia %}(<a href="{{ s.links.wikipedia }}">WP</a>){% endif %}
+              {% if s.years_label %}<span class="detail">&nbsp;({{ s.years_label }})</span>{% endif %}
               <span class="detail">&mdash; {{ s.detail }}</span>
             </li>
             {% endfor %}

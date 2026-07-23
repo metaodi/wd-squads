@@ -2,8 +2,10 @@
 
 from __future__ import annotations
 
+import re
 from collections import defaultdict
 from typing import Dict, List, Optional
+from urllib.parse import unquote
 
 from .models import (
     KIND_ADD_END_DATE,
@@ -11,11 +13,14 @@ from .models import (
     KIND_ADD_START_DATE,
     KIND_NO_WIKIDATA_ITEM,
     KIND_REVIEW_ENDED,
+    CareerSpell,
     Membership,
     SquadPlayer,
     Suggestion,
     Team,
 )
+
+_WIKIPEDIA_URL_RE = re.compile(r"^https://[a-z-]+\.wikipedia\.org/wiki/(.+)$")
 
 
 def _wikidata_item_url(qid: str) -> str:
@@ -153,3 +158,101 @@ def compute_suggestions(
 
     suggestions.sort(key=lambda s: (s.priority, s.player_label.lower()))
     return suggestions
+
+
+# --- Career-year enrichment --------------------------------------------------
+#
+# compute_suggestions above only compares squad membership; the possible
+# start/end year for a suggestion comes from a second pass, since it needs a
+# per-player Wikipedia fetch (wikipedia.get_career_spells) that would be
+# wasteful to run for the whole squad up front. suggestion_titles picks out
+# which articles are worth fetching; enrich_career_years fills the years back
+# in once they're fetched. Both are pure (no network of their own).
+
+
+def _normalise_title(text: str) -> str:
+    return text.replace("_", " ").strip().lower()
+
+
+def _title_from_wikipedia_link(url: Optional[str]) -> Optional[str]:
+    """Extract the article title from a Wikipedia URL, any language edition."""
+    if not url:
+        return None
+    m = _WIKIPEDIA_URL_RE.match(url)
+    if not m:
+        return None
+    return unquote(m.group(1)).replace("_", " ")
+
+
+def _suggestion_title(s: Suggestion) -> Optional[str]:
+    return s.wikipedia_title or _title_from_wikipedia_link(s.links.get("wikipedia"))
+
+
+def suggestion_titles(suggestions: List[Suggestion]) -> List[str]:
+    """Wikipedia article titles referenced by ``suggestions``, deduplicated.
+
+    Meant to drive a follow-up ``WikipediaClient.get_career_spells`` call: we
+    only want to fetch player biographies for players a suggestion is already
+    being made about, not the whole squad.
+    """
+    titles: List[str] = []
+    seen: set[str] = set()
+    for s in suggestions:
+        title = _suggestion_title(s)
+        if title and title not in seen:
+            seen.add(title)
+            titles.append(title)
+    return titles
+
+
+def select_team_spell(spells: List[CareerSpell], team: Team) -> Optional[CareerSpell]:
+    """Pick the spell (if any) in ``spells`` that belongs to ``team``.
+
+    Matches the wikilinked club article title against the team's own article
+    title first (most reliable), falling back to a plain-text club name
+    equal to the team's label — some spells (e.g. a player who returned to a
+    club already linked earlier in their infobox) are written as plain text
+    the second time round. When several spells match (left and came back),
+    the still-open one is preferred, else the most recent one.
+    """
+    team_title = _normalise_title(team.wikipedia_title) if team.wikipedia_title else None
+    team_label = _normalise_title(team.label) if team.label else None
+
+    def matches(spell: CareerSpell) -> bool:
+        club_title = _normalise_title(spell.club_title) if spell.club_title else None
+        if club_title and team_title and club_title == team_title:
+            return True
+        if club_title and team_label and club_title == team_label:
+            return True
+        if team_label and _normalise_title(spell.club_name) == team_label:
+            return True
+        return False
+
+    candidates = [s for s in spells if matches(s)]
+    if not candidates:
+        return None
+    ongoing = [s for s in candidates if s.ongoing]
+    if ongoing:
+        return ongoing[0]
+    return max(candidates, key=lambda s: (s.end_year or s.start_year or 0, s.start_year or 0))
+
+
+def enrich_career_years(
+    suggestions: List[Suggestion],
+    career: Dict[str, List[CareerSpell]],
+    team: Team,
+) -> None:
+    """Fill in ``start_year``/``end_year`` on ``suggestions`` in place.
+
+    ``career`` maps a Wikipedia article title to that player's parsed career
+    spells (from ``WikipediaClient.get_career_spells``); a suggestion whose
+    player has no matching spell for ``team`` is left untouched.
+    """
+    for s in suggestions:
+        title = _suggestion_title(s)
+        if not title:
+            continue
+        spell = select_team_spell(career.get(title, []), team)
+        if spell:
+            s.start_year = spell.start_year
+            s.end_year = spell.end_year

@@ -2,7 +2,11 @@ from pathlib import Path
 
 from conftest import FIXTURES
 
-from wd_squads.wikipedia import find_squad_template_title, parse_squad_players
+from wd_squads.wikipedia import (
+    find_squad_template_title,
+    parse_career_spells,
+    parse_squad_players,
+)
 
 
 def _load() -> str:
@@ -43,6 +47,18 @@ def _load_hockey_zsc() -> str:
 
 def _load_hockey_zsc_article() -> str:
     return (FIXTURES / "hockey_article_sample_zsc.wikitext").read_text(encoding="utf-8")
+
+
+def _load_player_infobox_en() -> str:
+    return (FIXTURES / "player_infobox_en.wikitext").read_text(encoding="utf-8")
+
+
+def _load_player_infobox_de() -> str:
+    return (FIXTURES / "player_infobox_de.wikitext").read_text(encoding="utf-8")
+
+
+def _load_player_infobox_hockey() -> str:
+    return (FIXTURES / "player_infobox_hockey.wikitext").read_text(encoding="utf-8")
 
 
 def test_parses_expected_players():
@@ -421,3 +437,135 @@ def test_eishockeykader_link_targets_numbers_and_positions():
     # Blank "Nummer" (no jersey number assigned yet) yields None, not "".
     assert players["Juho Lammikko"].number is None
     assert players["Harrison Schreiber"].number is None
+
+
+# --- Player career history ({{Infobox football biography}}) -----------------
+#
+# Marc-Vivien Foé: five senior clubs, a single-year spell with no dash
+# (Canon Yaoundé), and a loan marked by both a leading "→" and a trailing
+# "(loan)" (Manchester City). Youth (youthyearsN/youthclubsN) and national
+# team (nationalyearsN/nationalteamN) entries must not leak in as clubs.
+
+
+def test_parses_english_infobox_career():
+    spells = parse_career_spells(_load_player_infobox_en())
+    by_club = {s.club_name: s for s in spells}
+
+    assert len(spells) == 5
+    assert set(by_club) == {
+        "Canon Yaoundé",
+        "Lens",
+        "West Ham United",
+        "Lyon",
+        "Manchester City",
+    }
+    assert "Union de Garoua" not in by_club  # youth club
+    assert "Cameroon" not in by_club  # national team
+    assert "Cameroon U20" not in by_club
+
+
+def test_english_infobox_single_year_spell():
+    by_club = {s.club_name: s for s in parse_career_spells(_load_player_infobox_en())}
+
+    # "years1 = 1994" (no dash) is a single-season spell.
+    canon = by_club["Canon Yaoundé"]
+    assert canon.start_year == 1994
+    assert canon.end_year == 1994
+    assert canon.ongoing is False
+    assert canon.club_title == "Canon Yaoundé"
+
+
+def test_english_infobox_loan_and_link_target():
+    by_club = {s.club_name: s for s in parse_career_spells(_load_player_infobox_en())}
+
+    lens = by_club["Lens"]
+    assert lens.club_title == "RC Lens"
+    assert lens.start_year == 1994
+    assert lens.end_year == 1999
+    assert lens.loan is False
+
+    # Loan marked with a leading "→" and a trailing "(loan)" annotation; both
+    # must be stripped from the display name and flagged.
+    city = by_club["Manchester City"]
+    assert city.club_title == "Manchester City F.C."
+    assert city.start_year == 2002
+    assert city.end_year == 2003
+    assert city.loan is True
+
+
+# --- Player career history ({{Infobox Fußballspieler}}) ----------------------
+#
+# Alain Nef: seven senior spells in "vereine_tabelle", including a
+# single-year loan with padding whitespace and no dash (Recreativo Huelva),
+# three explicit loans ("leihe=1"), and a repeat spell at the same club
+# written as plain text the second time ("FC Zürich" with no wikilink).
+# The youth ("jugendvereine_tabelle") and national team
+# ("nationalmannschaft_tabelle") tables must not leak in.
+
+
+def test_parses_german_infobox_career():
+    spells = parse_career_spells(_load_player_infobox_de())
+    assert len(spells) == 7
+
+    names = [s.club_name for s in spells]
+    assert names == [
+        "FC Zürich",  # first spell, 2001-2006
+        "Piacenza Calcio",
+        "Udinese Calcio",
+        "Recreativo Huelva",
+        "US Triestina",
+        "BSC Young Boys",
+        "FC Zürich",
+    ]
+    # Youth/national-team tables must not be read as senior clubs.
+    assert "FC Wädenswil" not in names
+    assert "Schweiz U20" not in names
+    assert "Schweiz" not in names
+
+
+def test_german_infobox_link_targets_and_loans():
+    spells = parse_career_spells(_load_player_infobox_de())
+    first_fcz, piacenza, udinese, recreativo, triestina, byb, second_fcz = spells
+
+    assert first_fcz.club_title == "FC Zürich"
+    assert first_fcz.start_year == 2001
+    assert first_fcz.end_year == 2006
+    assert first_fcz.loan is False
+
+    # Piped wikilink: display text differs from the article title.
+    assert piacenza.club_title == "Lupa Piacenza"
+    assert piacenza.club_name == "Piacenza Calcio"
+
+    # "2009     " (padded, no dash) is a single-year loan spell.
+    assert recreativo.start_year == 2009
+    assert recreativo.end_year == 2009
+    assert recreativo.loan is True
+
+    assert triestina.loan is True
+    assert byb.loan is True
+
+    # The second FC Zürich spell is written as plain text (no wikilink).
+    assert second_fcz.club_title is None
+    assert second_fcz.club_name == "FC Zürich"
+    assert second_fcz.start_year == 2013
+    assert second_fcz.end_year == 2019
+    assert second_fcz.loan is False
+
+
+# --- Player career history: format with no per-club years --------------------
+#
+# {{Infobox ice hockey player}} only gives an overall career_start/career_end
+# and a played_for list with no years per club, so it cannot be attributed to
+# a specific club; parse_career_spells must not guess and returns [].
+
+
+def test_hockey_infobox_has_no_attributable_career_years():
+    assert parse_career_spells(_load_player_infobox_hockey()) == []
+
+
+def test_parse_career_spells_handles_empty_input():
+    assert parse_career_spells("") == []
+
+
+def test_parse_career_spells_handles_no_infobox():
+    assert parse_career_spells("Just some prose, no infobox at all.") == []

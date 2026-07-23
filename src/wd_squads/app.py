@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import List, Optional
 
 from .config import Config, load_config
-from .diff import compute_suggestions
+from .diff import compute_suggestions, enrich_career_years, suggestion_titles
 from .http_client import HttpClient
 from .report import TeamResult, now_iso, write_reports
 from .wikidata import WikidataClient
@@ -63,7 +63,12 @@ def process(
             memberships = wikidata.get_memberships(team.qid, language=team.language)
             result.squad_size = len([p for p in squad if p.qid or p.name])
             result.wikidata_current = len({m.player_qid for m in memberships if m.is_open})
-            result.suggestions = compute_suggestions(team, squad, memberships)
+            suggestions = compute_suggestions(team, squad, memberships)
+            titles = suggestion_titles(suggestions)
+            if titles:
+                career = wikipedia.get_career_spells(titles, team.language)
+                enrich_career_years(suggestions, career, team)
+            result.suggestions = suggestions
         except Exception as exc:  # keep going even if one team fails
             log.exception("Failed to process %s", team.qid)
             result.error = str(exc)

@@ -26,6 +26,9 @@ class FakeWikipedia:
             SquadPlayer(name="Eve", title="Eve", qid="Q12"),
         ]
 
+    def get_career_spells(self, titles, language="en"):
+        return {}
+
 
 def test_process_and_write(tmp_path):
     config = Config(language="en")
