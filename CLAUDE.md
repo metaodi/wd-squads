@@ -92,15 +92,23 @@ Module responsibilities (`src/wd_squads/`):
 
   `parse_career_spells(wikitext)` is a second pure parser, run on a *player's
   own* article (not the squad page): it reads their infobox's per-club career
-  history to suggest P54 start/end years. It auto-detects two formats — the
-  English `{{Infobox football biography}}` (`yearsN`/`clubsN` positional
-  pairs) and the German `{{Infobox Fußballspieler}}` (`vereine_tabelle` full
-  of `{{Team-Station}}` calls) — and returns `[]` for anything else,
-  including infoboxes that simply don't carry per-club years (e.g.
-  `{{Infobox ice hockey player}}`'s `played_for` list). `WikipediaClient.
-  get_career_spells` fetches many players' wikitext in one batched
-  `action=query&prop=revisions` call (`fetch_wikitext_batch`), unlike the
-  single-page `action=parse` call `fetch_wikitext` uses for squad pages.
+  history to suggest P54 start/end years. It auto-detects three formats — the
+  English `{{Infobox football biography}}` and German
+  `{{Infobox Eishockeyspieler}}`, both numbered `yearsN`/`clubsN` (or
+  `JahreN`/`VereinN`) positional pairs sharing one parser
+  (`_spells_from_numbered_fields`); and the German `{{Infobox
+  Fußballspieler}}`, whose `vereine_tabelle` parameter holds one
+  `{{Team-Station}}` call per club — and returns `[]` for anything else,
+  including infoboxes that simply don't carry per-club years (e.g. the
+  *English* `{{Infobox ice hockey player}}`'s `played_for` list). An
+  open-ended/current spell is spelled a few different ways depending on
+  format: a trailing dash with no end year (`years5 = 2020–`) in the two
+  numbered-field/`Team-Station` styles, or the German ice hockey infobox's
+  words-not-punctuation `"seit 2019"` ("since") / `"bis 1997"` ("until", an
+  unknown *start* year) — all handled by `_parse_years_range`.
+  `WikipediaClient.get_career_spells` fetches many players' wikitext in one
+  batched `action=query&prop=revisions` call (`fetch_wikitext_batch`), unlike
+  the single-page `action=parse` call `fetch_wikitext` uses for squad pages.
 - **`diff.py`** — `compute_suggestions` is the pure comparison logic. It walks
   the Wikipedia squad checking each player against Wikidata (missing item,
   missing membership, missing start date, ended-but-still-listed), then walks

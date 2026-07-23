@@ -61,6 +61,18 @@ def _load_player_infobox_hockey() -> str:
     return (FIXTURES / "player_infobox_hockey.wikitext").read_text(encoding="utf-8")
 
 
+def _load_player_infobox_de_fcz() -> str:
+    return (FIXTURES / "player_infobox_de_fcz.wikitext").read_text(encoding="utf-8")
+
+
+def _load_player_infobox_de_hockey_retired() -> str:
+    return (FIXTURES / "player_infobox_de_hockey_retired.wikitext").read_text(encoding="utf-8")
+
+
+def _load_player_infobox_de_hockey_current() -> str:
+    return (FIXTURES / "player_infobox_de_hockey_current.wikitext").read_text(encoding="utf-8")
+
+
 def test_parses_expected_players():
     players = parse_squad_players(_load())
     names = {p.name for p in players}
@@ -569,3 +581,70 @@ def test_parse_career_spells_handles_empty_input():
 
 def test_parse_career_spells_handles_no_infobox():
     assert parse_career_spells("Just some prose, no infobox at all.") == []
+
+
+# --- Open-ended spells: currently-active player -------------------------------
+#
+# Juan José Perea's German infobox: a currently active spell at the end of
+# vereine_tabelle written with a trailing dash and no end year ("2024–").
+
+
+def test_german_infobox_open_ended_current_spell():
+    spells = parse_career_spells(_load_player_infobox_de_fcz())
+    assert len(spells) == 6
+
+    fcz = spells[-1]
+    assert fcz.club_name == "FC Zürich"
+    assert fcz.club_title == "FC Zürich"
+    assert fcz.start_year == 2024
+    assert fcz.end_year is None
+    assert fcz.ongoing is True
+
+    # Sanity check a closed, non-loan spell earlier in the same table.
+    panathinaikos = spells[0]
+    assert panathinaikos.club_name == "Panathinaikos Athen"
+    assert panathinaikos.start_year == 2019
+    assert panathinaikos.end_year == 2021
+    assert panathinaikos.loan is False
+
+
+# --- Player career history ({{Infobox Eishockeyspieler}}) --------------------
+#
+# The German ice hockey infobox uses numbered JahreN/VereinN fields (like the
+# English football biography infobox), not vereine_tabelle. It also spells
+# open-ended spans in words rather than a dash: "bis 1997" (until, unknown
+# start) and "seit 2019" (since, still active).
+
+
+def test_german_hockey_infobox_bis_prefix_has_no_start_year():
+    spells = parse_career_spells(_load_player_infobox_de_hockey_retired())
+    assert len(spells) == 7
+
+    first = spells[0]
+    assert first.club_name == "EHC Winterthur"
+    assert first.start_year is None
+    assert first.end_year == 1997
+    assert first.ongoing is False
+
+    # A normal dash range later in the same list still parses as before.
+    last = spells[-1]
+    assert last.club_name == "EHC Winterthur"
+    assert last.start_year == 2016
+    assert last.end_year == 2018
+
+
+def test_german_hockey_infobox_seit_prefix_is_ongoing():
+    spells = parse_career_spells(_load_player_infobox_de_hockey_current())
+    assert len(spells) == 6
+
+    zsc = spells[-1]
+    assert zsc.club_name == "ZSC Lions"
+    assert zsc.club_title == "ZSC Lions"
+    assert zsc.start_year == 2019
+    assert zsc.end_year is None
+    assert zsc.ongoing is True
+
+    first = spells[0]
+    assert first.club_name == "EV Zug"
+    assert first.start_year is None
+    assert first.end_year == 2010

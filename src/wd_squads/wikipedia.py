@@ -351,19 +351,25 @@ def find_squad_template_title(wikitext: str) -> Optional[str]:
 # --- Player career history (start/end years per club) -----------------------
 #
 # A player's own Wikipedia article often carries an infobox with a per-club
-# career history that can suggest P54 start/end years. Two formats are
+# career history that can suggest P54 start/end years. Three formats are
 # recognised (auto-detected, like the squad formats above): the English
 # ``{{Infobox football biography}}``, whose ``yearsN``/``clubsN`` positional
-# pairs list one club per index, and the German ``{{Infobox Fußballspieler}}``,
+# pairs list one club per index; the German ``{{Infobox Fußballspieler}}``,
 # whose ``vereine_tabelle`` parameter holds one ``{{Team-Station}}`` call per
-# club. Other infoboxes (e.g. ``{{Infobox ice hockey player}}``, which only
-# gives an overall ``career_start``/``career_end`` and a ``played_for`` list
-# with no years per club) cannot be attributed to a specific club and are
-# skipped rather than guessed at.
+# club; and the German ``{{Infobox Eishockeyspieler}}``, whose ``JahreN``/
+# ``VereinN`` pairs mirror the English football biography's numbered-field
+# shape. Other infoboxes (e.g. the *English* ``{{Infobox ice hockey player}}``,
+# which only gives an overall ``career_start``/``career_end`` and a
+# ``played_for`` list with no years per club) cannot be attributed to a
+# specific club and are skipped rather than guessed at.
 
 _DASH_RE = re.compile(r"[\-‐‑‒–—−]")
 _YEAR_RE = re.compile(r"(\d{4})")
 _LOAN_MARKER_RE = re.compile(r"\(\s*loan\s*\)", re.IGNORECASE)
+# The German ice hockey infobox spells open-ended spans out in words instead
+# of a trailing/leading dash: "seit 2019" (since) and "bis 1997" (until).
+_SEIT_RE = re.compile(r"\bseit\b", re.IGNORECASE)
+_BIS_RE = re.compile(r"\bbis\b", re.IGNORECASE)
 
 
 def _first_year(text: str) -> Optional[int]:
@@ -376,11 +382,18 @@ def _parse_years_range(raw: str) -> tuple:
 
     ``"1994–1999"`` -> ``(1994, 1999, False)``; ``"1994"`` (no dash, a single
     season) -> ``(1994, 1994, False)``; ``"2020–"`` (open-ended, still
-    active) -> ``(2020, None, True)``.
+    active) -> ``(2020, None, True)``; ``"seit 2019"`` ("since", the German
+    ice hockey infobox's open-ended form) -> ``(2019, None, True)``; ``"bis
+    1997"`` ("until", an unknown start year) -> ``(None, 1997, False)``.
     """
     raw = (raw or "").strip()
     if not raw:
         return None, None, False
+    if _SEIT_RE.search(raw):
+        year = _first_year(raw)
+        return year, None, year is not None
+    if _BIS_RE.search(raw):
+        return None, _first_year(raw), False
     parts = _DASH_RE.split(raw, maxsplit=1)
     if len(parts) == 1:
         year = _first_year(parts[0])
@@ -413,13 +426,18 @@ def _parse_club_value(value) -> tuple:
     return title or None, display, loan
 
 
-def _spells_from_football_biography(template) -> List[CareerSpell]:
+def _spells_from_numbered_fields(template, years_key: str, club_key: str) -> List[CareerSpell]:
+    """Read ``{years_key}1``/``{club_key}1``, ``{years_key}2``/``{club_key}2``,
+    ... pairs — the shape shared by the English football biography infobox
+    (``years``/``clubs``) and the German ice hockey infobox (``Jahre``/
+    ``Verein``).
+    """
     spells: List[CareerSpell] = []
     n = 1
-    while n <= 40 and (template.has(f"years{n}") or template.has(f"clubs{n}")):
-        if template.has(f"clubs{n}"):
-            years_raw = _param(template, f"years{n}") or ""
-            title, display, loan = _parse_club_value(template.get(f"clubs{n}").value)
+    while n <= 40 and (template.has(f"{years_key}{n}") or template.has(f"{club_key}{n}")):
+        if template.has(f"{club_key}{n}"):
+            years_raw = _param(template, f"{years_key}{n}") or ""
+            title, display, loan = _parse_club_value(template.get(f"{club_key}{n}").value)
             if display:
                 start, end, ongoing = _parse_years_range(years_raw)
                 spells.append(
@@ -434,6 +452,14 @@ def _spells_from_football_biography(template) -> List[CareerSpell]:
                 )
         n += 1
     return spells
+
+
+def _spells_from_football_biography(template) -> List[CareerSpell]:
+    return _spells_from_numbered_fields(template, "years", "clubs")
+
+
+def _spells_from_eishockeyspieler(template) -> List[CareerSpell]:
+    return _spells_from_numbered_fields(template, "Jahre", "Verein")
 
 
 def _spells_from_fussballspieler(template) -> List[CareerSpell]:
@@ -470,6 +496,7 @@ _CAREER_INFOBOX_PARSERS = {
     "infobox football biography": _spells_from_football_biography,
     "infobox footballer": _spells_from_football_biography,
     "infobox fußballspieler": _spells_from_fussballspieler,
+    "infobox eishockeyspieler": _spells_from_eishockeyspieler,
 }
 
 
