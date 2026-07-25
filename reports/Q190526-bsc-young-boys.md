@@ -4,8 +4,7 @@
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
 - Players in Wikipedia squad: 30
 - Current members on Wikidata: 90
-- Suggested edits: 107
-- Generated: 2026-07-25 02:37 UTC
+- Suggested edits: 104
 
 ## In current squad, but no membership statement on Wikidata (18)
 
@@ -112,12 +111,6 @@
 - **[Youssouf Traoré](https://www.wikidata.org/wiki/Q2601406)** ([WP](https://de.wikipedia.org/wiki/Youssouf_Traor%C3%A9_(Fu%C3%9Fballspieler,_1991))) (2009–) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zenun Selimi](https://www.wikidata.org/wiki/Q23908317)** ([WP](https://en.wikipedia.org/wiki/Zenun_Selimi)) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ľubomír Plevka](https://www.wikidata.org/wiki/Q10544885)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-
-## Current member, but the membership has no start date (3)
-
-- **[Christian Fassnacht](https://www.wikidata.org/wiki/Q27306208)** ([WP](https://de.wikipedia.org/wiki/Christian_Fassnacht)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-- **[Jaouen Hadjam](https://www.wikidata.org/wiki/Q98561102)** ([WP](https://de.wikipedia.org/wiki/Jaouen_Hadjam)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-- **[Sandro Lauper](https://www.wikidata.org/wiki/Q27469941)** ([WP](https://de.wikipedia.org/wiki/Sandro_Lauper)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 ## In current squad, but the Wikipedia article has no Wikidata item (4)
 

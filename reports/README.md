@@ -1,8 +1,8 @@
 # wd-squads — suggested Wikidata edits
 
-Generated: 2026-07-25 02:37 UTC
+Generated: 2026-07-25 03:20 UTC
 
-**10289 suggested edits** across **60 teams**.
+**10286 suggested edits** across **60 teams**.
 
 ## Leagues
 
@@ -81,7 +81,7 @@ Generated: 2026-07-25 02:37 UTC
 | [FC Basel](https://www.wikidata.org/wiki/Q189671) | 30 | 279 | 302 | [details](Q189671-fc-basel.md) |
 | [FC St. Gallen](https://www.wikidata.org/wiki/Q659212) | 29 | 92 | 118 | [details](Q659212-fc-st-gallen.md) |
 | [FC Sion](https://www.wikidata.org/wiki/Q321061) | 27 | 83 | 109 | [details](Q321061-fc-sion.md) |
-| [BSC Young Boys](https://www.wikidata.org/wiki/Q190526) | 30 | 90 | 107 | [details](Q190526-bsc-young-boys.md) |
+| [BSC Young Boys](https://www.wikidata.org/wiki/Q190526) | 30 | 90 | 104 | [details](Q190526-bsc-young-boys.md) |
 | [FC Zürich](https://www.wikidata.org/wiki/Q206692) | 26 | 87 | 103 | [details](Q206692-fc-zürich.md) |
 | [Servette FC Genève](https://www.wikidata.org/wiki/Q219235) | 33 | 69 | 99 | [details](Q219235-servette-fc-genève.md) |
 | [FC Luzern](https://www.wikidata.org/wiki/Q223262) | 31 | 60 | 90 | [details](Q223262-fc-luzern.md) |
