@@ -3,15 +3,15 @@
 - Wikidata item: [Q189671](https://www.wikidata.org/wiki/Q189671)
 - Wikipedia article: [FC Basel](https://de.wikipedia.org/wiki/FC_Basel)
 - Players in Wikipedia squad: 30
-- Current members on Wikidata: 280
-- Suggested edits: 303
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 279
+- Suggested edits: 302
+- Generated: 2026-07-25 02:37 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
 - **[Albian Ajeti](https://www.wikidata.org/wiki/Q16148161)** ([WP](https://de.wikipedia.org/wiki/Albian_Ajeti)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (276)
+## Recorded as a current member, but no longer in the squad (275)
 
 - **[Adama Traoré](https://www.wikidata.org/wiki/Q4680091)** ([WP](https://de.wikipedia.org/wiki/Adama_Traor%C3%A9_(Fu%C3%9Fballspieler,_1990))) (2015–2017) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adolf Frey](https://www.wikidata.org/wiki/Q96371486)** ([WP](https://en.wikipedia.org/wiki/Adolf_Frey_(footballer))) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -55,7 +55,6 @@
 - **[Christian Reinwald](https://www.wikidata.org/wiki/Q65622077)** ([WP](https://en.wikipedia.org/wiki/Christian_Reinwald)) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Hug](https://www.wikidata.org/wiki/Q3701629)** ([WP](https://en.wikipedia.org/wiki/Daniel_Hug)) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Høegh](https://www.wikidata.org/wiki/Q5217565)** ([WP](https://de.wikipedia.org/wiki/Daniel_H%C3%B8egh)) (2015–2017) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Danijel Subotić](https://www.wikidata.org/wiki/Q2448636)** ([WP](https://en.wikipedia.org/wiki/Danijel_Suboti%C4%87)) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Danique Stein](https://www.wikidata.org/wiki/Q1164131)** ([WP](https://de.wikipedia.org/wiki/Danique_Stein)) (2011–2017) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Davide Callà](https://www.wikidata.org/wiki/Q678346)** ([WP](https://de.wikipedia.org/wiki/Davide_Call%C3%A0)) (2014–2018) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Deniz Mendi](https://www.wikidata.org/wiki/Q65653611)** ([WP](https://en.wikipedia.org/wiki/Deniz_Mendi)) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

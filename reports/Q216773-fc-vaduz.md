@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 25
 - Current members on Wikidata: 39
 - Suggested edits: 62
-- Generated: 2026-07-23 20:55 UTC
+- Generated: 2026-07-25 02:37 UTC
 
 ## Recorded as a current member, but no longer in the squad (38)
 
@@ -52,7 +52,7 @@
 
 - **[Benjamin Büchel](https://www.wikidata.org/wiki/Q168498)** ([WP](https://de.wikipedia.org/wiki/Benjamin_Büchel)) (2018–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Dejan Djokic](https://www.wikidata.org/wiki/Q106468627)** ([WP](https://de.wikipedia.org/wiki/Dejan_Djokic)) (2019–2024) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
-- **[Dejan Sorgić](https://www.wikidata.org/wiki/Q1183492)** ([WP](https://de.wikipedia.org/wiki/Dejan_Sorgić)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
+- **[Dejan Sorgić](https://www.wikidata.org/wiki/Q1183492)** ([WP](https://de.wikipedia.org/wiki/Dejan_Sorgić)) (2026–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Denis Simani](https://www.wikidata.org/wiki/Q100351433)** ([WP](https://de.wikipedia.org/wiki/Denis_Simani)) (2024–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Julian Stark](https://www.wikidata.org/wiki/Q106541783)** ([WP](https://de.wikipedia.org/wiki/Julian_Stark)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Leon Schaffran](https://www.wikidata.org/wiki/Q57578062)** ([WP](https://de.wikipedia.org/wiki/Leon_Schaffran)) (2024–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.

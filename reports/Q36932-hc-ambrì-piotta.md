@@ -3,11 +3,11 @@
 - Wikidata item: [Q36932](https://www.wikidata.org/wiki/Q36932)
 - Wikipedia article: [HC Ambrì-Piotta](https://de.wikipedia.org/wiki/HC_Ambrì-Piotta)
 - Players in Wikipedia squad: 26
-- Current members on Wikidata: 165
-- Suggested edits: 189
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 163
+- Suggested edits: 187
+- Generated: 2026-07-25 02:37 UTC
 
-## Recorded as a current member, but no longer in the squad (163)
+## Recorded as a current member, but no longer in the squad (161)
 
 - **[Adrian Brunner](https://www.wikidata.org/wiki/Q209014)** ([WP](https://de.wikipedia.org/wiki/Adrian_Brunner)) (2009–2011) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Trunz](https://www.wikidata.org/wiki/Q2825055)** — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -27,7 +27,6 @@
 - **[Bill Derlago](https://www.wikidata.org/wiki/Q2903192)** ([WP](https://de.wikipedia.org/wiki/Bill_Derlago)) (1987–1988) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bob Kelly](https://www.wikidata.org/wiki/Q73550061)** ([WP](https://de.wikipedia.org/wiki/Bob_Kelly_(Eishockeyspieler,_1928))) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christian Stucki](https://www.wikidata.org/wiki/Q3675712)** — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Christian Weber](https://www.wikidata.org/wiki/Q1082239)** ([WP](https://de.wikipedia.org/wiki/Christian_Weber_(Eishockeyspieler))) (1988–1989) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Claude Verret](https://www.wikidata.org/wiki/Q2978244)** ([WP](https://en.wikipedia.org/wiki/Claude_Verret)) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Claudio Micheli](https://www.wikidata.org/wiki/Q2978545)** ([WP](https://de.wikipedia.org/wiki/Claudio_Micheli)) (2008–2009) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Claudio Neff](https://www.wikidata.org/wiki/Q2978544)** — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -45,7 +44,6 @@
 - **[Dmitry Denisov](https://www.wikidata.org/wiki/Q3033148)** ([WP](https://en.wikipedia.org/wiki/Dmitry_Denisov)) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dominic Forget](https://www.wikidata.org/wiki/Q7439603)** — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Doug Honegger](https://www.wikidata.org/wiki/Q1251746)** ([WP](https://de.wikipedia.org/wiki/Doug_Honegger)) (1986–1990) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Edgar Salis](https://www.wikidata.org/wiki/Q3047488)** ([WP](https://de.wikipedia.org/wiki/Edgar_Salis)) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Eero Somervuori](https://www.wikidata.org/wiki/Q720794)** ([WP](https://de.wikipedia.org/wiki/Eero_Somervuori)) (2005–2007) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erik Westrum](https://www.wikidata.org/wiki/Q3731746)** ([WP](https://de.wikipedia.org/wiki/Erik_Westrum)) (2007–2012) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fabian Lüthi](https://www.wikidata.org/wiki/Q16635482)** ([WP](https://de.wikipedia.org/wiki/Fabian_L%C3%BCthi)) (2013–2015) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

@@ -3,11 +3,11 @@
 - Wikidata item: [Q668549](https://www.wikidata.org/wiki/Q668549)
 - Wikipedia article: [SC Rapperswil-Jona Lakers](https://de.wikipedia.org/wiki/SC_Rapperswil-Jona_Lakers)
 - Players in Wikipedia squad: 29
-- Current members on Wikidata: 132
-- Suggested edits: 161
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 131
+- Suggested edits: 160
+- Generated: 2026-07-25 02:37 UTC
 
-## Recorded as a current member, but no longer in the squad (132)
+## Recorded as a current member, but no longer in the squad (131)
 
 - **[Ahren Spylo](https://www.wikidata.org/wiki/Q402683)** ([WP](https://de.wikipedia.org/wiki/Ahren_Spylo)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Reist](https://www.wikidata.org/wiki/Q2830214)** ([WP](https://en.wikipedia.org/wiki/Alain_Reist)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -42,7 +42,6 @@
 - **[Dominic Meier](https://www.wikidata.org/wiki/Q1237620)** ([WP](https://de.wikipedia.org/wiki/Dominic_Meier)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Doug Gilmour](https://www.wikidata.org/wiki/Q955391)** ([WP](https://de.wikipedia.org/wiki/Doug_Gilmour)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Duri Camichel](https://www.wikidata.org/wiki/Q1267334)** ([WP](https://de.wikipedia.org/wiki/Duri_Camichel)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Edgar Salis](https://www.wikidata.org/wiki/Q3047488)** ([WP](https://de.wikipedia.org/wiki/Edgar_Salis)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Eric Walsky](https://www.wikidata.org/wiki/Q2408380)** ([WP](https://en.wikipedia.org/wiki/Eric_Walsky)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Florian Blatter](https://www.wikidata.org/wiki/Q1429610)** ([WP](https://de.wikipedia.org/wiki/Florian_Blatter)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Franco Collenberg](https://www.wikidata.org/wiki/Q1442558)** ([WP](https://de.wikipedia.org/wiki/Franco_Collenberg)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

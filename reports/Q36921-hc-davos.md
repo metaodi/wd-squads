@@ -3,15 +3,15 @@
 - Wikidata item: [Q36921](https://www.wikidata.org/wiki/Q36921)
 - Wikipedia article: [HC Davos](https://de.wikipedia.org/wiki/HC_Davos)
 - Players in Wikipedia squad: 29
-- Current members on Wikidata: 222
-- Suggested edits: 245
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 221
+- Suggested edits: 244
+- Generated: 2026-07-25 02:37 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
 - **[Matěj Stránský](https://www.wikidata.org/wiki/Q20936611)** ([WP](https://de.wikipedia.org/wiki/Matěj_Stránský)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (217)
+## Recorded as a current member, but no longer in the squad (216)
 
 - **[Ahren Spylo](https://www.wikidata.org/wiki/Q402683)** ([WP](https://de.wikipedia.org/wiki/Ahren_Spylo)) (2017) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Tallarini](https://www.wikidata.org/wiki/Q2830598)** — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -38,7 +38,6 @@
 - **[Charles Fasel](https://www.wikidata.org/wiki/Q674033)** ([WP](https://de.wikipedia.org/wiki/Charles_Fasel)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charlie Cook](https://www.wikidata.org/wiki/Q534500)** ([WP](https://de.wikipedia.org/wiki/Charlie_Cook)) (2010–2011) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christian Hofstetter](https://www.wikidata.org/wiki/Q16539291)** — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Christian Weber](https://www.wikidata.org/wiki/Q1082239)** ([WP](https://de.wikipedia.org/wiki/Christian_Weber_(Eishockeyspieler))) (1994–1997) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Clarence Kparghai](https://www.wikidata.org/wiki/Q117950)** ([WP](https://de.wikipedia.org/wiki/Clarence_Kparghai)) (2005–2006) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Claude-Curdin Paschoud](https://www.wikidata.org/wiki/Q15794528)** ([WP](https://de.wikipedia.org/wiki/Claude-Curdin_Paschoud)) (2007–2023) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Claudio Neff](https://www.wikidata.org/wiki/Q2978544)** — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

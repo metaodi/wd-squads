@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 57
 - Current members on Wikidata: 76
 - Suggested edits: 114
-- Generated: 2026-07-23 20:55 UTC
+- Generated: 2026-07-25 02:37 UTC
 
 ## Membership marked ended, but player is in the current squad (2)
 
@@ -81,7 +81,7 @@
 - **[Vegar Eggen Hedenstad](https://www.wikidata.org/wiki/Q128844)** ([WP](https://de.wikipedia.org/wiki/Vegar_Eggen_Hedenstad)) (2012–2016) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zaza Zamtaradze](https://www.wikidata.org/wiki/Q20574310)** — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+## In current squad, but no membership statement on Wikidata (20)
 
 - **[Anthony Jung](https://www.wikidata.org/wiki/Q573461)** ([WP](https://de.wikipedia.org/wiki/Anthony_Jung)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Bruno Ogbus](https://www.wikidata.org/wiki/Q123505973)** ([WP](https://de.wikipedia.org/wiki/Bruno_Ogbus)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
@@ -101,13 +101,14 @@
 - **[Patrick Osterhage](https://www.wikidata.org/wiki/Q66432974)** ([WP](https://de.wikipedia.org/wiki/Patrick_Osterhage)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Paulo Fritschi](https://www.wikidata.org/wiki/Q139377520)** ([WP](https://de.wikipedia.org/wiki/Paulo_Fritschi)) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Philipp Treu](https://www.wikidata.org/wiki/Q108114740)** ([WP](https://de.wikipedia.org/wiki/Philipp_Treu)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
+- **[Rouven Tarnutzer](https://www.wikidata.org/wiki/Q140685196)** ([WP](https://de.wikipedia.org/wiki/Rouven_Tarnutzer)) (2026–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Yuito Suzuki](https://www.wikidata.org/wiki/Q85884126)** ([WP](https://de.wikipedia.org/wiki/Yuito_Suzuki)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (1)
 
 - **[Jordy Makengo](https://www.wikidata.org/wiki/Q107723702)** ([WP](https://de.wikipedia.org/wiki/Jordy_Makengo)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (26)
+## In current squad, but the Wikipedia article has no Wikidata item (25)
 
 - **Billal Mohamed** — 'Billal Mohamed' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Bismark Adomah** — 'Bismark Adomah' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
@@ -132,6 +133,5 @@
 - **Mateo Zelic** — 'Mateo Zelic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Mika Reifsteck** — 'Mika Reifsteck' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Mladen Mijajlovic** — 'Mladen Mijajlovic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rouven Tarnutzer** ([WP](https://de.wikipedia.org/wiki/Rouven_Tarnutzer)) — 'Rouven Tarnutzer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Tammo Schiertz** — 'Tammo Schiertz' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Théodore Pizarro** — 'Théodore Pizarro' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

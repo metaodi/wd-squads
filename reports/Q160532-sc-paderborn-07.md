@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 29
 - Current members on Wikidata: 47
 - Suggested edits: 76
-- Generated: 2026-07-23 20:55 UTC
+- Generated: 2026-07-25 02:37 UTC
 
 ## Membership marked ended, but player is in the current squad (5)
 
@@ -23,7 +23,7 @@
 - **[David Kinsombi](https://www.wikidata.org/wiki/Q18620307)** ([WP](https://de.wikipedia.org/wiki/David_Kinsombi)) (2023–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Dennis Seimen](https://www.wikidata.org/wiki/Q114825196)** ([WP](https://de.wikipedia.org/wiki/Dennis_Seimen)) (2025–2026) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Felix Götze](https://www.wikidata.org/wiki/Q19201325)** ([WP](https://de.wikipedia.org/wiki/Felix_Götze)) (2024–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
-- **[Filip Bilbija](https://www.wikidata.org/wiki/Q66086068)** ([WP](https://de.wikipedia.org/wiki/Filip_Bilbija)) (2023–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
+- **[Filip Bilbija](https://www.wikidata.org/wiki/Q66086068)** ([WP](https://de.wikipedia.org/wiki/Filip_Bilbija)) (2023–2026) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Kennedy Okpala](https://www.wikidata.org/wiki/Q123514165)** ([WP](https://de.wikipedia.org/wiki/Kennedy_Okpala)) (2026–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Laurin Curda](https://www.wikidata.org/wiki/Q124260635)** ([WP](https://de.wikipedia.org/wiki/Laurin_Curda)) (2023–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Marcel Hoffmeier](https://www.wikidata.org/wiki/Q76445964)** ([WP](https://de.wikipedia.org/wiki/Marcel_Hoffmeier)) (2022–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.

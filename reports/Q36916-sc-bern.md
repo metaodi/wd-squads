@@ -3,11 +3,11 @@
 - Wikidata item: [Q36916](https://www.wikidata.org/wiki/Q36916)
 - Wikipedia article: [SC Bern](https://de.wikipedia.org/wiki/SC_Bern)
 - Players in Wikipedia squad: 30
-- Current members on Wikidata: 194
-- Suggested edits: 219
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 193
+- Suggested edits: 218
+- Generated: 2026-07-25 02:37 UTC
 
-## Recorded as a current member, but no longer in the squad (189)
+## Recorded as a current member, but no longer in the squad (188)
 
 - **[Adrian Brunner](https://www.wikidata.org/wiki/Q209014)** ([WP](https://de.wikipedia.org/wiki/Adrian_Brunner)) (2011–2012) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Berger](https://www.wikidata.org/wiki/Q2636358)** ([WP](https://de.wikipedia.org/wiki/Alain_Berger_(Eishockeyspieler))) (2012–2022) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -60,7 +60,6 @@
 - **[Dino Kessler](https://www.wikidata.org/wiki/Q16196533)** ([WP](https://en.wikipedia.org/wiki/Dino_Kessler)) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dominic Meier](https://www.wikidata.org/wiki/Q1237620)** ([WP](https://de.wikipedia.org/wiki/Dominic_Meier)) (2009–2012) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dominik Kahun](https://www.wikidata.org/wiki/Q16318883)** ([WP](https://de.wikipedia.org/wiki/Dominik_Kahun)) (2021–2025) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Edgar Salis](https://www.wikidata.org/wiki/Q3047488)** ([WP](https://de.wikipedia.org/wiki/Edgar_Salis)) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Emil Handschin](https://www.wikidata.org/wiki/Q249016)** ([WP](https://de.wikipedia.org/wiki/Emil_Handschin)) (1945) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ernst Wenger](https://www.wikidata.org/wiki/Q64870307)** ([WP](https://de.wikipedia.org/wiki/Ernst_Wenger)) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Etienne Froidevaux](https://www.wikidata.org/wiki/Q683781)** ([WP](https://de.wikipedia.org/wiki/Etienne_Froidevaux)) (2007–2012) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

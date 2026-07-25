@@ -3,9 +3,9 @@
 - Wikidata item: [Q5794](https://www.wikidata.org/wiki/Q5794)
 - Wikipedia article: [Everton F.C.](https://en.wikipedia.org/wiki/Everton_F.C.)
 - Players in Wikipedia squad: 24
-- Current members on Wikidata: 305
-- Suggested edits: 314
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 304
+- Suggested edits: 313
+- Generated: 2026-07-25 02:37 UTC
 
 ## Membership marked ended, but player is in the current squad (2)
 
@@ -29,7 +29,7 @@
 - **[Tyler Dibling](https://www.wikidata.org/wiki/Q115973966)** ([WP](https://en.wikipedia.org/wiki/Tyler_Dibling)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Tyrique George](https://www.wikidata.org/wiki/Q123002942)** ([WP](https://en.wikipedia.org/wiki/Tyrique_George)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (297)
+## Recorded as a current member, but no longer in the squad (296)
 
 - **[Adam Cummins](https://www.wikidata.org/wiki/Q4678918)** ([WP](https://en.wikipedia.org/wiki/Adam_Cummins)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Eaton](https://www.wikidata.org/wiki/Q4679009)** ([WP](https://en.wikipedia.org/wiki/Adam_Eaton_(footballer))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -217,7 +217,6 @@
 - **[Keith Bradley](https://www.wikidata.org/wiki/Q6384096)** ([WP](https://en.wikipedia.org/wiki/Keith_Bradley_(footballer))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Keith Williams](https://www.wikidata.org/wiki/Q6385228)** ([WP](https://en.wikipedia.org/wiki/Keith_Williams_(footballer,_born_1937))) (1954–1957) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ken Fletcher](https://www.wikidata.org/wiki/Q6387616)** ([WP](https://en.wikipedia.org/wiki/Ken_Fletcher_(footballer,_born_1931))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Kevin Mirallas](https://www.wikidata.org/wiki/Q316917)** ([WP](https://en.wikipedia.org/wiki/Kevin_Mirallas)) (2012–2019) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kevin Townson](https://www.wikidata.org/wiki/Q6397656)** ([WP](https://en.wikipedia.org/wiki/Kevin_Townson)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kieran Dowell](https://www.wikidata.org/wiki/Q18627270)** ([WP](https://en.wikipedia.org/wiki/Kieran_Dowell)) (2014–2020) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lars Stubhaug](https://www.wikidata.org/wiki/Q3827215)** ([WP](https://en.wikipedia.org/wiki/Lars_Stubhaug)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

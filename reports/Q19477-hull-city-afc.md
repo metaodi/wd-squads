@@ -3,9 +3,9 @@
 - Wikidata item: [Q19477](https://www.wikidata.org/wiki/Q19477)
 - Wikipedia article: [Hull City A.F.C.](https://en.wikipedia.org/wiki/Hull_City_A.F.C.)
 - Players in Wikipedia squad: 62
-- Current members on Wikidata: 95
-- Suggested edits: 155
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 96
+- Suggested edits: 156
+- Generated: 2026-07-25 02:37 UTC
 
 ## In current squad, but no membership statement on Wikidata (34)
 
@@ -44,7 +44,7 @@
 - **[Tyrell Sellars-Fleming](https://www.wikidata.org/wiki/Q123737444)** ([WP](https://en.wikipedia.org/wiki/Tyrell_Sellars-Fleming)) (2023–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Óscar Zambrano](https://www.wikidata.org/wiki/Q113467730)** ([WP](https://en.wikipedia.org/wiki/Óscar_Zambrano)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (94)
+## Recorded as a current member, but no longer in the squad (95)
 
 - **[Adama Diomande](https://www.wikidata.org/wiki/Q4680083)** ([WP](https://en.wikipedia.org/wiki/Adama_Diomande)) (2015–2018) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Jarvis](https://www.wikidata.org/wiki/Q24007311)** ([WP](https://en.wikipedia.org/wiki/Alan_Jarvis)) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -90,6 +90,7 @@
 - **[Greg Luer](https://www.wikidata.org/wiki/Q19655029)** ([WP](https://en.wikipedia.org/wiki/Greg_Luer)) (2015–2018) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harvey Elliott](https://www.wikidata.org/wiki/Q66077924)** — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harvey Rodgers](https://www.wikidata.org/wiki/Q28528660)** ([WP](https://en.wikipedia.org/wiki/Harvey_Rodgers)) (2015–2017) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Hidemasa Morita](https://www.wikidata.org/wiki/Q56254739)** ([WP](https://en.wikipedia.org/wiki/Hidemasa_Morita)) (2026–) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ian Bennyworth](https://www.wikidata.org/wiki/Q16194433)** ([WP](https://en.wikipedia.org/wiki/Ian_Bennyworth)) (1979–) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Lyon](https://www.wikidata.org/wiki/Q95148453)** ([WP](https://en.wikipedia.org/wiki/Jack_Lyon_(footballer))) (1913–1919) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Needham](https://www.wikidata.org/wiki/Q6114290)** ([WP](https://en.wikipedia.org/wiki/Jack_Needham)) (1920–1921) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

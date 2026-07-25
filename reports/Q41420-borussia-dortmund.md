@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 28
 - Current members on Wikidata: 78
 - Suggested edits: 82
-- Generated: 2026-07-23 20:55 UTC
+- Generated: 2026-07-25 02:37 UTC
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -89,7 +89,7 @@
 - **[Sebastian Tiszai](https://www.wikidata.org/wiki/Q2263179)** ([WP](https://de.wikipedia.org/wiki/Sebastian_Tiszai)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Semih Dağlar](https://www.wikidata.org/wiki/Q26303762)** ([WP](https://de.wikipedia.org/wiki/Semih_Da%C4%9Flar)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Stephan Ritz](https://www.wikidata.org/wiki/Q26669385)** ([WP](https://de.wikipedia.org/wiki/Stephan_Ritz)) (1989–1990) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Takato Yamamoto](https://www.wikidata.org/wiki/Q140289154)** — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Takato Yamamoto](https://www.wikidata.org/wiki/Q140289154)** ([WP](https://en.wikipedia.org/wiki/Takato_Yamamoto)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tim Väyrynen](https://www.wikidata.org/wiki/Q3991380)** ([WP](https://de.wikipedia.org/wiki/Tim_V%C3%A4yrynen)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Udo Lattek](https://www.wikidata.org/wiki/Q290870)** ([WP](https://de.wikipedia.org/wiki/Udo_Lattek)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Uwe Michel](https://www.wikidata.org/wiki/Q32406506)** ([WP](https://de.wikipedia.org/wiki/Uwe_Michel)) (1984–1985) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

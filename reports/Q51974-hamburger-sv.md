@@ -2,10 +2,10 @@
 
 - Wikidata item: [Q51974](https://www.wikidata.org/wiki/Q51974)
 - Wikipedia article: [Hamburger SV](https://de.wikipedia.org/wiki/Hamburger_SV)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 28
 - Current members on Wikidata: 166
-- Suggested edits: 182
-- Generated: 2026-07-23 20:55 UTC
+- Suggested edits: 183
+- Generated: 2026-07-25 02:37 UTC
 
 ## Recorded as a current member, but no longer in the squad (160)
 
@@ -170,10 +170,11 @@
 - **[Zbigniew Kruszyński](https://www.wikidata.org/wiki/Q168105)** ([WP](https://de.wikipedia.org/wiki/Zbigniew_Kruszy%C5%84ski_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → Hamburger SV (Q51974); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Özkan Gümüş](https://www.wikidata.org/wiki/Q17417972)** ([WP](https://de.wikipedia.org/wiki/%C3%96zkan_G%C3%BCm%C3%BC%C5%9F)) (1996–2000) — Add an end date (P582) to the membership → Hamburger SV (Q51974); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+## In current squad, but no membership statement on Wikidata (20)
 
 - **[Albert Grønbæk](https://www.wikidata.org/wiki/Q98479427)** ([WP](https://de.wikipedia.org/wiki/Albert_Grønbæk)) (2026–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Alexander Røssing-Lelesiit](https://www.wikidata.org/wiki/Q130902510)** ([WP](https://de.wikipedia.org/wiki/Alexander_Røssing-Lelesiit)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
+- **[Bilal Nadir](https://www.wikidata.org/wiki/Q122809324)** ([WP](https://de.wikipedia.org/wiki/Bilal_Nadir)) (2026–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Daniel Elfadli](https://www.wikidata.org/wiki/Q114413857)** ([WP](https://de.wikipedia.org/wiki/Daniel_Elfadli)) (2024–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Emir Sahiti](https://www.wikidata.org/wiki/Q52419347)** ([WP](https://de.wikipedia.org/wiki/Emir_Sahiti)) (2024–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Fabio Baldé](https://www.wikidata.org/wiki/Q128338292)** ([WP](https://de.wikipedia.org/wiki/Fabio_Baldé)) (2024–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.

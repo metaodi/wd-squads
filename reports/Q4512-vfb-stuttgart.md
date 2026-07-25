@@ -3,11 +3,11 @@
 - Wikidata item: [Q4512](https://www.wikidata.org/wiki/Q4512)
 - Wikipedia article: [VfB Stuttgart](https://de.wikipedia.org/wiki/VfB_Stuttgart)
 - Players in Wikipedia squad: 51
-- Current members on Wikidata: 322
-- Suggested edits: 350
-- Generated: 2026-07-23 20:55 UTC
+- Current members on Wikidata: 321
+- Suggested edits: 349
+- Generated: 2026-07-25 02:37 UTC
 
-## Recorded as a current member, but no longer in the squad (309)
+## Recorded as a current member, but no longer in the squad (308)
 
 - **[Abdelaziz Ahanfouf](https://www.wikidata.org/wiki/Q307843)** ([WP](https://de.wikipedia.org/wiki/Abdelaziz_Ahanfouf)) (1995–1997) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Grbić](https://www.wikidata.org/wiki/Q21033347)** ([WP](https://de.wikipedia.org/wiki/Adrian_Grbi%C4%87)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -219,7 +219,6 @@
 - **[Michele Rizzi](https://www.wikidata.org/wiki/Q18026062)** ([WP](https://de.wikipedia.org/wiki/Michele_Rizzi)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Miloš Degenek](https://www.wikidata.org/wiki/Q14309492)** ([WP](https://de.wikipedia.org/wiki/Milo%C5%A1_Degenek)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mirnes Mešić](https://www.wikidata.org/wiki/Q1345797)** ([WP](https://de.wikipedia.org/wiki/Mirnes_Me%C5%A1i%C4%87)) (1996–1998) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Mladen Petrić](https://www.wikidata.org/wiki/Q294467)** ([WP](https://de.wikipedia.org/wiki/Mladen_Petri%C4%87)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Moritz Kuhn](https://www.wikidata.org/wiki/Q968371)** ([WP](https://de.wikipedia.org/wiki/Moritz_Kuhn_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nico Klotz](https://www.wikidata.org/wiki/Q1985962)** ([WP](https://de.wikipedia.org/wiki/Nico_Klotz)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nico Rodewald](https://www.wikidata.org/wiki/Q27662976)** ([WP](https://de.wikipedia.org/wiki/Nico_Rodewald)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

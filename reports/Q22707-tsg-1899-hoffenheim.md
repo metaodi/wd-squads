@@ -5,7 +5,7 @@
 - Players in Wikipedia squad: 66
 - Current members on Wikidata: 78
 - Suggested edits: 128
-- Generated: 2026-07-23 20:55 UTC
+- Generated: 2026-07-25 02:37 UTC
 
 ## In current squad, but no membership statement on Wikidata (29)
 
@@ -17,7 +17,7 @@
 - **[Bambasé Conté](https://www.wikidata.org/wiki/Q123409527)** ([WP](https://de.wikipedia.org/wiki/Bambasé_Conté)) (2023–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Bernardo](https://www.wikidata.org/wiki/Q22675674)** ([WP](https://de.wikipedia.org/wiki/Bernardo_(Fußballspieler,_1995))) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Cajetan Lenz](https://www.wikidata.org/wiki/Q135678341)** ([WP](https://de.wikipedia.org/wiki/Cajetan_Lenz)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
-- **[Deniz Zeitler](https://www.wikidata.org/wiki/Q123651623)** ([WP](https://de.wikipedia.org/wiki/Deniz_Zeitler)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
+- **[Deniz Zeitler](https://www.wikidata.org/wiki/Q123651623)** ([WP](https://de.wikipedia.org/wiki/Deniz_Zeitler)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Fisnik Asllani](https://www.wikidata.org/wiki/Q109653419)** ([WP](https://de.wikipedia.org/wiki/Fisnik_Asllani)) (2021–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Florian Micheler](https://www.wikidata.org/wiki/Q130215867)** ([WP](https://de.wikipedia.org/wiki/Florian_Micheler)) (2024–2025) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Gift Orban](https://www.wikidata.org/wiki/Q112963287)** ([WP](https://de.wikipedia.org/wiki/Gift_Orban)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.

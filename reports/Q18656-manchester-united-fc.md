@@ -2,10 +2,10 @@
 
 - Wikidata item: [Q18656](https://www.wikidata.org/wiki/Q18656)
 - Wikipedia article: [Manchester United F.C.](https://en.wikipedia.org/wiki/Manchester_United_F.C.)
-- Players in Wikipedia squad: 44
+- Players in Wikipedia squad: 33
 - Current members on Wikidata: 405
-- Suggested edits: 410
-- Generated: 2026-07-23 20:55 UTC
+- Suggested edits: 399
+- Generated: 2026-07-25 02:37 UTC
 
 ## Membership marked ended, but player is in the current squad (2)
 
@@ -400,34 +400,20 @@
 - **[Willie McDonald](https://www.wikidata.org/wiki/Q8021673)** ([WP](https://en.wikipedia.org/wiki/Willie_McDonald)) (1932–1934) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zak Dearnley](https://www.wikidata.org/wiki/Q31300988)** ([WP](https://en.wikipedia.org/wiki/Zak_Dearnley)) (2018–2019) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (21)
+## In current squad, but no membership statement on Wikidata (11)
 
 - **[Andrey Santos](https://www.wikidata.org/wiki/Q106171073)** ([WP](https://en.wikipedia.org/wiki/Andrey_Santos)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Chido Obi](https://www.wikidata.org/wiki/Q123485961)** ([WP](https://en.wikipedia.org/wiki/Chido_Obi)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Dan Gore](https://www.wikidata.org/wiki/Q122835167)** ([WP](https://en.wikipedia.org/wiki/Dan_Gore)) (2023–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Dermot Mee](https://www.wikidata.org/wiki/Q134080600)** ([WP](https://en.wikipedia.org/wiki/Dermot_Mee)) (2021–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Diego León](https://www.wikidata.org/wiki/Q130564681)** ([WP](https://en.wikipedia.org/wiki/Diego_León_(footballer,_born_2007))) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Ethan Wheatley](https://www.wikidata.org/wiki/Q125585047)** ([WP](https://en.wikipedia.org/wiki/Ethan_Wheatley)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Ethan Williams](https://www.wikidata.org/wiki/Q131995199)** ([WP](https://en.wikipedia.org/wiki/Ethan_Williams_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Harry Amass](https://www.wikidata.org/wiki/Q119971486)** ([WP](https://en.wikipedia.org/wiki/Harry_Amass)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Jack Fletcher](https://www.wikidata.org/wiki/Q129631946)** ([WP](https://en.wikipedia.org/wiki/Jack_Fletcher_(footballer,_born_2007))) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Jacob Devaney](https://www.wikidata.org/wiki/Q137570380)** ([WP](https://en.wikipedia.org/wiki/Jacob_Devaney)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Jaydan Kamason](https://www.wikidata.org/wiki/Q134017281)** ([WP](https://en.wikipedia.org/wiki/Jaydan_Kamason)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Jim Thwaites](https://www.wikidata.org/wiki/Q134606239)** ([WP](https://en.wikipedia.org/wiki/Jim_Thwaites)) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Karl Darlow](https://www.wikidata.org/wiki/Q1730695)** ([WP](https://en.wikipedia.org/wiki/Karl_Darlow)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Leny Yoro](https://www.wikidata.org/wiki/Q112039295)** ([WP](https://en.wikipedia.org/wiki/Leny_Yoro)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Patrick Dorgu](https://www.wikidata.org/wiki/Q121903982)** ([WP](https://en.wikipedia.org/wiki/Patrick_Dorgu)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Radek Vítek](https://www.wikidata.org/wiki/Q123995390)** ([WP](https://en.wikipedia.org/wiki/Radek_Vítek)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Shea Lacey](https://www.wikidata.org/wiki/Q117207006)** ([WP](https://en.wikipedia.org/wiki/Shea_Lacey)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Toby Collyer](https://www.wikidata.org/wiki/Q121437419)** ([WP](https://en.wikipedia.org/wiki/Toby_Collyer)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Tyler Fletcher](https://www.wikidata.org/wiki/Q137384640)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fletcher)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Tyler Fredricson](https://www.wikidata.org/wiki/Q132454617)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fredricson)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Tynan Thompson](https://www.wikidata.org/wiki/Q137343216)** ([WP](https://en.wikipedia.org/wiki/Tynan_Thompson)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (1)
 
 - **[Diogo Dalot](https://www.wikidata.org/wiki/Q26255506)** ([WP](https://en.wikipedia.org/wiki/Diogo_Dalot)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-
-## In current squad, but the Wikipedia article has no Wikidata item (1)
-
-- **Daniel Armer** — 'Daniel Armer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
