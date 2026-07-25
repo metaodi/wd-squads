@@ -56,7 +56,6 @@ def render_team_markdown(result: TeamResult, generated_at: str) -> str:
         f"- Players in Wikipedia squad: {result.squad_size}",
         f"- Current members on Wikidata: {result.wikidata_current}",
         f"- Suggested edits: {len(result.suggestions)}",
-        f"- Generated: {generated_at}",
         "",
     ]
 
