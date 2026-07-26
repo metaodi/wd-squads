@@ -2,7 +2,7 @@
 
 **A TODO list for Wikidata users, generated from Wikipedia football squads.**
 
-Football clubs' squads are kept nicely up to date on Wikipedia, but the matching
+Clubs' squads are kept nicely up to date on Wikipedia, but the matching
 membership data on **Wikidata** often lags behind: players change clubs without
 anyone adding a *member of sports team* ([P54](https://www.wikidata.org/wiki/Property:P54))
 statement, and — most annoyingly — memberships are frequently missing the
