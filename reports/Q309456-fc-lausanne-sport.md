@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q309456](https://www.wikidata.org/wiki/Q309456)
 - Wikipedia article: [FC Lausanne-Sport](https://de.wikipedia.org/wiki/FC_Lausanne-Sport)
-- Players in Wikipedia squad: 24
+- Players in Wikipedia squad: 25
 - Current members on Wikidata: 67
-- Suggested edits: 89
+- Suggested edits: 90
 
 ## In current squad, but no membership statement on Wikidata (8)
 
@@ -90,7 +90,7 @@
 - **[Olivier Custodio](https://www.wikidata.org/wiki/Q16236718)** ([WP](https://de.wikipedia.org/wiki/Olivier_Custodio)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Thomas Castella](https://www.wikidata.org/wiki/Q20993702)** ([WP](https://de.wikipedia.org/wiki/Thomas_Castella)) (2012–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (14)
+## In current squad, but the Wikipedia article has no Wikidata item (15)
 
 - **Beyatt Lekoueiry** ([WP](https://de.wikipedia.org/wiki/Beyatt_Lekoueiry)) — 'Beyatt Lekoueiry' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Dircssi Ngonzo** ([WP](https://de.wikipedia.org/wiki/Dircssi_Ngonzo)) — 'Dircssi Ngonzo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
@@ -104,5 +104,6 @@
 - **Omar Janneh** ([WP](https://de.wikipedia.org/wiki/Omar_Janneh)) — 'Omar Janneh' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Seydou Traoré** ([WP](https://de.wikipedia.org/wiki/Seydou_Traoré)) — 'Seydou Traoré' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Souleymane N’Diaye** ([WP](https://de.wikipedia.org/wiki/Souleymane_N’Diaye)) — 'Souleymane N’Diaye' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Sékou Koné** ([WP](https://de.wikipedia.org/wiki/Sékou_Koné)) — 'Sékou Koné' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Theo Bergvall** ([WP](https://de.wikipedia.org/wiki/Theo_Bergvall)) — 'Theo Bergvall' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Tim Hottiger** ([WP](https://de.wikipedia.org/wiki/Tim_Hottiger)) — 'Tim Hottiger' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

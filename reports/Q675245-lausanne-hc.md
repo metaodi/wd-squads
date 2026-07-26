@@ -3,10 +3,10 @@
 - Wikidata item: [Q675245](https://www.wikidata.org/wiki/Q675245)
 - Wikipedia article: [Lausanne HC](https://de.wikipedia.org/wiki/Lausanne_HC)
 - Players in Wikipedia squad: 26
-- Current members on Wikidata: 164
-- Suggested edits: 189
+- Current members on Wikidata: 163
+- Suggested edits: 188
 
-## Recorded as a current member, but no longer in the squad (163)
+## Recorded as a current member, but no longer in the squad (162)
 
 - **[Adrian Trunz](https://www.wikidata.org/wiki/Q2825055)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Birbaum](https://www.wikidata.org/wiki/Q2829573)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -45,7 +45,6 @@
 - **[Daniel Corso](https://www.wikidata.org/wiki/Q1160373)** ([WP](https://de.wikipedia.org/wiki/Daniel_Corso)) (2013) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Marois](https://www.wikidata.org/wiki/Q1161677)** ([WP](https://de.wikipedia.org/wiki/Daniel_Marois)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dario Kostović](https://www.wikidata.org/wiki/Q520335)** ([WP](https://de.wikipedia.org/wiki/Dario_Kostovi%C4%87)) (2005–2006) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Dario Trutmann](https://www.wikidata.org/wiki/Q3016151)** ([WP](https://de.wikipedia.org/wiki/Dario_Trutmann)) (2015–2019) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dmitri Chamoline](https://www.wikidata.org/wiki/Q3033147)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dušan Milo](https://www.wikidata.org/wiki/Q1268192)** ([WP](https://de.wikipedia.org/wiki/Du%C5%A1an_Milo)) (2003–2004) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Eliot Berthon](https://www.wikidata.org/wiki/Q16864029)** ([WP](https://en.wikipedia.org/wiki/Eliot_Berthon)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

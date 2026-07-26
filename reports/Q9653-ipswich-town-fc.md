@@ -2,11 +2,11 @@
 
 - Wikidata item: [Q9653](https://www.wikidata.org/wiki/Q9653)
 - Wikipedia article: [Ipswich Town F.C.](https://en.wikipedia.org/wiki/Ipswich_Town_F.C.)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 31
 - Current members on Wikidata: 98
-- Suggested edits: 117
+- Suggested edits: 118
 
-## In current squad, but no membership statement on Wikidata (24)
+## In current squad, but no membership statement on Wikidata (25)
 
 - **[Abdul Fatawu](https://www.wikidata.org/wiki/Q105812639)** ([WP](https://en.wikipedia.org/wiki/Abdul_Fatawu)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Alex Palmer](https://www.wikidata.org/wiki/Q60733809)** ([WP](https://en.wikipedia.org/wiki/Alex_Palmer)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
@@ -18,6 +18,7 @@
 - **[Chuba Akpom](https://www.wikidata.org/wiki/Q13467456)** ([WP](https://en.wikipedia.org/wiki/Chuba_Akpom)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Cieran Slicker](https://www.wikidata.org/wiki/Q105477368)** ([WP](https://en.wikipedia.org/wiki/Cieran_Slicker)) (2023–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Cédric Kipré](https://www.wikidata.org/wiki/Q33129919)** ([WP](https://en.wikipedia.org/wiki/Cédric_Kipré)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
+- **[Daizen Maeda](https://www.wikidata.org/wiki/Q27990906)** ([WP](https://en.wikipedia.org/wiki/Daizen_Maeda)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Dara O'Shea](https://www.wikidata.org/wiki/Q56331751)** ([WP](https://en.wikipedia.org/wiki/Dara_O'Shea)) (2024–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Darnell Furlong](https://www.wikidata.org/wiki/Q19356677)** ([WP](https://en.wikipedia.org/wiki/Darnell_Furlong)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[David Button](https://www.wikidata.org/wiki/Q1173879)** ([WP](https://en.wikipedia.org/wiki/David_Button)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.

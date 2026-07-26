@@ -4,7 +4,7 @@
 - Wikipedia article: [ZSC Lions](https://de.wikipedia.org/wiki/ZSC_Lions)
 - Players in Wikipedia squad: 28
 - Current members on Wikidata: 157
-- Suggested edits: 180
+- Suggested edits: 179
 
 ## Recorded as a current member, but no longer in the squad (153)
 
@@ -179,9 +179,8 @@
 - **[Yannick Weber](https://www.wikidata.org/wiki/Q869663)** ([WP](https://de.wikipedia.org/wiki/Yannick_Weber)) (2021–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Šimon Hrubec](https://www.wikidata.org/wiki/Q4686350)** ([WP](https://de.wikipedia.org/wiki/Šimon_Hrubec)) (2022–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (3)
+## Current member, but the membership has no start date (2)
 
-- **[Dario Trutmann](https://www.wikidata.org/wiki/Q3016151)** ([WP](https://de.wikipedia.org/wiki/Dario_Trutmann)) (2019–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Patrick Geering](https://www.wikidata.org/wiki/Q390592)** ([WP](https://de.wikipedia.org/wiki/Patrick_Geering)) (2008–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Vinzenz Rohrer](https://www.wikidata.org/wiki/Q125906913)** ([WP](https://de.wikipedia.org/wiki/Vinzenz_Rohrer)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 

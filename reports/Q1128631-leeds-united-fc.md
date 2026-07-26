@@ -2,16 +2,16 @@
 
 - Wikidata item: [Q1128631](https://www.wikidata.org/wiki/Q1128631)
 - Wikipedia article: [Leeds United F.C.](https://en.wikipedia.org/wiki/Leeds_United_F.C.)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 26
 - Current members on Wikidata: 180
-- Suggested edits: 189
+- Suggested edits: 190
 
 ## Membership marked ended, but player is in the current squad (2)
 
 - **[Alex Cairns](https://www.wikidata.org/wiki/Q4716779)** ([WP](https://en.wikipedia.org/wiki/Alex_Cairns)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Sam Byram](https://www.wikidata.org/wiki/Q5591335)** ([WP](https://en.wikipedia.org/wiki/Sam_Byram)) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (170)
+## Recorded as a current member, but no longer in the squad (171)
 
 - **[Aapo Halme](https://www.wikidata.org/wiki/Q17380497)** ([WP](https://en.wikipedia.org/wiki/Aapo_Halme)) (2018–2019) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Lockwood](https://www.wikidata.org/wiki/Q2823973)** ([WP](https://en.wikipedia.org/wiki/Adam_Lockwood)) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -91,6 +91,7 @@
 - **[Hélder Costa](https://www.wikidata.org/wiki/Q5964146)** ([WP](https://en.wikipedia.org/wiki/H%C3%A9lder_Costa)) (2020–2023) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ike Robinson](https://www.wikidata.org/wiki/Q28853739)** ([WP](https://en.wikipedia.org/wiki/Ike_Robinson)) (1934–1935) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Clarke](https://www.wikidata.org/wiki/Q57078908)** ([WP](https://en.wikipedia.org/wiki/Jack_Clarke_(footballer,_born_2000))) (2019) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jack Harrison](https://www.wikidata.org/wiki/Q22087109)** ([WP](https://en.wikipedia.org/wiki/Jack_Harrison_(footballer,_born_1996))) (2021–2026) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jackie McGugan](https://www.wikidata.org/wiki/Q15999907)** ([WP](https://en.wikipedia.org/wiki/Jackie_McGugan)) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Tavernier](https://www.wikidata.org/wiki/Q93666)** ([WP](https://en.wikipedia.org/wiki/James_Tavernier)) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jamie Marks](https://www.wikidata.org/wiki/Q6147165)** ([WP](https://en.wikipedia.org/wiki/Jamie_Marks)) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

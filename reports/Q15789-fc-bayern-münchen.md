@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q15789](https://www.wikidata.org/wiki/Q15789)
 - Wikipedia article: [FC Bayern München](https://de.wikipedia.org/wiki/FC_Bayern_München)
-- Players in Wikipedia squad: 85
+- Players in Wikipedia squad: 91
 - Current members on Wikidata: 214
-- Suggested edits: 270
+- Suggested edits: 276
 
 ## Membership marked ended, but player is in the current squad (3)
 
@@ -235,7 +235,7 @@
 
 - **[Josip Stanišić](https://www.wikidata.org/wiki/Q65950201)** ([WP](https://de.wikipedia.org/wiki/Josip_Stanišić)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (53)
+## In current squad, but the Wikipedia article has no Wikidata item (59)
 
 - **1. März 2007** — '1. März 2007' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **10. Januar 2007** — '10. Januar 2007' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
@@ -263,14 +263,17 @@
 - **6. Februar 1995** — '6. Februar 1995' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **8. August 2003** — '8. August 2003' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Allen Junior Lambé** — 'Allen Junior Lambé' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Aristide Hentcho** — 'Aristide Hentcho' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Artur Degraf** — 'Artur Degraf' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Bajung Darboe** ([WP](https://de.wikipedia.org/wiki/Bajung_Darboe)) — 'Bajung Darboe' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Bastian Assomo/** — 'Bastian Assomo/' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Benedikt Wimmer** — 'Benedikt Wimmer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Bohdan Olitschenko** — 'Bohdan Olitschenko' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Chivano Wijks** — 'Chivano Wijks' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Chris Afanou** — 'Chris Afanou' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Filip Pavić/** — 'Filip Pavić/' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Hannes Heilmair** — 'Hannes Heilmair' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jakob Horvath** — 'Jakob Horvath' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Jannis Bärtl** — 'Jannis Bärtl' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Jason Eckl** — 'Jason Eckl' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Leon Klanac** — 'Leon Klanac' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
@@ -279,12 +282,15 @@
 - **Louis Richter** — 'Louis Richter' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Luis Schäfer** — 'Luis Schäfer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Matouš Srb** — 'Matouš Srb' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Matteo Maric/** — 'Matteo Maric/' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Michael Scott** — 'Michael Scott' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Min-jae Kim** ([WP](https://de.wikipedia.org/wiki/Min-jae_Kim)) — 'Min-jae Kim' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Mudaser Sadat** — 'Mudaser Sadat' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Noah Codjo-Evora** — 'Noah Codjo-Evora' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Oluwaseyi Wilson** — 'Oluwaseyi Wilson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Philipp von Taube** — 'Philipp von Taube' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Raphael Pavlić** — 'Raphael Pavlić' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Rayan Moumouni** — 'Rayan Moumouni' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Roko Mijatović** — 'Roko Mijatović' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Tim Binder** — 'Tim Binder' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Vincent Manuba** — 'Vincent Manuba' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q22707](https://www.wikidata.org/wiki/Q22707)
 - Wikipedia article: [TSG 1899 Hoffenheim](https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim)
-- Players in Wikipedia squad: 66
+- Players in Wikipedia squad: 65
 - Current members on Wikidata: 78
-- Suggested edits: 128
+- Suggested edits: 127
 
 ## In current squad, but no membership statement on Wikidata (29)
 
@@ -111,7 +111,7 @@
 - **[Wout Weghorst](https://www.wikidata.org/wiki/Q2210473)** ([WP](https://de.wikipedia.org/wiki/Wout_Weghorst)) (2023–2024) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yannick Thermann](https://www.wikidata.org/wiki/Q36103196)** ([WP](https://de.wikipedia.org/wiki/Yannick_Thermann)) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but the Wikipedia article has no Wikidata item (29)
+## In current squad, but the Wikipedia article has no Wikidata item (28)
 
 - **Alex Honajzer** ([WP](https://de.wikipedia.org/wiki/Alex_Honajzer)) — 'Alex Honajzer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Ben Opoku** ([WP](https://de.wikipedia.org/wiki/Ben_Opoku)) — 'Ben Opoku' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
@@ -123,7 +123,6 @@
 - **Jykese Fields** ([WP](https://de.wikipedia.org/wiki/Jykese_Fields)) — 'Jykese Fields' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Kryštof ČížekU19** — 'Kryštof ČížekU19' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Lion Wagenbach** — 'Lion Wagenbach' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luca Erlein** ([WP](https://de.wikipedia.org/wiki/Luca_Erlein)) — 'Luca Erlein' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Matthew Moore** — 'Matthew Moore' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Maxime Ndong-Penda** — 'Maxime Ndong-Penda' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
 - **Maximilian TheuerU19** — 'Maximilian TheuerU19' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
