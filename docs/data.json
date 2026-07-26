@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26 05:52 UTC",
-  "total_suggestions": 10287,
+  "generated": "2026-07-26 14:50 UTC",
+  "total_suggestions": 10284,
   "teams": [
     {
       "qid": "Q190526",
@@ -18149,7 +18149,7 @@
       "league": "National League",
       "wikipedia_title": "EHC Biel",
       "squad_size": 28,
-      "wikidata_current": 237,
+      "wikidata_current": 236,
       "error": null,
       "suggestions": [
         {
@@ -18822,20 +18822,6 @@
             "item": "https://www.wikidata.org/wiki/Q3014807",
             "team": "https://www.wikidata.org/wiki/Q36847",
             "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Widmer_(ice_hockey)"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Dario Trutmann",
-          "player_qid": "Q3016151",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2012,
-          "end_year": 2014,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q3016151",
-            "team": "https://www.wikidata.org/wiki/Q36847",
-            "wikipedia": "https://de.wikipedia.org/wiki/Dario_Trutmann"
           }
         },
         {
@@ -33521,20 +33507,6 @@
         {
           "kind": "ADD_END_DATE",
           "player": "Walter Dürst",
-          "player_qid": "Q16145049",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q16145049",
-            "team": "https://www.wikidata.org/wiki/Q36921",
-            "wikipedia": "https://en.wikipedia.org/wiki/Walter_D%C3%BCrst_(ice_hockey,_born_1950)"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Walter Dürst",
           "player_qid": "Q550988",
           "wikipedia_title": null,
           "detail": "Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
@@ -33544,6 +33516,20 @@
             "item": "https://www.wikidata.org/wiki/Q550988",
             "team": "https://www.wikidata.org/wiki/Q36921",
             "wikipedia": "https://de.wikipedia.org/wiki/Walter_D%C3%BCrst"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Walter Dürst",
+          "player_qid": "Q16145049",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q16145049",
+            "team": "https://www.wikidata.org/wiki/Q36921",
+            "wikipedia": "https://en.wikipedia.org/wiki/Walter_D%C3%BCrst_(ice_hockey,_born_1950)"
           }
         },
         {
@@ -47185,7 +47171,7 @@
       "league": "National League",
       "wikipedia_title": "ZSC Lions",
       "squad_size": 28,
-      "wikidata_current": 157,
+      "wikidata_current": 159,
       "error": null,
       "suggestions": [
         {
@@ -48022,6 +48008,20 @@
             "item": "https://www.wikidata.org/wiki/Q833014",
             "team": "https://www.wikidata.org/wiki/Q136398",
             "wikipedia": "https://de.wikipedia.org/wiki/Jerzy_Christ"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Jesper Frödén",
+          "player_qid": "Q42393788",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q42393788",
+            "team": "https://www.wikidata.org/wiki/Q136398",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jesper_Fr%C3%B6d%C3%A9n"
           }
         },
         {
@@ -49458,6 +49458,19 @@
           }
         },
         {
+          "kind": "ADD_END_DATE",
+          "player": "Willy Riedi",
+          "player_qid": "Q131390269",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q131390269",
+            "team": "https://www.wikidata.org/wiki/Q136398"
+          }
+        },
+        {
           "kind": "ADD_MEMBERSHIP",
           "player": "Yannick Weber",
           "player_qid": "Q869663",
@@ -49511,34 +49524,6 @@
             "team": "https://www.wikidata.org/wiki/Q136398",
             "wikipedia": "https://de.wikipedia.org/wiki/Šimon_Hrubec",
             "item": "https://www.wikidata.org/wiki/Q4686350"
-          }
-        },
-        {
-          "kind": "ADD_START_DATE",
-          "player": "Patrick Geering",
-          "player_qid": "Q390592",
-          "wikipedia_title": "Patrick Geering",
-          "detail": "Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.",
-          "start_year": 2008,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q136398",
-            "wikipedia": "https://de.wikipedia.org/wiki/Patrick_Geering",
-            "item": "https://www.wikidata.org/wiki/Q390592"
-          }
-        },
-        {
-          "kind": "ADD_START_DATE",
-          "player": "Vinzenz Rohrer",
-          "player_qid": "Q125906913",
-          "wikipedia_title": "Vinzenz Rohrer",
-          "detail": "Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q136398",
-            "wikipedia": "https://de.wikipedia.org/wiki/Vinzenz_Rohrer",
-            "item": "https://www.wikidata.org/wiki/Q125906913"
           }
         },
         {
@@ -53594,7 +53579,7 @@
       "label": "1. FSV Mainz 05",
       "league": "Bundesliga",
       "wikipedia_title": "1. FSV Mainz 05",
-      "squad_size": 38,
+      "squad_size": 37,
       "wikidata_current": 112,
       "error": null,
       "suggestions": [
@@ -53762,20 +53747,6 @@
             "item": "https://www.wikidata.org/wiki/Q68454115",
             "team": "https://www.wikidata.org/wiki/Q105254",
             "wikipedia": "https://de.wikipedia.org/wiki/Axel_Schuster_(Fu%C3%9Fballfunktion%C3%A4r)"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Ben Bobzien",
-          "player_qid": "Q116688486",
-          "wikipedia_title": "Ben Bobzien",
-          "detail": "Add a 'member of sports team' (P54) statement → 1. FSV Mainz 05 (Q105254); the player is in the current squad on Wikipedia.",
-          "start_year": 2022,
-          "end_year": 2026,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q105254",
-            "wikipedia": "https://de.wikipedia.org/wiki/Ben_Bobzien",
-            "item": "https://www.wikidata.org/wiki/Q116688486"
           }
         },
         {
@@ -65153,8 +65124,8 @@
       "label": "FC Schalke 04",
       "league": "Bundesliga",
       "wikipedia_title": "FC Schalke 04",
-      "squad_size": 39,
-      "wikidata_current": 142,
+      "squad_size": 40,
+      "wikidata_current": 143,
       "error": null,
       "suggestions": [
         {
@@ -70194,7 +70165,7 @@
       "league": "Bundesliga",
       "wikipedia_title": "RB Leipzig",
       "squad_size": 35,
-      "wikidata_current": 100,
+      "wikidata_current": 99,
       "error": null,
       "suggestions": [
         {
@@ -71620,20 +71591,6 @@
             "item": "https://www.wikidata.org/wiki/Q26212017",
             "team": "https://www.wikidata.org/wiki/Q702455",
             "wikipedia": "https://de.wikipedia.org/wiki/Vitaly_Janelt"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Xaver Schlager",
-          "player_qid": "Q20190657",
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2022,
-          "end_year": 2026,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q20190657",
-            "team": "https://www.wikidata.org/wiki/Q702455",
-            "wikipedia": "https://de.wikipedia.org/wiki/Xaver_Schlager"
           }
         },
         {
@@ -102371,7 +102328,7 @@
       "label": "Crystal Palace F.C.",
       "league": "Premier League",
       "wikipedia_title": "Crystal Palace F.C.",
-      "squad_size": 33,
+      "squad_size": 32,
       "wikidata_current": 171,
       "error": null,
       "suggestions": [
@@ -104066,6 +104023,20 @@
             "team": "https://www.wikidata.org/wiki/Q19467",
             "wikipedia": "https://en.wikipedia.org/wiki/Matheus_França",
             "item": "https://www.wikidata.org/wiki/Q109318489"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Maxence Lacroix",
+          "player_qid": "Q60286976",
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2024,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q60286976",
+            "team": "https://www.wikidata.org/wiki/Q19467",
+            "wikipedia": "https://en.wikipedia.org/wiki/Maxence_Lacroix"
           }
         },
         {
@@ -134889,7 +134860,7 @@
       "league": "Premier League",
       "wikipedia_title": "Nottingham Forest F.C.",
       "squad_size": 53,
-      "wikidata_current": 210,
+      "wikidata_current": 211,
       "error": null,
       "suggestions": [
         {
@@ -137934,20 +137905,6 @@
           "links": {
             "item": "https://www.wikidata.org/wiki/Q138751359",
             "team": "https://www.wikidata.org/wiki/Q19490"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Xaver Schlager",
-          "player_qid": "Q20190657",
-          "wikipedia_title": "Xaver Schlager",
-          "detail": "Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.",
-          "start_year": 2026,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19490",
-            "wikipedia": "https://en.wikipedia.org/wiki/Xaver_Schlager",
-            "item": "https://www.wikidata.org/wiki/Q20190657"
           }
         },
         {

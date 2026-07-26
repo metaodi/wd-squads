@@ -3,10 +3,10 @@
 - Wikidata item: [Q36847](https://www.wikidata.org/wiki/Q36847)
 - Wikipedia article: [EHC Biel](https://de.wikipedia.org/wiki/EHC_Biel)
 - Players in Wikipedia squad: 28
-- Current members on Wikidata: 237
-- Suggested edits: 263
+- Current members on Wikidata: 236
+- Suggested edits: 262
 
-## Recorded as a current member, but no longer in the squad (235)
+## Recorded as a current member, but no longer in the squad (234)
 
 - **[Adrian Trunz](https://www.wikidata.org/wiki/Q2825055)** — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrien Lauper](https://www.wikidata.org/wiki/Q2825204)** — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -57,7 +57,6 @@
 - **[Daniel Rubin](https://www.wikidata.org/wiki/Q680273)** ([WP](https://de.wikipedia.org/wiki/Daniel_Rubin)) (2003–2007) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Steiner](https://www.wikidata.org/wiki/Q681498)** ([WP](https://de.wikipedia.org/wiki/Daniel_Steiner_(Eishockeyspieler))) (2015–2016) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Widmer](https://www.wikidata.org/wiki/Q3014807)** ([WP](https://en.wikipedia.org/wiki/Daniel_Widmer_(ice_hockey))) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Dario Trutmann](https://www.wikidata.org/wiki/Q3016151)** ([WP](https://de.wikipedia.org/wiki/Dario_Trutmann)) (2012–2014) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dave Sutter](https://www.wikidata.org/wiki/Q19841137)** ([WP](https://de.wikipedia.org/wiki/Dave_Sutter)) (2015–2017) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David Jobin](https://www.wikidata.org/wiki/Q3018162)** ([WP](https://de.wikipedia.org/wiki/David_Jobin)) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David Ling](https://www.wikidata.org/wiki/Q464729)** ([WP](https://de.wikipedia.org/wiki/David_Ling)) (2008–2009) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

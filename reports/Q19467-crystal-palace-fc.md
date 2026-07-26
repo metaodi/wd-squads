@@ -2,15 +2,15 @@
 
 - Wikidata item: [Q19467](https://www.wikidata.org/wiki/Q19467)
 - Wikipedia article: [Crystal Palace F.C.](https://en.wikipedia.org/wiki/Crystal_Palace_F.C.)
-- Players in Wikipedia squad: 33
+- Players in Wikipedia squad: 32
 - Current members on Wikidata: 171
-- Suggested edits: 181
+- Suggested edits: 182
 
 ## Membership marked ended, but player is in the current squad (1)
 
 - **[Jean-Philippe Mateta](https://www.wikidata.org/wiki/Q26964668)** ([WP](https://en.wikipedia.org/wiki/Jean-Philippe_Mateta)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (159)
+## Recorded as a current member, but no longer in the squad (160)
 
 - **[Adrian Birch](https://www.wikidata.org/wiki/Q14527004)** ([WP](https://en.wikipedia.org/wiki/Adrian_Birch)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Mariappa](https://www.wikidata.org/wiki/Q10572)** ([WP](https://en.wikipedia.org/wiki/Adrian_Mariappa)) (2013–2016) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -120,6 +120,7 @@
 - **[Luke Croll](https://www.wikidata.org/wiki/Q21621878)** ([WP](https://en.wikipedia.org/wiki/Luke_Croll)) (2013–2017) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luke Dreher](https://www.wikidata.org/wiki/Q63791594)** ([WP](https://en.wikipedia.org/wiki/Luke_Dreher)) (2016–2022) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Malakai Mars](https://www.wikidata.org/wiki/Q40776364)** ([WP](https://en.wikipedia.org/wiki/Malakai_Mars)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Maxence Lacroix](https://www.wikidata.org/wiki/Q60286976)** ([WP](https://en.wikipedia.org/wiki/Maxence_Lacroix)) (2024–) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nahim Khadi, Jr.](https://www.wikidata.org/wiki/Q10430829)** ([WP](https://en.wikipedia.org/wiki/Nahim_Khadi_Jr.)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nile Ranger](https://www.wikidata.org/wiki/Q1321269)** ([WP](https://en.wikipedia.org/wiki/Nile_Ranger)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Noel Kelly](https://www.wikidata.org/wiki/Q7047039)** ([WP](https://en.wikipedia.org/wiki/Noel_Kelly_(footballer))) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

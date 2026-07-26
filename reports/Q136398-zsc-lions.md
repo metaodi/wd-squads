@@ -3,10 +3,10 @@
 - Wikidata item: [Q136398](https://www.wikidata.org/wiki/Q136398)
 - Wikipedia article: [ZSC Lions](https://de.wikipedia.org/wiki/ZSC_Lions)
 - Players in Wikipedia squad: 28
-- Current members on Wikidata: 157
+- Current members on Wikidata: 159
 - Suggested edits: 179
 
-## Recorded as a current member, but no longer in the squad (153)
+## Recorded as a current member, but no longer in the squad (155)
 
 - **[Alain Reist](https://www.wikidata.org/wiki/Q2830214)** ([WP](https://en.wikipedia.org/wiki/Alain_Reist)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexei Krutov](https://www.wikidata.org/wiki/Q690570)** ([WP](https://de.wikipedia.org/wiki/Alexei_Wladimirowitsch_Krutow)) (2007–2011) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -61,6 +61,7 @@
 - **[Jean-Guy Trudel](https://www.wikidata.org/wiki/Q1684889)** ([WP](https://de.wikipedia.org/wiki/Jean-Guy_Trudel)) (2008–2010) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jeff Tambellini](https://www.wikidata.org/wiki/Q681434)** ([WP](https://de.wikipedia.org/wiki/Jeff_Tambellini)) (2011–2012) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jerzy Christ](https://www.wikidata.org/wiki/Q833014)** ([WP](https://de.wikipedia.org/wiki/Jerzy_Christ)) (1989) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jesper Frödén](https://www.wikidata.org/wiki/Q42393788)** ([WP](https://en.wikipedia.org/wiki/Jesper_Fr%C3%B6d%C3%A9n)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[John Gobbi](https://www.wikidata.org/wiki/Q526856)** ([WP](https://de.wikipedia.org/wiki/John_Gobbi)) (2011–2012) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Josef Boumedienne](https://www.wikidata.org/wiki/Q913387)** ([WP](https://de.wikipedia.org/wiki/Josef_Boumedienne)) (2005–2006) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Juraj Kolník](https://www.wikidata.org/wiki/Q691054)** ([WP](https://de.wikipedia.org/wiki/Juraj_Koln%C3%ADk)) (2012) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -159,6 +160,7 @@
 - **[Vladimír Vůjtek](https://www.wikidata.org/wiki/Q977302)** ([WP](https://de.wikipedia.org/wiki/Vladim%C3%ADr_V%C5%AFjtek_junior)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Warren Anderson](https://www.wikidata.org/wiki/Q7970024)** ([WP](https://en.wikipedia.org/wiki/Warren_Anderson_(ice_hockey))) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Willy Bertschinger](https://www.wikidata.org/wiki/Q23134294)** ([WP](https://de.wikipedia.org/wiki/Willy_Bertschinger)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Willy Riedi](https://www.wikidata.org/wiki/Q131390269)** — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zarley Zalapski](https://www.wikidata.org/wiki/Q147992)** ([WP](https://de.wikipedia.org/wiki/Zarley_Zalapski)) (1998–1999) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Lecompte](https://www.wikidata.org/wiki/Q955037)** ([WP](https://en.wikipedia.org/wiki/%C3%89ric_Lecompte)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
@@ -178,11 +180,6 @@
 - **[Rūdolfs Balcers](https://www.wikidata.org/wiki/Q20810333)** ([WP](https://de.wikipedia.org/wiki/Rūdolfs_Balcers)) (2023–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Yannick Weber](https://www.wikidata.org/wiki/Q869663)** ([WP](https://de.wikipedia.org/wiki/Yannick_Weber)) (2021–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Šimon Hrubec](https://www.wikidata.org/wiki/Q4686350)** ([WP](https://de.wikipedia.org/wiki/Šimon_Hrubec)) (2022–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
-
-## Current member, but the membership has no start date (2)
-
-- **[Patrick Geering](https://www.wikidata.org/wiki/Q390592)** ([WP](https://de.wikipedia.org/wiki/Patrick_Geering)) (2008–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-- **[Vinzenz Rohrer](https://www.wikidata.org/wiki/Q125906913)** ([WP](https://de.wikipedia.org/wiki/Vinzenz_Rohrer)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 ## In current squad, but the Wikipedia article has no Wikidata item (10)
 

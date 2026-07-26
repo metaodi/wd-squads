@@ -3,8 +3,8 @@
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
 - Players in Wikipedia squad: 35
-- Current members on Wikidata: 100
-- Suggested edits: 107
+- Current members on Wikidata: 99
+- Suggested edits: 106
 
 ## In current squad, but no membership statement on Wikidata (19)
 
@@ -28,7 +28,7 @@
 - **[Tidiam Gomis](https://www.wikidata.org/wiki/Q118611120)** ([WP](https://de.wikipedia.org/wiki/Tidiam_Gomis)) (2025–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 - **[Viggo Gebel](https://www.wikidata.org/wiki/Q129259791)** ([WP](https://de.wikipedia.org/wiki/Viggo_Gebel)) (2024–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (86)
+## Recorded as a current member, but no longer in the squad (85)
 
 - **[Alexander Siebeck](https://www.wikidata.org/wiki/Q20437173)** ([WP](https://de.wikipedia.org/wiki/Alexander_Siebeck)) (2013) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Sorge](https://www.wikidata.org/wiki/Q24701204)** ([WP](https://de.wikipedia.org/wiki/Alexander_Sorge)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -113,7 +113,6 @@
 - **[Tyler Adams](https://www.wikidata.org/wiki/Q19871581)** ([WP](https://de.wikipedia.org/wiki/Tyler_Adams)) (2019–2022) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vincent Rabiega](https://www.wikidata.org/wiki/Q9368807)** ([WP](https://de.wikipedia.org/wiki/Vincent_Rabiega)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vitaly Janelt](https://www.wikidata.org/wiki/Q26212017)** ([WP](https://de.wikipedia.org/wiki/Vitaly_Janelt)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Xaver Schlager](https://www.wikidata.org/wiki/Q20190657)** ([WP](https://de.wikipedia.org/wiki/Xaver_Schlager)) (2022–2026) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yuliyan Chapaev](https://www.wikidata.org/wiki/Q16230194)** ([WP](https://en.wikipedia.org/wiki/Yuliyan_Chapaev)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zsolt Kalmár](https://www.wikidata.org/wiki/Q16236806)** ([WP](https://de.wikipedia.org/wiki/Zsolt_Kalm%C3%A1r)) (2014–2017) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 

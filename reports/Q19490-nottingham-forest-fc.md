@@ -3,8 +3,8 @@
 - Wikidata item: [Q19490](https://www.wikidata.org/wiki/Q19490)
 - Wikipedia article: [Nottingham Forest F.C.](https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.)
 - Players in Wikipedia squad: 53
-- Current members on Wikidata: 210
-- Suggested edits: 240
+- Current members on Wikidata: 211
+- Suggested edits: 239
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -211,7 +211,7 @@
 - **[Yassine En-Neyah](https://www.wikidata.org/wiki/Q81074584)** ([WP](https://en.wikipedia.org/wiki/Yassine_En-Neyah)) (2020–2021) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zannetos Mytidis](https://www.wikidata.org/wiki/Q16234847)** — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (23)
+## In current squad, but no membership statement on Wikidata (22)
 
 - **[Cuiabano](https://www.wikidata.org/wiki/Q118592236)** ([WP](https://en.wikipedia.org/wiki/Cuiabano)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Dilane Bakwa](https://www.wikidata.org/wiki/Q99672568)** ([WP](https://en.wikipedia.org/wiki/Dilane_Bakwa)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
@@ -234,7 +234,6 @@
 - **[Omar Richards](https://www.wikidata.org/wiki/Q35099575)** ([WP](https://en.wikipedia.org/wiki/Omar_Richards)) (2022–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Omari Hutchinson](https://www.wikidata.org/wiki/Q111145131)** ([WP](https://en.wikipedia.org/wiki/Omari_Hutchinson)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Ryan Yates](https://www.wikidata.org/wiki/Q28794002)** ([WP](https://en.wikipedia.org/wiki/Ryan_Yates)) (2016–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
-- **[Xaver Schlager](https://www.wikidata.org/wiki/Q20190657)** ([WP](https://en.wikipedia.org/wiki/Xaver_Schlager)) (2026–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Zach Abbott](https://www.wikidata.org/wiki/Q113586764)** ([WP](https://en.wikipedia.org/wiki/Zach_Abbott)) (2022–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (1)

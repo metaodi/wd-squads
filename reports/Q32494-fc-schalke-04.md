@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q32494](https://www.wikidata.org/wiki/Q32494)
 - Wikipedia article: [FC Schalke 04](https://de.wikipedia.org/wiki/FC_Schalke_04)
-- Players in Wikipedia squad: 39
-- Current members on Wikidata: 142
+- Players in Wikipedia squad: 40
+- Current members on Wikidata: 143
 - Suggested edits: 177
 
 ## Membership marked ended, but player is in the current squad (2)
