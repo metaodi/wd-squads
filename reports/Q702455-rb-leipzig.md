@@ -116,7 +116,7 @@
 - **[Yuliyan Chapaev](https://www.wikidata.org/wiki/Q16230194)** ([WP](https://en.wikipedia.org/wiki/Yuliyan_Chapaev)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zsolt Kalmár](https://www.wikidata.org/wiki/Q16236806)** ([WP](https://de.wikipedia.org/wiki/Zsolt_Kalm%C3%A1r)) (2014–2017) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but the Wikipedia article has no Wikidata item (2)
+## In current squad, but no Wikidata item could be found (2)
 
-- **Benno Kaltefleiter** — 'Benno Kaltefleiter' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Joyeux Masanka BungiU19** — 'Joyeux Masanka BungiU19' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Benno Kaltefleiter** — 'Benno Kaltefleiter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Joyeux Masanka BungiU19** — 'Joyeux Masanka BungiU19' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

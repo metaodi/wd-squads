@@ -76,7 +76,7 @@
 - **[Tom Zimmerschied](https://www.wikidata.org/wiki/Q99244389)** ([WP](https://de.wikipedia.org/wiki/Tom_Zimmerschied)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Łukasz Poręba](https://www.wikidata.org/wiki/Q61910842)** ([WP](https://de.wikipedia.org/wiki/Łukasz_Poręba)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 
-## In current squad, but the Wikipedia article has no Wikidata item (2)
+## In current squad, but no Wikidata item could be found (2)
 
-- **Elias Etringer** — 'Elias Etringer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luis Seifert** — 'Luis Seifert' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Elias Etringer** — 'Elias Etringer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luis Seifert** — 'Luis Seifert' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

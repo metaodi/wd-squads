@@ -4,9 +4,9 @@
 - Wikipedia article: [HC Lugano](https://de.wikipedia.org/wiki/HC_Lugano)
 - Players in Wikipedia squad: 27
 - Current members on Wikidata: 188
-- Suggested edits: 211
+- Suggested edits: 209
 
-## Recorded as a current member, but no longer in the squad (184)
+## Recorded as a current member, but no longer in the squad (182)
 
 - **[Aldo Zenhäusern](https://www.wikidata.org/wiki/Q2832338)** ([WP](https://de.wikipedia.org/wiki/Aldo_Zenh%C3%A4usern)) (1981–1984) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alessandro Chiesa](https://www.wikidata.org/wiki/Q2832763)** — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -49,7 +49,6 @@
 - **[Daniel Manzato](https://www.wikidata.org/wiki/Q869773)** ([WP](https://de.wikipedia.org/wiki/Daniel_Manzato)) (2012–2018) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Steiner](https://www.wikidata.org/wiki/Q681498)** ([WP](https://de.wikipedia.org/wiki/Daniel_Steiner_(Eishockeyspieler))) (2011–2013) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dario Kostović](https://www.wikidata.org/wiki/Q520335)** ([WP](https://de.wikipedia.org/wiki/Dario_Kostovi%C4%87)) (2010–2011) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[David Aebischer](https://www.wikidata.org/wiki/Q664921)** ([WP](https://de.wikipedia.org/wiki/David_Aebischer_(Eishockeyspieler,_1978))) (2007–2011) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dick Tärnström](https://www.wikidata.org/wiki/Q1209821)** ([WP](https://de.wikipedia.org/wiki/Dick_T%C3%A4rnstr%C3%B6m)) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Didier Massy](https://www.wikidata.org/wiki/Q16628766)** — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Diego Kostner](https://www.wikidata.org/wiki/Q3707198)** ([WP](https://de.wikipedia.org/wiki/Diego_Kostner)) (2009–2016) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -67,7 +66,6 @@
 - **[Giacomo Dal Pian](https://www.wikidata.org/wiki/Q16558984)** — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gian-Marco Crameri](https://www.wikidata.org/wiki/Q3105139)** ([WP](https://en.wikipedia.org/wiki/Gian-Marco_Crameri)) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gilbert Flüeler](https://www.wikidata.org/wiki/Q3105709)** — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Giovanni Morini](https://www.wikidata.org/wiki/Q19819516)** ([WP](https://en.wikipedia.org/wiki/Giovanni_Morini)) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Giulia Mazzocchi](https://www.wikidata.org/wiki/Q89995807)** ([WP](https://en.wikipedia.org/wiki/Giulia_Mazzocchi)) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Glen Metropolit](https://www.wikidata.org/wiki/Q596943)** ([WP](https://de.wikipedia.org/wiki/Glen_Metropolit)) (2012–2014) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Greg Andrusak](https://www.wikidata.org/wiki/Q433279)** ([WP](https://de.wikipedia.org/wiki/Greg_Andrusak)) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -193,38 +191,38 @@
 - **[Yannick Tremblay](https://www.wikidata.org/wiki/Q1491568)** ([WP](https://de.wikipedia.org/wiki/Yannick_Tremblay)) (2007–2008) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Lecompte](https://www.wikidata.org/wiki/Q955037)** ([WP](https://en.wikipedia.org/wiki/%C3%89ric_Lecompte)) — Add an end date (P582) to the membership → HC Lugano (Q688754); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (10)
+## In current squad, but no membership statement on Wikidata (14)
 
+- **[Alessio Beglieri](https://www.wikidata.org/wiki/Q81901797)** — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Brendan Perlini](https://www.wikidata.org/wiki/Q17180838)** ([WP](https://de.wikipedia.org/wiki/Brendan_Perlini)) (2025–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
 - **[Calvin Thürkauf](https://www.wikidata.org/wiki/Q28098197)** ([WP](https://de.wikipedia.org/wiki/Calvin_Thürkauf)) (2021–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
+- **[Carl Dahlström](https://www.wikidata.org/wiki/Q15737254)** ([WP](https://en.wikipedia.org/wiki/Carl_Dahlstr%C3%B6m)) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Connor Carrick](https://www.wikidata.org/wiki/Q15142785)** ([WP](https://de.wikipedia.org/wiki/Connor_Carrick)) (2025–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
 - **[Dario Simion](https://www.wikidata.org/wiki/Q3702665)** ([WP](https://de.wikipedia.org/wiki/Dario_Simion)) (2025–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
+- **[Jesper Peltonen](https://www.wikidata.org/wiki/Q115777732)** — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Jiří Sekáč](https://www.wikidata.org/wiki/Q531052)** ([WP](https://de.wikipedia.org/wiki/Jiří_Sekáč)) (2024–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
 - **[Joren van Pottelberghe](https://www.wikidata.org/wiki/Q27555079)** ([WP](https://de.wikipedia.org/wiki/Joren_van_Pottelberghe)) (2024–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
 - **[Mirco Müller](https://www.wikidata.org/wiki/Q13533315)** ([WP](https://de.wikipedia.org/wiki/Mirco_Müller_(Eishockeyspieler))) (2021–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
 - **[Ramon Tanner](https://www.wikidata.org/wiki/Q110243304)** ([WP](https://de.wikipedia.org/wiki/Ramon_Tanner)) (2025–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
+- **[Rasmus Kupari](https://www.wikidata.org/wiki/Q40039433)** ([WP](https://en.wikipedia.org/wiki/Rasmus_Kupari)) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Santeri Alatalo](https://www.wikidata.org/wiki/Q2223389)** ([WP](https://de.wikipedia.org/wiki/Santeri_Alatalo)) (2021–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
 - **[Zach Sanford](https://www.wikidata.org/wiki/Q16236508)** ([WP](https://de.wikipedia.org/wiki/Zach_Sanford)) (2025–) — Add a 'member of sports team' (P54) statement → HC Lugano (Q688754); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (4)
+## Current member, but the membership has no start date (6)
 
 - **[Alessio Bertaggia](https://www.wikidata.org/wiki/Q2832848)** ([WP](https://de.wikipedia.org/wiki/Alessio_Bertaggia)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[David Aebischer](https://www.wikidata.org/wiki/Q664921)** ([WP](https://de.wikipedia.org/wiki/David_Aebischer_(Eishockeyspieler,_1978))) (2007–2011) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Giovanni Morini](https://www.wikidata.org/wiki/Q19819516)** ([WP](https://en.wikipedia.org/wiki/Giovanni_Morini)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Luca Fazzini](https://www.wikidata.org/wiki/Q13534620)** ([WP](https://de.wikipedia.org/wiki/Luca_Fazzini)) (2007–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Marco Zanetti](https://www.wikidata.org/wiki/Q115380276)** ([WP](https://de.wikipedia.org/wiki/Marco_Zanetti_(Eishockeyspieler))) (2014–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Niklas Schlegel](https://www.wikidata.org/wiki/Q27653557)** ([WP](https://de.wikipedia.org/wiki/Niklas_Schlegel)) (2019–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (13)
+## In current squad, but no Wikidata item could be found (7)
 
-- **Aleksi Peltonen** ([WP](https://de.wikipedia.org/wiki/Aleksi_Peltonen)) — 'Aleksi Peltonen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Alessio Beglieri** ([WP](https://de.wikipedia.org/wiki/Alessio_Beglieri)) — 'Alessio Beglieri' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bruno Zanetti** ([WP](https://de.wikipedia.org/wiki/Bruno_Zanetti)) — 'Bruno Zanetti' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Carl Dahlström** ([WP](https://de.wikipedia.org/wiki/Carl_Dahlström)) — 'Carl Dahlström' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **David Aebischer** ([WP](https://de.wikipedia.org/wiki/David_Aebischer_(Eishockeyspieler,_2000))) — 'David Aebischer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Enea Togni** ([WP](https://de.wikipedia.org/wiki/Enea_Togni)) — 'Enea Togni' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Giovanni Morini** ([WP](https://de.wikipedia.org/wiki/Giovanni_Morini)) — 'Giovanni Morini' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jakob Lee** ([WP](https://de.wikipedia.org/wiki/Jakob_Lee)) — 'Jakob Lee' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jesper Peltonen** ([WP](https://de.wikipedia.org/wiki/Jesper_Peltonen)) — 'Jesper Peltonen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lorenzo Canonica** ([WP](https://de.wikipedia.org/wiki/Lorenzo_Canonica)) — 'Lorenzo Canonica' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nick Meile** ([WP](https://de.wikipedia.org/wiki/Nick_Meile)) — 'Nick Meile' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rasmus Kupari** ([WP](https://de.wikipedia.org/wiki/Rasmus_Kupari)) — 'Rasmus Kupari' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Roberts Cjunskis** ([WP](https://de.wikipedia.org/wiki/Roberts_Cjunskis)) — 'Roberts Cjunskis' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Aleksi Peltonen** — 'Aleksi Peltonen' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Bruno Zanetti** — 'Bruno Zanetti' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Enea Togni** — 'Enea Togni' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jakob Lee** — 'Jakob Lee' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lorenzo Canonica** — 'Lorenzo Canonica' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nick Meile** — 'Nick Meile' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Roberts Cjunskis** — 'Roberts Cjunskis' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

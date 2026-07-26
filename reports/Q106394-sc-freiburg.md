@@ -6,8 +6,9 @@
 - Current members on Wikidata: 76
 - Suggested edits: 114
 
-## Membership marked ended, but player is in the current squad (2)
+## Membership marked ended, but player is in the current squad (3)
 
+- **[Daniel Williams](https://www.wikidata.org/wiki/Q138235)** ([WP](https://de.wikipedia.org/wiki/Daniel_Williams_(Fu%C3%9Fballspieler))) (2010–2011) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Maximilian Philipp](https://www.wikidata.org/wiki/Q16320332)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Philipp_(Fußballspieler))) (2023–2026) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Nicolas Höfler](https://www.wikidata.org/wiki/Q49785)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Höfler)) (2010–2026) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
@@ -107,30 +108,29 @@
 
 - **[Jordy Makengo](https://www.wikidata.org/wiki/Q107723702)** ([WP](https://de.wikipedia.org/wiki/Jordy_Makengo)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (25)
+## In current squad, but no Wikidata item could be found (24)
 
-- **Billal Mohamed** — 'Billal Mohamed' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bismark Adomah** — 'Bismark Adomah' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Chrisdy Dianzenza** — 'Chrisdy Dianzenza' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Daniel Williams** — 'Daniel Williams' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **David Schopper** — 'David Schopper' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Elias Klaus** — 'Elias Klaus' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Elijah Oguguo** — 'Elijah Oguguo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Emilio Schiertz** — 'Emilio Schiertz' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Essad Ouhssakou** — 'Essad Ouhssakou' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jack James** — 'Jack James' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jannik Veit** — 'Jannik Veit' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Josip Barjasic** — 'Josip Barjasic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Karl Steinmann** — 'Karl Steinmann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Karl SteinmannII** — 'Karl SteinmannII' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Kilian Katz** — 'Kilian Katz' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Kilian Michelbach** — 'Kilian Michelbach' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Krish Raweri** — 'Krish Raweri' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Leon Catak** — 'Leon Catak' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Leon Koß** — 'Leon Koß' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Marius Klein** — 'Marius Klein' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mateo Zelic** — 'Mateo Zelic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mika Reifsteck** — 'Mika Reifsteck' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mladen Mijajlovic** — 'Mladen Mijajlovic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tammo Schiertz** — 'Tammo Schiertz' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Théodore Pizarro** — 'Théodore Pizarro' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Billal Mohamed** — 'Billal Mohamed' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Bismark Adomah** — 'Bismark Adomah' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Chrisdy Dianzenza** — 'Chrisdy Dianzenza' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **David Schopper** — 'David Schopper' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Elias Klaus** — 'Elias Klaus' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Elijah Oguguo** — 'Elijah Oguguo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Emilio Schiertz** — 'Emilio Schiertz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Essad Ouhssakou** — 'Essad Ouhssakou' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jack James** — 'Jack James' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jannik Veit** — 'Jannik Veit' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Josip Barjasic** — 'Josip Barjasic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Karl Steinmann** — 'Karl Steinmann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Karl SteinmannII** — 'Karl SteinmannII' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Kilian Katz** — 'Kilian Katz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Kilian Michelbach** — 'Kilian Michelbach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Krish Raweri** — 'Krish Raweri' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Leon Catak** — 'Leon Catak' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Leon Koß** — 'Leon Koß' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Marius Klein** — 'Marius Klein' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mateo Zelic** — 'Mateo Zelic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mika Reifsteck** — 'Mika Reifsteck' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mladen Mijajlovic** — 'Mladen Mijajlovic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Tammo Schiertz** — 'Tammo Schiertz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Théodore Pizarro** — 'Théodore Pizarro' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

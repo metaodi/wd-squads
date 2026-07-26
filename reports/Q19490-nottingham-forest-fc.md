@@ -211,7 +211,7 @@
 - **[Yassine En-Neyah](https://www.wikidata.org/wiki/Q81074584)** ([WP](https://en.wikipedia.org/wiki/Yassine_En-Neyah)) (2020–2021) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zannetos Mytidis](https://www.wikidata.org/wiki/Q16234847)** — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (22)
+## In current squad, but no membership statement on Wikidata (24)
 
 - **[Cuiabano](https://www.wikidata.org/wiki/Q118592236)** ([WP](https://en.wikipedia.org/wiki/Cuiabano)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Dilane Bakwa](https://www.wikidata.org/wiki/Q99672568)** ([WP](https://en.wikipedia.org/wiki/Dilane_Bakwa)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
@@ -225,6 +225,8 @@
 - **[Joe Gardner](https://www.wikidata.org/wiki/Q131988332)** ([WP](https://en.wikipedia.org/wiki/Joe_Gardner_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[John Victor](https://www.wikidata.org/wiki/Q66685965)** ([WP](https://en.wikipedia.org/wiki/John_Victor_(footballer))) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Josh Powell](https://www.wikidata.org/wiki/Q135925838)** ([WP](https://en.wikipedia.org/wiki/Josh_Powell_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
+- **[Kalum Thompson](https://www.wikidata.org/wiki/Q136384383)** — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Kristian Clarke](https://www.wikidata.org/wiki/Q131431079)** ([WP](https://en.wikipedia.org/wiki/Kristian_Clarke)) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Luca Netz](https://www.wikidata.org/wiki/Q96678379)** ([WP](https://en.wikipedia.org/wiki/Luca_Netz)) (2026–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Matthew Orr](https://www.wikidata.org/wiki/Q135660562)** ([WP](https://en.wikipedia.org/wiki/Matthew_Orr_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Morato](https://www.wikidata.org/wiki/Q85786276)** ([WP](https://en.wikipedia.org/wiki/Morato_(footballer,_born_2001))) (2024–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
@@ -240,22 +242,20 @@
 
 - **[Ola Aina](https://www.wikidata.org/wiki/Q20730338)** ([WP](https://en.wikipedia.org/wiki/Ola_Aina)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (17)
+## In current squad, but no Wikidata item could be found (15)
 
-- **Aaron Bott** — 'Aaron Bott' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Archie Whitehall** — 'Archie Whitehall' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Blaine McClure** — 'Blaine McClure' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Buba Sanneh** — 'Buba Sanneh' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Cherif Yaya** — 'Cherif Yaya' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Chinaza Nwosu** — 'Chinaza Nwosu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **David Modupe** — 'David Modupe' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Frank Djamna** — 'Frank Djamna' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Fuad Smith** — 'Fuad Smith' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **George Murray-Jones** — 'George Murray-Jones' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jamie Newton** — 'Jamie Newton' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Kalum Thompson** — 'Kalum Thompson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Keehan Willows** — 'Keehan Willows' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Kristian Clarke** — 'Kristian Clarke' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lamin Sillah** — 'Lamin Sillah' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luke Campbell** — 'Luke Campbell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Zyan Blake** — 'Zyan Blake' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Aaron Bott** — 'Aaron Bott' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Archie Whitehall** — 'Archie Whitehall' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Blaine McClure** — 'Blaine McClure' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Buba Sanneh** — 'Buba Sanneh' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Cherif Yaya** — 'Cherif Yaya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Chinaza Nwosu** — 'Chinaza Nwosu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **David Modupe** — 'David Modupe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Frank Djamna** — 'Frank Djamna' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Fuad Smith** — 'Fuad Smith' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **George Murray-Jones** — 'George Murray-Jones' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jamie Newton** — 'Jamie Newton' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Keehan Willows** — 'Keehan Willows' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lamin Sillah** — 'Lamin Sillah' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luke Campbell** — 'Luke Campbell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Zyan Blake** — 'Zyan Blake' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

@@ -123,7 +123,7 @@
 - **[William Owen](https://www.wikidata.org/wiki/Q8016420)** ([WP](https://en.wikipedia.org/wiki/William_Owen_(footballer,_born_1906))) (1930–) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zain Westbrooke](https://www.wikidata.org/wiki/Q29637727)** ([WP](https://en.wikipedia.org/wiki/Zain_Westbrooke)) (2018–2020) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (24)
+## In current squad, but no membership statement on Wikidata (26)
 
 - **[Aidan Dausch](https://www.wikidata.org/wiki/Q125676489)** ([WP](https://en.wikipedia.org/wiki/Aidan_Dausch)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Aurèle Amenda](https://www.wikidata.org/wiki/Q111805882)** ([WP](https://en.wikipedia.org/wiki/Aurèle_Amenda)) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
@@ -133,6 +133,7 @@
 - **[Ellis Simms](https://www.wikidata.org/wiki/Q105062238)** ([WP](https://en.wikipedia.org/wiki/Ellis_Simms)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Ephron Mason-Clark](https://www.wikidata.org/wiki/Q27107132)** ([WP](https://en.wikipedia.org/wiki/Ephron_Mason-Clark)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Frank Onyeka](https://www.wikidata.org/wiki/Q56292818)** ([WP](https://en.wikipedia.org/wiki/Frank_Onyeka)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
+- **[Isaac Moore](https://www.wikidata.org/wiki/Q6076799)** ([WP](https://en.wikipedia.org/wiki/Isaac_Moore_(footballer))) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Jahnoah Markelo](https://www.wikidata.org/wiki/Q110466474)** ([WP](https://en.wikipedia.org/wiki/Jahnoah_Markelo)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Jake Bidwell](https://www.wikidata.org/wiki/Q1678818)** ([WP](https://en.wikipedia.org/wiki/Jake_Bidwell)) (2022–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Jay Dasilva](https://www.wikidata.org/wiki/Q21572868)** ([WP](https://en.wikipedia.org/wiki/Jay_Dasilva)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
@@ -140,6 +141,7 @@
 - **[Kaine Kesler-Hayden](https://www.wikidata.org/wiki/Q104733764)** ([WP](https://en.wikipedia.org/wiki/Kaine_Kesler-Hayden)) (2025–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Liam Kitching](https://www.wikidata.org/wiki/Q66391629)** ([WP](https://en.wikipedia.org/wiki/Liam_Kitching)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Loum Tchaouna](https://www.wikidata.org/wiki/Q108703725)** ([WP](https://en.wikipedia.org/wiki/Loum_Tchaouna)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
+- **[Luke Bell](https://www.wikidata.org/wiki/Q1877028)** ([WP](https://en.wikipedia.org/wiki/Luke_Bell_(triathlete))) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Luke Woolfenden](https://www.wikidata.org/wiki/Q35554570)** ([WP](https://en.wikipedia.org/wiki/Luke_Woolfenden)) (2025–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Matt Grimes](https://www.wikidata.org/wiki/Q16236759)** ([WP](https://en.wikipedia.org/wiki/Matt_Grimes)) (2025–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Miguel Ángel Brau](https://www.wikidata.org/wiki/Q117112129)** ([WP](https://en.wikipedia.org/wiki/Miguel_Ángel_Brau)) (2025–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
@@ -154,21 +156,19 @@
 
 - **[Josh Eccles](https://www.wikidata.org/wiki/Q58754102)** ([WP](https://en.wikipedia.org/wiki/Josh_Eccles)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (16)
+## In current squad, but no Wikidata item could be found (14)
 
-- **Callum Perry** — 'Callum Perry' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **David Mantle** — 'David Mantle' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Eliot Meredith** — 'Eliot Meredith' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Elliot Betjemann** — 'Elliot Betjemann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **George Shepherd** — 'George Shepherd' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Harvey Broad** — 'Harvey Broad' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Isaac Moore** — 'Isaac Moore' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Joseph McCallum** — 'Joseph McCallum' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luke Bell** — 'Luke Bell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mackenzie Stretton** — 'Mackenzie Stretton' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Oscar Varney** — 'Oscar Varney' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Riccardo Di Trolio** — 'Riccardo Di Trolio' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rylie Siddal** — 'Rylie Siddal' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Shay Dunn** — 'Shay Dunn' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tionne Critchlow-Woyo** — 'Tionne Critchlow-Woyo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tristen Batanwi** — 'Tristen Batanwi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Callum Perry** — 'Callum Perry' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **David Mantle** — 'David Mantle' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Eliot Meredith** — 'Eliot Meredith' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Elliot Betjemann** — 'Elliot Betjemann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **George Shepherd** — 'George Shepherd' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Harvey Broad** — 'Harvey Broad' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Joseph McCallum** — 'Joseph McCallum' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mackenzie Stretton** — 'Mackenzie Stretton' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Oscar Varney** — 'Oscar Varney' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Riccardo Di Trolio** — 'Riccardo Di Trolio' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Rylie Siddal** — 'Rylie Siddal' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Shay Dunn** — 'Shay Dunn' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Tionne Critchlow-Woyo** — 'Tionne Critchlow-Woyo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Tristen Batanwi** — 'Tristen Batanwi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

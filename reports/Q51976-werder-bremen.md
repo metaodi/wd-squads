@@ -126,6 +126,6 @@
 
 - **[Patrice Čović](https://www.wikidata.org/wiki/Q135939736)** ([WP](https://de.wikipedia.org/wiki/Patrice_Čović)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (1)
+## In current squad, but no Wikidata item could be found (1)
 
-- **Stefan Smarkalew** — 'Stefan Smarkalew' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Stefan Smarkalew** — 'Stefan Smarkalew' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

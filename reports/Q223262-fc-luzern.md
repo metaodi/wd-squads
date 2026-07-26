@@ -6,16 +6,23 @@
 - Current members on Wikidata: 60
 - Suggested edits: 90
 
-## In current squad, but no membership statement on Wikidata (15)
+## In current squad, but no membership statement on Wikidata (22)
 
 - **[Adrian Bajrami](https://www.wikidata.org/wiki/Q111734096)** ([WP](https://de.wikipedia.org/wiki/Adrian_Bajrami)) (2025–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Adrian Grbić](https://www.wikidata.org/wiki/Q21033347)** ([WP](https://de.wikipedia.org/wiki/Adrian_Grbić)) (2024–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
+- **[Andrej Vasovic](https://www.wikidata.org/wiki/Q136850054)** ([WP](https://en.wikipedia.org/wiki/Andrej_Vasovic)) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Andrejs Cigaņiks](https://www.wikidata.org/wiki/Q31762779)** ([WP](https://de.wikipedia.org/wiki/Andrejs_Cigaņiks)) (2024–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
+- **[Demir Xhemalija](https://www.wikidata.org/wiki/Q118559490)** — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ismajl Beka](https://www.wikidata.org/wiki/Q113708847)** ([WP](https://de.wikipedia.org/wiki/Ismajl_Beka)) (2022–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
+- **[Iwan Hegglin](https://www.wikidata.org/wiki/Q131389873)** — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Jesper Löfgren](https://www.wikidata.org/wiki/Q61058839)** ([WP](https://en.wikipedia.org/wiki/Jesper_L%C3%B6fgren)) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Julian von Moos](https://www.wikidata.org/wiki/Q63943813)** ([WP](https://de.wikipedia.org/wiki/Julian_von_Moos)) (2025–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Kevin Spadanuda](https://www.wikidata.org/wiki/Q111149654)** ([WP](https://de.wikipedia.org/wiki/Kevin_Spadanuda)) (2023–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Lars Villiger](https://www.wikidata.org/wiki/Q118225148)** ([WP](https://de.wikipedia.org/wiki/Lars_Villiger)) (2023–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
+- **[Levin Winkler](https://www.wikidata.org/wiki/Q131404157)** — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Matteo Di Giusto](https://www.wikidata.org/wiki/Q100350014)** ([WP](https://de.wikipedia.org/wiki/Matteo_Di_Giusto)) (2025–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
+- **[Mauricio Willimann](https://www.wikidata.org/wiki/Q119266622)** ([WP](https://en.wikipedia.org/wiki/Mauricio_Willimann)) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Oscar Kabwit](https://www.wikidata.org/wiki/Q135747606)** ([WP](https://en.wikipedia.org/wiki/Oscar_Kabwit)) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Pascal Loretz](https://www.wikidata.org/wiki/Q122264441)** ([WP](https://de.wikipedia.org/wiki/Pascal_Loretz)) (2021–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Pius Dorn](https://www.wikidata.org/wiki/Q34804562)** ([WP](https://de.wikipedia.org/wiki/Pius_Dorn)) (2022–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Severin Ottiger](https://www.wikidata.org/wiki/Q110196721)** ([WP](https://de.wikipedia.org/wiki/Severin_Ottiger)) (2021–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
@@ -90,20 +97,13 @@
 
 - **[Stefan Knežević](https://www.wikidata.org/wiki/Q30015473)** ([WP](https://de.wikipedia.org/wiki/Stefan_Knežević)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (15)
+## In current squad, but no Wikidata item could be found (8)
 
-- **Andrej Vasovic** ([WP](https://de.wikipedia.org/wiki/Andrej_Vasovic)) — 'Andrej Vasovic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bung Meng Freimann** ([WP](https://de.wikipedia.org/wiki/Bung_Meng_Freimann)) — 'Bung Meng Freimann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Demir Xhemalija** ([WP](https://de.wikipedia.org/wiki/Demir_Xhemalija)) — 'Demir Xhemalija' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Diego Heller** ([WP](https://de.wikipedia.org/wiki/Diego_Heller)) — 'Diego Heller' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Iwan Hegglin** ([WP](https://de.wikipedia.org/wiki/Iwan_Hegglin)) — 'Iwan Hegglin' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jesper Löfgren** ([WP](https://de.wikipedia.org/wiki/Jesper_Löfgren)) — 'Jesper Löfgren' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Julian Bock** — 'Julian Bock' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Levin Winkler** ([WP](https://de.wikipedia.org/wiki/Levin_Winkler)) — 'Levin Winkler' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lionel Huwiler** ([WP](https://de.wikipedia.org/wiki/Lionel_Huwiler)) — 'Lionel Huwiler' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lucas Ferreira** ([WP](https://de.wikipedia.org/wiki/Lucas_Ferreira)) — 'Lucas Ferreira' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mauricio Willimann** ([WP](https://de.wikipedia.org/wiki/Mauricio_Willimann)) — 'Mauricio Willimann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mio Zimmermann** ([WP](https://de.wikipedia.org/wiki/Mio_Zimmermann)) — 'Mio Zimmermann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Oscar Kabwit** ([WP](https://de.wikipedia.org/wiki/Oscar_Kabwit)) — 'Oscar Kabwit' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rúben Dantas Fernandes** ([WP](https://de.wikipedia.org/wiki/Rúben_Dantas_Fernandes)) — 'Rúben Dantas Fernandes' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Sandro Wyss** ([WP](https://de.wikipedia.org/wiki/Sandro_Wyss)) — 'Sandro Wyss' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Bung Meng Freimann** — 'Bung Meng Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Diego Heller** — 'Diego Heller' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Julian Bock** — 'Julian Bock' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lionel Huwiler** — 'Lionel Huwiler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lucas Ferreira** — 'Lucas Ferreira' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mio Zimmermann** — 'Mio Zimmermann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Rúben Dantas Fernandes** — 'Rúben Dantas Fernandes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Sandro Wyss** — 'Sandro Wyss' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

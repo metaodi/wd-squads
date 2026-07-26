@@ -243,13 +243,20 @@
 - **[Zarley Zalapski](https://www.wikidata.org/wiki/Q147992)** ([WP](https://de.wikipedia.org/wiki/Zarley_Zalapski)) (2007–2008) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Perrin](https://www.wikidata.org/wiki/Q288290)** ([WP](https://de.wikipedia.org/wiki/%C3%89ric_Perrin)) (2006) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (6)
+## In current squad, but no membership statement on Wikidata (13)
 
 - **[Fabio Hofer](https://www.wikidata.org/wiki/Q27146447)** ([WP](https://de.wikipedia.org/wiki/Fabio_Hofer)) (2020–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
 - **[Harri Säteri](https://www.wikidata.org/wiki/Q3034189)** ([WP](https://de.wikipedia.org/wiki/Harri_Säteri)) (2022–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
+- **[Jere Sallinen](https://www.wikidata.org/wiki/Q3177268)** ([WP](https://en.wikipedia.org/wiki/Jere_Sallinen)) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Johnny Kneubuehler](https://www.wikidata.org/wiki/Q116077286)** — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Lias Andersson](https://www.wikidata.org/wiki/Q23926009)** ([WP](https://de.wikipedia.org/wiki/Lias_Andersson)) (2024–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
+- **[Linus Hultström](https://www.wikidata.org/wiki/Q5816899)** ([WP](https://en.wikipedia.org/wiki/Linus_Hultstr%C3%B6m)) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Marcus Sylvegård](https://www.wikidata.org/wiki/Q58002263)** ([WP](https://en.wikipedia.org/wiki/Marcus_Sylveg%C3%A5rd)) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Miro Zryd](https://www.wikidata.org/wiki/Q30235475)** ([WP](https://de.wikipedia.org/wiki/Miro_Zryd)) (2024–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
+- **[Petr Čajka](https://www.wikidata.org/wiki/Q81417287)** ([WP](https://en.wikipedia.org/wiki/Petr_%C4%8Cajka)) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Rodwin Dionicio](https://www.wikidata.org/wiki/Q81902625)** — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Toni Rajala](https://www.wikidata.org/wiki/Q139756)** ([WP](https://de.wikipedia.org/wiki/Toni_Rajala)) (2016–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
+- **[Viktor Lööv](https://www.wikidata.org/wiki/Q6381352)** ([WP](https://en.wikipedia.org/wiki/Viktor_L%C3%B6%C3%B6v)) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Yanik Burren](https://www.wikidata.org/wiki/Q47037000)** ([WP](https://de.wikipedia.org/wiki/Yanik_Burren)) (2023–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (2)
@@ -257,25 +264,18 @@
 - **[Gaëtan Haas](https://www.wikidata.org/wiki/Q762690)** ([WP](https://de.wikipedia.org/wiki/Gaëtan_Haas)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Robin Grossmann](https://www.wikidata.org/wiki/Q2159775)** ([WP](https://de.wikipedia.org/wiki/Robin_Grossmann)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (20)
+## In current squad, but no Wikidata item could be found (13)
 
-- **Gaël Christe** ([WP](https://de.wikipedia.org/wiki/Gaël_Christe)) — 'Gaël Christe' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Guillaume Kaser** ([WP](https://de.wikipedia.org/wiki/Guillaume_Kaser)) — 'Guillaume Kaser' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jere Sallinen** ([WP](https://de.wikipedia.org/wiki/Jere_Sallinen)) — 'Jere Sallinen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Johnny Kneubuehler** ([WP](https://de.wikipedia.org/wiki/Johnny_Kneubuehler)) — 'Johnny Kneubuehler' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jérémie Bärtschi** ([WP](https://de.wikipedia.org/wiki/Jérémie_Bärtschi)) — 'Jérémie Bärtschi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Leo Braillard** ([WP](https://de.wikipedia.org/wiki/Leo_Braillard)) — 'Leo Braillard' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Linus Hultström** ([WP](https://de.wikipedia.org/wiki/Linus_Hultström)) — 'Linus Hultström' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Livio Christen** ([WP](https://de.wikipedia.org/wiki/Livio_Christen)) — 'Livio Christen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luca Christen** ([WP](https://de.wikipedia.org/wiki/Luca_Christen)) — 'Luca Christen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luis Janett** ([WP](https://de.wikipedia.org/wiki/Luis_Janett)) — 'Luis Janett' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Marcus Sylvegård** ([WP](https://de.wikipedia.org/wiki/Marcus_Sylvegård)) — 'Marcus Sylvegård' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mark Sever** ([WP](https://de.wikipedia.org/wiki/Mark_Sever)) — 'Mark Sever' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nicolas Müller** ([WP](https://de.wikipedia.org/wiki/Nicolas_Müller_(Eishockeyspieler))) — 'Nicolas Müller' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Niklas Blessing** ([WP](https://de.wikipedia.org/wiki/Niklas_Blessing)) — 'Niklas Blessing' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nolan Cattin** ([WP](https://de.wikipedia.org/wiki/Nolan_Cattin)) — 'Nolan Cattin' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Petr Čajka** ([WP](https://de.wikipedia.org/wiki/Petr_Čajka)) — 'Petr Čajka' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rodwin Dionicio** ([WP](https://de.wikipedia.org/wiki/Rodwin_Dionicio)) — 'Rodwin Dionicio' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Viktor Lööv** ([WP](https://de.wikipedia.org/wiki/Viktor_Lööv)) — 'Viktor Lööv' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Yanick Sablatnig** ([WP](https://de.wikipedia.org/wiki/Yanick_Sablatnig)) — 'Yanick Sablatnig' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Yanick Stampfli** ([WP](https://de.wikipedia.org/wiki/Yanick_Stampfli)) — 'Yanick Stampfli' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Gaël Christe** — 'Gaël Christe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Guillaume Kaser** — 'Guillaume Kaser' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jérémie Bärtschi** — 'Jérémie Bärtschi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Leo Braillard** — 'Leo Braillard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Livio Christen** — 'Livio Christen' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luca Christen** — 'Luca Christen' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luis Janett** — 'Luis Janett' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mark Sever** — 'Mark Sever' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nicolas Müller** — 'Nicolas Müller' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Niklas Blessing** — 'Niklas Blessing' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nolan Cattin** — 'Nolan Cattin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Yanick Sablatnig** — 'Yanick Sablatnig' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Yanick Stampfli** — 'Yanick Stampfli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

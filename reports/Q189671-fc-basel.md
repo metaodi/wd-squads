@@ -288,15 +288,22 @@
 - **[Yannick Marchand](https://www.wikidata.org/wiki/Q65029871)** ([WP](https://de.wikipedia.org/wiki/Yannick_Marchand)) (2019–2023) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yves Kaiser](https://www.wikidata.org/wiki/Q61744375)** ([WP](https://de.wikipedia.org/wiki/Yves_Kaiser)) (2018–2019) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (11)
+## In current squad, but no membership statement on Wikidata (18)
 
+- **[Asane Sow](https://www.wikidata.org/wiki/Q140472483)** ([WP](https://en.wikipedia.org/wiki/Asane_Sow)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Bećir Omeragić](https://www.wikidata.org/wiki/Q65029690)** ([WP](https://de.wikipedia.org/wiki/Bećir_Omeragić)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Coleen Louis](https://www.wikidata.org/wiki/Q140596533)** — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Djordje Jovanovic](https://www.wikidata.org/wiki/Q110047580)** — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Flavius Daniliuc](https://www.wikidata.org/wiki/Q65948503)** ([WP](https://de.wikipedia.org/wiki/Flavius_Daniliuc)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Gabriel Sigua](https://www.wikidata.org/wiki/Q115592990)** ([WP](https://de.wikipedia.org/wiki/Gabriel_Sigua)) (2023–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Ibrahim Salah](https://www.wikidata.org/wiki/Q113472639)** ([WP](https://de.wikipedia.org/wiki/Ibrahim_Salah_(Fußballspieler,_2001))) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Jonas Harder](https://www.wikidata.org/wiki/Q131573154)** ([WP](https://en.wikipedia.org/wiki/Jonas_Harder)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Kaio Eduardo](https://www.wikidata.org/wiki/Q135988642)** — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Kazeem Olaigbe](https://www.wikidata.org/wiki/Q113366789)** ([WP](https://en.wikipedia.org/wiki/Kazeem_Olaigbe)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Keigo Tsunemoto](https://www.wikidata.org/wiki/Q101198734)** ([WP](https://de.wikipedia.org/wiki/Keigo_Tsunemoto)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Kevin Rüegg](https://www.wikidata.org/wiki/Q33885886)** ([WP](https://de.wikipedia.org/wiki/Kevin_Rüegg)) (2023–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Léo Leroy](https://www.wikidata.org/wiki/Q61940947)** ([WP](https://de.wikipedia.org/wiki/Léo_Leroy)) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Marin Šotiček](https://www.wikidata.org/wiki/Q125152368)** ([WP](https://en.wikipedia.org/wiki/Marin_%C5%A0oti%C4%8Dek)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Moussa Cissé](https://www.wikidata.org/wiki/Q128871829)** ([WP](https://de.wikipedia.org/wiki/Moussa_Cissé_(Fußballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Nicolas Vouilloz](https://www.wikidata.org/wiki/Q96745606)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Vouilloz_(Fussballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Philip Otele](https://www.wikidata.org/wiki/Q65259981)** ([WP](https://de.wikipedia.org/wiki/Philip_Otele)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
@@ -306,19 +313,12 @@
 
 - **[Giacomo Koloto](https://www.wikidata.org/wiki/Q138296660)** ([WP](https://de.wikipedia.org/wiki/Giacomo_Koloto)) (2026–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (14)
+## In current squad, but no Wikidata item could be found (7)
 
-- **Akpe Victory Maduabuchukwu** ([WP](https://de.wikipedia.org/wiki/Akpe_Victory_Maduabuchukwu)) — 'Akpe Victory Maduabuchukwu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Andrei Bačanin** ([WP](https://de.wikipedia.org/wiki/Andrei_Bačanin)) — 'Andrei Bačanin' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Asane Sow** ([WP](https://de.wikipedia.org/wiki/Asane_Sow)) — 'Asane Sow' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bennett Hoch** ([WP](https://de.wikipedia.org/wiki/Bennett_Hoch)) — 'Bennett Hoch' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Coleen Louis** ([WP](https://de.wikipedia.org/wiki/Coleen_Louis)) — 'Coleen Louis' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Djordje Jovanovic** ([WP](https://de.wikipedia.org/wiki/Djordje_Jovanovic)) — 'Djordje Jovanovic' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Evann Seyram Junior Senaya** ([WP](https://de.wikipedia.org/wiki/Evann_Seyram_Junior_Senaya)) — 'Evann Seyram Junior Senaya' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jonas Harder** ([WP](https://de.wikipedia.org/wiki/Jonas_Harder)) — 'Jonas Harder' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Kaio Eduardo** ([WP](https://de.wikipedia.org/wiki/Kaio_Eduardo)) — 'Kaio Eduardo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Kazeem Olaigbe** ([WP](https://de.wikipedia.org/wiki/Kazeem_Olaigbe)) — 'Kazeem Olaigbe' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ludwig Simon Malachowski Thorell** ([WP](https://de.wikipedia.org/wiki/Ludwig_Simon_Malachowski_Thorell)) — 'Ludwig Simon Malachowski Thorell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Marin Šotiček** ([WP](https://de.wikipedia.org/wiki/Marin_Šotiček)) — 'Marin Šotiček' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Metinho** ([WP](https://de.wikipedia.org/wiki/Metinho)) — 'Metinho' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Renato Widmer d’Autilia** ([WP](https://de.wikipedia.org/wiki/Renato_Widmer_d’Autilia)) — 'Renato Widmer d’Autilia' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Akpe Victory Maduabuchukwu** — 'Akpe Victory Maduabuchukwu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Andrei Bačanin** — 'Andrei Bačanin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Bennett Hoch** — 'Bennett Hoch' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Evann Seyram Junior Senaya** — 'Evann Seyram Junior Senaya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ludwig Simon Malachowski Thorell** — 'Ludwig Simon Malachowski Thorell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Metinho** — 'Metinho' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Renato Widmer d’Autilia** — 'Renato Widmer d’Autilia' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

@@ -6,12 +6,18 @@
 - Current members on Wikidata: 55
 - Suggested edits: 76
 
-## In current squad, but no membership statement on Wikidata (4)
+## In current squad, but no membership statement on Wikidata (10)
 
 - **[Abdoulaye Diaby](https://www.wikidata.org/wiki/Q64433083)** ([WP](https://de.wikipedia.org/wiki/Abdoulaye_Diaby)) (2025–) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
 - **[Alieu Conateh](https://www.wikidata.org/wiki/Q135684978)** ([WP](https://de.wikipedia.org/wiki/Alieu_Conateh)) (2025–) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
 - **[Ismajl Beka](https://www.wikidata.org/wiki/Q113708847)** ([WP](https://de.wikipedia.org/wiki/Ismajl_Beka)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
+- **[Justin Hammel](https://www.wikidata.org/wiki/Q112581476)** ([WP](https://en.wikipedia.org/wiki/Justin_Hammel)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Luke Plange](https://www.wikidata.org/wiki/Q109923924)** ([WP](https://en.wikipedia.org/wiki/Luke_Plange)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Matteo Mantini](https://www.wikidata.org/wiki/Q126342298)** — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Maximilian Ullmann](https://www.wikidata.org/wiki/Q21000291)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Ullmann)) (2025–) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
+- **[Pantaleo Creti](https://www.wikidata.org/wiki/Q138016344)** ([WP](https://en.wikipedia.org/wiki/Pantaleo_Creti)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Samuel Marques](https://www.wikidata.org/wiki/Q20109678)** ([WP](https://en.wikipedia.org/wiki/Samuel_Marques)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Simone Stroscio](https://www.wikidata.org/wiki/Q113543719)** ([WP](https://en.wikipedia.org/wiki/Simone_Stroscio)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 ## Recorded as a current member, but no longer in the squad (53)
 
@@ -73,23 +79,17 @@
 
 - **[Allan Arigoni](https://www.wikidata.org/wiki/Q55820260)** ([WP](https://de.wikipedia.org/wiki/Allan_Arigoni)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (18)
+## In current squad, but no Wikidata item could be found (12)
 
-- **Dorian Paloschi** ([WP](https://de.wikipedia.org/wiki/Dorian_Paloschi)) — 'Dorian Paloschi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Imourane Hassane** ([WP](https://de.wikipedia.org/wiki/Imourane_Hassane)) — 'Imourane Hassane' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Justin Hammel** ([WP](https://de.wikipedia.org/wiki/Justin_Hammel)) — 'Justin Hammel' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Leart Kabashi** ([WP](https://de.wikipedia.org/wiki/Leart_Kabashi)) — 'Leart Kabashi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Loris Giandomenico** ([WP](https://de.wikipedia.org/wiki/Loris_Giandomenico)) — 'Loris Giandomenico' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luka Mikulić** ([WP](https://de.wikipedia.org/wiki/Luka_Mikulić_(Fußballspieler))) — 'Luka Mikulić' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luke Plange** ([WP](https://de.wikipedia.org/wiki/Luke_Plange)) — 'Luke Plange' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Marvin Hübel** ([WP](https://de.wikipedia.org/wiki/Marvin_Hübel)) — 'Marvin Hübel' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Matteo Mantini** ([WP](https://de.wikipedia.org/wiki/Matteo_Mantini)) — 'Matteo Mantini' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nicolas Muci** ([WP](https://de.wikipedia.org/wiki/Nicolas_Muci)) — 'Nicolas Muci' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Pantaleo Creti** ([WP](https://de.wikipedia.org/wiki/Pantaleo_Creti)) — 'Pantaleo Creti' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Samuel Krasniqi** ([WP](https://de.wikipedia.org/wiki/Samuel_Krasniqi)) — 'Samuel Krasniqi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Samuel Marques** ([WP](https://de.wikipedia.org/wiki/Samuel_Marques)) — 'Samuel Marques' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Simone Stroscio** ([WP](https://de.wikipedia.org/wiki/Simone_Stroscio)) — 'Simone Stroscio' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tim Meyer** ([WP](https://de.wikipedia.org/wiki/Tim_Meyer_(Fußballspieler,_2004))) — 'Tim Meyer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Yannick Bettkober** ([WP](https://de.wikipedia.org/wiki/Yannick_Bettkober)) — 'Yannick Bettkober' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Young-joon Lee** ([WP](https://de.wikipedia.org/wiki/Young-joon_Lee)) — 'Young-joon Lee' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Òscar Clemente** ([WP](https://de.wikipedia.org/wiki/Òscar_Clemente)) — 'Òscar Clemente' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Dorian Paloschi** — 'Dorian Paloschi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Imourane Hassane** — 'Imourane Hassane' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Leart Kabashi** — 'Leart Kabashi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Loris Giandomenico** — 'Loris Giandomenico' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luka Mikulić** — 'Luka Mikulić' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Marvin Hübel** — 'Marvin Hübel' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nicolas Muci** — 'Nicolas Muci' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Samuel Krasniqi** — 'Samuel Krasniqi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Tim Meyer** — 'Tim Meyer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Yannick Bettkober** — 'Yannick Bettkober' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Young-joon Lee** — 'Young-joon Lee' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Òscar Clemente** — 'Òscar Clemente' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

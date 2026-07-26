@@ -4,9 +4,9 @@
 - Wikipedia article: [HC Ambrì-Piotta](https://de.wikipedia.org/wiki/HC_Ambrì-Piotta)
 - Players in Wikipedia squad: 26
 - Current members on Wikidata: 163
-- Suggested edits: 187
+- Suggested edits: 186
 
-## Recorded as a current member, but no longer in the squad (161)
+## Recorded as a current member, but no longer in the squad (160)
 
 - **[Adrian Brunner](https://www.wikidata.org/wiki/Q209014)** ([WP](https://de.wikipedia.org/wiki/Adrian_Brunner)) (2009–2011) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Trunz](https://www.wikidata.org/wiki/Q2825055)** — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -158,7 +158,6 @@
 - **[Thomas Ziegler](https://www.wikidata.org/wiki/Q439654)** ([WP](https://de.wikipedia.org/wiki/Thomas_Ziegler_(Eishockeyspieler))) (1998–2000) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tim Wolf](https://www.wikidata.org/wiki/Q7804511)** ([WP](https://en.wikipedia.org/wiki/Tim_Wolf)) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tiziano Gianini](https://www.wikidata.org/wiki/Q16680278)** — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Tommaso De Luca](https://www.wikidata.org/wiki/Q124805017)** — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tomáš Kucharčík](https://www.wikidata.org/wiki/Q3531467)** ([WP](https://de.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kuchar%C4%8D%C3%ADk)) (2005–2006) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tomáš Vlasák](https://www.wikidata.org/wiki/Q944243)** ([WP](https://de.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Vlas%C3%A1k)) (2001–2002) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Trevor Meier](https://www.wikidata.org/wiki/Q921975)** ([WP](https://de.wikipedia.org/wiki/Trevor_Meier)) (2010–2012) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -170,37 +169,37 @@
 - **[Zdeněk Blatný](https://www.wikidata.org/wiki/Q168966)** ([WP](https://de.wikipedia.org/wiki/Zden%C4%9Bk_Blatn%C3%BD)) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Landry](https://www.wikidata.org/wiki/Q288207)** ([WP](https://de.wikipedia.org/wiki/%C3%89ric_Landry)) (2010–2012) — Add an end date (P582) to the membership → HC Ambrì-Piotta (Q36932); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (7)
+## In current squad, but no membership statement on Wikidata (17)
 
 - **[Alex Formenton](https://www.wikidata.org/wiki/Q41726820)** ([WP](https://de.wikipedia.org/wiki/Alex_Formenton)) (2025–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
 - **[André Heim](https://www.wikidata.org/wiki/Q47038478)** ([WP](https://de.wikipedia.org/wiki/André_Heim)) (2021–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
 - **[Chris Tierney](https://www.wikidata.org/wiki/Q18341327)** ([WP](https://de.wikipedia.org/wiki/Chris_Tierney_(Eishockeyspieler))) (2025–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
 - **[Daniele Grassi](https://www.wikidata.org/wiki/Q3701988)** ([WP](https://de.wikipedia.org/wiki/Daniele_Grassi)) (2020–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
+- **[Dario Wüthrich](https://www.wikidata.org/wiki/Q130355681)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Diego Kostner](https://www.wikidata.org/wiki/Q3707198)** ([WP](https://de.wikipedia.org/wiki/Diego_Kostner)) (2016–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
 - **[Gilles Senn](https://www.wikidata.org/wiki/Q27555078)** ([WP](https://de.wikipedia.org/wiki/Gilles_Senn)) (2024–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
+- **[Isacco Dotti](https://www.wikidata.org/wiki/Q130369642)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Michael Joly](https://www.wikidata.org/wiki/Q110818935)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Miles Müller](https://www.wikidata.org/wiki/Q26403593)** ([WP](https://de.wikipedia.org/wiki/Miles_M%C3%BCller)) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Nate Schnarr](https://www.wikidata.org/wiki/Q124376367)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Philip Wüthrich](https://www.wikidata.org/wiki/Q122421552)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Rocco Pezzullo](https://www.wikidata.org/wiki/Q130365837)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Simone Terraneo](https://www.wikidata.org/wiki/Q81907514)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tim Heed](https://www.wikidata.org/wiki/Q464112)** ([WP](https://de.wikipedia.org/wiki/Tim_Heed)) (2022–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
+- **[Tim Muggli](https://www.wikidata.org/wiki/Q130365835)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Zaccheo Dotti](https://www.wikidata.org/wiki/Q130369640)** — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## Current member, but the membership has no start date (2)
+## Current member, but the membership has no start date (3)
 
 - **[Dominic Zwerger](https://www.wikidata.org/wiki/Q16225827)** ([WP](https://de.wikipedia.org/wiki/Dominic_Zwerger)) (2017–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Inti Pestoni](https://www.wikidata.org/wiki/Q3153645)** ([WP](https://de.wikipedia.org/wiki/Inti_Pestoni)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Tommaso De Luca](https://www.wikidata.org/wiki/Q124805017)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## In current squad, but the Wikipedia article has no Wikidata item (17)
+## In current squad, but no Wikidata item could be found (6)
 
-- **Dario Wüthrich** ([WP](https://de.wikipedia.org/wiki/Dario_Wüthrich)) — 'Dario Wüthrich' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Isacco Dotti** ([WP](https://de.wikipedia.org/wiki/Isacco_Dotti)) — 'Isacco Dotti' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jesse Virtanen** ([WP](https://de.wikipedia.org/wiki/Jesse_Virtanen)) — 'Jesse Virtanen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jesse Zgraggen** ([WP](https://de.wikipedia.org/wiki/Jesse_Zgraggen)) — 'Jesse Zgraggen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luc Bachmann** ([WP](https://de.wikipedia.org/wiki/Luc_Bachmann)) — 'Luc Bachmann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lukas Landry** ([WP](https://de.wikipedia.org/wiki/Lukas_Landry)) — 'Lukas Landry' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Manix Landry** ([WP](https://de.wikipedia.org/wiki/Manix_Landry)) — 'Manix Landry' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Michael Joly** ([WP](https://de.wikipedia.org/wiki/Michael_Joly)) — 'Michael Joly' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Miles Müller** ([WP](https://de.wikipedia.org/wiki/Miles_Müller_(Eishockeyspieler))) — 'Miles Müller' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nate Schnarr** ([WP](https://de.wikipedia.org/wiki/Nate_Schnarr)) — 'Nate Schnarr' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Philip Wüthrich** ([WP](https://de.wikipedia.org/wiki/Philip_Wüthrich)) — 'Philip Wüthrich' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rocco Pezzullo** ([WP](https://de.wikipedia.org/wiki/Rocco_Pezzullo)) — 'Rocco Pezzullo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Simone Terraneo** ([WP](https://de.wikipedia.org/wiki/Simone_Terraneo)) — 'Simone Terraneo' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tim Muggli** ([WP](https://de.wikipedia.org/wiki/Tim_Muggli)) — 'Tim Muggli' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tommaso De Luca** ([WP](https://de.wikipedia.org/wiki/Tommaso_De_Luca)) — 'Tommaso De Luca' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **William Hedlund** ([WP](https://de.wikipedia.org/wiki/William_Hedlund)) — 'William Hedlund' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Zaccheo Dotti** ([WP](https://de.wikipedia.org/wiki/Zaccheo_Dotti)) — 'Zaccheo Dotti' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Jesse Virtanen** — 'Jesse Virtanen' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jesse Zgraggen** — 'Jesse Zgraggen' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luc Bachmann** — 'Luc Bachmann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lukas Landry** — 'Lukas Landry' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Manix Landry** — 'Manix Landry' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **William Hedlund** — 'William Hedlund' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

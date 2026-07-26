@@ -4,9 +4,9 @@
 - Wikipedia article: [Lausanne HC](https://de.wikipedia.org/wiki/Lausanne_HC)
 - Players in Wikipedia squad: 26
 - Current members on Wikidata: 163
-- Suggested edits: 188
+- Suggested edits: 187
 
-## Recorded as a current member, but no longer in the squad (162)
+## Recorded as a current member, but no longer in the squad (161)
 
 - **[Adrian Trunz](https://www.wikidata.org/wiki/Q2825055)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Birbaum](https://www.wikidata.org/wiki/Q2829573)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -158,7 +158,6 @@
 - **[Thomas Déruns](https://www.wikidata.org/wiki/Q2423537)** ([WP](https://de.wikipedia.org/wiki/Thomas_D%C3%A9runs)) (2012–2017) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Thomas Rufenacht](https://www.wikidata.org/wiki/Q2427004)** ([WP](https://de.wikipedia.org/wiki/Thomas_R%C3%BCfenacht)) (2007–2009) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Thomas Östlund](https://www.wikidata.org/wiki/Q742580)** ([WP](https://de.wikipedia.org/wiki/Thomas_%C3%96stlund)) (2001) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Théo Rochette](https://www.wikidata.org/wiki/Q123644284)** ([WP](https://en.wikipedia.org/wiki/Th%C3%A9o_Rochette)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tim Bozon](https://www.wikidata.org/wiki/Q6380137)** ([WP](https://de.wikipedia.org/wiki/Tim_Bozon)) (2020–2025) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tim Smith](https://www.wikidata.org/wiki/Q3528691)** ([WP](https://en.wikipedia.org/wiki/Tim_Smith_(ice_hockey))) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tim Ulmann](https://www.wikidata.org/wiki/Q16225470)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -171,37 +170,37 @@
 - **[Zarley Zalapski](https://www.wikidata.org/wiki/Q147992)** ([WP](https://de.wikipedia.org/wiki/Zarley_Zalapski)) (2009–2010) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Landry](https://www.wikidata.org/wiki/Q288207)** ([WP](https://de.wikipedia.org/wiki/%C3%89ric_Landry)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (10)
+## In current squad, but no membership statement on Wikidata (15)
 
+- **[Ahti Oksanen](https://www.wikidata.org/wiki/Q24827264)** — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Antti Suomela](https://www.wikidata.org/wiki/Q22916987)** ([WP](https://de.wikipedia.org/wiki/Antti_Suomela)) (2023–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
 - **[Austin Czarnik](https://www.wikidata.org/wiki/Q16228484)** ([WP](https://de.wikipedia.org/wiki/Austin_Czarnik)) (2025–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
+- **[Basile Sansonnens](https://www.wikidata.org/wiki/Q126951631)** — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Damien Riat](https://www.wikidata.org/wiki/Q28732959)** ([WP](https://de.wikipedia.org/wiki/Damien_Riat)) (2021–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
 - **[Drake Caggiula](https://www.wikidata.org/wiki/Q24053959)** ([WP](https://de.wikipedia.org/wiki/Drake_Caggiula)) (2025–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
 - **[Erik Brännström](https://www.wikidata.org/wiki/Q23869482)** ([WP](https://de.wikipedia.org/wiki/Erik_Brännström)) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
 - **[Fabian Heldner](https://www.wikidata.org/wiki/Q28545909)** ([WP](https://de.wikipedia.org/wiki/Fabian_Heldner)) (2019–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
+- **[Floran Douay](https://www.wikidata.org/wiki/Q22210670)** ([WP](https://en.wikipedia.org/wiki/Floran_Douay)) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Jason Fuchs](https://www.wikidata.org/wiki/Q27685680)** ([WP](https://de.wikipedia.org/wiki/Jason_Fuchs_(Eishockeyspieler))) (2021–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
+- **[Makai Holdener](https://www.wikidata.org/wiki/Q113897659)** — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Michael Hügli](https://www.wikidata.org/wiki/Q28947881)** ([WP](https://de.wikipedia.org/wiki/Michael_Hügli)) (2022–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
+- **[Nathan Vouardoux](https://www.wikidata.org/wiki/Q122811069)** — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Sami Niku](https://www.wikidata.org/wiki/Q18633454)** ([WP](https://de.wikipedia.org/wiki/Sami_Niku)) (2025–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
 - **[Yannick Zehnder](https://www.wikidata.org/wiki/Q106813843)** ([WP](https://de.wikipedia.org/wiki/Yannick_Zehnder)) (2025–) — Add a 'member of sports team' (P54) statement → Lausanne HC (Q675245); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+## Current member, but the membership has no start date (2)
 
 - **[Ken Jäger](https://www.wikidata.org/wiki/Q47058080)** ([WP](https://de.wikipedia.org/wiki/Ken_Jäger)) (2020–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Théo Rochette](https://www.wikidata.org/wiki/Q123644284)** ([WP](https://en.wikipedia.org/wiki/Th%C3%A9o_Rochette)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## In current squad, but the Wikipedia article has no Wikidata item (15)
+## In current squad, but no Wikidata item could be found (9)
 
-- **Ahti Oksanen** ([WP](https://de.wikipedia.org/wiki/Ahti_Oksanen)) — 'Ahti Oksanen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Aurélien Marti** ([WP](https://de.wikipedia.org/wiki/Aurélien_Marti)) — 'Aurélien Marti' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Basile Sansonnens** ([WP](https://de.wikipedia.org/wiki/Basile_Sansonnens)) — 'Basile Sansonnens' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Benjamin Bougro** ([WP](https://de.wikipedia.org/wiki/Benjamin_Bougro)) — 'Benjamin Bougro' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Connor Hughes** ([WP](https://de.wikipedia.org/wiki/Connor_Hughes)) — 'Connor Hughes' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Cédric Fiedler** ([WP](https://de.wikipedia.org/wiki/Cédric_Fiedler)) — 'Cédric Fiedler' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Floran Douay** ([WP](https://de.wikipedia.org/wiki/Floran_Douay)) — 'Floran Douay' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Gaël Haas** ([WP](https://de.wikipedia.org/wiki/Gaël_Haas)) — 'Gaël Haas' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Iñaki Baragano** ([WP](https://de.wikipedia.org/wiki/Iñaki_Baragano)) — 'Iñaki Baragano' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Kevin Pasche** ([WP](https://de.wikipedia.org/wiki/Kevin_Pasche)) — 'Kevin Pasche' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Makai Holdener** ([WP](https://de.wikipedia.org/wiki/Makai_Holdener)) — 'Makai Holdener' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nathan Vouardoux** ([WP](https://de.wikipedia.org/wiki/Nathan_Vouardoux)) — 'Nathan Vouardoux' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Raphael Prassl** ([WP](https://de.wikipedia.org/wiki/Raphael_Prassl)) — 'Raphael Prassl' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Thibault Fatton** ([WP](https://de.wikipedia.org/wiki/Thibault_Fatton)) — 'Thibault Fatton' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Théo Rochette** ([WP](https://de.wikipedia.org/wiki/Théo_Rochette)) — 'Théo Rochette' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Aurélien Marti** — 'Aurélien Marti' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Benjamin Bougro** — 'Benjamin Bougro' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Connor Hughes** — 'Connor Hughes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Cédric Fiedler** — 'Cédric Fiedler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Gaël Haas** — 'Gaël Haas' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Iñaki Baragano** — 'Iñaki Baragano' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Kevin Pasche** — 'Kevin Pasche' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Raphael Prassl** — 'Raphael Prassl' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Thibault Fatton** — 'Thibault Fatton' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

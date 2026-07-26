@@ -140,37 +140,37 @@
 - **[Wayne Dillon](https://www.wikidata.org/wiki/Q3566824)** ([WP](https://de.wikipedia.org/wiki/Wayne_Dillon)) (1980–1981) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zarley Zalapski](https://www.wikidata.org/wiki/Q147992)** ([WP](https://de.wikipedia.org/wiki/Zarley_Zalapski)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (10)
+## In current squad, but no membership statement on Wikidata (18)
 
 - **[Dominic Lammer](https://www.wikidata.org/wiki/Q1237597)** ([WP](https://de.wikipedia.org/wiki/Dominic_Lammer)) (2021–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 - **[Ivars Punnenovs](https://www.wikidata.org/wiki/Q15238436)** ([WP](https://de.wikipedia.org/wiki/Ivars_Punnenovs)) (2012–2015) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 - **[Jacob Larsson](https://www.wikidata.org/wiki/Q19518913)** ([WP](https://de.wikipedia.org/wiki/Jacob_Larsson_(Eishockeyspieler))) (2024–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
+- **[Jan Hornecker](https://www.wikidata.org/wiki/Q81903686)** — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Jonas Taibel](https://www.wikidata.org/wiki/Q81907445)** — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Julius Honka](https://www.wikidata.org/wiki/Q16236780)** ([WP](https://de.wikipedia.org/wiki/Julius_Honka)) (2025–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
+- **[Lawrence Pilut](https://www.wikidata.org/wiki/Q16224655)** ([WP](https://en.wikipedia.org/wiki/Lawrence_Pilut)) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Malte Strömwall](https://www.wikidata.org/wiki/Q16225315)** ([WP](https://en.wikipedia.org/wiki/Malte_Str%C3%B6mwall)) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Mauro Dufner](https://www.wikidata.org/wiki/Q24951379)** ([WP](https://de.wikipedia.org/wiki/Mauro_Dufner)) (2025–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 - **[Melvin Nyffeler](https://www.wikidata.org/wiki/Q28740072)** ([WP](https://de.wikipedia.org/wiki/Melvin_Nyffeler)) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 - **[Nicklas Jensen](https://www.wikidata.org/wiki/Q1253280)** ([WP](https://de.wikipedia.org/wiki/Nicklas_Jensen)) (2022–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
+- **[Philippe Maillet](https://www.wikidata.org/wiki/Q97495786)** ([WP](https://en.wikipedia.org/wiki/Philippe_Maillet)) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Sandro Zangger](https://www.wikidata.org/wiki/Q28735524)** ([WP](https://de.wikipedia.org/wiki/Sandro_Zangger)) (2021–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
+- **[Tanner Fritz](https://www.wikidata.org/wiki/Q47011158)** ([WP](https://en.wikipedia.org/wiki/Tanner_Fritz)) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Tyler Moy](https://www.wikidata.org/wiki/Q99197425)** ([WP](https://en.wikipedia.org/wiki/Tyler_Moy)) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Valentin Hofer](https://www.wikidata.org/wiki/Q137785186)** — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Victor Rask](https://www.wikidata.org/wiki/Q1699128)** ([WP](https://de.wikipedia.org/wiki/Victor_Rask)) (2023–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 - **[Yannick-Lennart Albrecht](https://www.wikidata.org/wiki/Q28542753)** ([WP](https://de.wikipedia.org/wiki/Yannick-Lennart_Albrecht)) (2021–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 
-## In current squad, but the Wikipedia article has no Wikidata item (19)
+## In current squad, but no Wikidata item could be found (11)
 
-- **Benjamin Quinn** ([WP](https://de.wikipedia.org/wiki/Benjamin_Quinn)) — 'Benjamin Quinn' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Fabian Maier** ([WP](https://de.wikipedia.org/wiki/Fabian_Maier_(Eishockeyspieler))) — 'Fabian Maier' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Gian-Marco Wetter** ([WP](https://de.wikipedia.org/wiki/Gian-Marco_Wetter)) — 'Gian-Marco Wetter' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Igor Jelovac** ([WP](https://de.wikipedia.org/wiki/Igor_Jelovac)) — 'Igor Jelovac' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jan Hornecker** ([WP](https://de.wikipedia.org/wiki/Jan_Hornecker)) — 'Jan Hornecker' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jannis Embacher** ([WP](https://de.wikipedia.org/wiki/Jannis_Embacher)) — 'Jannis Embacher' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jonas Taibel** ([WP](https://de.wikipedia.org/wiki/Jonas_Taibel)) — 'Jonas Taibel' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lawrence Pilut** ([WP](https://de.wikipedia.org/wiki/Lawrence_Pilut)) — 'Lawrence Pilut' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luca Capaul** ([WP](https://de.wikipedia.org/wiki/Luca_Capaul)) — 'Luca Capaul' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Malte Strömwall** ([WP](https://de.wikipedia.org/wiki/Malte_Strömwall)) — 'Malte Strömwall' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Marlon Graf** ([WP](https://de.wikipedia.org/wiki/Marlon_Graf)) — 'Marlon Graf' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Matthew Kellenberger** ([WP](https://de.wikipedia.org/wiki/Matthew_Kellenberger)) — 'Matthew Kellenberger' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mika Henauer** ([WP](https://de.wikipedia.org/wiki/Mika_Henauer)) — 'Mika Henauer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nico Dünner** ([WP](https://de.wikipedia.org/wiki/Nico_Dünner)) — 'Nico Dünner' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Philippe Maillet** ([WP](https://de.wikipedia.org/wiki/Philippe_Maillet)) — 'Philippe Maillet' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Robin Bisig** ([WP](https://de.wikipedia.org/wiki/Robin_Bisig)) — 'Robin Bisig' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tanner Fritz** ([WP](https://de.wikipedia.org/wiki/Tanner_Fritz)) — 'Tanner Fritz' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tyler Moy** ([WP](https://de.wikipedia.org/wiki/Tyler_Moy)) — 'Tyler Moy' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Valentin Hofer** ([WP](https://de.wikipedia.org/wiki/Valentin_Hofer)) — 'Valentin Hofer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Benjamin Quinn** — 'Benjamin Quinn' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Fabian Maier** — 'Fabian Maier' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Gian-Marco Wetter** — 'Gian-Marco Wetter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Igor Jelovac** — 'Igor Jelovac' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jannis Embacher** — 'Jannis Embacher' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luca Capaul** — 'Luca Capaul' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Marlon Graf** — 'Marlon Graf' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Matthew Kellenberger** — 'Matthew Kellenberger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mika Henauer** — 'Mika Henauer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nico Dünner** — 'Nico Dünner' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Robin Bisig** — 'Robin Bisig' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

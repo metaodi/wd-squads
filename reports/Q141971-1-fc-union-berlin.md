@@ -113,10 +113,11 @@
 - **[Wolfgang Horter](https://www.wikidata.org/wiki/Q22342533)** ([WP](https://de.wikipedia.org/wiki/Wolfgang_Horter)) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wolfgang Juhrsch](https://www.wikidata.org/wiki/Q2590114)** ([WP](https://de.wikipedia.org/wiki/Wolfgang_Juhrsch)) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (21)
+## In current squad, but no membership statement on Wikidata (22)
 
 - **[Aljoscha Kemlein](https://www.wikidata.org/wiki/Q121720422)** ([WP](https://de.wikipedia.org/wiki/Aljoscha_Kemlein)) (2022–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Andrej Ilić](https://www.wikidata.org/wiki/Q97924313)** ([WP](https://de.wikipedia.org/wiki/Andrej_Ilić)) (2024–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
+- **[Andrik Markgraf](https://www.wikidata.org/wiki/Q135393237)** — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Carl Klaus](https://www.wikidata.org/wiki/Q20744922)** ([WP](https://de.wikipedia.org/wiki/Carl_Klaus)) (2024–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[David Preu](https://www.wikidata.org/wiki/Q131322119)** ([WP](https://de.wikipedia.org/wiki/David_Preu)) (2023–2026) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Derrick Köhn](https://www.wikidata.org/wiki/Q70206730)** ([WP](https://de.wikipedia.org/wiki/Derrick_Köhn)) (2025–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
@@ -141,7 +142,3 @@
 
 - **[Herbert Raddatz](https://www.wikidata.org/wiki/Q1608939)** ([WP](https://de.wikipedia.org/wiki/Herbert_Raddatz)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Uwe Borchardt](https://www.wikidata.org/wiki/Q2504050)** ([WP](https://de.wikipedia.org/wiki/Uwe_Borchardt)) (1980–1987) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-
-## In current squad, but the Wikipedia article has no Wikidata item (1)
-
-- **Andrik Markgraf** — 'Andrik Markgraf' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

@@ -133,7 +133,7 @@
 - **[Änis Ben-Hatira](https://www.wikidata.org/wiki/Q62082)** ([WP](https://de.wikipedia.org/wiki/%C3%84nis_Ben-Hatira)) (2016) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Çağrı Karakuş](https://www.wikidata.org/wiki/Q89482352)** — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (14)
+## In current squad, but no membership statement on Wikidata (15)
 
 - **[Ayoube Amaimouni](https://www.wikidata.org/wiki/Q137705019)** ([WP](https://de.wikipedia.org/wiki/Ayoube_Amaimouni)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Elias Baum](https://www.wikidata.org/wiki/Q123390886)** ([WP](https://de.wikipedia.org/wiki/Elias_Baum)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
@@ -143,6 +143,7 @@
 - **[Jens Grahl](https://www.wikidata.org/wiki/Q15285035)** ([WP](https://de.wikipedia.org/wiki/Jens_Grahl)) (2021–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Kauã Santos](https://www.wikidata.org/wiki/Q124249434)** ([WP](https://de.wikipedia.org/wiki/Kauã_Santos)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Keita Kosugi](https://www.wikidata.org/wiki/Q125044295)** ([WP](https://de.wikipedia.org/wiki/Keita_Kosugi)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
+- **[Malik Pimpong](https://www.wikidata.org/wiki/Q140435636)** ([WP](https://en.wikipedia.org/wiki/Malik_Pimpong)) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Michael Zetterer](https://www.wikidata.org/wiki/Q17124764)** ([WP](https://de.wikipedia.org/wiki/Michael_Zetterer)) (2025–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Nnamdi Collins](https://www.wikidata.org/wiki/Q106367360)** ([WP](https://de.wikipedia.org/wiki/Nnamdi_Collins)) (2024–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Noel Futkeu](https://www.wikidata.org/wiki/Q124757622)** ([WP](https://de.wikipedia.org/wiki/Noel_Futkeu)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
@@ -153,7 +154,3 @@
 ## Current member, but the membership has no start date (1)
 
 - **[Love Arrhov](https://www.wikidata.org/wiki/Q134271451)** ([WP](https://de.wikipedia.org/wiki/Love_Arrhov)) (2026–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-
-## In current squad, but the Wikipedia article has no Wikidata item (1)
-
-- **Malik Pimpong** ([WP](https://de.wikipedia.org/wiki/Malik_Pimpong)) — 'Malik Pimpong' is listed in the squad on Wikipedia but its article has no linked Wikidata item.

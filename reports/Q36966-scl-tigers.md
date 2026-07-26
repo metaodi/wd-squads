@@ -173,38 +173,38 @@
 - **[Yannick-Lennart Albrecht](https://www.wikidata.org/wiki/Q28542753)** ([WP](https://de.wikipedia.org/wiki/Yannick-Lennart_Albrecht)) (2009–2018) — Add an end date (P582) to the membership → SCL Tigers (Q36966); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Lecompte](https://www.wikidata.org/wiki/Q955037)** ([WP](https://en.wikipedia.org/wiki/%C3%89ric_Lecompte)) — Add an end date (P582) to the membership → SCL Tigers (Q36966); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (9)
+## In current squad, but no membership statement on Wikidata (18)
 
 - **[André Petersson](https://www.wikidata.org/wiki/Q2848433)** ([WP](https://de.wikipedia.org/wiki/André_Petersson)) (2025–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
 - **[Claude-Curdin Paschoud](https://www.wikidata.org/wiki/Q15794528)** ([WP](https://de.wikipedia.org/wiki/Claude-Curdin_Paschoud)) (2024–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
+- **[Dario Allenspach](https://www.wikidata.org/wiki/Q111843586)** — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Flavio Schmutz](https://www.wikidata.org/wiki/Q47088279)** ([WP](https://de.wikipedia.org/wiki/Flavio_Schmutz)) (2020–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
+- **[Hannes Björninen](https://www.wikidata.org/wiki/Q18632365)** ([WP](https://en.wikipedia.org/wiki/Hannes_Bj%C3%B6rninen)) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Harri Pesonen](https://www.wikidata.org/wiki/Q1586121)** ([WP](https://de.wikipedia.org/wiki/Harri_Pesonen)) (2021–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
+- **[Jiří Felcman](https://www.wikidata.org/wiki/Q120644343)** — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Joshua Fahrni](https://www.wikidata.org/wiki/Q111843585)** — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Julian Schmutz](https://www.wikidata.org/wiki/Q17736507)** ([WP](https://de.wikipedia.org/wiki/Julian_Schmutz)) (2023–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
 - **[Jérôme Bachofner](https://www.wikidata.org/wiki/Q40444637)** ([WP](https://de.wikipedia.org/wiki/Jérôme_Bachofner)) (2025–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
 - **[Luca Boltshauser](https://www.wikidata.org/wiki/Q6695852)** ([WP](https://de.wikipedia.org/wiki/Luca_Boltshauser)) (2022–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
+- **[Martin Neckar](https://www.wikidata.org/wiki/Q138099945)** ([WP](https://en.wikipedia.org/wiki/Martin_Neckar)) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Noah Meier](https://www.wikidata.org/wiki/Q104528194)** ([WP](https://en.wikipedia.org/wiki/Noah_Meier)) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Oskars Lapinskis](https://www.wikidata.org/wiki/Q112150578)** — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Phil Baltisberger](https://www.wikidata.org/wiki/Q16164440)** ([WP](https://de.wikipedia.org/wiki/Phil_Baltisberger)) (2024–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
+- **[Robin Meyer](https://www.wikidata.org/wiki/Q103535799)** — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Samuel Erni](https://www.wikidata.org/wiki/Q30351477)** ([WP](https://de.wikipedia.org/wiki/Samuel_Erni)) (2017–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
+- **[Santtu Kinnunen](https://www.wikidata.org/wiki/Q61103012)** ([WP](https://en.wikipedia.org/wiki/Santtu_Kinnunen)) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 ## Current member, but the membership has no start date (2)
 
 - **[Juuso Riikola](https://www.wikidata.org/wiki/Q13406583)** ([WP](https://de.wikipedia.org/wiki/Juuso_Riikola)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Saku Mäenalanen](https://www.wikidata.org/wiki/Q13583386)** ([WP](https://de.wikipedia.org/wiki/Saku_Mäenalanen)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (16)
+## In current squad, but no Wikidata item could be found (7)
 
-- **Bastian Guggenheim** ([WP](https://de.wikipedia.org/wiki/Bastian_Guggenheim)) — 'Bastian Guggenheim' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Dario Allenspach** ([WP](https://de.wikipedia.org/wiki/Dario_Allenspach)) — 'Dario Allenspach' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Dario Rohrbach** ([WP](https://de.wikipedia.org/wiki/Dario_Rohrbach)) — 'Dario Rohrbach' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Hannes Björninen** ([WP](https://de.wikipedia.org/wiki/Hannes_Björninen)) — 'Hannes Björninen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jiří Felcman** ([WP](https://de.wikipedia.org/wiki/Jiří_Felcman)) — 'Jiří Felcman' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Joel Salzgeber** ([WP](https://de.wikipedia.org/wiki/Joel_Salzgeber)) — 'Joel Salzgeber' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Joshua Fahrni** ([WP](https://de.wikipedia.org/wiki/Joshua_Fahrni)) — 'Joshua Fahrni' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Martin Neckar** ([WP](https://de.wikipedia.org/wiki/Martin_Neckar)) — 'Martin Neckar' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Matteo Wagner** ([WP](https://de.wikipedia.org/wiki/Matteo_Wagner)) — 'Matteo Wagner' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Noah Meier** ([WP](https://de.wikipedia.org/wiki/Noah_Meier)) — 'Noah Meier' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Oskars Lapinskis** ([WP](https://de.wikipedia.org/wiki/Oskars_Lapinskis)) — 'Oskars Lapinskis' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Patrick Petrini** ([WP](https://de.wikipedia.org/wiki/Patrick_Petrini)) — 'Patrick Petrini' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Robin Meyer** ([WP](https://de.wikipedia.org/wiki/Robin_Meyer)) — 'Robin Meyer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Santtu Kinnunen** ([WP](https://de.wikipedia.org/wiki/Santtu_Kinnunen)) — 'Santtu Kinnunen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tim Mathys** ([WP](https://de.wikipedia.org/wiki/Tim_Mathys)) — 'Tim Mathys' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Timo Jenni** ([WP](https://de.wikipedia.org/wiki/Timo_Jenni)) — 'Timo Jenni' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Bastian Guggenheim** — 'Bastian Guggenheim' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Dario Rohrbach** — 'Dario Rohrbach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Joel Salzgeber** — 'Joel Salzgeber' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Matteo Wagner** — 'Matteo Wagner' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Patrick Petrini** — 'Patrick Petrini' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Tim Mathys** — 'Tim Mathys' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Timo Jenni** — 'Timo Jenni' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

@@ -4,9 +4,25 @@
 - Wikipedia article: [SC Bern](https://de.wikipedia.org/wiki/SC_Bern)
 - Players in Wikipedia squad: 30
 - Current members on Wikidata: 193
-- Suggested edits: 218
+- Suggested edits: 217
 
-## Recorded as a current member, but no longer in the squad (188)
+## In current squad, but no membership statement on Wikidata (13)
+
+- **[Adam Reideborn](https://www.wikidata.org/wiki/Q18274666)** ([WP](https://en.wikipedia.org/wiki/Adam_Reideborn)) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Anton Lindholm](https://www.wikidata.org/wiki/Q16229499)** ([WP](https://de.wikipedia.org/wiki/Anton_Lindholm)) (2024–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
+- **[Emil Bemström](https://www.wikidata.org/wiki/Q31146116)** ([WP](https://de.wikipedia.org/wiki/Emil_Bemström)) (2025–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
+- **[Louis Füllemann](https://www.wikidata.org/wiki/Q81902997)** — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Michael Sgarbossa](https://www.wikidata.org/wiki/Q64488)** ([WP](https://de.wikipedia.org/wiki/Michael_Sgarbossa)) (2026–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
+- **[Miro Aaltonen](https://www.wikidata.org/wiki/Q4354029)** ([WP](https://en.wikipedia.org/wiki/Miro_Aaltonen)) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Romain Loeffel](https://www.wikidata.org/wiki/Q3440699)** ([WP](https://de.wikipedia.org/wiki/Romain_Loeffel)) (2022–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
+- **[Sandro Zurkirchen](https://www.wikidata.org/wiki/Q16600160)** ([WP](https://de.wikipedia.org/wiki/Sandro_Zurkirchen)) (2025–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
+- **[Simon Kindschi](https://www.wikidata.org/wiki/Q28547059)** ([WP](https://de.wikipedia.org/wiki/Simon_Kindschi)) (2023–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
+- **[Sonny Milano](https://www.wikidata.org/wiki/Q16229770)** ([WP](https://de.wikipedia.org/wiki/Sonny_Milano)) (2026–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
+- **[Thierry Schild](https://www.wikidata.org/wiki/Q81906798)** — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Victor Ejdsell](https://www.wikidata.org/wiki/Q19976519)** ([WP](https://en.wikipedia.org/wiki/Victor_Ejdsell)) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Waltteri Merelä](https://www.wikidata.org/wiki/Q61103011)** ([WP](https://en.wikipedia.org/wiki/Waltteri_Merel%C3%A4)) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+
+## Recorded as a current member, but no longer in the squad (187)
 
 - **[Adrian Brunner](https://www.wikidata.org/wiki/Q209014)** ([WP](https://de.wikipedia.org/wiki/Adrian_Brunner)) (2011–2012) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Berger](https://www.wikidata.org/wiki/Q2636358)** ([WP](https://de.wikipedia.org/wiki/Alain_Berger_(Eishockeyspieler))) (2012–2022) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -26,7 +42,6 @@
 - **[Beat Gerber](https://www.wikidata.org/wiki/Q446726)** ([WP](https://de.wikipedia.org/wiki/Beat_Gerber)) (2003–2023) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Beat Kaufmann](https://www.wikidata.org/wiki/Q16531663)** — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Beat Kuhn](https://www.wikidata.org/wiki/Q64738145)** ([WP](https://de.wikipedia.org/wiki/Beat_Kuhn)) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Benjamin Baumgartner](https://www.wikidata.org/wiki/Q65030293)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Baumgartner)) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bernd Wolf](https://www.wikidata.org/wiki/Q29477228)** ([WP](https://de.wikipedia.org/wiki/Bernd_Wolf_(Eishockeyspieler))) (2011–2016) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bernhard Schümperli](https://www.wikidata.org/wiki/Q18222205)** — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Björn Christen](https://www.wikidata.org/wiki/Q879582)** ([WP](https://de.wikipedia.org/wiki/Bj%C3%B6rn_Christen)) (–2001) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -197,41 +212,25 @@
 - **[Éric Perrin](https://www.wikidata.org/wiki/Q288290)** ([WP](https://de.wikipedia.org/wiki/%C3%89ric_Perrin)) (2005–2006) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ľuboš Bartečko](https://www.wikidata.org/wiki/Q345044)** ([WP](https://de.wikipedia.org/wiki/%C4%BDubo%C5%A1_Barte%C4%8Dko)) (2009–2010) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (7)
+## Current member, but the membership has no start date (6)
 
-- **[Anton Lindholm](https://www.wikidata.org/wiki/Q16229499)** ([WP](https://de.wikipedia.org/wiki/Anton_Lindholm)) (2024–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
-- **[Emil Bemström](https://www.wikidata.org/wiki/Q31146116)** ([WP](https://de.wikipedia.org/wiki/Emil_Bemström)) (2025–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
-- **[Michael Sgarbossa](https://www.wikidata.org/wiki/Q64488)** ([WP](https://de.wikipedia.org/wiki/Michael_Sgarbossa)) (2026–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
-- **[Romain Loeffel](https://www.wikidata.org/wiki/Q3440699)** ([WP](https://de.wikipedia.org/wiki/Romain_Loeffel)) (2022–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
-- **[Sandro Zurkirchen](https://www.wikidata.org/wiki/Q16600160)** ([WP](https://de.wikipedia.org/wiki/Sandro_Zurkirchen)) (2025–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
-- **[Simon Kindschi](https://www.wikidata.org/wiki/Q28547059)** ([WP](https://de.wikipedia.org/wiki/Simon_Kindschi)) (2023–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
-- **[Sonny Milano](https://www.wikidata.org/wiki/Q16229770)** ([WP](https://de.wikipedia.org/wiki/Sonny_Milano)) (2026–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
-
-## Current member, but the membership has no start date (5)
-
+- **[Benjamin Baumgartner](https://www.wikidata.org/wiki/Q65030293)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Baumgartner)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Joël Vermin](https://www.wikidata.org/wiki/Q533021)** ([WP](https://de.wikipedia.org/wiki/Joël_Vermin)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Marco Müller](https://www.wikidata.org/wiki/Q29512404)** ([WP](https://de.wikipedia.org/wiki/Marco_Müller_(Eishockeyspieler,_1994))) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Ramon Untersander](https://www.wikidata.org/wiki/Q2130267)** ([WP](https://de.wikipedia.org/wiki/Ramon_Untersander)) (2015–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Samuel Kreis](https://www.wikidata.org/wiki/Q15843907)** ([WP](https://de.wikipedia.org/wiki/Samuel_Kreis)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Tristan Scherwey](https://www.wikidata.org/wiki/Q783694)** ([WP](https://de.wikipedia.org/wiki/Tristan_Scherwey)) (2007–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (18)
+## In current squad, but no Wikidata item could be found (11)
 
-- **Adam Reideborn** ([WP](https://de.wikipedia.org/wiki/Adam_Reideborn)) — 'Adam Reideborn' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Alain Graf** ([WP](https://de.wikipedia.org/wiki/Alain_Graf)) — 'Alain Graf' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Alexander Jakowenko** ([WP](https://de.wikipedia.org/wiki/Alexander_Sergejewitsch_Jakowenko)) — 'Alexander Jakowenko' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Andri Henauer** ([WP](https://de.wikipedia.org/wiki/Andri_Henauer)) — 'Andri Henauer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Benjamin Baumgartner** ([WP](https://de.wikipedia.org/wiki/Benjamin_Baumgartner)) — 'Benjamin Baumgartner' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Christof von Burg** ([WP](https://de.wikipedia.org/wiki/Christof_von_Burg)) — 'Christof von Burg' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Fabian Ritzmann** ([WP](https://de.wikipedia.org/wiki/Fabian_Ritzmann)) — 'Fabian Ritzmann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Hardy Häman Aktell** ([WP](https://de.wikipedia.org/wiki/Hardy_Häman_Aktell)) — 'Hardy Häman Aktell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Louis Füllemann** ([WP](https://de.wikipedia.org/wiki/Louis_Füllemann)) — 'Louis Füllemann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Marc Marchon** ([WP](https://de.wikipedia.org/wiki/Marc_Marchon)) — 'Marc Marchon' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Marco Lehmann** ([WP](https://de.wikipedia.org/wiki/Marco_Lehmann_(Eishockeyspieler))) — 'Marco Lehmann' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mats Alge** ([WP](https://de.wikipedia.org/wiki/Mats_Alge)) — 'Mats Alge' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Miro Aaltonen** ([WP](https://de.wikipedia.org/wiki/Miro_Aaltonen)) — 'Miro Aaltonen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nils Rhyn** ([WP](https://de.wikipedia.org/wiki/Nils_Rhyn)) — 'Nils Rhyn' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Noah Fuss** ([WP](https://de.wikipedia.org/wiki/Noah_Fuss)) — 'Noah Fuss' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Thierry Schild** ([WP](https://de.wikipedia.org/wiki/Thierry_Schild)) — 'Thierry Schild' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Victor Ejdsell** ([WP](https://de.wikipedia.org/wiki/Victor_Ejdsell)) — 'Victor Ejdsell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Waltteri Merelä** ([WP](https://de.wikipedia.org/wiki/Waltteri_Merelä)) — 'Waltteri Merelä' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Alain Graf** — 'Alain Graf' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Alexander Jakowenko** — 'Alexander Jakowenko' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Andri Henauer** — 'Andri Henauer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Christof von Burg** — 'Christof von Burg' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Fabian Ritzmann** — 'Fabian Ritzmann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Hardy Häman Aktell** — 'Hardy Häman Aktell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Marc Marchon** — 'Marc Marchon' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Marco Lehmann** — 'Marco Lehmann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mats Alge** — 'Mats Alge' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nils Rhyn** — 'Nils Rhyn' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Noah Fuss** — 'Noah Fuss' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

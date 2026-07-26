@@ -11,7 +11,7 @@
 - **[Josh Dasilva](https://www.wikidata.org/wiki/Q36696872)** ([WP](https://en.wikipedia.org/wiki/Josh_Dasilva)) (2018–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Kim Ji-soo](https://www.wikidata.org/wiki/Q117277515)** ([WP](https://en.wikipedia.org/wiki/Kim_Ji-soo_(footballer))) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (29)
+## In current squad, but no membership statement on Wikidata (31)
 
 - **[Aaron Hickey](https://www.wikidata.org/wiki/Q64010525)** ([WP](https://en.wikipedia.org/wiki/Aaron_Hickey)) (2022–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Antoni Milambo](https://www.wikidata.org/wiki/Q108067127)** ([WP](https://en.wikipedia.org/wiki/Antoni_Milambo)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
@@ -19,6 +19,7 @@
 - **[Benjamin Arthur](https://www.wikidata.org/wiki/Q135426296)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Arthur_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Benjamin Fredrick](https://www.wikidata.org/wiki/Q118957173)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Fredrick)) (2024–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Callum Wilson](https://www.wikidata.org/wiki/Q5022998)** ([WP](https://en.wikipedia.org/wiki/Callum_Wilson)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
+- **[Conor McManus](https://www.wikidata.org/wiki/Q16732375)** ([WP](https://en.wikipedia.org/wiki/Conor_McManus)) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Dango Ouattara](https://www.wikidata.org/wiki/Q108000402)** ([WP](https://en.wikipedia.org/wiki/Dango_Ouattara)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Ellery Balcombe](https://www.wikidata.org/wiki/Q104761621)** ([WP](https://en.wikipedia.org/wiki/Ellery_Balcombe)) (2018–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Ethan Pinnock](https://www.wikidata.org/wiki/Q36999329)** ([WP](https://en.wikipedia.org/wiki/Ethan_Pinnock)) (2019–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
@@ -38,6 +39,7 @@
 - **[Michael Olakigbe](https://www.wikidata.org/wiki/Q122038690)** ([WP](https://en.wikipedia.org/wiki/Michael_Olakigbe)) (2023–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Michel Boni](https://www.wikidata.org/wiki/Q138808990)** ([WP](https://en.wikipedia.org/wiki/Michel_Boni)) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Nathan Collins](https://www.wikidata.org/wiki/Q63067287)** ([WP](https://en.wikipedia.org/wiki/Nathan_Collins)) (2023–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
+- **[Reggie Rose](https://www.wikidata.org/wiki/Q100918158)** — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Romelle Donovan](https://www.wikidata.org/wiki/Q123187366)** ([WP](https://en.wikipedia.org/wiki/Romelle_Donovan)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Sepp van den Berg](https://www.wikidata.org/wiki/Q50398907)** ([WP](https://en.wikipedia.org/wiki/Sepp_van_den_Berg)) (2024–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Theo Mawene](https://www.wikidata.org/wiki/Q134984446)** ([WP](https://en.wikipedia.org/wiki/Theo_Mawene)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
@@ -241,16 +243,14 @@
 - **[Mikkel Damsgaard](https://www.wikidata.org/wiki/Q45034698)** ([WP](https://en.wikipedia.org/wiki/Mikkel_Damsgaard)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Yehor Yarmolyuk](https://www.wikidata.org/wiki/Q97630957)** ([WP](https://en.wikipedia.org/wiki/Yehor_Yarmolyuk)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (11)
+## In current squad, but no Wikidata item could be found (9)
 
-- **Andre Grey** — 'Andre Grey' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Caelan Avenell** — 'Caelan Avenell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Connor Wolfheimer** — 'Connor Wolfheimer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Conor McManus** — 'Conor McManus' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Isaac Holland** — 'Isaac Holland' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Josh Stephenson** — 'Josh Stephenson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luca Picotto** — 'Luca Picotto' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Matas Klimas** — 'Matas Klimas' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ollie Shield** — 'Ollie Shield' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Reggie Rose** — 'Reggie Rose' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Riley Owen** — 'Riley Owen' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Andre Grey** — 'Andre Grey' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Caelan Avenell** — 'Caelan Avenell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Connor Wolfheimer** — 'Connor Wolfheimer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Isaac Holland** — 'Isaac Holland' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Josh Stephenson** — 'Josh Stephenson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luca Picotto** — 'Luca Picotto' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Matas Klimas** — 'Matas Klimas' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ollie Shield** — 'Ollie Shield' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Riley Owen** — 'Riley Owen' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

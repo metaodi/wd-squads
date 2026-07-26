@@ -188,9 +188,9 @@
 - **[Winfried Geier](https://www.wikidata.org/wiki/Q2584199)** ([WP](https://de.wikipedia.org/wiki/Winfried_Geier)) (1979–1984) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Younès Belhanda](https://www.wikidata.org/wiki/Q348266)** ([WP](https://de.wikipedia.org/wiki/Youn%C3%A8s_Belhanda)) (2016) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but the Wikipedia article has no Wikidata item (4)
+## In current squad, but no Wikidata item could be found (4)
 
-- **1** — '1' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ayman Gülaşı** ([WP](https://de.wikipedia.org/wiki/Ayman_Gülaşı)) — 'Ayman Gülaşı' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Johannes Siebeking** — 'Johannes Siebeking' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luca Vozar** — 'Luca Vozar' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **1** — '1' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ayman Gülaşı** — 'Ayman Gülaşı' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Johannes Siebeking** — 'Johannes Siebeking' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Luca Vozar** — 'Luca Vozar' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

@@ -47,32 +47,32 @@
 - **[Willian Sarôa de Souza](https://www.wikidata.org/wiki/Q8021334)** ([WP](https://en.wikipedia.org/wiki/Willian_Sar%C3%B4a)) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yones Felfel](https://www.wikidata.org/wiki/Q16236743)** ([WP](https://de.wikipedia.org/wiki/Yones_Felfel)) (2016–2018) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (12)
+## In current squad, but no membership statement on Wikidata (16)
 
 - **[Benjamin Büchel](https://www.wikidata.org/wiki/Q168498)** ([WP](https://de.wikipedia.org/wiki/Benjamin_Büchel)) (2018–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Dejan Djokic](https://www.wikidata.org/wiki/Q106468627)** ([WP](https://de.wikipedia.org/wiki/Dejan_Djokic)) (2019–2024) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Dejan Sorgić](https://www.wikidata.org/wiki/Q1183492)** ([WP](https://de.wikipedia.org/wiki/Dejan_Sorgić)) (2026–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Denis Simani](https://www.wikidata.org/wiki/Q100351433)** ([WP](https://de.wikipedia.org/wiki/Denis_Simani)) (2024–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
+- **[Dominik Schwizer](https://www.wikidata.org/wiki/Q64009611)** ([WP](https://en.wikipedia.org/wiki/Dominik_Schwizer)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Juan Cabrera](https://www.wikidata.org/wiki/Q3187591)** ([WP](https://en.wikipedia.org/wiki/Juan_Domingo_Cabrera)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Julian Stark](https://www.wikidata.org/wiki/Q106541783)** ([WP](https://de.wikipedia.org/wiki/Julian_Stark)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
+- **[Lado Akhalaia](https://www.wikidata.org/wiki/Q113533548)** ([WP](https://en.wikipedia.org/wiki/Lado_Akhalaia_(footballer,_born_2002))) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Leon Schaffran](https://www.wikidata.org/wiki/Q57578062)** ([WP](https://de.wikipedia.org/wiki/Leon_Schaffran)) (2024–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Luca Mack](https://www.wikidata.org/wiki/Q66434072)** ([WP](https://de.wikipedia.org/wiki/Luca_Mack)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Malik Sawadogo](https://www.wikidata.org/wiki/Q109930936)** ([WP](https://de.wikipedia.org/wiki/Malik_Sawadogo)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Marcel Monsberger](https://www.wikidata.org/wiki/Q50386430)** ([WP](https://de.wikipedia.org/wiki/Marcel_Monsberger)) (2025–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Miloš Cocić](https://www.wikidata.org/wiki/Q110074943)** ([WP](https://de.wikipedia.org/wiki/Miloš_Cocić)) (2026–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Niklas Lang](https://www.wikidata.org/wiki/Q99355165)** ([WP](https://de.wikipedia.org/wiki/Niklas_Lang_(Fußballspieler,_2002))) (2025–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
+- **[Ranjan Neelakandan](https://www.wikidata.org/wiki/Q137126959)** ([WP](https://en.wikipedia.org/wiki/Ranjan_Neelakandan)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Stephan Seiler](https://www.wikidata.org/wiki/Q96473899)** ([WP](https://de.wikipedia.org/wiki/Stephan_Seiler)) (2025–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 
-## In current squad, but the Wikipedia article has no Wikidata item (12)
+## In current squad, but no Wikidata item could be found (8)
 
-- **Dominik Schwizer** ([WP](https://de.wikipedia.org/wiki/Dominik_Schwizer)) — 'Dominik Schwizer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Juan Cabrera** ([WP](https://de.wikipedia.org/wiki/Juan_Cabrera_(Fußballspieler))) — 'Juan Cabrera' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lado Akhalaia** ([WP](https://de.wikipedia.org/wiki/Lado_Akhalaia)) — 'Lado Akhalaia' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Liridon Berisha** ([WP](https://de.wikipedia.org/wiki/Liridon_Berisha)) — 'Liridon Berisha' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Lutfi Dalipi** ([WP](https://de.wikipedia.org/wiki/Lutfi_Dalipi)) — 'Lutfi Dalipi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mats Hammerich** ([WP](https://de.wikipedia.org/wiki/Mats_Hammerich)) — 'Mats Hammerich' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mattia Walker** ([WP](https://de.wikipedia.org/wiki/Mattia_Walker)) — 'Mattia Walker' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mischa Beeli** ([WP](https://de.wikipedia.org/wiki/Mischa_Beeli)) — 'Mischa Beeli' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mischa Eberhard** ([WP](https://de.wikipedia.org/wiki/Mischa_Eberhard)) — 'Mischa Eberhard' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nico Föllmi** ([WP](https://de.wikipedia.org/wiki/Nico_Föllmi)) — 'Nico Föllmi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ranjan Neelakandan** ([WP](https://de.wikipedia.org/wiki/Ranjan_Neelakandan)) — 'Ranjan Neelakandan' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tim-Tiado Oehri** — 'Tim-Tiado Oehri' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Liridon Berisha** — 'Liridon Berisha' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lutfi Dalipi** — 'Lutfi Dalipi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mats Hammerich** — 'Mats Hammerich' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mattia Walker** — 'Mattia Walker' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mischa Beeli** — 'Mischa Beeli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mischa Eberhard** — 'Mischa Eberhard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nico Föllmi** — 'Nico Föllmi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Tim-Tiado Oehri** — 'Tim-Tiado Oehri' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

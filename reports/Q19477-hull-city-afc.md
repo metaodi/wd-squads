@@ -6,7 +6,7 @@
 - Current members on Wikidata: 96
 - Suggested edits: 156
 
-## In current squad, but no membership statement on Wikidata (34)
+## In current squad, but no membership statement on Wikidata (35)
 
 - **[Abdülkadir Ömür](https://www.wikidata.org/wiki/Q27832286)** ([WP](https://en.wikipedia.org/wiki/Abdülkadir_Ömür)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Cathal McCarthy](https://www.wikidata.org/wiki/Q134664423)** ([WP](https://en.wikipedia.org/wiki/Cathal_McCarthy_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
@@ -16,6 +16,7 @@
 - **[David Akintola](https://www.wikidata.org/wiki/Q27671136)** ([WP](https://en.wikipedia.org/wiki/David_Akintola)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Dillon Phillips](https://www.wikidata.org/wiki/Q17496506)** ([WP](https://en.wikipedia.org/wiki/Dillon_Phillips)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Eliot Matazo](https://www.wikidata.org/wiki/Q98829607)** ([WP](https://en.wikipedia.org/wiki/Eliot_Matazo)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Emmanuel Sarpong](https://www.wikidata.org/wiki/Q54010052)** ([WP](https://en.wikipedia.org/wiki/Emmanuel_Sarpong)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Enis Destan](https://www.wikidata.org/wiki/Q105473101)** ([WP](https://en.wikipedia.org/wiki/Enis_Destan)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Harvey Cartwright](https://www.wikidata.org/wiki/Q110966213)** ([WP](https://en.wikipedia.org/wiki/Harvey_Cartwright)) (2019–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Hugh Parker](https://www.wikidata.org/wiki/Q133544851)** ([WP](https://en.wikipedia.org/wiki/Hugh_Parker_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
@@ -141,32 +142,31 @@
 - **[Will Annan](https://www.wikidata.org/wiki/Q37810321)** ([WP](https://en.wikipedia.org/wiki/Will_Annan)) (2015–2018) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Will Mannion](https://www.wikidata.org/wiki/Q37803076)** ([WP](https://en.wikipedia.org/wiki/Will_Mannion)) (2016–2020) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but the Wikipedia article has no Wikidata item (27)
+## In current squad, but no Wikidata item could be found (26)
 
-- **Aidon Shehu** — 'Aidon Shehu' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Albert Matique** — 'Albert Matique' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Alfie Maskell** — 'Alfie Maskell' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Archie Howard** — 'Archie Howard' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bobby Moore** — 'Bobby Moore' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Callum Yam** — 'Callum Yam' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Calvin Okike** — 'Calvin Okike' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Cayden Cole** — 'Cayden Cole' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Charlie Leach** — 'Charlie Leach' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Dellan Robinson** — 'Dellan Robinson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ed Devine** — 'Ed Devine' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ekemini Umoren** — 'Ekemini Umoren' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Emmanuel Sarpong** — 'Emmanuel Sarpong' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Harry Revill** — 'Harry Revill' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jack Hopper** — 'Jack Hopper' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jack Topley** — 'Jack Topley' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Josh Ocaya** — 'Josh Ocaya' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Nathan Tinsdale** — 'Nathan Tinsdale' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Oskar Gruszkowski** — 'Oskar Gruszkowski' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ramell Carter** — 'Ramell Carter' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Reuben Silk** — 'Reuben Silk' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rory Leech** — 'Rory Leech' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Sasha Gomeniuk** — 'Sasha Gomeniuk' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Stan Hewitt** — 'Stan Hewitt' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Ted Gode** — 'Ted Gode' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Zac Jagielka** — 'Zac Jagielka' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Zane Myers** — 'Zane Myers' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **Aidon Shehu** — 'Aidon Shehu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Albert Matique** — 'Albert Matique' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Alfie Maskell** — 'Alfie Maskell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Archie Howard** — 'Archie Howard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Bobby Moore** — 'Bobby Moore' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Callum Yam** — 'Callum Yam' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Calvin Okike** — 'Calvin Okike' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Cayden Cole** — 'Cayden Cole' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Charlie Leach** — 'Charlie Leach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Dellan Robinson** — 'Dellan Robinson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ed Devine** — 'Ed Devine' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ekemini Umoren** — 'Ekemini Umoren' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Harry Revill** — 'Harry Revill' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jack Hopper** — 'Jack Hopper' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jack Topley** — 'Jack Topley' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Josh Ocaya** — 'Josh Ocaya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nathan Tinsdale** — 'Nathan Tinsdale' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Oskar Gruszkowski** — 'Oskar Gruszkowski' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ramell Carter** — 'Ramell Carter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Reuben Silk** — 'Reuben Silk' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Rory Leech** — 'Rory Leech' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Sasha Gomeniuk** — 'Sasha Gomeniuk' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Stan Hewitt** — 'Stan Hewitt' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ted Gode** — 'Ted Gode' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Zac Jagielka** — 'Zac Jagielka' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Zane Myers** — 'Zane Myers' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

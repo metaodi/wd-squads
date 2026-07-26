@@ -4,7 +4,7 @@
 - Wikipedia article: [FC Bayern München](https://de.wikipedia.org/wiki/FC_Bayern_München)
 - Players in Wikipedia squad: 91
 - Current members on Wikidata: 214
-- Suggested edits: 276
+- Suggested edits: 274
 
 ## Membership marked ended, but player is in the current squad (3)
 
@@ -12,7 +12,7 @@
 - **[Serge Gnabry](https://www.wikidata.org/wiki/Q59490)** ([WP](https://de.wikipedia.org/wiki/Serge_Gnabry)) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Sven Ulreich](https://www.wikidata.org/wiki/Q60340)** ([WP](https://de.wikipedia.org/wiki/Sven_Ulreich)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (199)
+## Recorded as a current member, but no longer in the squad (198)
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** ([WP](https://de.wikipedia.org/wiki/Adam_Aznou)) (2024–2025) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Fein](https://www.wikidata.org/wiki/Q56705037)** ([WP](https://de.wikipedia.org/wiki/Adrian_Fein)) (2020–2022) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -160,7 +160,6 @@
 - **[Niklas Dorsch](https://www.wikidata.org/wiki/Q24449743)** ([WP](https://de.wikipedia.org/wiki/Niklas_Dorsch)) (2016–2018) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nikola Jelišić](https://www.wikidata.org/wiki/Q66486119)** ([WP](https://de.wikipedia.org/wiki/Nikola_Jelisi%C4%87)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Niobe Friedrich](https://www.wikidata.org/wiki/Q27862727)** ([WP](https://de.wikipedia.org/wiki/Niobe_Friedrich)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Noah Codjo-Evora](https://www.wikidata.org/wiki/Q127946020)** ([WP](https://en.wikipedia.org/wiki/Noah_Codjo-Evora)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Otto Gratzmüller](https://www.wikidata.org/wiki/Q32592688)** ([WP](https://de.wikipedia.org/wiki/Otto_Gratzm%C3%BCller)) (1911–1912) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Otto Ludwig Naegele](https://www.wikidata.org/wiki/Q1479504)** ([WP](https://de.wikipedia.org/wiki/Otto_Ludwig_Naegele)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Otto Pregler](https://www.wikidata.org/wiki/Q32673363)** — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -214,85 +213,84 @@
 - **[Willi Schimankowitz](https://www.wikidata.org/wiki/Q85325784)** ([WP](https://de.wikipedia.org/wiki/Willi_Schimankowitz)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wolfgang Comploy](https://www.wikidata.org/wiki/Q22342418)** ([WP](https://de.wikipedia.org/wiki/Wolfgang_Comploy)) (1966–1968) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (14)
+## In current squad, but no membership statement on Wikidata (31)
 
 - **[Anton Heinz](https://www.wikidata.org/wiki/Q128497615)** ([WP](https://de.wikipedia.org/wiki/Anton_Heinz)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Artur Degraf](https://www.wikidata.org/wiki/Q139666359)** ([WP](https://en.wikipedia.org/wiki/Artur_Degraf)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Bajung Darboe](https://www.wikidata.org/wiki/Q119271184)** ([WP](https://en.wikipedia.org/wiki/Bajung_Darboe)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Bara Ndiaye](https://www.wikidata.org/wiki/Q137733792)** ([WP](https://de.wikipedia.org/wiki/Bara_Ndiaye)) (2026–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Benedikt Wimmer](https://www.wikidata.org/wiki/Q139577279)** ([WP](https://en.wikipedia.org/wiki/Benedikt_Wimmer)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Benno Schmitz](https://www.wikidata.org/wiki/Q17310494)** ([WP](https://de.wikipedia.org/wiki/Benno_Schmitz)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Cassiano Kiala](https://www.wikidata.org/wiki/Q134462732)** ([WP](https://de.wikipedia.org/wiki/Cassiano_Kiala)) (2025–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Chivano Wijks](https://www.wikidata.org/wiki/Q134717518)** ([WP](https://en.wikipedia.org/wiki/Chivano_Wijks)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[David Heindl](https://www.wikidata.org/wiki/Q109324731)** ([WP](https://de.wikipedia.org/wiki/David_Heindl)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[David Santos Daiber](https://www.wikidata.org/wiki/Q134713602)** ([WP](https://de.wikipedia.org/wiki/David_Santos_Daiber)) (2025–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Felipe Chávez](https://www.wikidata.org/wiki/Q121841651)** ([WP](https://de.wikipedia.org/wiki/Felipe_Chávez)) (2025–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Filip Pavić](https://www.wikidata.org/wiki/Q137435622)** ([WP](https://de.wikipedia.org/wiki/Filip_Pavić)) (2026–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Guido Della Rovere](https://www.wikidata.org/wiki/Q126926011)** ([WP](https://de.wikipedia.org/wiki/Guido_Della_Rovere)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Hannes Heilmair](https://www.wikidata.org/wiki/Q139666463)** ([WP](https://en.wikipedia.org/wiki/Hannes_Heilmair)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Hiroki Itō](https://www.wikidata.org/wiki/Q30933054)** ([WP](https://de.wikipedia.org/wiki/Hiroki_Itō_(Fußballspieler,_1999))) (2024–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Jannis Bärtl](https://www.wikidata.org/wiki/Q137509520)** ([WP](https://en.wikipedia.org/wiki/Jannis_B%C3%A4rtl)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Jonas Urbig](https://www.wikidata.org/wiki/Q116752839)** ([WP](https://de.wikipedia.org/wiki/Jonas_Urbig)) (2025–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Leon Klanac](https://www.wikidata.org/wiki/Q134926727)** ([WP](https://en.wikipedia.org/wiki/Leon_Klanac)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Leonard Prescott](https://www.wikidata.org/wiki/Q137716242)** ([WP](https://en.wikipedia.org/wiki/Leonard_Prescott)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Louis Richter](https://www.wikidata.org/wiki/Q139741994)** ([WP](https://en.wikipedia.org/wiki/Louis_Richter)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Luis Schäfer](https://www.wikidata.org/wiki/Q139822039)** — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Maycon Cardozo](https://www.wikidata.org/wiki/Q135728711)** ([WP](https://de.wikipedia.org/wiki/Maycon_Cardozo)) (2026–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Mudaser Sadat](https://www.wikidata.org/wiki/Q136344041)** ([WP](https://de.wikipedia.org/wiki/Mudaser_Sadat)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Nicolas Jackson](https://www.wikidata.org/wiki/Q100144350)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Jackson)) (2025–2026) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Raphael Pavlić](https://www.wikidata.org/wiki/Q139500780)** ([WP](https://en.wikipedia.org/wiki/Raphael_Pavli%C4%87)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Roko Mijatović](https://www.wikidata.org/wiki/Q138926025)** ([WP](https://en.wikipedia.org/wiki/Roko_Mijatovi%C4%87)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Tim Binder](https://www.wikidata.org/wiki/Q137473617)** ([WP](https://en.wikipedia.org/wiki/Tim_Binder)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Vincent Manuba](https://www.wikidata.org/wiki/Q121878164)** ([WP](https://en.wikipedia.org/wiki/Vincent_Manuba)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Wisdom Mike](https://www.wikidata.org/wiki/Q132171805)** ([WP](https://de.wikipedia.org/wiki/Wisdom_Mike)) (2025–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
+- **[Yll Gashi](https://www.wikidata.org/wiki/Q138951968)** ([WP](https://en.wikipedia.org/wiki/Yll_Gashi)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Younes Aitamer](https://www.wikidata.org/wiki/Q109256084)** ([WP](https://en.wikipedia.org/wiki/Younes_Aitamer)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 ## Current member, but the membership has no start date (1)
 
 - **[Josip Stanišić](https://www.wikidata.org/wiki/Q65950201)** ([WP](https://de.wikipedia.org/wiki/Josip_Stanišić)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but the Wikipedia article has no Wikidata item (59)
+## In current squad, but no Wikidata item could be found (41)
 
-- **1. März 2007** — '1. März 2007' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **10. Januar 2007** — '10. Januar 2007' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **10. Oktober 2008** — '10. Oktober 2008' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **11. Februar 1996** — '11. Februar 1996' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **11. Januar 2009** — '11. Januar 2009' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **12. Dezember 2001** — '12. Dezember 2001' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **12. Mai 1999** — '12. Mai 1999' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **13. Januar 1997** — '13. Januar 1997' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **13. November 1996** — '13. November 1996' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **19. Januar 2010** — '19. Januar 2010' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **2. April 2000** — '2. April 2000' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **2. November 2000** — '2. November 2000' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **20. Juni 2001** — '20. Juni 2001' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **22. Dezember 1993** — '22. Dezember 1993' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **22. Februar 2008** — '22. Februar 2008' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **24. September 2008** — '24. September 2008' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **26. Februar 2003** — '26. Februar 2003' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **27. Mai 1997** — '27. Mai 1997' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **28. Juli 1993** — '28. Juli 1993' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **28. Juni 2005** — '28. Juni 2005' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **3. August 1988** — '3. August 1988' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **3. Mai 2004** — '3. Mai 2004' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **31. Dezember 2007** — '31. Dezember 2007' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **6. Februar 1995** — '6. Februar 1995' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **8. August 2003** — '8. August 2003' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Allen Junior Lambé** — 'Allen Junior Lambé' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Aristide Hentcho** — 'Aristide Hentcho' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Artur Degraf** — 'Artur Degraf' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bajung Darboe** ([WP](https://de.wikipedia.org/wiki/Bajung_Darboe)) — 'Bajung Darboe' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bastian Assomo/** — 'Bastian Assomo/' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Benedikt Wimmer** — 'Benedikt Wimmer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Bohdan Olitschenko** — 'Bohdan Olitschenko' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Chivano Wijks** — 'Chivano Wijks' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Chris Afanou** — 'Chris Afanou' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Filip Pavić/** — 'Filip Pavić/' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Hannes Heilmair** — 'Hannes Heilmair' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jakob Horvath** — 'Jakob Horvath' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jannis Bärtl** — 'Jannis Bärtl' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Jason Eckl** — 'Jason Eckl' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Leon Klanac** — 'Leon Klanac' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Leonard Prescott** — 'Leonard Prescott' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Leonard Ruland** — 'Leonard Ruland' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Louis Richter** — 'Louis Richter' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Luis Schäfer** — 'Luis Schäfer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Matouš Srb** — 'Matouš Srb' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Matteo Maric/** — 'Matteo Maric/' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Michael Scott** — 'Michael Scott' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Min-jae Kim** ([WP](https://de.wikipedia.org/wiki/Min-jae_Kim)) — 'Min-jae Kim' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Mudaser Sadat** — 'Mudaser Sadat' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Noah Codjo-Evora** — 'Noah Codjo-Evora' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Oluwaseyi Wilson** — 'Oluwaseyi Wilson' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Philipp von Taube** — 'Philipp von Taube' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Raphael Pavlić** — 'Raphael Pavlić' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Rayan Moumouni** — 'Rayan Moumouni' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Roko Mijatović** — 'Roko Mijatović' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Tim Binder** — 'Tim Binder' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Vincent Manuba** — 'Vincent Manuba' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Yll Gashi** — 'Yll Gashi' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
-- **Younes Aitamer** — 'Younes Aitamer' is listed in the squad on Wikipedia but its article has no linked Wikidata item.
+- **1. März 2007** — '1. März 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **10. Januar 2007** — '10. Januar 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **10. Oktober 2008** — '10. Oktober 2008' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **11. Februar 1996** — '11. Februar 1996' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **11. Januar 2009** — '11. Januar 2009' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **12. Dezember 2001** — '12. Dezember 2001' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **12. Mai 1999** — '12. Mai 1999' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **13. Januar 1997** — '13. Januar 1997' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **13. November 1996** — '13. November 1996' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **19. Januar 2010** — '19. Januar 2010' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **2. April 2000** — '2. April 2000' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **2. November 2000** — '2. November 2000' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **20. Juni 2001** — '20. Juni 2001' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **22. Dezember 1993** — '22. Dezember 1993' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **22. Februar 2008** — '22. Februar 2008' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **24. September 2008** — '24. September 2008' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **26. Februar 2003** — '26. Februar 2003' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **27. Mai 1997** — '27. Mai 1997' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **28. Juli 1993** — '28. Juli 1993' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **28. Juni 2005** — '28. Juni 2005' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **3. August 1988** — '3. August 1988' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **3. Mai 2004** — '3. Mai 2004' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **31. Dezember 2007** — '31. Dezember 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **6. Februar 1995** — '6. Februar 1995' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **8. August 2003** — '8. August 2003' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Allen Junior Lambé** — 'Allen Junior Lambé' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Aristide Hentcho** — 'Aristide Hentcho' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Bastian Assomo/** — 'Bastian Assomo/' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Bohdan Olitschenko** — 'Bohdan Olitschenko' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Chris Afanou** — 'Chris Afanou' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Filip Pavić/** — 'Filip Pavić/' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jakob Horvath** — 'Jakob Horvath' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jason Eckl** — 'Jason Eckl' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Leonard Ruland** — 'Leonard Ruland' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Matouš Srb** — 'Matouš Srb' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Matteo Maric/** — 'Matteo Maric/' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Michael Scott** — 'Michael Scott' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Min-jae Kim** — 'Min-jae Kim' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Oluwaseyi Wilson** — 'Oluwaseyi Wilson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Philipp von Taube** — 'Philipp von Taube' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Rayan Moumouni** — 'Rayan Moumouni' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
