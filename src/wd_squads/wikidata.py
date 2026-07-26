@@ -4,16 +4,36 @@ from __future__ import annotations
 
 import logging
 import re
-from typing import List, Optional
+from typing import Dict, Iterator, List, Optional
 
 from .config import DEFAULT_TEAM_CLASS, Config
 from .http_client import HttpClient
-from .models import Membership, Team
+from .models import Membership, PersonMatch, Team
 
 log = logging.getLogger(__name__)
 
 WDQS_ENDPOINT = "https://query.wikidata.org/sparql"
 ENTITY_RE = re.compile(r"/entity/(Q\d+)$")
+
+# "athlete" — the superclass every sports occupation (association football
+# player, ice hockey player, …) sits under. Used to keep the name search of
+# ``search_people`` on people who plausibly play the sport.
+ATHLETE_CLASS = "Q2066131"
+
+# Label languages a player's name is looked up in, on top of the Wikipedia
+# edition the squad was read from. "mul" is Wikidata's language-agnostic label
+# (increasingly where a person's name lives, instead of being repeated per
+# language); "en" is the most consistently filled edition-specific one.
+EXTRA_LABEL_LANGUAGES = ("en", "mul")
+
+# Names too short to be discriminating are never searched — a one-word name is
+# far more likely to collide with an unrelated person.
+_SEARCHABLE_NAME_RE = re.compile(r"\S+\s+\S+")
+
+# Names per name-search query. Each one contributes a literal per label
+# language, and the query travels in the URL of a GET, so this keeps the
+# request comfortably under the usual ~8 KB header limit.
+SEARCH_BATCH_SIZE = 30
 
 
 def qid_from_uri(uri: str) -> Optional[str]:
@@ -175,6 +195,94 @@ SELECT ?player ?playerLabel ?statement ?start ?end ?article ?articleEn WHERE {{
                 )
             )
         return memberships
+
+    # -- name search ---------------------------------------------------------
+    @staticmethod
+    def _people_search_query(names: List[str], team_qid: str, language: str) -> str:
+        """SPARQL looking each of ``names`` up as a person's label or alias.
+
+        Squad players without a Wikipedia article (or with one that isn't
+        connected to Wikidata) can only be found by name. To keep that honest,
+        the query is deliberately narrow: an **exact** label/alias match, on a
+        human, who is an athlete by occupation or already has some P54
+        statement. ``?atTeam`` flags a candidate that already plays for this
+        very team, which settles otherwise ambiguous names.
+        """
+        values = " ".join(
+            f'"{_escape_literal(name)}"@{lang}'
+            for name in names
+            for lang in _label_languages(language)
+        )
+        return f"""
+SELECT DISTINCT ?name ?player ?playerLabel ?atTeam ?article ?articleEn WHERE {{
+  VALUES ?name {{ {values} }}
+  {{ ?player rdfs:label ?name . }} UNION {{ ?player skos:altLabel ?name . }}
+  ?player wdt:P31 wd:Q5 .
+  FILTER (
+    EXISTS {{ ?player wdt:P106/wdt:P279* wd:{ATHLETE_CLASS} }}
+    || EXISTS {{ ?player wdt:P54 ?anyTeam }}
+  )
+  BIND ( EXISTS {{ ?player wdt:P54 wd:{team_qid} }} AS ?atTeam )
+  OPTIONAL {{ ?article schema:about ?player ; schema:isPartOf <https://{language}.wikipedia.org/> . }}
+  OPTIONAL {{ ?articleEn schema:about ?player ; schema:isPartOf <https://en.wikipedia.org/> . }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "{language},en". }}
+}}
+""".strip()
+
+    def search_people(
+        self, names: List[str], team_qid: str, language: str = "en"
+    ) -> Dict[str, List[PersonMatch]]:
+        """Map each searchable name to the Wikidata items carrying it.
+
+        Names that match nothing (and names too generic to search, see
+        ``_SEARCHABLE_NAME_RE``) are simply absent from the result. Picking a
+        winner among several candidates is left to
+        ``resolve.select_person_match`` — this only reports what exists.
+        """
+        unique = [
+            name
+            for name in dict.fromkeys(n.strip() for n in names if n and n.strip())
+            if _SEARCHABLE_NAME_RE.fullmatch(name.strip())
+        ]
+        matches: Dict[str, List[PersonMatch]] = {}
+        for batch in _chunks(unique, SEARCH_BATCH_SIZE):
+            sparql = self._people_search_query(batch, team_qid, language)
+            for row in self.run_query(sparql):
+                qid = qid_from_uri(row.get("player", {}).get("value", ""))
+                name = row.get("name", {}).get("value")
+                if not qid or not name:
+                    continue
+                wikipedia_url = row.get("article", {}).get("value") or row.get(
+                    "articleEn", {}
+                ).get("value")
+                found = matches.setdefault(name, [])
+                if any(m.qid == qid for m in found):
+                    continue  # same item matched in several languages
+                found.append(
+                    PersonMatch(
+                        name=name,
+                        qid=qid,
+                        label=row.get("playerLabel", {}).get("value", qid),
+                        at_team=row.get("atTeam", {}).get("value") == "true",
+                        wikipedia_url=wikipedia_url,
+                    )
+                )
+        return matches
+
+
+def _chunks(items: List[str], size: int) -> Iterator[List[str]]:
+    for i in range(0, len(items), size):
+        yield items[i : i + size]
+
+
+def _escape_literal(text: str) -> str:
+    """Escape a name for use inside a SPARQL double-quoted literal."""
+    return text.replace("\\", "\\\\").replace('"', '\\"').replace("\n", " ")
+
+
+def _label_languages(language: str) -> List[str]:
+    """The label languages a name is searched in, ``language`` first."""
+    return list(dict.fromkeys([language, *EXTRA_LABEL_LANGUAGES]))
 
 
 def _date_value(binding: Optional[dict]) -> Optional[str]:

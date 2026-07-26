@@ -4,12 +4,12 @@ from __future__ import annotations
 
 import logging
 import re
-from typing import Dict, List, Optional
+from typing import Dict, List, NamedTuple, Optional
 
 import mwparserfromhell
 
 from .http_client import HttpClient
-from .models import CareerSpell, SquadPlayer, Team
+from .models import QID_FROM_SITELINK, CareerSpell, SquadPlayer, Team
 
 log = logging.getLogger(__name__)
 
@@ -516,6 +516,13 @@ def parse_career_spells(wikitext: str) -> List[CareerSpell]:
     return []
 
 
+class ArticleRef(NamedTuple):
+    """What the Action API knows about one article title."""
+
+    exists: bool = False
+    qid: Optional[str] = None
+
+
 def _redirect_map(query: dict) -> Dict[str, str]:
     rename: Dict[str, str] = {}
     for entry in query.get("normalized", []):
@@ -523,6 +530,10 @@ def _redirect_map(query: dict) -> Dict[str, str]:
     for entry in query.get("redirects", []):
         rename[entry["from"]] = entry["to"]
     return rename
+
+
+def _article_url(language: str, title: str) -> str:
+    return f"https://{language}.wikipedia.org/wiki/{title.replace(' ', '_')}"
 
 
 def _follow_redirects(rename: Dict[str, str], title: str) -> str:
@@ -560,11 +571,17 @@ class WikipediaClient:
             return None
         return data.get("parse", {}).get("wikitext")
 
-    def resolve_qids(
+    def resolve_articles(
         self, titles: List[str], language: Optional[str] = None
-    ) -> Dict[str, Optional[str]]:
-        """Map each Wikipedia article title to its Wikidata Q-ID (or None)."""
-        result: Dict[str, Optional[str]] = {}
+    ) -> Dict[str, ArticleRef]:
+        """Look each Wikipedia article title up: does it exist, and which item?
+
+        Squad lists link plenty of players whose article has not been written
+        yet (a red link). Telling that apart from "the article exists but is
+        not connected to Wikidata" matters for the report, so both facts are
+        returned rather than just the Q-ID.
+        """
+        result: Dict[str, ArticleRef] = {}
         unique = list(dict.fromkeys(t for t in titles if t))
         for batch in _chunks(unique, 50):
             result.update(self._resolve_batch(batch, language))
@@ -572,7 +589,7 @@ class WikipediaClient:
 
     def _resolve_batch(
         self, titles: List[str], language: Optional[str] = None
-    ) -> Dict[str, Optional[str]]:
+    ) -> Dict[str, ArticleRef]:
         data = self.http.get_json(
             self._api_url(language),
             params={
@@ -589,13 +606,16 @@ class WikipediaClient:
         # Follow title normalisation and redirects to the final page title.
         rename = _redirect_map(query)
 
-        final_qid: Dict[str, Optional[str]] = {}
+        found: Dict[str, ArticleRef] = {}
         for page in query.get("pages", []):
+            # formatversion=2 flags a page that does not exist as missing=True.
+            exists = not page.get("missing", False)
             qid = page.get("pageprops", {}).get("wikibase_item")
-            final_qid[page.get("title")] = qid
+            found[page.get("title")] = ArticleRef(exists=exists, qid=qid)
 
         return {
-            title: final_qid.get(_follow_redirects(rename, title)) for title in titles
+            title: found.get(_follow_redirects(rename, title), ArticleRef())
+            for title in titles
         }
 
     def fetch_wikitext_batch(
@@ -657,7 +677,12 @@ class WikipediaClient:
         return result
 
     def get_squad(self, team: Team) -> List[SquadPlayer]:
-        """Return the current squad for ``team`` with Wikidata Q-IDs resolved."""
+        """Return the current squad for ``team``, with articles looked up.
+
+        A player whose article exists and is connected to Wikidata gets their
+        ``qid`` here; the rest keep ``qid=None`` and are resolved by name
+        afterwards (see ``resolve.resolve_squad_qids``).
+        """
         if not team.wikipedia_title:
             log.info(
                 "Team %s (%s) has no %s.wikipedia article",
@@ -673,12 +698,20 @@ class WikipediaClient:
         if squad_template:
             wikitext = self.fetch_wikitext(f"Vorlage:{squad_template}", team.language) or ""
         players = parse_squad_players(wikitext)
-        mapping = self.resolve_qids(
+        articles = self.resolve_articles(
             [p.title for p in players if p.title], team.language
         )
         for player in players:
-            if player.title:
-                player.qid = mapping.get(player.title)
+            if not player.title:
+                player.article_exists = False
+                continue
+            article = articles.get(player.title, ArticleRef())
+            player.article_exists = article.exists
+            if article.exists:
+                player.wikipedia_url = _article_url(team.language, player.title)
+            if article.qid:
+                player.qid = article.qid
+                player.qid_source = QID_FROM_SITELINK
         return players
 
 

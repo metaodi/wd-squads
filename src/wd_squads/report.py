@@ -157,6 +157,7 @@ def to_json(results: List[TeamResult], generated_at: str) -> dict:
                         "kind": s.kind,
                         "player": s.player_label,
                         "player_qid": s.player_qid,
+                        "qid_source": s.qid_source,
                         "wikipedia_title": s.wikipedia_title,
                         "detail": s.detail,
                         "start_year": s.start_year,

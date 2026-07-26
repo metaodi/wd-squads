@@ -80,6 +80,81 @@ def test_get_memberships_reads_sitelink_with_english_fallback():
     assert by_qid["Q12"].wikipedia_url is None
 
 
+def test_people_search_query_is_narrow_on_purpose():
+    query = WikidataClient._people_search_query(["Kazeem Olaigbe"], "Q18500", "de")
+
+    # Exact label/alias match in the squad's language, plus English and the
+    # language-agnostic "mul" label.
+    assert '"Kazeem Olaigbe"@de' in query
+    assert '"Kazeem Olaigbe"@en' in query
+    assert '"Kazeem Olaigbe"@mul' in query
+    assert "rdfs:label ?name" in query
+    assert "skos:altLabel ?name" in query
+
+    # Only humans, and only ones who plausibly play a sport.
+    assert "wdt:P31 wd:Q5" in query
+    assert "wdt:P106/wdt:P279* wd:Q2066131" in query
+    assert "wdt:P54 ?anyTeam" in query
+
+    # A candidate already on this team is flagged, to settle namesakes.
+    assert "EXISTS { ?player wdt:P54 wd:Q18500 }" in query
+
+
+def test_people_search_query_escapes_quotes_in_a_name():
+    query = WikidataClient._people_search_query(['Ars"ne'], "Q1", "en")
+    assert '"Ars\\"ne"@en' in query
+
+
+def test_search_people_groups_candidates_and_skips_one_word_names():
+    client = WikidataClient(http=None)
+    captured = {}
+
+    def fake_run_query(sparql):
+        captured["sparql"] = sparql
+        return [
+            {
+                "name": {"value": "Sam Smith", "xml:lang": "de"},
+                "player": {"value": "http://www.wikidata.org/entity/Q1"},
+                "playerLabel": {"value": "Sam Smith"},
+                "atTeam": {"value": "false"},
+            },
+            {  # same item, matched again via its English label
+                "name": {"value": "Sam Smith", "xml:lang": "en"},
+                "player": {"value": "http://www.wikidata.org/entity/Q1"},
+                "playerLabel": {"value": "Sam Smith"},
+                "atTeam": {"value": "false"},
+            },
+            {
+                "name": {"value": "Sam Smith", "xml:lang": "en"},
+                "player": {"value": "http://www.wikidata.org/entity/Q2"},
+                "playerLabel": {"value": "Sam Smith"},
+                "atTeam": {"value": "true"},
+                "articleEn": {"value": "https://en.wikipedia.org/wiki/Sam_Smith"},
+            },
+        ]
+
+    client.run_query = fake_run_query  # type: ignore[assignment]
+
+    matches = client.search_people(["Sam Smith", "Rodri"], "Q1", language="de")
+
+    # A single-word name is too likely to collide -> never searched.
+    assert "Rodri" not in captured["sparql"]
+    candidates = matches["Sam Smith"]
+    assert [c.qid for c in candidates] == ["Q1", "Q2"]  # deduplicated per item
+    assert candidates[1].at_team is True
+    assert candidates[1].wikipedia_url == "https://en.wikipedia.org/wiki/Sam_Smith"
+
+
+def test_search_people_makes_no_query_when_nothing_is_searchable():
+    client = WikidataClient(http=None)
+
+    def fail(sparql):  # pragma: no cover - must not be reached
+        raise AssertionError("no query should be run")
+
+    client.run_query = fail  # type: ignore[assignment]
+    assert client.search_people(["Rodri", "", "  "], "Q1") == {}
+
+
 def test_discover_teams_uses_per_league_language():
     client = WikidataClient(http=None)
     captured = {}

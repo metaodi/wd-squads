@@ -32,7 +32,21 @@ from Wikidata, then reports:
 | **In current squad, but no membership statement on Wikidata** | The player is in the squad but has no P54 statement pointing at the club — add one. |
 | **Recorded as a current member, but no longer in the squad** | Wikidata says the player is current (open P54, no end date), but Wikipedia dropped them — they probably left; add an end date (P582). |
 | **Current member, but the membership has no start date** | Open P54 statement without a P580 start date — add the start date so "current squad" queries work. |
-| **In current squad, but the Wikipedia article has no Wikidata item** | The Wikipedia article isn't linked to a Wikidata item (or the player has no item yet). |
+| **In current squad, but no Wikidata item could be found** | The player has no Wikipedia article (or an article not linked to Wikidata), *and* no item turned up under their name — they probably need a new item. |
+
+Squad players are matched to Wikidata items in three steps, so that a player
+without a Wikipedia article is not mistaken for a player without a Wikidata
+item:
+
+1. the Wikidata item linked from their Wikipedia article, when they have one;
+2. failing that, an exact name match against the club's existing P54
+   statements;
+3. failing that, an exact name match (label or alias, in the squad's language,
+   English or `mul`) against people on Wikidata who are athletes or already
+   have a P54 statement.
+
+Steps 2 and 3 only accept an unambiguous match, and the suggestion says the
+item was found by name so you can check the identity before editing.
 
 ## How it works
 
@@ -40,13 +54,14 @@ from Wikidata, then reports:
 Wikidata (SPARQL)                 Wikipedia (Action API)
   discover clubs in a league  ─┐   fetch the club article's wikitext
   fetch P54 memberships        │   parse {{fs player}} squad templates
-                               │   resolve player articles → Q-IDs
+  search players by name       │   resolve player articles → Q-IDs
                                ▼
                          diff  ──►  suggestions  ──►  reports/  +  docs/
 ```
 
-- `src/wd_squads/wikidata.py` — SPARQL queries (team discovery + memberships).
-- `src/wd_squads/wikipedia.py` — squad parsing (`parse_squad_players`) and Q-ID resolution.
+- `src/wd_squads/wikidata.py` — SPARQL queries (team discovery, memberships, name search).
+- `src/wd_squads/wikipedia.py` — squad parsing (`parse_squad_players`) and article lookup.
+- `src/wd_squads/resolve.py` — matches squad players to Wikidata items by name.
 - `src/wd_squads/diff.py` — turns the two views into `Suggestion` objects.
 - `src/wd_squads/report.py` — writes Markdown, JSON and the HTML dashboard.
 - `src/wd_squads/app.py` / `__main__.py` — orchestration and CLI.

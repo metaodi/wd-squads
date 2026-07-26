@@ -46,8 +46,10 @@ The pipeline is a straight line, wired together in `app.py::run` →
 
 ```
 config.load_config → WikidataClient.discover_teams → for each team:
-    WikipediaClient.get_squad  (parse wikitext + resolve player Q-IDs)
+    WikipediaClient.get_squad  (parse wikitext + resolve player articles → Q-IDs)
     WikidataClient.get_memberships  (P54 statements)
+    resolve.resolve_squad_qids (name-match the players get_squad couldn't resolve,
+        against the memberships and then WikidataClient.search_people)
     diff.compute_suggestions   → list[Suggestion]
     diff.suggestion_titles → WikipediaClient.get_career_spells → diff.enrich_career_years
         (fills in Suggestion.start_year/end_year from the player's own infobox,
@@ -63,7 +65,10 @@ Module responsibilities (`src/wd_squads/`):
   `KIND_LABEL` human strings. Adding a new kind of suggestion means touching
   all three maps here plus `diff.py`. `Suggestion.start_year`/`end_year`
   (with the `years_label` display property) hold the possible P580/P582 years
-  suggested from the player's Wikipedia infobox, when one was found.
+  suggested from the player's Wikipedia infobox, when one was found. The
+  `QID_FROM_*` constants record how a player's Q-ID was established
+  (`SquadPlayer.qid_source`); anything but `QID_FROM_SITELINK` is a name-based
+  guess that the suggestion text asks the reader to verify.
 - **`config.py`** — loads/validates `config/teams.yaml`. Enforces that a
   descriptive `user_agent` is set (rejects `example.com` placeholders) because
   the Wikimedia APIs require it, and that at least one of `leagues` /
@@ -76,6 +81,16 @@ Module responsibilities (`src/wd_squads/`):
   priority order: explicit `teams:` → `discovery_query:` → per-league P118
   queries. `get_memberships` returns **both open and closed** P54 statements so
   the diff can distinguish "add end date" from "review a closed membership".
+  `search_people` looks players up **by name** (exact label/alias match on a
+  human who is an athlete or already has a P54 statement) for the many squad
+  members who have no Wikipedia article; `_people_search_query` is a static
+  method so the query itself is unit-testable.
+- **`resolve.py`** — the name-matching passes that run between `get_squad` and
+  `compute_suggestions`: `resolve_from_memberships` (free — match against the
+  P54 statements already fetched) then `apply_person_matches` over
+  `search_people` results, both pure and both refusing to guess between
+  namesakes. `resolve_squad_qids` wires them around the one network call and
+  swallows a failing search (the team's other suggestions still get reported).
 - **`wikipedia.py`** — `parse_squad_players(wikitext)` is a **pure function and
   the heart of the tool** (directly unit-tested). It auto-detects three squad
   formats per section: English-style `{{fs player}}` templates, German-style
@@ -87,8 +102,11 @@ Module responsibilities (`src/wd_squads/`):
   former-players/staff/transfer sections, and `SQUAD_HEADING_RE` (Kader/Aufgebot)
   is a *positive* gate applied **only** to the two German formats, which also
   appear in unrelated tables.
-  `WikipediaClient` then resolves article titles → Q-IDs via the Action API
-  (batched, following redirects/normalisation).
+  `WikipediaClient.resolve_articles` then looks article titles up via the
+  Action API (batched, following redirects/normalisation), returning both the
+  Q-ID **and** whether the article exists at all — squad lists are full of red
+  links, and "no article" is a different report entry (and a different fix)
+  from "article not connected to Wikidata".
 
   `parse_career_spells(wikitext)` is a second pure parser, run on a *player's
   own* article (not the squad page): it reads their infobox's per-club career
@@ -116,7 +134,9 @@ Module responsibilities (`src/wd_squads/`):
   Results are sorted by `priority` then player name.
 
   A second pure pass enriches those results with possible start/end years:
-  `suggestion_titles` picks out which players' articles are worth fetching
+  `suggestion_titles` (filtered to the team's own Wikipedia edition, since a
+  sitelink to another one would be fetched from the wrong wiki) picks out which
+  players' articles are worth fetching
   (only those a suggestion was already made about — fetching every squad
   member's biography just to enrich the few that need it would be wasteful),
   and `enrich_career_years` fills `Suggestion.start_year`/`end_year` back in
