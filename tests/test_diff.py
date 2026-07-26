@@ -12,6 +12,7 @@ from wd_squads.models import (
     KIND_ADD_START_DATE,
     KIND_NO_WIKIDATA_ITEM,
     KIND_REVIEW_ENDED,
+    QID_FROM_SEARCH,
     CareerSpell,
     Membership,
     SquadPlayer,
@@ -50,6 +51,56 @@ def test_full_diff_matrix():
     # Alice is fully in sync -> no suggestion for her.
     assert not any(s.player_label == "Alice" for s in suggestions)
     assert len(suggestions) == 5
+
+
+def test_no_wikidata_item_distinguishes_a_missing_article_from_an_unlinked_one():
+    squad = [
+        # Red link: no article at all -> the item (if any) is simply unknown.
+        SquadPlayer(name="Frank", title="Frank", article_exists=False),
+        # The article exists but nothing on Wikidata points at it.
+        SquadPlayer(name="Gina", title="Gina", article_exists=True),
+    ]
+    suggestions = compute_suggestions(_team(), squad, [], language="de")
+    by_name = {s.player_label: s for s in suggestions}
+
+    assert "has no article there" in by_name["Frank"].detail
+    # Nothing links to a page that was never written.
+    assert "wikipedia" not in by_name["Frank"].links
+    assert by_name["Frank"].wikipedia_title is None
+
+    assert "not linked to a Wikidata item" in by_name["Gina"].detail
+    assert by_name["Gina"].links["wikipedia"] == "https://de.wikipedia.org/wiki/Gina"
+
+
+def test_player_resolved_by_name_is_flagged_for_verification():
+    squad = [
+        SquadPlayer(
+            name="Kazeem Olaigbe",
+            title="Kazeem Olaigbe",
+            article_exists=False,
+            qid="Q77",
+            qid_source=QID_FROM_SEARCH,
+            wikipedia_url="https://en.wikipedia.org/wiki/Kazeem_Olaigbe",
+        )
+    ]
+    suggestion = compute_suggestions(_team(), squad, [], language="de")[0]
+
+    # He has an item, so this is an ordinary "add the membership" job …
+    assert suggestion.kind == KIND_ADD_MEMBERSHIP
+    assert suggestion.player_qid == "Q77"
+    # … but the identity was guessed from the name, so say so.
+    assert suggestion.qid_source == QID_FROM_SEARCH
+    assert "matched by name" in suggestion.detail
+    # The article he does have (in another edition) is still worth linking.
+    assert suggestion.links["wikipedia"] == "https://en.wikipedia.org/wiki/Kazeem_Olaigbe"
+
+
+def test_player_resolved_from_a_sitelink_carries_no_verification_note():
+    squad = [
+        SquadPlayer(name="Eve", title="Eve", qid="Q12", article_exists=True, qid_source="sitelink")
+    ]
+    suggestion = compute_suggestions(_team(), squad, [])[0]
+    assert "matched by name" not in suggestion.detail
 
 
 def test_sorted_by_priority():
@@ -147,6 +198,22 @@ def test_suggestion_titles_collects_wikipedia_title_and_link_fallback():
         Suggestion(kind=KIND_NO_WIKIDATA_ITEM, team=_team(), player_label="Nameless", detail=""),
     ]
     assert suggestion_titles(suggestions) == ["Eve", "Zoe Player"]
+
+
+def test_suggestion_titles_skips_links_to_another_wikipedia_edition():
+    # Career spells are fetched from one edition; an English sitelink would be
+    # looked up on the German wiki, where that title is missing or somebody else.
+    suggestions = [
+        Suggestion(
+            kind=KIND_ADD_END_DATE,
+            team=_team(),
+            player_label="Zoe",
+            detail="",
+            links={"wikipedia": "https://en.wikipedia.org/wiki/Zoe_Player"},
+        )
+    ]
+    assert suggestion_titles(suggestions, "de") == []
+    assert suggestion_titles(suggestions, "en") == ["Zoe Player"]
 
 
 def test_enrich_career_years_fills_in_matching_suggestion():

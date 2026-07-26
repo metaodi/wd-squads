@@ -13,6 +13,8 @@ from .models import (
     KIND_ADD_START_DATE,
     KIND_NO_WIKIDATA_ITEM,
     KIND_REVIEW_ENDED,
+    QID_FROM_MEMBERSHIP,
+    QID_FROM_SEARCH,
     CareerSpell,
     Membership,
     SquadPlayer,
@@ -20,7 +22,7 @@ from .models import (
     Team,
 )
 
-_WIKIPEDIA_URL_RE = re.compile(r"^https://[a-z-]+\.wikipedia\.org/wiki/(.+)$")
+_WIKIPEDIA_URL_RE = re.compile(r"^https://([a-z-]+)\.wikipedia\.org/wiki/(.+)$")
 
 
 def _wikidata_item_url(qid: str) -> str:
@@ -29,6 +31,50 @@ def _wikidata_item_url(qid: str) -> str:
 
 def _wikipedia_url(language: str, title: str) -> str:
     return f"https://{language}.wikipedia.org/wiki/{title.replace(' ', '_')}"
+
+
+def _player_article_url(player: SquadPlayer, language: str) -> Optional[str]:
+    """A link to the player's article, or ``None`` when there isn't one.
+
+    Squad lists link plenty of players whose article was never written; those
+    red links are worse than useless in a report, so they are dropped. A player
+    resolved by name may still have an article in another edition, carried on
+    ``wikipedia_url``.
+    """
+    if player.wikipedia_url:
+        return player.wikipedia_url
+    if player.title and player.article_exists is not False:
+        return _wikipedia_url(language, player.title)
+    return None
+
+
+def _article_title(player: SquadPlayer) -> Optional[str]:
+    """The player's article title, only when the article actually exists."""
+    return player.title if player.article_exists is not False else None
+
+
+def _verify_note(player: SquadPlayer) -> str:
+    """Ask the reader to check the identity when the item was matched by name."""
+    if player.qid_source in (QID_FROM_MEMBERSHIP, QID_FROM_SEARCH):
+        return (
+            " The item was matched by name (the player has no Wikipedia article "
+            "linking it), so please check it is the right person."
+        )
+    return ""
+
+
+def _no_item_detail(player: SquadPlayer) -> str:
+    """Explain *why* no item is known — the two cases need different work."""
+    if player.article_exists is False:
+        return (
+            f"'{player.name}' is listed in the squad on Wikipedia but has no "
+            "article there, and no Wikidata item was found under that name. "
+            "They may need a new item."
+        )
+    return (
+        f"'{player.name}' is listed in the squad on Wikipedia but their article "
+        "is not linked to a Wikidata item, and none was found under that name."
+    )
 
 
 def compute_suggestions(
@@ -49,8 +95,9 @@ def compute_suggestions(
     # 1) Walk the Wikipedia squad and check each player against Wikidata.
     for player in squad:
         team_link = {"team": _wikidata_item_url(team.qid)}
-        if player.title:
-            team_link["wikipedia"] = _wikipedia_url(language, player.title)
+        article_url = _player_article_url(player, language)
+        if article_url:
+            team_link["wikipedia"] = article_url
 
         if not player.qid:
             suggestions.append(
@@ -58,17 +105,15 @@ def compute_suggestions(
                     kind=KIND_NO_WIKIDATA_ITEM,
                     team=team,
                     player_label=player.name,
-                    wikipedia_title=player.title,
-                    detail=(
-                        f"'{player.name}' is listed in the squad on Wikipedia but "
-                        "its article has no linked Wikidata item."
-                    ),
+                    wikipedia_title=_article_title(player),
+                    detail=_no_item_detail(player),
                     links=team_link,
                 )
             )
             continue
 
         links = dict(team_link, item=_wikidata_item_url(player.qid))
+        verify = _verify_note(player)
         player_memberships = by_player.get(player.qid, [])
         open_memberships = [m for m in player_memberships if m.is_open]
 
@@ -79,10 +124,12 @@ def compute_suggestions(
                     team=team,
                     player_label=player.name,
                     player_qid=player.qid,
-                    wikipedia_title=player.title,
+                    wikipedia_title=_article_title(player),
+                    qid_source=player.qid_source,
                     detail=(
                         f"Add a 'member of sports team' (P54) statement → {team.label} "
-                        f"({team.qid}); the player is in the current squad on Wikipedia."
+                        f"({team.qid}); the player is in the current squad on "
+                        f"Wikipedia.{verify}"
                     ),
                     links=links,
                 )
@@ -96,11 +143,12 @@ def compute_suggestions(
                         team=team,
                         player_label=player.name,
                         player_qid=player.qid,
-                        wikipedia_title=player.title,
+                        wikipedia_title=_article_title(player),
+                        qid_source=player.qid_source,
                         detail=(
                             "Add a start date (P580) qualifier to the membership; it is "
                             "currently open but undated, which makes 'current squad' "
-                            "queries unreliable."
+                            f"queries unreliable.{verify}"
                         ),
                         links=links,
                     )
@@ -114,11 +162,12 @@ def compute_suggestions(
                     team=team,
                     player_label=player.name,
                     player_qid=player.qid,
-                    wikipedia_title=player.title,
+                    wikipedia_title=_article_title(player),
+                    qid_source=player.qid_source,
                     detail=(
                         "Wikidata records this membership as ended (P582 set), but the "
                         "player is in the current squad on Wikipedia. They may have "
-                        "returned, or the end date may be wrong."
+                        f"returned, or the end date may be wrong.{verify}"
                     ),
                     links=links,
                 )
@@ -174,31 +223,45 @@ def _normalise_title(text: str) -> str:
     return text.replace("_", " ").strip().lower()
 
 
-def _title_from_wikipedia_link(url: Optional[str]) -> Optional[str]:
-    """Extract the article title from a Wikipedia URL, any language edition."""
+def _title_from_wikipedia_link(
+    url: Optional[str], language: Optional[str] = None
+) -> Optional[str]:
+    """Extract the article title from a Wikipedia URL.
+
+    With ``language`` given, a URL from a different edition yields ``None``:
+    its title would then be fetched from the wrong wiki, where it either does
+    not exist or (worse, for a common name) belongs to somebody else.
+    """
     if not url:
         return None
     m = _WIKIPEDIA_URL_RE.match(url)
     if not m:
         return None
-    return unquote(m.group(1)).replace("_", " ")
+    if language and m.group(1) != language:
+        return None
+    return unquote(m.group(2)).replace("_", " ")
 
 
-def _suggestion_title(s: Suggestion) -> Optional[str]:
-    return s.wikipedia_title or _title_from_wikipedia_link(s.links.get("wikipedia"))
+def _suggestion_title(s: Suggestion, language: Optional[str] = None) -> Optional[str]:
+    return s.wikipedia_title or _title_from_wikipedia_link(
+        s.links.get("wikipedia"), language
+    )
 
 
-def suggestion_titles(suggestions: List[Suggestion]) -> List[str]:
+def suggestion_titles(
+    suggestions: List[Suggestion], language: Optional[str] = None
+) -> List[str]:
     """Wikipedia article titles referenced by ``suggestions``, deduplicated.
 
     Meant to drive a follow-up ``WikipediaClient.get_career_spells`` call: we
     only want to fetch player biographies for players a suggestion is already
-    being made about, not the whole squad.
+    being made about, not the whole squad. ``language`` keeps the list to
+    articles that edition actually has (see ``_title_from_wikipedia_link``).
     """
     titles: List[str] = []
     seen: set[str] = set()
     for s in suggestions:
-        title = _suggestion_title(s)
+        title = _suggestion_title(s, language)
         if title and title not in seen:
             seen.add(title)
             titles.append(title)
@@ -249,7 +312,7 @@ def enrich_career_years(
     player has no matching spell for ``team`` is left untouched.
     """
     for s in suggestions:
-        title = _suggestion_title(s)
+        title = _suggestion_title(s, team.language)
         if not title:
             continue
         spell = select_team_spell(career.get(title, []), team)

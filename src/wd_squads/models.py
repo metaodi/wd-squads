@@ -29,8 +29,15 @@ KIND_LABEL = {
     KIND_ADD_MEMBERSHIP: "In current squad, but no membership statement on Wikidata",
     KIND_ADD_END_DATE: "Recorded as a current member, but no longer in the squad",
     KIND_ADD_START_DATE: "Current member, but the membership has no start date",
-    KIND_NO_WIKIDATA_ITEM: "In current squad, but the Wikipedia article has no Wikidata item",
+    KIND_NO_WIKIDATA_ITEM: "In current squad, but no Wikidata item could be found",
 }
+
+# How a squad player's Q-ID was established (see ``resolve`` / ``wikipedia``).
+# Anything other than ``QID_FROM_SITELINK`` is a name-based guess and is called
+# out in the suggestion text so a human verifies the identity before editing.
+QID_FROM_SITELINK = "sitelink"  # the player's Wikipedia article links the item
+QID_FROM_MEMBERSHIP = "membership"  # name matched a P54 statement on this team
+QID_FROM_SEARCH = "search"  # name matched an item's label/alias on Wikidata
 
 
 @dataclass
@@ -58,6 +65,30 @@ class SquadPlayer:
     number: Optional[str] = None  # shirt number
     position: Optional[str] = None
     section: Optional[str] = None  # heading the player was listed under
+    # Many squad players are linked to an article that does not exist (a red
+    # link) or to no article at all, yet still have a Wikidata item. ``qid`` is
+    # therefore resolved from the article *and*, failing that, from the player's
+    # name (see ``resolve.resolve_squad_qids``); ``qid_source`` records which.
+    article_exists: Optional[bool] = None  # None = not checked
+    qid_source: Optional[str] = None  # one of the QID_FROM_* constants
+    wikipedia_url: Optional[str] = None  # article in *any* edition, if known
+
+
+@dataclass
+class PersonMatch:
+    """A Wikidata item whose label/alias matches a squad player's name.
+
+    Produced by ``WikidataClient.search_people`` for players whose Wikipedia
+    article did not give us a Q-ID. ``at_team`` marks a candidate that already
+    has a P54 statement for the team being processed, which makes it the right
+    person with near-certainty.
+    """
+
+    name: str  # the searched name that matched
+    qid: str
+    label: str
+    at_team: bool = False
+    wikipedia_url: Optional[str] = None
 
 
 @dataclass
@@ -106,6 +137,9 @@ class Suggestion:
     player_qid: Optional[str] = None
     wikipedia_title: Optional[str] = None
     links: dict = field(default_factory=dict)
+    # How ``player_qid`` was found: one of the QID_FROM_* constants, or None
+    # when the suggestion isn't about a specific squad player.
+    qid_source: Optional[str] = None
     # Possible start/end year for the membership, read off the player's own
     # Wikipedia infobox career history when available (see
     # ``diff.enrich_career_years``). A club spell still in progress leaves

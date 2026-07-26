@@ -10,6 +10,7 @@ from .config import Config, load_config
 from .diff import compute_suggestions, enrich_career_years, suggestion_titles
 from .http_client import HttpClient
 from .report import TeamResult, now_iso, write_reports
+from .resolve import resolve_squad_qids
 from .wikidata import WikidataClient
 from .wikipedia import WikipediaClient
 
@@ -61,10 +62,13 @@ def process(
         try:
             squad = wikipedia.get_squad(team)
             memberships = wikidata.get_memberships(team.qid, language=team.language)
+            # Players whose article didn't give us a Q-ID (usually because they
+            # have no article) are looked up on Wikidata by name.
+            resolve_squad_qids(squad, memberships, wikidata, team)
             result.squad_size = len([p for p in squad if p.qid or p.name])
             result.wikidata_current = len({m.player_qid for m in memberships if m.is_open})
             suggestions = compute_suggestions(team, squad, memberships)
-            titles = suggestion_titles(suggestions)
+            titles = suggestion_titles(suggestions, team.language)
             if titles:
                 career = wikipedia.get_career_spells(titles, team.language)
                 enrich_career_years(suggestions, career, team)
