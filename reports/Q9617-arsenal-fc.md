@@ -3,8 +3,8 @@
 - Wikidata item: [Q9617](https://www.wikidata.org/wiki/Q9617)
 - Wikipedia article: [Arsenal F.C.](https://en.wikipedia.org/wiki/Arsenal_F.C.)
 - Players in Wikipedia squad: 36
-- Current members on Wikidata: 177
-- Suggested edits: 168
+- Current members on Wikidata: 176
+- Suggested edits: 167
 
 ## Membership marked ended, but player is in the current squad (3)
 
@@ -12,7 +12,7 @@
 - **[Gabriel Jesus](https://www.wikidata.org/wiki/Q19708656)** ([WP](https://en.wikipedia.org/wiki/Gabriel_Jesus)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Reiss Nelson](https://www.wikidata.org/wiki/Q35039261)** ([WP](https://en.wikipedia.org/wiki/Reiss_Nelson)) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (154)
+## Recorded as a current member, but no longer in the squad (153)
 
 - **[Afaf Al-Sadiq](https://www.wikidata.org/wiki/Q47092717)** — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Morton](https://www.wikidata.org/wiki/Q4707382)** ([WP](https://en.wikipedia.org/wiki/Alan_Morton_(footballer,_born_1942))) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -89,7 +89,6 @@
 - **[Ian Gould](https://www.wikidata.org/wiki/Q3530148)** ([WP](https://en.wikipedia.org/wiki/Ian_Gould)) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Humble](https://www.wikidata.org/wiki/Q2898030)** ([WP](https://en.wikipedia.org/wiki/Jack_Humble)) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Southam](https://www.wikidata.org/wiki/Q6115264)** ([WP](https://en.wikipedia.org/wiki/Jack_Southam)) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jakub Kiwior](https://www.wikidata.org/wiki/Q61744153)** ([WP](https://en.wikipedia.org/wiki/Jakub_Kiwior)) (2023–2026) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Boyle](https://www.wikidata.org/wiki/Q55614866)** ([WP](https://en.wikipedia.org/wiki/James_Boyle_(footballer,_born_1866))) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Buchan](https://www.wikidata.org/wiki/Q6130428)** ([WP](https://en.wikipedia.org/wiki/James_Buchan_(footballer))) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Henderson](https://www.wikidata.org/wiki/Q6135840)** ([WP](https://en.wikipedia.org/wiki/James_Henderson_(footballer,_born_1867))) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

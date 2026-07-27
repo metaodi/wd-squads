@@ -3,8 +3,8 @@
 - Wikidata item: [Q19467](https://www.wikidata.org/wiki/Q19467)
 - Wikipedia article: [Crystal Palace F.C.](https://en.wikipedia.org/wiki/Crystal_Palace_F.C.)
 - Players in Wikipedia squad: 32
-- Current members on Wikidata: 171
-- Suggested edits: 182
+- Current members on Wikidata: 172
+- Suggested edits: 181
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -173,7 +173,7 @@
 - **[Will Donkin](https://www.wikidata.org/wiki/Q43179695)** ([WP](https://en.wikipedia.org/wiki/Will_Donkin)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zeki Fryers](https://www.wikidata.org/wiki/Q511997)** ([WP](https://en.wikipedia.org/wiki/Zeki_Fryers)) (2014–2017) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (20)
+## In current squad, but no membership statement on Wikidata (19)
 
 - **[Caleb Kporha](https://www.wikidata.org/wiki/Q131109014)** ([WP](https://en.wikipedia.org/wiki/Caleb_Kporha)) (2024–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Chadi Riad](https://www.wikidata.org/wiki/Q104784108)** ([WP](https://en.wikipedia.org/wiki/Chadi_Riad)) (2024–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
@@ -194,7 +194,6 @@
 - **[Tayo Adaramola](https://www.wikidata.org/wiki/Q110821229)** ([WP](https://en.wikipedia.org/wiki/Tayo_Adaramola)) (2022–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Walter Benítez](https://www.wikidata.org/wiki/Q17064018)** ([WP](https://en.wikipedia.org/wiki/Walter_Benítez_(footballer))) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Will Hughes](https://www.wikidata.org/wiki/Q133920)** ([WP](https://en.wikipedia.org/wiki/Will_Hughes)) (2021–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
-- **[Óscar Mingueza](https://www.wikidata.org/wiki/Q102292155)** ([WP](https://en.wikipedia.org/wiki/Óscar_Mingueza)) (2026–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (1)
 

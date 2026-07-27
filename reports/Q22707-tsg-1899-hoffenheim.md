@@ -4,9 +4,9 @@
 - Wikipedia article: [TSG 1899 Hoffenheim](https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim)
 - Players in Wikipedia squad: 65
 - Current members on Wikidata: 78
-- Suggested edits: 127
+- Suggested edits: 125
 
-## In current squad, but no membership statement on Wikidata (34)
+## In current squad, but no membership statement on Wikidata (33)
 
 - **[Albian Hajdari](https://www.wikidata.org/wiki/Q99694316)** ([WP](https://de.wikipedia.org/wiki/Albian_Hajdari)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Alessandro Vogt](https://www.wikidata.org/wiki/Q136121363)** ([WP](https://de.wikipedia.org/wiki/Alessandro_Vogt)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
@@ -34,7 +34,6 @@
 - **[Max Moerstedt](https://www.wikidata.org/wiki/Q113510031)** ([WP](https://de.wikipedia.org/wiki/Max_Moerstedt)) (2024–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Nader Jindaoui](https://www.wikidata.org/wiki/Q112265242)** ([WP](https://de.wikipedia.org/wiki/Nader_Jindaoui)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Nathan De Cat](https://www.wikidata.org/wiki/Q124416502)** ([WP](https://de.wikipedia.org/wiki/Nathan_De_Cat)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
-- **[Patrick Wimmer](https://www.wikidata.org/wiki/Q65948837)** ([WP](https://de.wikipedia.org/wiki/Patrick_Wimmer)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Robin Hranáč](https://www.wikidata.org/wiki/Q107647351)** ([WP](https://de.wikipedia.org/wiki/Robin_Hranáč)) (2024–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Santino Pistrol](https://www.wikidata.org/wiki/Q137168777)** ([WP](https://de.wikipedia.org/wiki/Santino_Pistrol)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tim Lemperle](https://www.wikidata.org/wiki/Q96678433)** ([WP](https://de.wikipedia.org/wiki/Tim_Lemperle)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
@@ -43,7 +42,7 @@
 - **[Vladimír Coufal](https://www.wikidata.org/wiki/Q15113326)** ([WP](https://de.wikipedia.org/wiki/Vladimír_Coufal)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Wouter Burger](https://www.wikidata.org/wiki/Q53998229)** ([WP](https://de.wikipedia.org/wiki/Wouter_Burger)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (70)
+## Recorded as a current member, but no longer in the squad (69)
 
 - **[Alexander Rossipal](https://www.wikidata.org/wiki/Q44966010)** ([WP](https://de.wikipedia.org/wiki/Alexander_Rossipal)) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Stolz](https://www.wikidata.org/wiki/Q77941)** ([WP](https://de.wikipedia.org/wiki/Alexander_Stolz)) (2013–2020) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -61,7 +60,6 @@
 - **[Erwin Rupp](https://www.wikidata.org/wiki/Q30253095)** ([WP](https://de.wikipedia.org/wiki/Erwin_Rupp)) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Felix Müller](https://www.wikidata.org/wiki/Q24724938)** ([WP](https://de.wikipedia.org/wiki/Felix_M%C3%BCller_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Felix Passlack](https://www.wikidata.org/wiki/Q20995048)** ([WP](https://de.wikipedia.org/wiki/Felix_Passlack)) (2017–2018) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Grischa Prömel](https://www.wikidata.org/wiki/Q20436216)** ([WP](https://de.wikipedia.org/wiki/Grischa_Pr%C3%B6mel)) (2022–2026) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Haris Tabaković](https://www.wikidata.org/wiki/Q15257381)** ([WP](https://de.wikipedia.org/wiki/Haris_Tabakovi%C4%87)) (2024–2026) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ilay Elmkies](https://www.wikidata.org/wiki/Q71142658)** ([WP](https://de.wikipedia.org/wiki/Ilay_Elmkies)) (2019–2020) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Janina Leitzig](https://www.wikidata.org/wiki/Q67381033)** ([WP](https://de.wikipedia.org/wiki/Janina_Leitzig)) (2018–2021) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

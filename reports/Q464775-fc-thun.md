@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q464775](https://www.wikidata.org/wiki/Q464775)
 - Wikipedia article: [FC Thun](https://de.wikipedia.org/wiki/FC_Thun)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 28
 - Current members on Wikidata: 47
-- Suggested edits: 69
+- Suggested edits: 70
 
 ## Membership marked ended, but player is in the current squad (2)
 
@@ -84,8 +84,9 @@
 
 - **[Justin Roth](https://www.wikidata.org/wiki/Q73139579)** ([WP](https://en.wikipedia.org/wiki/Justin_Roth)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## In current squad, but no Wikidata item could be found (3)
+## In current squad, but no Wikidata item could be found (4)
 
 - **Adam Ilic** — 'Adam Ilic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dario Wälti** — 'Dario Wälti' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Fabio Saiz** — 'Fabio Saiz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Leo Stucki** — 'Leo Stucki' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

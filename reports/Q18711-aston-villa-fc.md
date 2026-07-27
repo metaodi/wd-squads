@@ -3,8 +3,8 @@
 - Wikidata item: [Q18711](https://www.wikidata.org/wiki/Q18711)
 - Wikipedia article: [Aston Villa F.C.](https://en.wikipedia.org/wiki/Aston_Villa_F.C.)
 - Players in Wikipedia squad: 56
-- Current members on Wikidata: 284
-- Suggested edits: 305
+- Current members on Wikidata: 285
+- Suggested edits: 304
 
 ## Membership marked ended, but player is in the current squad (3)
 
@@ -279,7 +279,7 @@
 - **[Ákos Ónodi](https://www.wikidata.org/wiki/Q104736234)** ([WP](https://en.wikipedia.org/wiki/%C3%81kos_On%C3%B3di)) (2018–2022) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ümit Eminoğlu](https://www.wikidata.org/wiki/Q17385882)** ([WP](https://en.wikipedia.org/wiki/Umit_Eminoglu)) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (27)
+## In current squad, but no membership statement on Wikidata (26)
 
 - **[Aidan Borland](https://www.wikidata.org/wiki/Q130360134)** ([WP](https://en.wikipedia.org/wiki/Aidan_Borland)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Alysson](https://www.wikidata.org/wiki/Q127257240)** ([WP](https://en.wikipedia.org/wiki/Alysson_(footballer,_born_2006))) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
@@ -291,7 +291,6 @@
 - **[Emiliano Buendía](https://www.wikidata.org/wiki/Q18637343)** ([WP](https://en.wikipedia.org/wiki/Emiliano_Buendía)) (2021–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[James Wright](https://www.wikidata.org/wiki/Q130279495)** ([WP](https://en.wikipedia.org/wiki/James_Wright_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Joe Gauci](https://www.wikidata.org/wiki/Q105944501)** ([WP](https://en.wikipedia.org/wiki/Joe_Gauci)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
-- **[Johan Manzambi](https://www.wikidata.org/wiki/Q125376751)** ([WP](https://en.wikipedia.org/wiki/Johan_Manzambi)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Josh Feeney](https://www.wikidata.org/wiki/Q120999726)** ([WP](https://en.wikipedia.org/wiki/Josh_Feeney)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[João Gomes](https://www.wikidata.org/wiki/Q103312425)** ([WP](https://en.wikipedia.org/wiki/João_Gomes_(footballer,_born_2001))) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Kadan Young](https://www.wikidata.org/wiki/Q118870489)** ([WP](https://en.wikipedia.org/wiki/Kadan_Young)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.

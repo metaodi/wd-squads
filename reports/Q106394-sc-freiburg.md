@@ -3,12 +3,13 @@
 - Wikidata item: [Q106394](https://www.wikidata.org/wiki/Q106394)
 - Wikipedia article: [SC Freiburg](https://de.wikipedia.org/wiki/SC_Freiburg)
 - Players in Wikipedia squad: 57
-- Current members on Wikidata: 76
-- Suggested edits: 114
+- Current members on Wikidata: 75
+- Suggested edits: 115
 
-## Membership marked ended, but player is in the current squad (3)
+## Membership marked ended, but player is in the current squad (4)
 
 - **[Daniel Williams](https://www.wikidata.org/wiki/Q138235)** ([WP](https://de.wikipedia.org/wiki/Daniel_Williams_(Fu%C3%9Fballspieler))) (2010–2011) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Johan Manzambi](https://www.wikidata.org/wiki/Q125376751)** ([WP](https://de.wikipedia.org/wiki/Johan_Manzambi)) (2024–2026) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Maximilian Philipp](https://www.wikidata.org/wiki/Q16320332)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Philipp_(Fußballspieler))) (2023–2026) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Nicolas Höfler](https://www.wikidata.org/wiki/Q49785)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Höfler)) (2010–2026) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
