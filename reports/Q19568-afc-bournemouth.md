@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19568](https://www.wikidata.org/wiki/Q19568)
 - Wikipedia article: [AFC Bournemouth](https://en.wikipedia.org/wiki/AFC_Bournemouth)
-- Players in Wikipedia squad: 33
+- Players in Wikipedia squad: 34
 - Current members on Wikidata: 130
-- Suggested edits: 146
+- Suggested edits: 147
 
 ## Membership marked ended, but player is in the current squad (2)
 
@@ -135,11 +135,12 @@
 - **[Wally Roberts](https://www.wikidata.org/wiki/Q54005453)** ([WP](https://en.wikipedia.org/wiki/Wally_Roberts)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Walter Buckley](https://www.wikidata.org/wiki/Q10556911)** ([WP](https://en.wikipedia.org/wiki/Walter_Buckley_(footballer))) (1926) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (22)
+## In current squad, but no membership statement on Wikidata (23)
 
 - **[Alex Scott](https://www.wikidata.org/wiki/Q106778648)** ([WP](https://en.wikipedia.org/wiki/Alex_Scott_(footballer,_born_2003))) (2023–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Alex Tóth](https://www.wikidata.org/wiki/Q125570083)** ([WP](https://en.wikipedia.org/wiki/Alex_Tóth)) (2026–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Amine Adli](https://www.wikidata.org/wiki/Q66586702)** ([WP](https://en.wikipedia.org/wiki/Amine_Adli)) (2025–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
+- **[António Silva](https://www.wikidata.org/wiki/Q111962649)** ([WP](https://en.wikipedia.org/wiki/António_Silva_(footballer))) (2026–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Bafodé Diakité](https://www.wikidata.org/wiki/Q59528545)** ([WP](https://en.wikipedia.org/wiki/Bafodé_Diakité)) (2025–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Ben Winterburn](https://www.wikidata.org/wiki/Q131593074)** ([WP](https://en.wikipedia.org/wiki/Ben_Winterburn)) (2024–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Daniel Jebbison](https://www.wikidata.org/wiki/Q106766809)** ([WP](https://en.wikipedia.org/wiki/Daniel_Jebbison)) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.

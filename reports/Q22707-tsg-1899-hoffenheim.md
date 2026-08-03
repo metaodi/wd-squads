@@ -8,6 +8,7 @@
 
 ## In current squad, but no membership statement on Wikidata (33)
 
+- **[Adam Daghim](https://www.wikidata.org/wiki/Q112970825)** ([WP](https://de.wikipedia.org/wiki/Adam_Daghim)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Albian Hajdari](https://www.wikidata.org/wiki/Q99694316)** ([WP](https://de.wikipedia.org/wiki/Albian_Hajdari)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Alessandro Vogt](https://www.wikidata.org/wiki/Q136121363)** ([WP](https://de.wikipedia.org/wiki/Alessandro_Vogt)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Alexander Prass](https://www.wikidata.org/wiki/Q62006510)** ([WP](https://de.wikipedia.org/wiki/Alexander_Prass)) (2024–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
@@ -19,7 +20,6 @@
 - **[Deniz Zeitler](https://www.wikidata.org/wiki/Q123651623)** ([WP](https://de.wikipedia.org/wiki/Deniz_Zeitler)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Fisnik Asllani](https://www.wikidata.org/wiki/Q109653419)** ([WP](https://de.wikipedia.org/wiki/Fisnik_Asllani)) (2021–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Florian Micheler](https://www.wikidata.org/wiki/Q130215867)** ([WP](https://de.wikipedia.org/wiki/Florian_Micheler)) (2024–2025) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
-- **[Gift Orban](https://www.wikidata.org/wiki/Q112963287)** ([WP](https://de.wikipedia.org/wiki/Gift_Orban)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Jakov Dedić](https://www.wikidata.org/wiki/Q139979318)** ([WP](https://en.wikipedia.org/wiki/Jakov_Dedi%C4%87)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Jykese Fields](https://www.wikidata.org/wiki/Q140472795)** — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Klaus Gjasula](https://www.wikidata.org/wiki/Q20631116)** ([WP](https://de.wikipedia.org/wiki/Klaus_Gjasula)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.

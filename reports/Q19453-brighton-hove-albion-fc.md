@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q19453](https://www.wikidata.org/wiki/Q19453)
 - Wikipedia article: [Brighton & Hove Albion F.C.](https://en.wikipedia.org/wiki/Brighton_&_Hove_Albion_F.C.)
-- Players in Wikipedia squad: 40
-- Current members on Wikidata: 203
+- Players in Wikipedia squad: 39
+- Current members on Wikidata: 202
 - Suggested edits: 208
 
 ## Membership marked ended, but player is in the current squad (1)

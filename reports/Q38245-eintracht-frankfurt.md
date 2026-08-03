@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q38245](https://www.wikidata.org/wiki/Q38245)
 - Wikipedia article: [Eintracht Frankfurt](https://de.wikipedia.org/wiki/Eintracht_Frankfurt)
-- Players in Wikipedia squad: 26
+- Players in Wikipedia squad: 27
 - Current members on Wikidata: 135
-- Suggested edits: 140
+- Suggested edits: 141
 
 ## Recorded as a current member, but no longer in the squad (124)
 
@@ -133,7 +133,7 @@
 - **[Änis Ben-Hatira](https://www.wikidata.org/wiki/Q62082)** ([WP](https://de.wikipedia.org/wiki/%C3%84nis_Ben-Hatira)) (2016) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Çağrı Karakuş](https://www.wikidata.org/wiki/Q89482352)** — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (15)
+## In current squad, but no membership statement on Wikidata (16)
 
 - **[Ayoube Amaimouni](https://www.wikidata.org/wiki/Q137705019)** ([WP](https://de.wikipedia.org/wiki/Ayoube_Amaimouni)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Elias Baum](https://www.wikidata.org/wiki/Q123390886)** ([WP](https://de.wikipedia.org/wiki/Elias_Baum)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
@@ -149,6 +149,7 @@
 - **[Noel Futkeu](https://www.wikidata.org/wiki/Q124757622)** ([WP](https://de.wikipedia.org/wiki/Noel_Futkeu)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Noël Aséko](https://www.wikidata.org/wiki/Q112570858)** ([WP](https://de.wikipedia.org/wiki/Noël_Aséko)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Oscar Højlund](https://www.wikidata.org/wiki/Q120804891)** ([WP](https://de.wikipedia.org/wiki/Oscar_Højlund)) (2024–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
+- **[Raphael Onyedika](https://www.wikidata.org/wiki/Q107985602)** ([WP](https://de.wikipedia.org/wiki/Raphael_Onyedika)) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Younes Ebnoutalib](https://www.wikidata.org/wiki/Q136388604)** ([WP](https://de.wikipedia.org/wiki/Younes_Ebnoutalib)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (1)

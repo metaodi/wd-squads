@@ -3,8 +3,8 @@
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
 - Players in Wikipedia squad: 35
-- Current members on Wikidata: 99
-- Suggested edits: 106
+- Current members on Wikidata: 98
+- Suggested edits: 105
 
 ## In current squad, but no membership statement on Wikidata (19)
 
@@ -28,7 +28,7 @@
 - **[Tidiam Gomis](https://www.wikidata.org/wiki/Q118611120)** ([WP](https://de.wikipedia.org/wiki/Tidiam_Gomis)) (2025–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 - **[Viggo Gebel](https://www.wikidata.org/wiki/Q129259791)** ([WP](https://de.wikipedia.org/wiki/Viggo_Gebel)) (2024–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (85)
+## Recorded as a current member, but no longer in the squad (84)
 
 - **[Alexander Siebeck](https://www.wikidata.org/wiki/Q20437173)** ([WP](https://de.wikipedia.org/wiki/Alexander_Siebeck)) (2013) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Sorge](https://www.wikidata.org/wiki/Q24701204)** ([WP](https://de.wikipedia.org/wiki/Alexander_Sorge)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -107,7 +107,6 @@
 - **[Terrence Boyd](https://www.wikidata.org/wiki/Q558475)** ([WP](https://de.wikipedia.org/wiki/Terrence_Boyd)) (2014–2017) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tim Schreiber](https://www.wikidata.org/wiki/Q106861878)** ([WP](https://de.wikipedia.org/wiki/Tim_Schreiber)) (2020–2024) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Timo Mauer](https://www.wikidata.org/wiki/Q37467445)** ([WP](https://de.wikipedia.org/wiki/Timo_Mauer)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Timo Werner](https://www.wikidata.org/wiki/Q3529022)** ([WP](https://de.wikipedia.org/wiki/Timo_Werner)) (2022–2026) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tom Krauß](https://www.wikidata.org/wiki/Q61680475)** ([WP](https://de.wikipedia.org/wiki/Tom_Krau%C3%9F)) (2019–2023) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tom Nattermann](https://www.wikidata.org/wiki/Q23788192)** ([WP](https://de.wikipedia.org/wiki/Tom_Nattermann)) (2012–2015) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tyler Adams](https://www.wikidata.org/wiki/Q19871581)** ([WP](https://de.wikipedia.org/wiki/Tyler_Adams)) (2019–2022) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

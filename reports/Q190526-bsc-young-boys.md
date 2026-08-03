@@ -2,11 +2,11 @@
 
 - Wikidata item: [Q190526](https://www.wikidata.org/wiki/Q190526)
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 90
-- Suggested edits: 102
+- Suggested edits: 101
 
-## In current squad, but no membership statement on Wikidata (18)
+## In current squad, but no membership statement on Wikidata (17)
 
 - **[Alan Virginius](https://www.wikidata.org/wiki/Q99485545)** ([WP](https://de.wikipedia.org/wiki/Alan_Virginius)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Cédric Zesiger](https://www.wikidata.org/wiki/Q27662789)** ([WP](https://de.wikipedia.org/wiki/Cédric_Zesiger)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
@@ -24,7 +24,6 @@
 - **[Ryan Andrews](https://www.wikidata.org/wiki/Q120015669)** ([WP](https://de.wikipedia.org/wiki/Ryan_Andrews)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Saidy Janko](https://www.wikidata.org/wiki/Q17619317)** ([WP](https://de.wikipedia.org/wiki/Saidy_Janko)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Samuel Essende](https://www.wikidata.org/wiki/Q56486404)** ([WP](https://de.wikipedia.org/wiki/Samuel_Essende)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
-- **[Sergio Córdova](https://www.wikidata.org/wiki/Q20666967)** ([WP](https://de.wikipedia.org/wiki/Sergio_Córdova)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Stefan Bukinac](https://www.wikidata.org/wiki/Q121085782)** ([WP](https://de.wikipedia.org/wiki/Stefan_Bukinac)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 
 ## Recorded as a current member, but no longer in the squad (81)

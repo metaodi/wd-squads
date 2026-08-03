@@ -10,7 +10,7 @@
 
 - **[Benjamin Kololli](https://www.wikidata.org/wiki/Q16234710)** ([WP](https://de.wikipedia.org/wiki/Benjamin_Kololli)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (20)
+## In current squad, but no membership statement on Wikidata (19)
 
 - **[Adrien Llukes](https://www.wikidata.org/wiki/Q134561961)** — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ali Kabacalman](https://www.wikidata.org/wiki/Q33529300)** ([WP](https://en.wikipedia.org/wiki/Ali_Kabacalman)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -23,7 +23,6 @@
 - **[Jan Kronig](https://www.wikidata.org/wiki/Q64010927)** ([WP](https://de.wikipedia.org/wiki/Jan_Kronig)) (2024–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Josias Lukembila](https://www.wikidata.org/wiki/Q105613659)** ([WP](https://de.wikipedia.org/wiki/Josias_Lukembila)) (2025–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Kreshnik Hajrizi](https://www.wikidata.org/wiki/Q107642689)** ([WP](https://de.wikipedia.org/wiki/Kreshnik_Hajrizi)) (2025–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
-- **[Lamine Diack](https://www.wikidata.org/wiki/Q120801047)** ([WP](https://de.wikipedia.org/wiki/Lamine_Diack)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Liam Chipperfield](https://www.wikidata.org/wiki/Q108603841)** ([WP](https://de.wikipedia.org/wiki/Liam_Chipperfield)) (2023–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Marquinhos Cipriano](https://www.wikidata.org/wiki/Q47545173)** ([WP](https://de.wikipedia.org/wiki/Marquinhos_Cipriano)) (2024–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Nias Hefti](https://www.wikidata.org/wiki/Q65753895)** ([WP](https://en.wikipedia.org/wiki/Nias_Hefti)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -122,9 +121,10 @@
 - **[Baltazar Costa](https://www.wikidata.org/wiki/Q56248714)** ([WP](https://de.wikipedia.org/wiki/Baltazar_Costa_Rodrigues_de_Oliveira)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Belmar Joseph](https://www.wikidata.org/wiki/Q130261735)** ([WP](https://en.wikipedia.org/wiki/Belmar_Joseph)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## In current squad, but no Wikidata item could be found (4)
+## In current squad, but no Wikidata item could be found (5)
 
 - **Altin Shala** — 'Altin Shala' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lamine Diack** — 'Lamine Diack' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Maxime Dubosson** — 'Maxime Dubosson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nevio Biner** — 'Nevio Biner' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Winsley Boteli** — 'Winsley Boteli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

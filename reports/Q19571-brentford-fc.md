@@ -3,15 +3,15 @@
 - Wikidata item: [Q19571](https://www.wikidata.org/wiki/Q19571)
 - Wikipedia article: [Brentford F.C.](https://en.wikipedia.org/wiki/Brentford_F.C.)
 - Players in Wikipedia squad: 53
-- Current members on Wikidata: 200
-- Suggested edits: 234
+- Current members on Wikidata: 199
+- Suggested edits: 235
 
 ## Membership marked ended, but player is in the current squad (2)
 
 - **[Josh Dasilva](https://www.wikidata.org/wiki/Q36696872)** ([WP](https://en.wikipedia.org/wiki/Josh_Dasilva)) (2018–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Kim Ji-soo](https://www.wikidata.org/wiki/Q117277515)** ([WP](https://en.wikipedia.org/wiki/Kim_Ji-soo_(footballer))) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (31)
+## In current squad, but no membership statement on Wikidata (32)
 
 - **[Aaron Hickey](https://www.wikidata.org/wiki/Q64010525)** ([WP](https://en.wikipedia.org/wiki/Aaron_Hickey)) (2022–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Antoni Milambo](https://www.wikidata.org/wiki/Q108067127)** ([WP](https://en.wikipedia.org/wiki/Antoni_Milambo)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
@@ -34,6 +34,7 @@
 - **[Kevin Schade](https://www.wikidata.org/wiki/Q103845834)** ([WP](https://en.wikipedia.org/wiki/Kevin_Schade)) (2023–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Kristoffer Ajer](https://www.wikidata.org/wiki/Q18157457)** ([WP](https://en.wikipedia.org/wiki/Kristoffer_Ajer)) (2021–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Luka Bentt](https://www.wikidata.org/wiki/Q138321537)** ([WP](https://en.wikipedia.org/wiki/Luka_Bentt)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
+- **[Mamadou Sangaré](https://www.wikidata.org/wiki/Q99296828)** ([WP](https://en.wikipedia.org/wiki/Mamadou_Sangaré)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Matthew Cox](https://www.wikidata.org/wiki/Q112821650)** ([WP](https://en.wikipedia.org/wiki/Matthew_Cox_(footballer))) (2022–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Michael Kayode](https://www.wikidata.org/wiki/Q120668096)** ([WP](https://en.wikipedia.org/wiki/Michael_Kayode)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Michael Olakigbe](https://www.wikidata.org/wiki/Q122038690)** ([WP](https://en.wikipedia.org/wiki/Michael_Olakigbe)) (2023–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.

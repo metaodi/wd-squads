@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q101959](https://www.wikidata.org/wiki/Q101959)
 - Wikipedia article: [Borussia Mönchengladbach](https://de.wikipedia.org/wiki/Borussia_Mönchengladbach)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 84
-- Suggested edits: 94
+- Suggested edits: 95
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -87,8 +87,9 @@
 - **[Werner Waddey](https://www.wikidata.org/wiki/Q2562836)** ([WP](https://de.wikipedia.org/wiki/Werner_Waddey)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Álvaro Domínguez](https://www.wikidata.org/wiki/Q182482)** ([WP](https://de.wikipedia.org/wiki/%C3%81lvaro_Dom%C3%ADnguez_(Fu%C3%9Fballspieler,_1989))) (2012–2016) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (18)
+## In current squad, but no membership statement on Wikidata (19)
 
+- **[Daiki Hashioka](https://www.wikidata.org/wiki/Q39117170)** ([WP](https://de.wikipedia.org/wiki/Daiki_Hashioka)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Daniel Batz](https://www.wikidata.org/wiki/Q1160026)** ([WP](https://de.wikipedia.org/wiki/Daniel_Batz)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[David Herold](https://www.wikidata.org/wiki/Q116766165)** ([WP](https://de.wikipedia.org/wiki/David_Herold_(Fußballspieler))) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Enzo Leopold](https://www.wikidata.org/wiki/Q111955261)** ([WP](https://de.wikipedia.org/wiki/Enzo_Leopold)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.

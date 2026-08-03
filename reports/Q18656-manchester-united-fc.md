@@ -411,7 +411,7 @@
 - **[Shea Lacey](https://www.wikidata.org/wiki/Q117207006)** ([WP](https://en.wikipedia.org/wiki/Shea_Lacey)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Toby Collyer](https://www.wikidata.org/wiki/Q121437419)** ([WP](https://en.wikipedia.org/wiki/Toby_Collyer)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Tyler Fletcher](https://www.wikidata.org/wiki/Q137384640)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fletcher)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Tyler Fredricson](https://www.wikidata.org/wiki/Q132454617)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fredricson)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
+- **[Tynan Thompson](https://www.wikidata.org/wiki/Q137343216)** ([WP](https://en.wikipedia.org/wiki/Tynan_Thompson)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 
 ## Current member, but the membership has no start date (1)
 

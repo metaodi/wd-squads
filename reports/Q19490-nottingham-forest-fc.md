@@ -2,15 +2,15 @@
 
 - Wikidata item: [Q19490](https://www.wikidata.org/wiki/Q19490)
 - Wikipedia article: [Nottingham Forest F.C.](https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.)
-- Players in Wikipedia squad: 53
-- Current members on Wikidata: 211
-- Suggested edits: 239
+- Players in Wikipedia squad: 52
+- Current members on Wikidata: 210
+- Suggested edits: 237
 
 ## Membership marked ended, but player is in the current squad (1)
 
 - **[Taiwo Awoniyi](https://www.wikidata.org/wiki/Q20932574)** ([WP](https://en.wikipedia.org/wiki/Taiwo_Awoniyi)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (198)
+## Recorded as a current member, but no longer in the squad (197)
 
 - **[Adam Crookes](https://www.wikidata.org/wiki/Q56289680)** ([WP](https://en.wikipedia.org/wiki/Adam_Crookes)) (2017–2019) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Scott](https://www.wikidata.org/wiki/Q65963020)** ([WP](https://en.wikipedia.org/wiki/Adam_Scott_(footballer))) (1890–1900) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -183,7 +183,6 @@
 - **[Sandy McMahon](https://www.wikidata.org/wiki/Q3472106)** ([WP](https://en.wikipedia.org/wiki/Sandy_McMahon)) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sandy McNab](https://www.wikidata.org/wiki/Q7417376)** ([WP](https://en.wikipedia.org/wiki/Sandy_McNab)) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sid Wileman](https://www.wikidata.org/wiki/Q7507949)** ([WP](https://en.wikipedia.org/wiki/Sid_Wileman)) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Stefan Ortega](https://www.wikidata.org/wiki/Q821646)** ([WP](https://en.wikipedia.org/wiki/Stefan_Ortega)) (2026) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Steve Adlard](https://www.wikidata.org/wiki/Q7611765)** ([WP](https://en.wikipedia.org/wiki/Steve_Adlard)) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tarik Bengelloun](https://www.wikidata.org/wiki/Q80868546)** ([WP](https://en.wikipedia.org/wiki/Tarik_Bengelloun)) (2008–) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tendayi Darikwa](https://www.wikidata.org/wiki/Q7699573)** ([WP](https://en.wikipedia.org/wiki/Tendayi_Darikwa)) (2017–2021) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -211,7 +210,7 @@
 - **[Yassine En-Neyah](https://www.wikidata.org/wiki/Q81074584)** ([WP](https://en.wikipedia.org/wiki/Yassine_En-Neyah)) (2020–2021) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zannetos Mytidis](https://www.wikidata.org/wiki/Q16234847)** — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (24)
+## In current squad, but no membership statement on Wikidata (23)
 
 - **[Cuiabano](https://www.wikidata.org/wiki/Q118592236)** ([WP](https://en.wikipedia.org/wiki/Cuiabano)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Dilane Bakwa](https://www.wikidata.org/wiki/Q99672568)** ([WP](https://en.wikipedia.org/wiki/Dilane_Bakwa)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
@@ -222,7 +221,6 @@
 - **[Jair Cunha](https://www.wikidata.org/wiki/Q123383036)** ([WP](https://en.wikipedia.org/wiki/Jair_Cunha)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[James McAtee](https://www.wikidata.org/wiki/Q108653498)** ([WP](https://en.wikipedia.org/wiki/James_McAtee)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Jimmy Sinclair](https://www.wikidata.org/wiki/Q137092093)** ([WP](https://en.wikipedia.org/wiki/Jimmy_Sinclair_(footballer,_born_2006))) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
-- **[Joe Gardner](https://www.wikidata.org/wiki/Q131988332)** ([WP](https://en.wikipedia.org/wiki/Joe_Gardner_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[John Victor](https://www.wikidata.org/wiki/Q66685965)** ([WP](https://en.wikipedia.org/wiki/John_Victor_(footballer))) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Josh Powell](https://www.wikidata.org/wiki/Q135925838)** ([WP](https://en.wikipedia.org/wiki/Josh_Powell_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Kalum Thompson](https://www.wikidata.org/wiki/Q136384383)** — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.

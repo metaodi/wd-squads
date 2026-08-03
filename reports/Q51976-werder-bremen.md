@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q51976](https://www.wikidata.org/wiki/Q51976)
 - Wikipedia article: [Werder Bremen](https://de.wikipedia.org/wiki/Werder_Bremen)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 97
-- Suggested edits: 109
+- Suggested edits: 110
 
 ## Membership marked ended, but player is in the current squad (1)
 
@@ -126,6 +126,7 @@
 
 - **[Patrice Čović](https://www.wikidata.org/wiki/Q135939736)** ([WP](https://de.wikipedia.org/wiki/Patrice_Čović)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (1)
+## In current squad, but no Wikidata item could be found (2)
 
+- **Darwin Soylu** — 'Darwin Soylu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Stefan Smarkalew** — 'Stefan Smarkalew' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
