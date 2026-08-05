@@ -71,10 +71,15 @@ def render_team_markdown(result: TeamResult, generated_at: str) -> str:
         grouped.setdefault(s.kind, []).append(s)
 
     for kind in sorted(grouped, key=lambda k: PRIORITY.get(k, 99)):
-        lines.append(f"## {KIND_LABEL.get(kind, kind)} ({len(grouped[kind])})")
+        lines.append("<details open>")
+        lines.append(
+            f"<summary><strong>{KIND_LABEL.get(kind, kind)} ({len(grouped[kind])})</strong></summary>"
+        )
         lines.append("")
         for s in grouped[kind]:
             lines.append(f"- {_markdown_player(s)} — {s.detail}")
+        lines.append("")
+        lines.append("</details>")
         lines.append("")
     return "\n".join(lines)
 
@@ -211,8 +216,13 @@ _HTML_TEMPLATE = """<!doctype html>
     padding:.1rem .6rem; font-size:.8rem; font-weight:600; }
   .count.zero { background:#3aa657; }
   .body { padding:0 1rem 1rem; }
-  .kind { margin:1rem 0 .3rem; font-size:.95rem; color:var(--muted);
+  .kind-section { margin:1rem 0 .3rem; }
+  .kind-section > summary.kind { cursor:pointer; font-size:.95rem; color:var(--muted);
     text-transform:uppercase; letter-spacing:.03em; }
+  .kind-section > summary.kind::-webkit-details-marker { display:none; }
+  .kind-section > summary.kind::before { content:"▸ "; display:inline-block;
+    transition:transform .1s ease-in-out; }
+  .kind-section[open] > summary.kind::before { transform:rotate(90deg); }
   ul { margin:.2rem 0 .6rem; padding-left:1.2rem; }
   li { margin:.35rem 0; }
   a { color:var(--accent); text-decoration:none; }
@@ -260,18 +270,20 @@ _HTML_TEMPLATE = """<!doctype html>
           <p>✅ Nothing to do &mdash; Wikipedia and Wikidata agree.</p>
         {% else %}
           {% for kind, items in r.grouped %}
-          <div class="kind">{{ kind_label[kind] }} ({{ items|length }})</div>
-          <ul>
-            {% for s in items %}
-            <li>
-              {% if s.player_qid %}<a href="https://www.wikidata.org/wiki/{{ s.player_qid }}">{{ s.player_label }}</a>
-              {% else %}<strong>{{ s.player_label }}</strong>{% endif %}
-              {% if s.links.wikipedia %}(<a href="{{ s.links.wikipedia }}">WP</a>){% endif %}
-              {% if s.years_label %}<span class="detail">&nbsp;({{ s.years_label }})</span>{% endif %}
-              <span class="detail">&mdash; {{ s.detail }}</span>
-            </li>
-            {% endfor %}
-          </ul>
+          <details class="kind-section" open>
+            <summary class="kind">{{ kind_label[kind] }} ({{ items|length }})</summary>
+            <ul>
+              {% for s in items %}
+              <li>
+                {% if s.player_qid %}<a href="https://www.wikidata.org/wiki/{{ s.player_qid }}">{{ s.player_label }}</a>
+                {% else %}<strong>{{ s.player_label }}</strong>{% endif %}
+                {% if s.links.wikipedia %}(<a href="{{ s.links.wikipedia }}">WP</a>){% endif %}
+                {% if s.years_label %}<span class="detail">&nbsp;({{ s.years_label }})</span>{% endif %}
+                <span class="detail">&mdash; {{ s.detail }}</span>
+              </li>
+              {% endfor %}
+            </ul>
+          </details>
           {% endfor %}
         {% endif %}
       </div>
