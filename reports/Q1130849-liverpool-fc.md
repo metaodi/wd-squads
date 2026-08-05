@@ -6,7 +6,8 @@
 - Current members on Wikidata: 364
 - Suggested edits: 353
 
-## Membership marked ended, but player is in the current squad (6)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (6)</strong></summary>
 
 - **[Diogo Jota](https://www.wikidata.org/wiki/Q19518278)** ([WP](https://en.wikipedia.org/wiki/Diogo_Jota)) (2020–2025) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Federico Chiesa](https://www.wikidata.org/wiki/Q26704703)** ([WP](https://en.wikipedia.org/wiki/Federico_Chiesa)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
@@ -15,7 +16,10 @@
 - **[Wataru Endo](https://www.wikidata.org/wiki/Q10526787)** ([WP](https://en.wikipedia.org/wiki/Wataru_Endo)) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Ármin Pécsi](https://www.wikidata.org/wiki/Q131721965)** ([WP](https://en.wikipedia.org/wiki/Ármin_Pécsi)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (342)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (342)</strong></summary>
 
 - **[Abe Rosenthal](https://www.wikidata.org/wiki/Q4666434)** ([WP](https://en.wikipedia.org/wiki/Abe_Rosenthal)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abraham Foxall](https://www.wikidata.org/wiki/Q4668858)** ([WP](https://en.wikipedia.org/wiki/Abraham_Foxall)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -360,13 +364,21 @@
 - **[Yasser Larouci](https://www.wikidata.org/wiki/Q65921425)** ([WP](https://en.wikipedia.org/wiki/Yasser_Larouci)) (2019–2021) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yusuf Mersin](https://www.wikidata.org/wiki/Q19613202)** ([WP](https://en.wikipedia.org/wiki/Yusuf_Mersin)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (4)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (4)</strong></summary>
 
 - **[Freddie Woodman](https://www.wikidata.org/wiki/Q20127322)** ([WP](https://en.wikipedia.org/wiki/Freddie_Woodman)) (2025–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Harvey Davies](https://www.wikidata.org/wiki/Q115145113)** ([WP](https://en.wikipedia.org/wiki/Harvey_Davies)) (2020–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[James McConnell](https://www.wikidata.org/wiki/Q118767830)** ([WP](https://en.wikipedia.org/wiki/James_McConnell_(footballer,_born_2004))) (2023–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Vítězslav Jaroš](https://www.wikidata.org/wiki/Q112503285)** ([WP](https://en.wikipedia.org/wiki/Vítězslav_Jaroš)) (2020–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Calvin Ramsay](https://www.wikidata.org/wiki/Q94696146)** ([WP](https://en.wikipedia.org/wiki/Calvin_Ramsay)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

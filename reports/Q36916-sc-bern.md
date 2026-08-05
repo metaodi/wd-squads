@@ -6,7 +6,8 @@
 - Current members on Wikidata: 193
 - Suggested edits: 217
 
-## In current squad, but no membership statement on Wikidata (13)
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (13)</strong></summary>
 
 - **[Adam Reideborn](https://www.wikidata.org/wiki/Q18274666)** ([WP](https://en.wikipedia.org/wiki/Adam_Reideborn)) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Anton Lindholm](https://www.wikidata.org/wiki/Q16229499)** ([WP](https://de.wikipedia.org/wiki/Anton_Lindholm)) (2024–) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia.
@@ -22,7 +23,10 @@
 - **[Victor Ejdsell](https://www.wikidata.org/wiki/Q19976519)** ([WP](https://en.wikipedia.org/wiki/Victor_Ejdsell)) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Waltteri Merelä](https://www.wikidata.org/wiki/Q61103011)** ([WP](https://en.wikipedia.org/wiki/Waltteri_Merel%C3%A4)) — Add a 'member of sports team' (P54) statement → SC Bern (Q36916); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## Recorded as a current member, but no longer in the squad (187)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (187)</strong></summary>
 
 - **[Adrian Brunner](https://www.wikidata.org/wiki/Q209014)** ([WP](https://de.wikipedia.org/wiki/Adrian_Brunner)) (2011–2012) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Berger](https://www.wikidata.org/wiki/Q2636358)** ([WP](https://de.wikipedia.org/wiki/Alain_Berger_(Eishockeyspieler))) (2012–2022) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -212,7 +216,10 @@
 - **[Éric Perrin](https://www.wikidata.org/wiki/Q288290)** ([WP](https://de.wikipedia.org/wiki/%C3%89ric_Perrin)) (2005–2006) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ľuboš Bartečko](https://www.wikidata.org/wiki/Q345044)** ([WP](https://de.wikipedia.org/wiki/%C4%BDubo%C5%A1_Barte%C4%8Dko)) (2009–2010) — Add an end date (P582) to the membership → SC Bern (Q36916); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (6)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (6)</strong></summary>
 
 - **[Benjamin Baumgartner](https://www.wikidata.org/wiki/Q65030293)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Baumgartner)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Joël Vermin](https://www.wikidata.org/wiki/Q533021)** ([WP](https://de.wikipedia.org/wiki/Joël_Vermin)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
@@ -221,7 +228,10 @@
 - **[Samuel Kreis](https://www.wikidata.org/wiki/Q15843907)** ([WP](https://de.wikipedia.org/wiki/Samuel_Kreis)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Tristan Scherwey](https://www.wikidata.org/wiki/Q783694)** ([WP](https://de.wikipedia.org/wiki/Tristan_Scherwey)) (2007–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (11)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (11)</strong></summary>
 
 - **Alain Graf** — 'Alain Graf' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Alexander Jakowenko** — 'Alexander Jakowenko' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -234,3 +244,5 @@
 - **Mats Alge** — 'Mats Alge' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nils Rhyn** — 'Nils Rhyn' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Noah Fuss** — 'Noah Fuss' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

@@ -6,7 +6,8 @@
 - Current members on Wikidata: 60
 - Suggested edits: 90
 
-## In current squad, but no membership statement on Wikidata (22)
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (22)</strong></summary>
 
 - **[Adrian Bajrami](https://www.wikidata.org/wiki/Q111734096)** ([WP](https://de.wikipedia.org/wiki/Adrian_Bajrami)) (2025–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Adrian Grbić](https://www.wikidata.org/wiki/Q21033347)** ([WP](https://de.wikipedia.org/wiki/Adrian_Grbić)) (2024–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
@@ -31,7 +32,10 @@
 - **[Tyron Owusu](https://www.wikidata.org/wiki/Q97570775)** ([WP](https://de.wikipedia.org/wiki/Tyron_Owusu)) (2020–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Vaso Vasić](https://www.wikidata.org/wiki/Q20605938)** ([WP](https://de.wikipedia.org/wiki/Vaso_Vasić)) (2021–2026) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (59)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (59)</strong></summary>
 
 - **[Aldo Moscatelli](https://www.wikidata.org/wiki/Q84369675)** ([WP](https://en.wikipedia.org/wiki/Aldo_Moscatelli)) — Add an end date (P582) to the membership → FC Luzern (Q223262); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Brown](https://www.wikidata.org/wiki/Q11685265)** ([WP](https://en.wikipedia.org/wiki/Alex_Brown_(Liberian_footballer))) — Add an end date (P582) to the membership → FC Luzern (Q223262); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -93,11 +97,17 @@
 - **[Yannick Schmid](https://www.wikidata.org/wiki/Q30127256)** ([WP](https://de.wikipedia.org/wiki/Yannick_Schmid)) (2015–2019) — Add an end date (P582) to the membership → FC Luzern (Q223262); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Özkan Taştemur](https://www.wikidata.org/wiki/Q63165929)** ([WP](https://de.wikipedia.org/wiki/%C3%96zkan_Ta%C5%9Ftemur)) (2013–2014) — Add an end date (P582) to the membership → FC Luzern (Q223262); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Stefan Knežević](https://www.wikidata.org/wiki/Q30015473)** ([WP](https://de.wikipedia.org/wiki/Stefan_Knežević)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (8)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (8)</strong></summary>
 
 - **Bung Meng Freimann** — 'Bung Meng Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Diego Heller** — 'Diego Heller' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -107,3 +117,5 @@
 - **Mio Zimmermann** — 'Mio Zimmermann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Rúben Dantas Fernandes** — 'Rúben Dantas Fernandes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sandro Wyss** — 'Sandro Wyss' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

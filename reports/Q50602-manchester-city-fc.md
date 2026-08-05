@@ -6,12 +6,16 @@
 - Current members on Wikidata: 212
 - Suggested edits: 207
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Josh Wilson-Esbrand](https://www.wikidata.org/wiki/Q105477902)** ([WP](https://en.wikipedia.org/wiki/Josh_Wilson-Esbrand)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Marc-Vivien Foé](https://www.wikidata.org/wiki/Q223843)** ([WP](https://en.wikipedia.org/wiki/Marc-Vivien_Foé)) (2002–2003) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (185)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (185)</strong></summary>
 
 - **[Adam Carson](https://www.wikidata.org/wiki/Q4678835)** ([WP](https://en.wikipedia.org/wiki/Adam_Carson_(footballer))) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrián Bernabé](https://www.wikidata.org/wiki/Q56809124)** ([WP](https://en.wikipedia.org/wiki/Adri%C3%A1n_Bernab%C3%A9)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -199,7 +203,10 @@
 - **[William Owen](https://www.wikidata.org/wiki/Q8016418)** ([WP](https://en.wikipedia.org/wiki/William_Owen_(footballer,_born_1884))) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Willie Campbell](https://www.wikidata.org/wiki/Q8021411)** ([WP](https://en.wikipedia.org/wiki/Willie_Campbell_(footballer))) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Charlie Gray](https://www.wikidata.org/wiki/Q137433913)** ([WP](https://en.wikipedia.org/wiki/Charlie_Gray_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Claudio Echeverri](https://www.wikidata.org/wiki/Q116463164)** ([WP](https://en.wikipedia.org/wiki/Claudio_Echeverri)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
@@ -221,6 +228,11 @@
 - **[Tyrone Samba](https://www.wikidata.org/wiki/Q137836766)** ([WP](https://en.wikipedia.org/wiki/Tyrone_Samba)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Vitor Reis](https://www.wikidata.org/wiki/Q120277811)** ([WP](https://en.wikipedia.org/wiki/Vitor_Reis)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Divin Mubama](https://www.wikidata.org/wiki/Q115044761)** ([WP](https://en.wikipedia.org/wiki/Divin_Mubama)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

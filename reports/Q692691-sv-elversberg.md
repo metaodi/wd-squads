@@ -6,7 +6,8 @@
 - Current members on Wikidata: 40
 - Suggested edits: 66
 
-## Recorded as a current member, but no longer in the squad (39)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (39)</strong></summary>
 
 - **[Aldin Skenderovic](https://www.wikidata.org/wiki/Q30142777)** ([WP](https://de.wikipedia.org/wiki/Aldin_Skenderovic)) — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Schmieden](https://www.wikidata.org/wiki/Q17310192)** ([WP](https://de.wikipedia.org/wiki/Alexander_Schmieden)) (2012–2015) — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -48,11 +49,15 @@
 - **[Yilmaz Örtülü](https://www.wikidata.org/wiki/Q2600317)** ([WP](https://de.wikipedia.org/wiki/Yilmaz_%C3%96rt%C3%BCl%C3%BC)) (2007–2008) — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Younes Ebnoutalib](https://www.wikidata.org/wiki/Q136388604)** ([WP](https://de.wikipedia.org/wiki/Younes_Ebnoutalib)) (2025) — Add an end date (P582) to the membership → SV Elversberg (Q692691); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (25)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (27)</strong></summary>
 
 - **[Amara Condé](https://www.wikidata.org/wiki/Q26211996)** ([WP](https://de.wikipedia.org/wiki/Amara_Condé)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Cole Campbell](https://www.wikidata.org/wiki/Q116725515)** ([WP](https://de.wikipedia.org/wiki/Cole_Campbell)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[David Mokwa](https://www.wikidata.org/wiki/Q117266388)** ([WP](https://de.wikipedia.org/wiki/David_Mokwa)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Elias Etringer](https://www.wikidata.org/wiki/Q140855139)** — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Felix Keidel](https://www.wikidata.org/wiki/Q116687736)** ([WP](https://de.wikipedia.org/wiki/Felix_Keidel)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Filimon Gerezgiher](https://www.wikidata.org/wiki/Q130449502)** ([WP](https://de.wikipedia.org/wiki/Filimon_Gerezgiher)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Florian Le Joncour](https://www.wikidata.org/wiki/Q20991472)** ([WP](https://de.wikipedia.org/wiki/Florian_Le_Joncour)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
@@ -64,6 +69,7 @@
 - **[Lasse Günther](https://www.wikidata.org/wiki/Q106451287)** ([WP](https://de.wikipedia.org/wiki/Lasse_Günther)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Luca Pfeiffer](https://www.wikidata.org/wiki/Q56434183)** ([WP](https://de.wikipedia.org/wiki/Luca_Pfeiffer)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Luca Schnellbacher](https://www.wikidata.org/wiki/Q14776663)** ([WP](https://de.wikipedia.org/wiki/Luca_Schnellbacher)) (2020–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Luis Seifert](https://www.wikidata.org/wiki/Q140855129)** — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Lukas Petkov](https://www.wikidata.org/wiki/Q106938641)** ([WP](https://de.wikipedia.org/wiki/Lukas_Petkov)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Lukas Pinckert](https://www.wikidata.org/wiki/Q107642880)** ([WP](https://de.wikipedia.org/wiki/Lukas_Pinckert)) (2022–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Maurice Krattenmacher](https://www.wikidata.org/wiki/Q124150768)** ([WP](https://de.wikipedia.org/wiki/Maurice_Krattenmacher)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
@@ -76,7 +82,4 @@
 - **[Tom Zimmerschied](https://www.wikidata.org/wiki/Q99244389)** ([WP](https://de.wikipedia.org/wiki/Tom_Zimmerschied)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Łukasz Poręba](https://www.wikidata.org/wiki/Q61910842)** ([WP](https://de.wikipedia.org/wiki/Łukasz_Poręba)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 
-## In current squad, but no Wikidata item could be found (2)
-
-- **Elias Etringer** — 'Elias Etringer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Luis Seifert** — 'Luis Seifert' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+</details>

@@ -6,12 +6,16 @@
 - Current members on Wikidata: 75
 - Suggested edits: 118
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Daniel Williams](https://www.wikidata.org/wiki/Q138235)** ([WP](https://de.wikipedia.org/wiki/Daniel_Williams_(Fu%C3%9Fballspieler))) (2010–2011) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Nicolas Höfler](https://www.wikidata.org/wiki/Q49785)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Höfler)) (2010–2026) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (66)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (66)</strong></summary>
 
 - **[Amir Falahen](https://www.wikidata.org/wiki/Q23062751)** ([WP](https://de.wikipedia.org/wiki/Amir_Falahen)) (2015–2017) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charles-Elie Laprevotte](https://www.wikidata.org/wiki/Q14703470)** ([WP](https://de.wikipedia.org/wiki/Charles-Elie_Laprevotte)) (2013–2016) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -80,7 +84,10 @@
 - **[Vegar Eggen Hedenstad](https://www.wikidata.org/wiki/Q128844)** ([WP](https://de.wikipedia.org/wiki/Vegar_Eggen_Hedenstad)) (2012–2016) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zaza Zamtaradze](https://www.wikidata.org/wiki/Q20574310)** — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (26)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (27)</strong></summary>
 
 - **[Anthony Jung](https://www.wikidata.org/wiki/Q573461)** ([WP](https://de.wikipedia.org/wiki/Anthony_Jung)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Berkay Yılmaz](https://www.wikidata.org/wiki/Q123510066)** ([WP](https://de.wikipedia.org/wiki/Berkay_Yılmaz)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
@@ -94,6 +101,7 @@
 - **[Jaaso Jantunen](https://www.wikidata.org/wiki/Q122067213)** ([WP](https://de.wikipedia.org/wiki/Jaaso_Jantunen)) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Jannik Huth](https://www.wikidata.org/wiki/Q18626179)** ([WP](https://de.wikipedia.org/wiki/Jannik_Huth)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Julius Düker](https://www.wikidata.org/wiki/Q18150905)** ([WP](https://de.wikipedia.org/wiki/Julius_Düker)) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
+- **[Karl Steinmann](https://www.wikidata.org/wiki/Q140855108)** — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Keisuke Gotō](https://www.wikidata.org/wiki/Q114736627)** ([WP](https://de.wikipedia.org/wiki/Keisuke_Gotō)) (2026–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Lucas Höler](https://www.wikidata.org/wiki/Q20871889)** ([WP](https://de.wikipedia.org/wiki/Lucas_Höler)) (2018–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Max Rosenfelder](https://www.wikidata.org/wiki/Q107723629)** ([WP](https://de.wikipedia.org/wiki/Max_Rosenfelder)) (2023–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
@@ -109,11 +117,17 @@
 - **[Yannik Engelhardt](https://www.wikidata.org/wiki/Q66725015)** ([WP](https://de.wikipedia.org/wiki/Yannik_Engelhardt)) (2026–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Yuito Suzuki](https://www.wikidata.org/wiki/Q85884126)** ([WP](https://de.wikipedia.org/wiki/Yuito_Suzuki)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Jordy Makengo](https://www.wikidata.org/wiki/Q107723702)** ([WP](https://de.wikipedia.org/wiki/Jordy_Makengo)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (23)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (22)</strong></summary>
 
 - **Billal Mohamed** — 'Billal Mohamed' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bismark Adomah** — 'Bismark Adomah' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -126,7 +140,6 @@
 - **Jack James** — 'Jack James' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jannik Veit** — 'Jannik Veit' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Josip Barjasic** — 'Josip Barjasic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Karl Steinmann** — 'Karl Steinmann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Kilian Katz** — 'Kilian Katz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Kilian Michelbach** — 'Kilian Michelbach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Krish Raweri** — 'Krish Raweri' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -138,3 +151,5 @@
 - **Mladen Mijajlovic** — 'Mladen Mijajlovic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tammo Schiertz** — 'Tammo Schiertz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Théodore Pizarro** — 'Théodore Pizarro' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

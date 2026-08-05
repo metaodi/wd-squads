@@ -2,15 +2,19 @@
 
 - Wikidata item: [Q41420](https://www.wikidata.org/wiki/Q41420)
 - Wikipedia article: [Borussia Dortmund](https://de.wikipedia.org/wiki/Borussia_Dortmund)
-- Players in Wikipedia squad: 28
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 77
-- Suggested edits: 81
+- Suggested edits: 82
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Fábio Silva](https://www.wikidata.org/wiki/Q66738004)** ([WP](https://de.wikipedia.org/wiki/Fábio_Silva_(Fußballspieler,_2002))) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (15)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Alexander Meyer](https://www.wikidata.org/wiki/Q66005227)** ([WP](https://de.wikipedia.org/wiki/Alexander_Meyer_(Fußballspieler,_1991))) (2022–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Almugera Kabar](https://www.wikidata.org/wiki/Q118465236)** ([WP](https://de.wikipedia.org/wiki/Almugera_Kabar)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
@@ -20,6 +24,7 @@
 - **[Joane Gadou](https://www.wikidata.org/wiki/Q118441569)** ([WP](https://de.wikipedia.org/wiki/Joane_Gadou)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Justin Lerma](https://www.wikidata.org/wiki/Q125476516)** ([WP](https://de.wikipedia.org/wiki/Justin_Lerma)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Kauã Prates](https://www.wikidata.org/wiki/Q134086937)** ([WP](https://de.wikipedia.org/wiki/Kauã_Prates)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
+- **[Konstantinos Karetsas](https://www.wikidata.org/wiki/Q121422699)** ([WP](https://de.wikipedia.org/wiki/Konstantinos_Karetsas)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Luca Reggiani](https://www.wikidata.org/wiki/Q134546606)** ([WP](https://de.wikipedia.org/wiki/Luca_Reggiani)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Mathis Albert](https://www.wikidata.org/wiki/Q130316017)** ([WP](https://de.wikipedia.org/wiki/Mathis_Albert)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Mussa Kaba](https://www.wikidata.org/wiki/Q137395975)** ([WP](https://en.wikipedia.org/wiki/Mussa_Kaba)) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -28,7 +33,10 @@
 - **[Waldemar Anton](https://www.wikidata.org/wiki/Q23559699)** ([WP](https://de.wikipedia.org/wiki/Waldemar_Anton)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Yan Couto](https://www.wikidata.org/wiki/Q75057147)** ([WP](https://de.wikipedia.org/wiki/Yan_Couto)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (65)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (65)</strong></summary>
 
 - **[Alfred Kohlhäufl](https://www.wikidata.org/wiki/Q2645311)** ([WP](https://de.wikipedia.org/wiki/Alfred_Kohlh%C3%A4ufl)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alfred Mikuda](https://www.wikidata.org/wiki/Q61663379)** ([WP](https://de.wikipedia.org/wiki/Alfred_Mikuda)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -95,3 +103,5 @@
 - **[Wilhelm Buddenberg](https://www.wikidata.org/wiki/Q19513863)** ([WP](https://de.wikipedia.org/wiki/Wilhelm_Buddenberg_(Fu%C3%9Fballspieler))) (1948–1950) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Willibald Mikulasch](https://www.wikidata.org/wiki/Q14625147)** ([WP](https://de.wikipedia.org/wiki/Willibald_Mikulasch)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ágnes Farkas](https://www.wikidata.org/wiki/Q996411)** ([WP](https://de.wikipedia.org/wiki/%C3%81gnes_Farkas)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+
+</details>

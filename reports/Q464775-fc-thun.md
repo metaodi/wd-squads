@@ -6,12 +6,16 @@
 - Current members on Wikidata: 47
 - Suggested edits: 72
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Marco Bürki](https://www.wikidata.org/wiki/Q16229917)** ([WP](https://de.wikipedia.org/wiki/Marco_Bürki)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Nicolas Bürgy](https://www.wikidata.org/wiki/Q33891790)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Bürgy)) (2026–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (44)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (44)</strong></summary>
 
 - **[Alejandro Henzi](https://www.wikidata.org/wiki/Q23799355)** — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Wittwer](https://www.wikidata.org/wiki/Q459680)** ([WP](https://de.wikipedia.org/wiki/Andreas_Wittwer)) (2008–2016) — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -58,7 +62,10 @@
 - **[Timo Righetti](https://www.wikidata.org/wiki/Q55819654)** ([WP](https://en.wikipedia.org/wiki/Timo_Righetti)) — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Uros Vasic](https://www.wikidata.org/wiki/Q73139507)** ([WP](https://de.wikipedia.org/wiki/Uros_Vasic)) (2019–2025) — Add an end date (P582) to the membership → FC Thun (Q464775); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Ashvin Balaruban](https://www.wikidata.org/wiki/Q96575719)** ([WP](https://en.wikipedia.org/wiki/Ashvin_Balaruban)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Brighton Labeau](https://www.wikidata.org/wiki/Q36694978)** ([WP](https://de.wikipedia.org/wiki/Brighton_Labeau)) (2025–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
@@ -80,11 +87,17 @@
 - **[Tim Spycher](https://www.wikidata.org/wiki/Q138328470)** ([WP](https://en.wikipedia.org/wiki/Tim_Spycher)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Valmir Matoshi](https://www.wikidata.org/wiki/Q138328476)** ([WP](https://en.wikipedia.org/wiki/Valmir_Matoshi)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Justin Roth](https://www.wikidata.org/wiki/Q73139579)** ([WP](https://en.wikipedia.org/wiki/Justin_Roth)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## In current squad, but no Wikidata item could be found (6)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
 
 - **Adam Ilic** — 'Adam Ilic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Amir Maaroufi** — 'Amir Maaroufi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -92,3 +105,5 @@
 - **Fabio Saiz** — 'Fabio Saiz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Leo Stucki** — 'Leo Stucki' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Louis Passavant** — 'Louis Passavant' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

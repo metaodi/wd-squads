@@ -2,11 +2,12 @@
 
 - Wikidata item: [Q9653](https://www.wikidata.org/wiki/Q9653)
 - Wikipedia article: [Ipswich Town F.C.](https://en.wikipedia.org/wiki/Ipswich_Town_F.C.)
-- Players in Wikipedia squad: 32
+- Players in Wikipedia squad: 33
 - Current members on Wikidata: 98
-- Suggested edits: 119
+- Suggested edits: 120
 
-## In current squad, but no membership statement on Wikidata (26)
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (27)</strong></summary>
 
 - **[Abdul Fatawu](https://www.wikidata.org/wiki/Q105812639)** ([WP](https://en.wikipedia.org/wiki/Abdul_Fatawu)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Alex Palmer](https://www.wikidata.org/wiki/Q60733809)** ([WP](https://en.wikipedia.org/wiki/Alex_Palmer)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
@@ -23,6 +24,7 @@
 - **[Darnell Furlong](https://www.wikidata.org/wiki/Q19356677)** ([WP](https://en.wikipedia.org/wiki/Darnell_Furlong)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[David Button](https://www.wikidata.org/wiki/Q1173879)** ([WP](https://en.wikipedia.org/wiki/David_Button)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Emersonn](https://www.wikidata.org/wiki/Q117089936)** ([WP](https://en.wikipedia.org/wiki/Emersonn)) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
+- **[Florentino Luís](https://www.wikidata.org/wiki/Q26924424)** ([WP](https://en.wikipedia.org/wiki/Florentino_Luís)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[George Hirst](https://www.wikidata.org/wiki/Q27914873)** ([WP](https://en.wikipedia.org/wiki/George_Hirst_(footballer))) (2023–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Harry Clarke](https://www.wikidata.org/wiki/Q104833835)** ([WP](https://en.wikipedia.org/wiki/Harry_Clarke_(footballer,_born_2001))) (2023–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Issa Diop](https://www.wikidata.org/wiki/Q21621180)** ([WP](https://en.wikipedia.org/wiki/Issa_Diop_(footballer))) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
@@ -35,7 +37,10 @@
 - **[Kjell Scherpen](https://www.wikidata.org/wiki/Q42913004)** ([WP](https://en.wikipedia.org/wiki/Kjell_Scherpen)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Wes Burns](https://www.wikidata.org/wiki/Q7983858)** ([WP](https://en.wikipedia.org/wiki/Wes_Burns)) (2021–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (92)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (92)</strong></summary>
 
 - **[Adam McDonnell](https://www.wikidata.org/wiki/Q23008196)** ([WP](https://en.wikipedia.org/wiki/Adam_McDonnell)) (2014–2018) — Add an end date (P582) to the membership → Ipswich Town F.C. (Q9653); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Day](https://www.wikidata.org/wiki/Q4710020)** ([WP](https://en.wikipedia.org/wiki/Albert_Day_(English_footballer))) (1946–) — Add an end date (P582) to the membership → Ipswich Town F.C. (Q9653); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -130,6 +135,11 @@
 - **[Tyreece Simpson](https://www.wikidata.org/wiki/Q86718201)** ([WP](https://en.wikipedia.org/wiki/Tyreece_Simpson)) (2019–2022) — Add an end date (P582) to the membership → Ipswich Town F.C. (Q9653); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vernon Lewis](https://www.wikidata.org/wiki/Q65552883)** ([WP](https://en.wikipedia.org/wiki/Vernon_Lewis_(footballer))) — Add an end date (P582) to the membership → Ipswich Town F.C. (Q9653); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Marcelino Núñez](https://www.wikidata.org/wiki/Q87447048)** ([WP](https://en.wikipedia.org/wiki/Marcelino_Núñez)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

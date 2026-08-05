@@ -6,7 +6,8 @@
 - Current members on Wikidata: 164
 - Suggested edits: 186
 
-## Recorded as a current member, but no longer in the squad (159)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (159)</strong></summary>
 
 - **[Alexandre Picard](https://www.wikidata.org/wiki/Q549125)** ([WP](https://de.wikipedia.org/wiki/Alexandre_Picard_(Eishockeyspieler,_Oktober_1985))) (2012–2016) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexandre Tremblay](https://www.wikidata.org/wiki/Q2643783)** ([WP](https://de.wikipedia.org/wiki/Alexandre_Tremblay)) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -168,7 +169,10 @@
 - **[Yves Sarault](https://www.wikidata.org/wiki/Q680239)** ([WP](https://de.wikipedia.org/wiki/Yves_Sarault)) (2005–2006) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Émile Lachapelle](https://www.wikidata.org/wiki/Q286052)** ([WP](https://de.wikipedia.org/wiki/%C3%89mile_Lachapelle)) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Derick Brassard](https://www.wikidata.org/wiki/Q1200180)** ([WP](https://de.wikipedia.org/wiki/Derick_Brassard)) (2025–) — Add a 'member of sports team' (P54) statement → Genève-Servette HC (Q688882); the player is in the current squad on Wikipedia.
 - **[Giancarlo Chanton](https://www.wikidata.org/wiki/Q107648835)** ([WP](https://de.wikipedia.org/wiki/Giancarlo_Chanton)) (2022–) — Add a 'member of sports team' (P54) statement → Genève-Servette HC (Q688882); the player is in the current squad on Wikipedia.
@@ -190,7 +194,10 @@
 - **[Vili Saarijärvi](https://www.wikidata.org/wiki/Q20250419)** ([WP](https://de.wikipedia.org/wiki/Vili_Saarijärvi)) (2025–) — Add a 'member of sports team' (P54) statement → Genève-Servette HC (Q688882); the player is in the current squad on Wikipedia.
 - **[Vincent Praplan](https://www.wikidata.org/wiki/Q27670160)** ([WP](https://de.wikipedia.org/wiki/Vincent_Praplan)) (2022–) — Add a 'member of sports team' (P54) statement → Genève-Servette HC (Q688882); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (5)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (5)</strong></summary>
 
 - **[Dave Sutter](https://www.wikidata.org/wiki/Q19841137)** ([WP](https://de.wikipedia.org/wiki/Dave_Sutter)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Noah Rod](https://www.wikidata.org/wiki/Q17294341)** ([WP](https://de.wikipedia.org/wiki/Noah_Rod)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
@@ -198,8 +205,13 @@
 - **[Simon Le Coultre](https://www.wikidata.org/wiki/Q66241394)** ([WP](https://en.wikipedia.org/wiki/Simon_Le_Coultre)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Stéphane Charlin](https://www.wikidata.org/wiki/Q78152219)** ([WP](https://en.wikipedia.org/wiki/St%C3%A9phane_Charlin)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## In current squad, but no Wikidata item could be found (3)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
 
 - **Dovydas Jukna** — 'Dovydas Jukna' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Eric Schneller** — 'Eric Schneller' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Matthew Verboon** — 'Matthew Verboon' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

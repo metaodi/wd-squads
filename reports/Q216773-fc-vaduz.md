@@ -6,7 +6,8 @@
 - Current members on Wikidata: 39
 - Suggested edits: 62
 
-## Recorded as a current member, but no longer in the squad (38)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (38)</strong></summary>
 
 - **[Ali Messaoud](https://www.wikidata.org/wiki/Q2231370)** ([WP](https://de.wikipedia.org/wiki/Ali_Messaoud)) (2015–2017) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Axel Borgmann](https://www.wikidata.org/wiki/Q20080331)** ([WP](https://de.wikipedia.org/wiki/Axel_Borgmann)) (2015–2018) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -47,7 +48,10 @@
 - **[Willian Sarôa de Souza](https://www.wikidata.org/wiki/Q8021334)** ([WP](https://en.wikipedia.org/wiki/Willian_Sar%C3%B4a)) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yones Felfel](https://www.wikidata.org/wiki/Q16236743)** ([WP](https://de.wikipedia.org/wiki/Yones_Felfel)) (2016–2018) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (16)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Benjamin Büchel](https://www.wikidata.org/wiki/Q168498)** ([WP](https://de.wikipedia.org/wiki/Benjamin_Büchel)) (2018–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 - **[Dejan Djokic](https://www.wikidata.org/wiki/Q106468627)** ([WP](https://de.wikipedia.org/wiki/Dejan_Djokic)) (2019–2024) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
@@ -66,7 +70,10 @@
 - **[Ranjan Neelakandan](https://www.wikidata.org/wiki/Q137126959)** ([WP](https://en.wikipedia.org/wiki/Ranjan_Neelakandan)) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Stephan Seiler](https://www.wikidata.org/wiki/Q96473899)** ([WP](https://de.wikipedia.org/wiki/Stephan_Seiler)) (2025–) — Add a 'member of sports team' (P54) statement → FC Vaduz (Q216773); the player is in the current squad on Wikipedia.
 
-## In current squad, but no Wikidata item could be found (8)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (8)</strong></summary>
 
 - **Liridon Berisha** — 'Liridon Berisha' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Lutfi Dalipi** — 'Lutfi Dalipi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -76,3 +83,5 @@
 - **Mischa Eberhard** — 'Mischa Eberhard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nico Föllmi** — 'Nico Föllmi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tim-Tiado Oehri** — 'Tim-Tiado Oehri' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

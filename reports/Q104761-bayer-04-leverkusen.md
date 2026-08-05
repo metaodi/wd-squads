@@ -3,10 +3,11 @@
 - Wikidata item: [Q104761](https://www.wikidata.org/wiki/Q104761)
 - Wikipedia article: [Bayer 04 Leverkusen](https://de.wikipedia.org/wiki/Bayer_04_Leverkusen)
 - Players in Wikipedia squad: 26
-- Current members on Wikidata: 94
-- Suggested edits: 103
+- Current members on Wikidata: 95
+- Suggested edits: 104
 
-## Membership marked ended, but player is in the current squad (5)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (5)</strong></summary>
 
 - **[Alejandro Grimaldo](https://www.wikidata.org/wiki/Q921324)** ([WP](https://de.wikipedia.org/wiki/Alejandro_Grimaldo)) (2023–2026) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Exequiel Palacios](https://www.wikidata.org/wiki/Q19345715)** ([WP](https://de.wikipedia.org/wiki/Exequiel_Palacios)) (2020–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
@@ -14,7 +15,10 @@
 - **[Niklas Lomb](https://www.wikidata.org/wiki/Q502103)** ([WP](https://de.wikipedia.org/wiki/Niklas_Lomb)) (2012–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Robert Andrich](https://www.wikidata.org/wiki/Q19958843)** ([WP](https://de.wikipedia.org/wiki/Robert_Andrich)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (85)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (86)</strong></summary>
 
 - **[Abdullah Keseroğlu](https://www.wikidata.org/wiki/Q317682)** ([WP](https://de.wikipedia.org/wiki/Abdullah_Kesero%C4%9Flu)) (2006–2007) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Stanilewicz](https://www.wikidata.org/wiki/Q59694822)** ([WP](https://de.wikipedia.org/wiki/Adrian_Stanilewicz)) (2018–2020) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -70,6 +74,7 @@
 - **[Marlon Frey](https://www.wikidata.org/wiki/Q21709278)** ([WP](https://de.wikipedia.org/wiki/Marlon_Frey)) (2014–2018) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Matea Bošnjak](https://www.wikidata.org/wiki/Q28810981)** ([WP](https://de.wikipedia.org/wiki/Matea_Bo%C5%A1njak)) (2017–2018) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Maximilian Wagener](https://www.wikidata.org/wiki/Q15931518)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Wagener)) (2014–2016) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Miguel Gutiérrez](https://www.wikidata.org/wiki/Q85713553)** ([WP](https://de.wikipedia.org/wiki/Miguel_Guti%C3%A9rrez_(Fu%C3%9Fballspieler,_2001))) (2026–) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nadiem Amiri](https://www.wikidata.org/wiki/Q19274473)** ([WP](https://de.wikipedia.org/wiki/Nadiem_Amiri)) (2019–2024) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nico Perrey](https://www.wikidata.org/wiki/Q3339866)** — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Noah Mbamba](https://www.wikidata.org/wiki/Q105047331)** ([WP](https://de.wikipedia.org/wiki/Noah_Mbamba)) (2023–) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -102,7 +107,10 @@
 - **[Willi Hölzgen](https://www.wikidata.org/wiki/Q18410106)** ([WP](https://de.wikipedia.org/wiki/Willi_H%C3%B6lzgen)) (–1985) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yohannes Bahcecioglu](https://www.wikidata.org/wiki/Q2600554)** ([WP](https://de.wikipedia.org/wiki/Yohannes_Bahcecioglu)) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (12)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
 
 - **[Arthur](https://www.wikidata.org/wiki/Q112182604)** ([WP](https://de.wikipedia.org/wiki/Arthur_(Fußballspieler,_2003))) (2023–) — Add a 'member of sports team' (P54) statement → Bayer 04 Leverkusen (Q104761); the player is in the current squad on Wikipedia.
 - **[Axel Tape](https://www.wikidata.org/wiki/Q131308358)** ([WP](https://de.wikipedia.org/wiki/Axel_Tape)) (2025–) — Add a 'member of sports team' (P54) statement → Bayer 04 Leverkusen (Q104761); the player is in the current squad on Wikipedia.
@@ -117,6 +125,11 @@
 - **[Martin Terrier](https://www.wikidata.org/wiki/Q27978968)** ([WP](https://de.wikipedia.org/wiki/Martin_Terrier)) (2024–) — Add a 'member of sports team' (P54) statement → Bayer 04 Leverkusen (Q104761); the player is in the current squad on Wikipedia.
 - **[Tim Oermann](https://www.wikidata.org/wiki/Q114035712)** ([WP](https://de.wikipedia.org/wiki/Tim_Oermann)) (2025–) — Add a 'member of sports team' (P54) statement → Bayer 04 Leverkusen (Q104761); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Nathan Tella](https://www.wikidata.org/wiki/Q96464733)** ([WP](https://de.wikipedia.org/wiki/Nathan_Tella)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

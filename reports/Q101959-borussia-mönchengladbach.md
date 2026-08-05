@@ -2,15 +2,12 @@
 
 - Wikidata item: [Q101959](https://www.wikidata.org/wiki/Q101959)
 - Wikipedia article: [Borussia Mönchengladbach](https://de.wikipedia.org/wiki/Borussia_Mönchengladbach)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 84
-- Suggested edits: 95
+- Suggested edits: 94
 
-## Membership marked ended, but player is in the current squad (1)
-
-- **[Giovanni Reyna](https://www.wikidata.org/wiki/Q75019636)** ([WP](https://de.wikipedia.org/wiki/Giovanni_Reyna)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-
-## Recorded as a current member, but no longer in the squad (74)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (74)</strong></summary>
 
 - **[Alassane Pléa](https://www.wikidata.org/wiki/Q4708679)** ([WP](https://de.wikipedia.org/wiki/Alassane_Pl%C3%A9a)) (2018–2025) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Jansen](https://www.wikidata.org/wiki/Q2638234)** ([WP](https://de.wikipedia.org/wiki/Albert_Jansen)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -87,7 +84,10 @@
 - **[Werner Waddey](https://www.wikidata.org/wiki/Q2562836)** ([WP](https://de.wikipedia.org/wiki/Werner_Waddey)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Álvaro Domínguez](https://www.wikidata.org/wiki/Q182482)** ([WP](https://de.wikipedia.org/wiki/%C3%81lvaro_Dom%C3%ADnguez_(Fu%C3%9Fballspieler,_1989))) (2012–2016) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Daiki Hashioka](https://www.wikidata.org/wiki/Q39117170)** ([WP](https://de.wikipedia.org/wiki/Daiki_Hashioka)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Daniel Batz](https://www.wikidata.org/wiki/Q1160026)** ([WP](https://de.wikipedia.org/wiki/Daniel_Batz)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
@@ -109,6 +109,11 @@
 - **[Wael Mohya](https://www.wikidata.org/wiki/Q135879349)** ([WP](https://de.wikipedia.org/wiki/Wael_Mohya)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Zento Uno](https://www.wikidata.org/wiki/Q110403334)** ([WP](https://de.wikipedia.org/wiki/Zento_Uno)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Moritz Nicolas](https://www.wikidata.org/wiki/Q57398922)** ([WP](https://de.wikipedia.org/wiki/Moritz_Nicolas)) (2017–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

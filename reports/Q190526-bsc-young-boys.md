@@ -6,7 +6,8 @@
 - Current members on Wikidata: 90
 - Suggested edits: 101
 
-## In current squad, but no membership statement on Wikidata (17)
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
 - **[Alan Virginius](https://www.wikidata.org/wiki/Q99485545)** ([WP](https://de.wikipedia.org/wiki/Alan_Virginius)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Cédric Zesiger](https://www.wikidata.org/wiki/Q27662789)** ([WP](https://de.wikipedia.org/wiki/Cédric_Zesiger)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
@@ -26,7 +27,10 @@
 - **[Samuel Essende](https://www.wikidata.org/wiki/Q56486404)** ([WP](https://de.wikipedia.org/wiki/Samuel_Essende)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Stefan Bukinac](https://www.wikidata.org/wiki/Q121085782)** ([WP](https://de.wikipedia.org/wiki/Stefan_Bukinac)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (81)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (81)</strong></summary>
 
 - **[Alexander Gerndt](https://www.wikidata.org/wiki/Q610747)** ([WP](https://de.wikipedia.org/wiki/Alexander_Gerndt)) (2013–2017) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[André Daina](https://www.wikidata.org/wiki/Q251426)** ([WP](https://de.wikipedia.org/wiki/Andr%C3%A9_Daina)) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -110,8 +114,13 @@
 - **[Zenun Selimi](https://www.wikidata.org/wiki/Q23908317)** ([WP](https://en.wikipedia.org/wiki/Zenun_Selimi)) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ľubomír Plevka](https://www.wikidata.org/wiki/Q10544885)** — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no Wikidata item could be found (3)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
 
 - **Benjamin Kabeya** — 'Benjamin Kabeya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Edin Etoski** — 'Edin Etoski' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Emmanuel Tsimba** — 'Emmanuel Tsimba' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

@@ -2,11 +2,12 @@
 
 - Wikidata item: [Q19580](https://www.wikidata.org/wiki/Q19580)
 - Wikipedia article: [Coventry City F.C.](https://en.wikipedia.org/wiki/Coventry_City_F.C.)
-- Players in Wikipedia squad: 44
+- Players in Wikipedia squad: 45
 - Current members on Wikidata: 118
-- Suggested edits: 155
+- Suggested edits: 156
 
-## Recorded as a current member, but no longer in the squad (114)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (114)</strong></summary>
 
 - **[Aaron Martin](https://www.wikidata.org/wiki/Q9137944)** ([WP](https://en.wikipedia.org/wiki/Aaron_Martin_(footballer,_born_1989))) (2015–2016) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Aaron Phillips](https://www.wikidata.org/wiki/Q16235732)** ([WP](https://en.wikipedia.org/wiki/Aaron_Phillips_(footballer))) (2012–2016) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -106,7 +107,7 @@
 - **[Réda Johnson](https://www.wikidata.org/wiki/Q2416218)** ([WP](https://en.wikipedia.org/wiki/R%C3%A9da_Johnson)) (2014–2016) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rúben Lameiras](https://www.wikidata.org/wiki/Q19968716)** ([WP](https://en.wikipedia.org/wiki/R%C3%BAben_Lameiras)) (2015–2017) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sam McCallum](https://www.wikidata.org/wiki/Q58754169)** ([WP](https://en.wikipedia.org/wiki/Sam_McCallum)) (2020–2021) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Sevim Ebeoğlu](https://www.wikidata.org/wiki/Q113367300)** — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Sevim Ebeoğlu](https://www.wikidata.org/wiki/Q113367300)** ([WP](https://en.wikipedia.org/wiki/Sevim_Ebeo%C4%9Flu)) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Shaun Timmins](https://www.wikidata.org/wiki/Q16234248)** ([WP](https://en.wikipedia.org/wiki/Shaun_Timmins_(footballer))) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Stan Kelley](https://www.wikidata.org/wiki/Q26212450)** ([WP](https://en.wikipedia.org/wiki/Stan_Kelley)) (1939–1947) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Stefano Sensi](https://www.wikidata.org/wiki/Q21055388)** ([WP](https://en.wikipedia.org/wiki/Stefano_Sensi)) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -123,13 +124,17 @@
 - **[William Owen](https://www.wikidata.org/wiki/Q8016420)** ([WP](https://en.wikipedia.org/wiki/William_Owen_(footballer,_born_1906))) (1930–) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zain Westbrooke](https://www.wikidata.org/wiki/Q29637727)** ([WP](https://en.wikipedia.org/wiki/Zain_Westbrooke)) (2018–2020) — Add an end date (P582) to the membership → Coventry City F.C. (Q19580); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (26)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (27)</strong></summary>
 
 - **[Aidan Dausch](https://www.wikidata.org/wiki/Q125676489)** ([WP](https://en.wikipedia.org/wiki/Aidan_Dausch)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Aurèle Amenda](https://www.wikidata.org/wiki/Q111805882)** ([WP](https://en.wikipedia.org/wiki/Aurèle_Amenda)) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Ben Wilson](https://www.wikidata.org/wiki/Q16000020)** ([WP](https://en.wikipedia.org/wiki/Ben_Wilson_(footballer,_born_1992))) (2019–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Bobby Thomas](https://www.wikidata.org/wiki/Q97059250)** ([WP](https://en.wikipedia.org/wiki/Bobby_Thomas_(footballer))) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Brandon Thomas-Asante](https://www.wikidata.org/wiki/Q26251815)** ([WP](https://en.wikipedia.org/wiki/Brandon_Thomas-Asante)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
+- **[Carl Rushworth](https://www.wikidata.org/wiki/Q107985580)** ([WP](https://en.wikipedia.org/wiki/Carl_Rushworth)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Ellis Simms](https://www.wikidata.org/wiki/Q105062238)** ([WP](https://en.wikipedia.org/wiki/Ellis_Simms)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Ephron Mason-Clark](https://www.wikidata.org/wiki/Q27107132)** ([WP](https://en.wikipedia.org/wiki/Ephron_Mason-Clark)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Frank Onyeka](https://www.wikidata.org/wiki/Q56292818)** ([WP](https://en.wikipedia.org/wiki/Frank_Onyeka)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
@@ -152,11 +157,17 @@
 - **[Tatsuhiro Sakamoto](https://www.wikidata.org/wiki/Q62085112)** ([WP](https://en.wikipedia.org/wiki/Tatsuhiro_Sakamoto)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Victor Torp](https://www.wikidata.org/wiki/Q100144433)** ([WP](https://en.wikipedia.org/wiki/Victor_Torp)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Josh Eccles](https://www.wikidata.org/wiki/Q58754102)** ([WP](https://en.wikipedia.org/wiki/Josh_Eccles)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (14)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (14)</strong></summary>
 
 - **Callum Perry** — 'Callum Perry' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **David Mantle** — 'David Mantle' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -172,3 +183,5 @@
 - **Shay Dunn** — 'Shay Dunn' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tionne Critchlow-Woyo** — 'Tionne Critchlow-Woyo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tristen Batanwi** — 'Tristen Batanwi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

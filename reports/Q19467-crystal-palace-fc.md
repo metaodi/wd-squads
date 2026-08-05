@@ -6,11 +6,15 @@
 - Current members on Wikidata: 171
 - Suggested edits: 178
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Jean-Philippe Mateta](https://www.wikidata.org/wiki/Q26964668)** ([WP](https://en.wikipedia.org/wiki/Jean-Philippe_Mateta)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (159)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (159)</strong></summary>
 
 - **[Adrian Birch](https://www.wikidata.org/wiki/Q14527004)** ([WP](https://en.wikipedia.org/wiki/Adrian_Birch)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Mariappa](https://www.wikidata.org/wiki/Q10572)** ([WP](https://en.wikipedia.org/wiki/Adrian_Mariappa)) (2013–2016) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -172,7 +176,10 @@
 - **[Will Donkin](https://www.wikidata.org/wiki/Q43179695)** ([WP](https://en.wikipedia.org/wiki/Will_Donkin)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zeki Fryers](https://www.wikidata.org/wiki/Q511997)** ([WP](https://en.wikipedia.org/wiki/Zeki_Fryers)) (2014–2017) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (17)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
 - **[Chadi Riad](https://www.wikidata.org/wiki/Q104784108)** ([WP](https://en.wikipedia.org/wiki/Chadi_Riad)) (2024–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Cheick Doucouré](https://www.wikidata.org/wiki/Q47490408)** ([WP](https://en.wikipedia.org/wiki/Cheick_Doucouré)) (2022–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
@@ -192,6 +199,11 @@
 - **[Walter Benítez](https://www.wikidata.org/wiki/Q17064018)** ([WP](https://en.wikipedia.org/wiki/Walter_Benítez_(footballer))) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Will Hughes](https://www.wikidata.org/wiki/Q133920)** ([WP](https://en.wikipedia.org/wiki/Will_Hughes)) (2021–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Tyrick Mitchell](https://www.wikidata.org/wiki/Q96943831)** ([WP](https://en.wikipedia.org/wiki/Tyrick_Mitchell)) (2020–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

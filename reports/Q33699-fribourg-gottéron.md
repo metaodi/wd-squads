@@ -6,7 +6,8 @@
 - Current members on Wikidata: 223
 - Suggested edits: 251
 
-## Recorded as a current member, but no longer in the squad (220)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (220)</strong></summary>
 
 - **[Adam Hasani](https://www.wikidata.org/wiki/Q2823955)** — Add an end date (P582) to the membership → Fribourg-Gottéron (Q33699); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Munro](https://www.wikidata.org/wiki/Q350475)** ([WP](https://de.wikipedia.org/wiki/Adam_Munro)) (2006–2007) — Add an end date (P582) to the membership → Fribourg-Gottéron (Q33699); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -229,7 +230,10 @@
 - **[Yanick Dubé](https://www.wikidata.org/wiki/Q2599423)** ([WP](https://de.wikipedia.org/wiki/Yanick_Dub%C3%A9)) — Add an end date (P582) to the membership → Fribourg-Gottéron (Q33699); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yuri Khmylev](https://www.wikidata.org/wiki/Q1713882)** ([WP](https://de.wikipedia.org/wiki/Juri_Alexejewitsch_Chmyljow)) (1997–1998) — Add an end date (P582) to the membership → Fribourg-Gottéron (Q33699); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (19)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Attilio Biasca](https://www.wikidata.org/wiki/Q139962434)** — Add a 'member of sports team' (P54) statement → Fribourg-Gottéron (Q33699); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Benoît Jecker](https://www.wikidata.org/wiki/Q17486021)** ([WP](https://de.wikipedia.org/wiki/Benoît_Jecker)) (2020–) — Add a 'member of sports team' (P54) statement → Fribourg-Gottéron (Q33699); the player is in the current squad on Wikipedia.
@@ -251,13 +255,19 @@
 - **[Samuel Walser](https://www.wikidata.org/wiki/Q3471257)** ([WP](https://de.wikipedia.org/wiki/Samuel_Walser)) (2018–) — Add a 'member of sports team' (P54) statement → Fribourg-Gottéron (Q33699); the player is in the current squad on Wikipedia.
 - **[Ty Rattie](https://www.wikidata.org/wiki/Q646826)** ([WP](https://de.wikipedia.org/wiki/Ty_Rattie)) (2026–) — Add a 'member of sports team' (P54) statement → Fribourg-Gottéron (Q33699); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (3)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (3)</strong></summary>
 
 - **[Andrea Glauser](https://www.wikidata.org/wiki/Q47088258)** ([WP](https://de.wikipedia.org/wiki/Andrea_Glauser)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Sandro Schmid](https://www.wikidata.org/wiki/Q96199296)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Yannick Rathgeb](https://www.wikidata.org/wiki/Q27832006)** ([WP](https://de.wikipedia.org/wiki/Yannick_Rathgeb)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (9)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (9)</strong></summary>
 
 - **Alessio Guignard** — 'Alessio Guignard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jan Dorthe** — 'Jan Dorthe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -268,3 +278,5 @@
 - **Maximilian Streule** — 'Maximilian Streule' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nathan Marchon** — 'Nathan Marchon' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Simon Seiler** — 'Simon Seiler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

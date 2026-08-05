@@ -2,11 +2,12 @@
 
 - Wikidata item: [Q201360](https://www.wikidata.org/wiki/Q201360)
 - Wikipedia article: [Grasshopper Club Zürich](https://de.wikipedia.org/wiki/Grasshopper_Club_Zürich)
-- Players in Wikipedia squad: 24
+- Players in Wikipedia squad: 34
 - Current members on Wikidata: 55
-- Suggested edits: 76
+- Suggested edits: 86
 
-## In current squad, but no membership statement on Wikidata (10)
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
 
 - **[Abdoulaye Diaby](https://www.wikidata.org/wiki/Q64433083)** ([WP](https://de.wikipedia.org/wiki/Abdoulaye_Diaby)) (2025–) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
 - **[Alieu Conateh](https://www.wikidata.org/wiki/Q135684978)** ([WP](https://de.wikipedia.org/wiki/Alieu_Conateh)) (2025–) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
@@ -15,11 +16,16 @@
 - **[Luke Plange](https://www.wikidata.org/wiki/Q109923924)** ([WP](https://en.wikipedia.org/wiki/Luke_Plange)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Matteo Mantini](https://www.wikidata.org/wiki/Q126342298)** — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Maximilian Ullmann](https://www.wikidata.org/wiki/Q21000291)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Ullmann)) (2025–) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
+- **[Miguel Martins](https://www.wikidata.org/wiki/Q83406652)** ([WP](https://de.wikipedia.org/wiki/Miguel_Martins)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Pantaleo Creti](https://www.wikidata.org/wiki/Q138016344)** ([WP](https://en.wikipedia.org/wiki/Pantaleo_Creti)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Samuel Marques](https://www.wikidata.org/wiki/Q20109678)** ([WP](https://en.wikipedia.org/wiki/Samuel_Marques)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Saulo Decarli](https://www.wikidata.org/wiki/Q15706612)** ([WP](https://de.wikipedia.org/wiki/Saulo_Decarli)) (2024–) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.
 - **[Simone Stroscio](https://www.wikidata.org/wiki/Q113543719)** ([WP](https://en.wikipedia.org/wiki/Simone_Stroscio)) — Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## Recorded as a current member, but no longer in the squad (53)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (53)</strong></summary>
 
 - **[Alban Pnishi](https://www.wikidata.org/wiki/Q20873461)** ([WP](https://en.wikipedia.org/wiki/Alban_Pnishi)) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albion Avdijaj](https://www.wikidata.org/wiki/Q16977436)** ([WP](https://de.wikipedia.org/wiki/Albion_Avdijaj)) (2017–2019) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -75,21 +81,37 @@
 - **[Walter Schoeller](https://www.wikidata.org/wiki/Q2546191)** ([WP](https://de.wikipedia.org/wiki/Walter_Schoeller)) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wilhelm Neukom](https://www.wikidata.org/wiki/Q26972498)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Allan Arigoni](https://www.wikidata.org/wiki/Q55820260)** ([WP](https://de.wikipedia.org/wiki/Allan_Arigoni)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (12)
+</details>
 
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (20)</strong></summary>
+
+- **Demis Fiechter** — 'Demis Fiechter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Denis Sahin** — 'Denis Sahin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Dominik Papic** — 'Dominik Papic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dorian Paloschi** — 'Dorian Paloschi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Elijah Muogbo** — 'Elijah Muogbo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Eron Avdullahu** — 'Eron Avdullahu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Imourane Hassane** — 'Imourane Hassane' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Leart Kabashi** — 'Leart Kabashi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lionel Thüring** — 'Lionel Thüring' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Loris Giandomenico** — 'Loris Giandomenico' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Luka Mikulić** — 'Luka Mikulić' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Marvin Hübel** — 'Marvin Hübel' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nico Rissi** — 'Nico Rissi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nicolas Muci** — 'Nicolas Muci' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Samuel Krasniqi** — 'Samuel Krasniqi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Samuele Bengondo** — 'Samuele Bengondo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tim Meyer** — 'Tim Meyer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Yannick Bettkober** — 'Yannick Bettkober' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Young-joon Lee** — 'Young-joon Lee' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Òscar Clemente** — 'Òscar Clemente' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

@@ -2,11 +2,12 @@
 
 - Wikidata item: [Q18716](https://www.wikidata.org/wiki/Q18716)
 - Wikipedia article: [Newcastle United F.C.](https://en.wikipedia.org/wiki/Newcastle_United_F.C.)
-- Players in Wikipedia squad: 33
-- Current members on Wikidata: 143
+- Players in Wikipedia squad: 34
+- Current members on Wikidata: 144
 - Suggested edits: 125
 
-## Recorded as a current member, but no longer in the squad (117)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (117)</strong></summary>
 
 - **[Aaron Ramsdale](https://www.wikidata.org/wiki/Q27967807)** ([WP](https://en.wikipedia.org/wiki/Aaron_Ramsdale)) (2025–2026) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Achraf Lazaar](https://www.wikidata.org/wiki/Q15984451)** ([WP](https://en.wikipedia.org/wiki/Achraf_Lazaar)) (2016–2021) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -126,7 +127,10 @@
 - **[Yasin Ben El-Mhanni](https://www.wikidata.org/wiki/Q28445552)** ([WP](https://en.wikipedia.org/wiki/Yasin_Ben_El-Mhanni)) (2016–2018) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yoan Gouffran](https://www.wikidata.org/wiki/Q31775)** ([WP](https://en.wikipedia.org/wiki/Yoan_Gouffran)) (2013–2017) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (6)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (6)</strong></summary>
 
 - **[Ewen Jaouen](https://www.wikidata.org/wiki/Q133248014)** ([WP](https://en.wikipedia.org/wiki/Ewen_Jaouen)) (2026–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Harrison Ashby](https://www.wikidata.org/wiki/Q99366284)** ([WP](https://en.wikipedia.org/wiki/Harrison_Ashby)) (2023–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
@@ -135,10 +139,18 @@
 - **[Sam Alabi](https://www.wikidata.org/wiki/Q137011789)** ([WP](https://en.wikipedia.org/wiki/Sam_Alabi)) (2025–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Trevan Sanusi](https://www.wikidata.org/wiki/Q131745460)** ([WP](https://en.wikipedia.org/wiki/Trevan_Sanusi)) (2025–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Sean Neave](https://www.wikidata.org/wiki/Q132177951)** ([WP](https://en.wikipedia.org/wiki/Sean_Neave)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (1)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
 
 - **Aidan Harris** — 'Aidan Harris' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

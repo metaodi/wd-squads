@@ -6,12 +6,16 @@
 - Current members on Wikidata: 130
 - Suggested edits: 147
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Ben Gannon-Doak](https://www.wikidata.org/wiki/Q110739094)** ([WP](https://en.wikipedia.org/wiki/Ben_Gannon-Doak)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Enes Ünal](https://www.wikidata.org/wiki/Q14637461)** ([WP](https://en.wikipedia.org/wiki/Enes_Ünal)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (121)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (121)</strong></summary>
 
 - **[Alan Noble](https://www.wikidata.org/wiki/Q19577438)** ([WP](https://en.wikipedia.org/wiki/Alan_Noble_(footballer))) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Forbes](https://www.wikidata.org/wiki/Q4717736)** ([WP](https://en.wikipedia.org/wiki/Alex_S._Forbes)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -135,7 +139,10 @@
 - **[Wally Roberts](https://www.wikidata.org/wiki/Q54005453)** ([WP](https://en.wikipedia.org/wiki/Wally_Roberts)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Walter Buckley](https://www.wikidata.org/wiki/Q10556911)** ([WP](https://en.wikipedia.org/wiki/Walter_Buckley_(footballer))) (1926) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (23)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (23)</strong></summary>
 
 - **[Alex Scott](https://www.wikidata.org/wiki/Q106778648)** ([WP](https://en.wikipedia.org/wiki/Alex_Scott_(footballer,_born_2003))) (2023–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Alex Tóth](https://www.wikidata.org/wiki/Q125570083)** ([WP](https://en.wikipedia.org/wiki/Alex_Tóth)) (2026–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
@@ -161,6 +168,11 @@
 - **[Álex Jiménez](https://www.wikidata.org/wiki/Q115806025)** ([WP](https://en.wikipedia.org/wiki/Álex_Jiménez_(footballer,_born_2005))) (2026–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Đorđe Petrović](https://www.wikidata.org/wiki/Q98431212)** ([WP](https://en.wikipedia.org/wiki/Đorđe_Petrović_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[David Brooks](https://www.wikidata.org/wiki/Q27909737)** ([WP](https://en.wikipedia.org/wiki/David_Brooks_(footballer))) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

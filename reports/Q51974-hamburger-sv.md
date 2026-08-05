@@ -6,7 +6,8 @@
 - Current members on Wikidata: 166
 - Suggested edits: 183
 
-## Recorded as a current member, but no longer in the squad (160)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (160)</strong></summary>
 
 - **[Aaron Hunt](https://www.wikidata.org/wiki/Q160384)** ([WP](https://de.wikipedia.org/wiki/Aaron_Hunt)) (2015–2021) — Add an end date (P582) to the membership → Hamburger SV (Q51974); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Fein](https://www.wikidata.org/wiki/Q56705037)** ([WP](https://de.wikipedia.org/wiki/Adrian_Fein)) (2019–2020) — Add an end date (P582) to the membership → Hamburger SV (Q51974); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -169,7 +170,10 @@
 - **[Zbigniew Kruszyński](https://www.wikidata.org/wiki/Q168105)** ([WP](https://de.wikipedia.org/wiki/Zbigniew_Kruszy%C5%84ski_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → Hamburger SV (Q51974); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Özkan Gümüş](https://www.wikidata.org/wiki/Q17417972)** ([WP](https://de.wikipedia.org/wiki/%C3%96zkan_G%C3%BCm%C3%BC%C5%9F)) (1996–2000) — Add an end date (P582) to the membership → Hamburger SV (Q51974); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (21)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (21)</strong></summary>
 
 - **[Albert Grønbæk](https://www.wikidata.org/wiki/Q98479427)** ([WP](https://de.wikipedia.org/wiki/Albert_Grønbæk)) (2026–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Alexander Røssing-Lelesiit](https://www.wikidata.org/wiki/Q130902510)** ([WP](https://de.wikipedia.org/wiki/Alexander_Røssing-Lelesiit)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
@@ -193,10 +197,18 @@
 - **[Shafiq Nandja](https://www.wikidata.org/wiki/Q138007104)** ([WP](https://de.wikipedia.org/wiki/Shafiq_Nandja)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Warmed Omari](https://www.wikidata.org/wiki/Q108105534)** ([WP](https://de.wikipedia.org/wiki/Warmed_Omari)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Bakery Jatta](https://www.wikidata.org/wiki/Q24577799)** ([WP](https://de.wikipedia.org/wiki/Bakery_Jatta)) (2016–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (1)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
 
 - **()** — '()' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

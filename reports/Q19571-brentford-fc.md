@@ -6,12 +6,16 @@
 - Current members on Wikidata: 199
 - Suggested edits: 235
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Josh Dasilva](https://www.wikidata.org/wiki/Q36696872)** ([WP](https://en.wikipedia.org/wiki/Josh_Dasilva)) (2018–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Kim Ji-soo](https://www.wikidata.org/wiki/Q117277515)** ([WP](https://en.wikipedia.org/wiki/Kim_Ji-soo_(footballer))) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (32)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (32)</strong></summary>
 
 - **[Aaron Hickey](https://www.wikidata.org/wiki/Q64010525)** ([WP](https://en.wikipedia.org/wiki/Aaron_Hickey)) (2022–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Antoni Milambo](https://www.wikidata.org/wiki/Q108067127)** ([WP](https://en.wikipedia.org/wiki/Antoni_Milambo)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
@@ -46,7 +50,10 @@
 - **[Theo Mawene](https://www.wikidata.org/wiki/Q134984446)** ([WP](https://en.wikipedia.org/wiki/Theo_Mawene)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Val Adedokun](https://www.wikidata.org/wiki/Q130569642)** ([WP](https://en.wikipedia.org/wiki/Val_Adedokun)) (2021–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (189)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (189)</strong></summary>
 
 - **[Akaki Gogia](https://www.wikidata.org/wiki/Q415373)** ([WP](https://en.wikipedia.org/wiki/Akaki_Gogia)) (2015–2017) — Add an end date (P582) to the membership → Brentford F.C. (Q19571); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan McCormack](https://www.wikidata.org/wiki/Q2206865)** ([WP](https://en.wikipedia.org/wiki/Alan_McCormack)) (2013–2017) — Add an end date (P582) to the membership → Brentford F.C. (Q19571); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -238,13 +245,19 @@
 - **[Willie McIver](https://www.wikidata.org/wiki/Q20876741)** ([WP](https://en.wikipedia.org/wiki/Willie_McIver)) (1908–1909) — Add an end date (P582) to the membership → Brentford F.C. (Q19571); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yoann Barbet](https://www.wikidata.org/wiki/Q19894177)** ([WP](https://en.wikipedia.org/wiki/Yoann_Barbet)) (2015–2019) — Add an end date (P582) to the membership → Brentford F.C. (Q19571); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (3)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (3)</strong></summary>
 
 - **[Keane Lewis-Potter](https://www.wikidata.org/wiki/Q62269289)** ([WP](https://en.wikipedia.org/wiki/Keane_Lewis-Potter)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Mikkel Damsgaard](https://www.wikidata.org/wiki/Q45034698)** ([WP](https://en.wikipedia.org/wiki/Mikkel_Damsgaard)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Yehor Yarmolyuk](https://www.wikidata.org/wiki/Q97630957)** ([WP](https://en.wikipedia.org/wiki/Yehor_Yarmolyuk)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (9)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (9)</strong></summary>
 
 - **Andre Grey** — 'Andre Grey' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Caelan Avenell** — 'Caelan Avenell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -255,3 +268,5 @@
 - **Matas Klimas** — 'Matas Klimas' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ollie Shield** — 'Ollie Shield' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Riley Owen** — 'Riley Owen' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

@@ -2,11 +2,12 @@
 
 - Wikidata item: [Q206692](https://www.wikidata.org/wiki/Q206692)
 - Wikipedia article: [FC Zürich](https://de.wikipedia.org/wiki/FC_Zürich)
-- Players in Wikipedia squad: 33
+- Players in Wikipedia squad: 34
 - Current members on Wikidata: 89
-- Suggested edits: 108
+- Suggested edits: 109
 
-## Recorded as a current member, but no longer in the squad (82)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (82)</strong></summary>
 
 - **[Adilson Tavares Varela](https://www.wikidata.org/wiki/Q357286)** ([WP](https://de.wikipedia.org/wiki/Cabral_(Fussballspieler))) (2015–2016) — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Nef](https://www.wikidata.org/wiki/Q668040)** ([WP](https://de.wikipedia.org/wiki/Alain_Nef)) (2013–2019) — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -91,7 +92,10 @@
 - **[Yann Kasai](https://www.wikidata.org/wiki/Q60791383)** ([WP](https://de.wikipedia.org/wiki/Yann_Kasa%C3%AF)) (2018–2020) — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yassin Maouche](https://www.wikidata.org/wiki/Q50820639)** ([WP](https://en.wikipedia.org/wiki/Yassin_Maouche)) — Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (9)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (9)</strong></summary>
 
 - **[Chris Kablan](https://www.wikidata.org/wiki/Q34825833)** ([WP](https://en.wikipedia.org/wiki/Chris_Kablan)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Damienus Reverson](https://www.wikidata.org/wiki/Q113623753)** ([WP](https://en.wikipedia.org/wiki/Damienus_Reverson)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -103,7 +107,10 @@
 - **[Selmin Hodza](https://www.wikidata.org/wiki/Q121327972)** ([WP](https://en.wikipedia.org/wiki/Selmin_Hod%C5%BEa)) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Umeh Emmanuel](https://www.wikidata.org/wiki/Q120444790)** ([WP](https://de.wikipedia.org/wiki/Umeh_Emmanuel)) (2024–) — Add a 'member of sports team' (P54) statement → FC Zürich (Q206692); the player is in the current squad on Wikipedia.
 
-## In current squad, but no Wikidata item could be found (17)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (18)</strong></summary>
 
 - **Cosimo Fiorini** — 'Cosimo Fiorini' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **David Vujevic** — 'David Vujevic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -118,7 +125,10 @@
 - **Mohamed Essakkati** — 'Mohamed Essakkati' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Neil Volken** — 'Neil Volken' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nevio Di Giusto** — 'Nevio Di Giusto' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nico Wenger** — 'Nico Wenger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Philippe Kény** — 'Philippe Kény' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sebastian Walker** — 'Sebastian Walker' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tyrese Pinthus** — 'Tyrese Pinthus' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Yevhen Morozov** — 'Yevhen Morozov' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

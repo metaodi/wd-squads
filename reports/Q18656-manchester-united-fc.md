@@ -2,16 +2,20 @@
 
 - Wikidata item: [Q18656](https://www.wikidata.org/wiki/Q18656)
 - Wikipedia article: [Manchester United F.C.](https://en.wikipedia.org/wiki/Manchester_United_F.C.)
-- Players in Wikipedia squad: 33
+- Players in Wikipedia squad: 32
 - Current members on Wikidata: 405
-- Suggested edits: 399
+- Suggested edits: 398
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Amad Diallo](https://www.wikidata.org/wiki/Q72603655)** ([WP](https://en.wikipedia.org/wiki/Amad_Diallo)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Ayden Heaven](https://www.wikidata.org/wiki/Q130319703)** ([WP](https://en.wikipedia.org/wiki/Ayden_Heaven)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (385)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (385)</strong></summary>
 
 - **[A. H. Albut](https://www.wikidata.org/wiki/Q278693)** ([WP](https://en.wikipedia.org/wiki/A._H._Albut)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Carson](https://www.wikidata.org/wiki/Q4678835)** ([WP](https://en.wikipedia.org/wiki/Adam_Carson_(footballer))) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -399,7 +403,10 @@
 - **[Willie McDonald](https://www.wikidata.org/wiki/Q8021673)** ([WP](https://en.wikipedia.org/wiki/Willie_McDonald)) (1932–1934) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zak Dearnley](https://www.wikidata.org/wiki/Q31300988)** ([WP](https://en.wikipedia.org/wiki/Zak_Dearnley)) (2018–2019) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (11)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (10)</strong></summary>
 
 - **[Andrey Santos](https://www.wikidata.org/wiki/Q106171073)** ([WP](https://en.wikipedia.org/wiki/Andrey_Santos)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Dermot Mee](https://www.wikidata.org/wiki/Q134080600)** ([WP](https://en.wikipedia.org/wiki/Dermot_Mee)) (2021–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
@@ -411,8 +418,12 @@
 - **[Shea Lacey](https://www.wikidata.org/wiki/Q117207006)** ([WP](https://en.wikipedia.org/wiki/Shea_Lacey)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Toby Collyer](https://www.wikidata.org/wiki/Q121437419)** ([WP](https://en.wikipedia.org/wiki/Toby_Collyer)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Tyler Fletcher](https://www.wikidata.org/wiki/Q137384640)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fletcher)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Tynan Thompson](https://www.wikidata.org/wiki/Q137343216)** ([WP](https://en.wikipedia.org/wiki/Tynan_Thompson)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Diogo Dalot](https://www.wikidata.org/wiki/Q26255506)** ([WP](https://en.wikipedia.org/wiki/Diogo_Dalot)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

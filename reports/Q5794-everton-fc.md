@@ -6,12 +6,16 @@
 - Current members on Wikidata: 304
 - Suggested edits: 314
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Dwight McNeil](https://www.wikidata.org/wiki/Q53652291)** ([WP](https://en.wikipedia.org/wiki/Dwight_McNeil)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Michael Keane](https://www.wikidata.org/wiki/Q80712)** ([WP](https://en.wikipedia.org/wiki/Michael_Keane_(footballer,_born_1993))) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (14)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (14)</strong></summary>
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** ([WP](https://en.wikipedia.org/wiki/Adam_Aznou)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Charly Alcaraz](https://www.wikidata.org/wiki/Q88130791)** ([WP](https://en.wikipedia.org/wiki/Charly_Alcaraz)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
@@ -28,7 +32,10 @@
 - **[Tyler Dibling](https://www.wikidata.org/wiki/Q115973966)** ([WP](https://en.wikipedia.org/wiki/Tyler_Dibling)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Tyrique George](https://www.wikidata.org/wiki/Q123002942)** ([WP](https://en.wikipedia.org/wiki/Tyrique_George)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (297)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (297)</strong></summary>
 
 - **[Adam Cummins](https://www.wikidata.org/wiki/Q4678918)** ([WP](https://en.wikipedia.org/wiki/Adam_Cummins)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Eaton](https://www.wikidata.org/wiki/Q4679009)** ([WP](https://en.wikipedia.org/wiki/Adam_Eaton_(footballer))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -328,6 +335,11 @@
 - **[Zac Thompson](https://www.wikidata.org/wiki/Q6208751)** ([WP](https://en.wikipedia.org/wiki/Zac_Thompson)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zhang Chiming](https://www.wikidata.org/wiki/Q8070153)** ([WP](https://en.wikipedia.org/wiki/Zhang_Chiming)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[James Garner](https://www.wikidata.org/wiki/Q61908191)** ([WP](https://en.wikipedia.org/wiki/James_Garner_(footballer,_born_2001))) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

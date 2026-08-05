@@ -6,7 +6,8 @@
 - Current members on Wikidata: 92
 - Suggested edits: 118
 
-## Recorded as a current member, but no longer in the squad (90)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (90)</strong></summary>
 
 - **[Alain Wiss](https://www.wikidata.org/wiki/Q673648)** ([WP](https://de.wikipedia.org/wiki/Alain_Wiss)) (2015–2020) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albin Krasniqi](https://www.wikidata.org/wiki/Q121959104)** ([WP](https://de.wikipedia.org/wiki/Albin_Krasniqi)) (2023–2024) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -99,7 +100,10 @@
 - **[Yannis Tafer](https://www.wikidata.org/wiki/Q571344)** ([WP](https://de.wikipedia.org/wiki/Yannis_Tafer)) (2014–2019) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yrondu Musavu-King](https://www.wikidata.org/wiki/Q10556846)** ([WP](https://de.wikipedia.org/wiki/Yrondu_Musavu-King)) (2017–2018) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (20)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Albert Vallci](https://www.wikidata.org/wiki/Q25273278)** ([WP](https://de.wikipedia.org/wiki/Albert_Vallci)) (2022–2026) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Alessandro Vogt](https://www.wikidata.org/wiki/Q136121363)** ([WP](https://de.wikipedia.org/wiki/Alessandro_Vogt)) (2025–2026) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
@@ -122,11 +126,17 @@
 - **[Shkelqim Vladi](https://www.wikidata.org/wiki/Q122967693)** ([WP](https://en.wikipedia.org/wiki/Shkelqim_Vladi)) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tom Gaal](https://www.wikidata.org/wiki/Q122397431)** ([WP](https://de.wikipedia.org/wiki/Tom_Gaal)) (2025–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Betim Fazliji](https://www.wikidata.org/wiki/Q71600065)** ([WP](https://de.wikipedia.org/wiki/Betim_Fazliji)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (7)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (7)</strong></summary>
 
 - **Bela Dumrath** — 'Bela Dumrath' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Cyrill May** — 'Cyrill May' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -135,3 +145,5 @@
 - **Pascal Büttiker** — 'Pascal Büttiker' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tarik Seferovic** — 'Tarik Seferovic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tiemoko Outtara** — 'Tiemoko Outtara' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

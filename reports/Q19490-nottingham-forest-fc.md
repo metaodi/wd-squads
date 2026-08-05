@@ -6,11 +6,15 @@
 - Current members on Wikidata: 210
 - Suggested edits: 237
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Taiwo Awoniyi](https://www.wikidata.org/wiki/Q20932574)** ([WP](https://en.wikipedia.org/wiki/Taiwo_Awoniyi)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (197)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (197)</strong></summary>
 
 - **[Adam Crookes](https://www.wikidata.org/wiki/Q56289680)** ([WP](https://en.wikipedia.org/wiki/Adam_Crookes)) (2017–2019) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Scott](https://www.wikidata.org/wiki/Q65963020)** ([WP](https://en.wikipedia.org/wiki/Adam_Scott_(footballer))) (1890–1900) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -210,7 +214,10 @@
 - **[Yassine En-Neyah](https://www.wikidata.org/wiki/Q81074584)** ([WP](https://en.wikipedia.org/wiki/Yassine_En-Neyah)) (2020–2021) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zannetos Mytidis](https://www.wikidata.org/wiki/Q16234847)** — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (23)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (23)</strong></summary>
 
 - **[Cuiabano](https://www.wikidata.org/wiki/Q118592236)** ([WP](https://en.wikipedia.org/wiki/Cuiabano)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Dilane Bakwa](https://www.wikidata.org/wiki/Q99672568)** ([WP](https://en.wikipedia.org/wiki/Dilane_Bakwa)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
@@ -236,11 +243,17 @@
 - **[Ryan Yates](https://www.wikidata.org/wiki/Q28794002)** ([WP](https://en.wikipedia.org/wiki/Ryan_Yates)) (2016–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Zach Abbott](https://www.wikidata.org/wiki/Q113586764)** ([WP](https://en.wikipedia.org/wiki/Zach_Abbott)) (2022–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Ola Aina](https://www.wikidata.org/wiki/Q20730338)** ([WP](https://en.wikipedia.org/wiki/Ola_Aina)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (15)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (15)</strong></summary>
 
 - **Aaron Bott** — 'Aaron Bott' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Archie Whitehall** — 'Archie Whitehall' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -257,3 +270,5 @@
 - **Lamin Sillah** — 'Lamin Sillah' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Luke Campbell** — 'Luke Campbell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Zyan Blake** — 'Zyan Blake' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

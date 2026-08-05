@@ -2,17 +2,21 @@
 
 - Wikidata item: [Q9616](https://www.wikidata.org/wiki/Q9616)
 - Wikipedia article: [Chelsea F.C.](https://en.wikipedia.org/wiki/Chelsea_F.C.)
-- Players in Wikipedia squad: 60
-- Current members on Wikidata: 153
-- Suggested edits: 151
+- Players in Wikipedia squad: 61
+- Current members on Wikidata: 155
+- Suggested edits: 152
 
-## Membership marked ended, but player is in the current squad (3)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
 
 - **[Benoît Badiashile](https://www.wikidata.org/wiki/Q57704058)** ([WP](https://en.wikipedia.org/wiki/Benoît_Badiashile)) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Filip Jörgensen](https://www.wikidata.org/wiki/Q108776426)** ([WP](https://en.wikipedia.org/wiki/Filip_Jörgensen)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Wesley Fofana](https://www.wikidata.org/wiki/Q65029821)** ([WP](https://en.wikipedia.org/wiki/Wesley_Fofana_(footballer))) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (121)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (122)</strong></summary>
 
 - **[Adeagbo David Ibikunle](https://www.wikidata.org/wiki/Q125217753)** — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Aisultan Nazarbayev](https://www.wikidata.org/wiki/Q34528778)** ([WP](https://en.wikipedia.org/wiki/Aisultan_Nazarbayev)) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -85,6 +89,7 @@
 - **[John Tennant](https://www.wikidata.org/wiki/Q27917120)** ([WP](https://en.wikipedia.org/wiki/John_Tennant_(footballer,_born_1939))) (1959) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Johnny Meadows](https://www.wikidata.org/wiki/Q62523542)** ([WP](https://en.wikipedia.org/wiki/Johnny_Meadows_(English_footballer))) (1948–) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Johnson Adetunji olanipekun](https://www.wikidata.org/wiki/Q125119356)** — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Josep María Chavarría Pérez](https://www.wikidata.org/wiki/Q96040600)** ([WP](https://en.wikipedia.org/wiki/Pep_Chavarr%C3%ADa)) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Joseph Hughes](https://www.wikidata.org/wiki/Q30604120)** ([WP](https://en.wikipedia.org/wiki/Joseph_Hughes_(footballer))) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Juan Familia Castillo](https://www.wikidata.org/wiki/Q63079801)** ([WP](https://en.wikipedia.org/wiki/Juan_Castillo_(footballer,_born_2000))) (2019–2023) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jude Soonsup-Bell](https://www.wikidata.org/wiki/Q108949622)** ([WP](https://en.wikipedia.org/wiki/Jude_Soonsup-Bell)) (2021–2023) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -136,7 +141,10 @@
 - **[Yuriel Celi](https://www.wikidata.org/wiki/Q64008958)** ([WP](https://en.wikipedia.org/wiki/Yuriel_Celi)) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Álvaro Fernández](https://www.wikidata.org/wiki/Q110001765)** ([WP](https://en.wikipedia.org/wiki/%C3%81lvaro_Carreras)) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (22)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (22)</strong></summary>
 
 - **[Deivid Washington](https://www.wikidata.org/wiki/Q114405335)** ([WP](https://en.wikipedia.org/wiki/Deivid_Washington)) (2023–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Dário Essugo](https://www.wikidata.org/wiki/Q106091717)** ([WP](https://en.wikipedia.org/wiki/Dário_Essugo)) (2025–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
@@ -161,13 +169,21 @@
 - **[Teddy Sharman-Lowe](https://www.wikidata.org/wiki/Q98970365)** ([WP](https://en.wikipedia.org/wiki/Teddy_Sharman-Lowe)) (2020–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Valentín Barco](https://www.wikidata.org/wiki/Q107542811)** ([WP](https://en.wikipedia.org/wiki/Valentín_Barco)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (2)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Estêvão](https://www.wikidata.org/wiki/Q115332579)** ([WP](https://en.wikipedia.org/wiki/Estêvão_Willian)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Nicolas Jackson](https://www.wikidata.org/wiki/Q100144350)** ([WP](https://en.wikipedia.org/wiki/Nicolas_Jackson)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (3)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
 
 - **Calvin Diakite** — 'Calvin Diakite' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Hudson Sands** — 'Hudson Sands' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Olutayo Subuloye** — 'Olutayo Subuloye' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

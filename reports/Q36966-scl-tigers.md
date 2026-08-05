@@ -6,7 +6,8 @@
 - Current members on Wikidata: 166
 - Suggested edits: 191
 
-## Recorded as a current member, but no longer in the squad (164)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (164)</strong></summary>
 
 - **[Adrian Brunner](https://www.wikidata.org/wiki/Q209014)** ([WP](https://de.wikipedia.org/wiki/Adrian_Brunner)) (2012–2013) — Add an end date (P582) to the membership → SCL Tigers (Q36966); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Gerber](https://www.wikidata.org/wiki/Q372987)** ([WP](https://de.wikipedia.org/wiki/Adrian_Gerber)) (2001–2017) — Add an end date (P582) to the membership → SCL Tigers (Q36966); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -173,7 +174,10 @@
 - **[Yannick-Lennart Albrecht](https://www.wikidata.org/wiki/Q28542753)** ([WP](https://de.wikipedia.org/wiki/Yannick-Lennart_Albrecht)) (2009–2018) — Add an end date (P582) to the membership → SCL Tigers (Q36966); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Lecompte](https://www.wikidata.org/wiki/Q955037)** ([WP](https://en.wikipedia.org/wiki/%C3%89ric_Lecompte)) — Add an end date (P582) to the membership → SCL Tigers (Q36966); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (18)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[André Petersson](https://www.wikidata.org/wiki/Q2848433)** ([WP](https://de.wikipedia.org/wiki/André_Petersson)) (2025–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
 - **[Claude-Curdin Paschoud](https://www.wikidata.org/wiki/Q15794528)** ([WP](https://de.wikipedia.org/wiki/Claude-Curdin_Paschoud)) (2024–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
@@ -194,12 +198,18 @@
 - **[Samuel Erni](https://www.wikidata.org/wiki/Q30351477)** ([WP](https://de.wikipedia.org/wiki/Samuel_Erni)) (2017–) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia.
 - **[Santtu Kinnunen](https://www.wikidata.org/wiki/Q61103012)** ([WP](https://en.wikipedia.org/wiki/Santtu_Kinnunen)) — Add a 'member of sports team' (P54) statement → SCL Tigers (Q36966); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## Current member, but the membership has no start date (2)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Juuso Riikola](https://www.wikidata.org/wiki/Q13406583)** ([WP](https://de.wikipedia.org/wiki/Juuso_Riikola)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Saku Mäenalanen](https://www.wikidata.org/wiki/Q13583386)** ([WP](https://de.wikipedia.org/wiki/Saku_Mäenalanen)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (7)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (7)</strong></summary>
 
 - **Bastian Guggenheim** — 'Bastian Guggenheim' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dario Rohrbach** — 'Dario Rohrbach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -208,3 +218,5 @@
 - **Patrick Petrini** — 'Patrick Petrini' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tim Mathys** — 'Tim Mathys' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Timo Jenni** — 'Timo Jenni' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

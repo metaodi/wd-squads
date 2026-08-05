@@ -6,7 +6,8 @@
 - Current members on Wikidata: 236
 - Suggested edits: 262
 
-## Recorded as a current member, but no longer in the squad (234)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (234)</strong></summary>
 
 - **[Adrian Trunz](https://www.wikidata.org/wiki/Q2825055)** — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrien Lauper](https://www.wikidata.org/wiki/Q2825204)** — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -243,7 +244,10 @@
 - **[Zarley Zalapski](https://www.wikidata.org/wiki/Q147992)** ([WP](https://de.wikipedia.org/wiki/Zarley_Zalapski)) (2007–2008) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Perrin](https://www.wikidata.org/wiki/Q288290)** ([WP](https://de.wikipedia.org/wiki/%C3%89ric_Perrin)) (2006) — Add an end date (P582) to the membership → EHC Biel (Q36847); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (13)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (13)</strong></summary>
 
 - **[Fabio Hofer](https://www.wikidata.org/wiki/Q27146447)** ([WP](https://de.wikipedia.org/wiki/Fabio_Hofer)) (2020–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
 - **[Harri Säteri](https://www.wikidata.org/wiki/Q3034189)** ([WP](https://de.wikipedia.org/wiki/Harri_Säteri)) (2022–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
@@ -259,12 +263,18 @@
 - **[Viktor Lööv](https://www.wikidata.org/wiki/Q6381352)** ([WP](https://en.wikipedia.org/wiki/Viktor_L%C3%B6%C3%B6v)) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Yanik Burren](https://www.wikidata.org/wiki/Q47037000)** ([WP](https://de.wikipedia.org/wiki/Yanik_Burren)) (2023–) — Add a 'member of sports team' (P54) statement → EHC Biel (Q36847); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (2)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Gaëtan Haas](https://www.wikidata.org/wiki/Q762690)** ([WP](https://de.wikipedia.org/wiki/Gaëtan_Haas)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Robin Grossmann](https://www.wikidata.org/wiki/Q2159775)** ([WP](https://de.wikipedia.org/wiki/Robin_Grossmann)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (13)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (13)</strong></summary>
 
 - **Gaël Christe** — 'Gaël Christe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Guillaume Kaser** — 'Guillaume Kaser' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -279,3 +289,5 @@
 - **Nolan Cattin** — 'Nolan Cattin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Yanick Sablatnig** — 'Yanick Sablatnig' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Yanick Stampfli** — 'Yanick Stampfli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

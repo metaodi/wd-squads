@@ -6,7 +6,8 @@
 - Current members on Wikidata: 135
 - Suggested edits: 141
 
-## Recorded as a current member, but no longer in the squad (124)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (124)</strong></summary>
 
 - **[Adam Schmitt](https://www.wikidata.org/wiki/Q74455998)** ([WP](https://de.wikipedia.org/wiki/Adam_Schmitt_(Fu%C3%9Fballspieler))) (1935–1949) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Wirsching](https://www.wikidata.org/wiki/Q60723995)** ([WP](https://de.wikipedia.org/wiki/Albert_Wirsching)) (1936–1948) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -133,7 +134,10 @@
 - **[Änis Ben-Hatira](https://www.wikidata.org/wiki/Q62082)** ([WP](https://de.wikipedia.org/wiki/%C3%84nis_Ben-Hatira)) (2016) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Çağrı Karakuş](https://www.wikidata.org/wiki/Q89482352)** — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (16)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Ayoube Amaimouni](https://www.wikidata.org/wiki/Q137705019)** ([WP](https://de.wikipedia.org/wiki/Ayoube_Amaimouni)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Elias Baum](https://www.wikidata.org/wiki/Q123390886)** ([WP](https://de.wikipedia.org/wiki/Elias_Baum)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
@@ -149,9 +153,14 @@
 - **[Noel Futkeu](https://www.wikidata.org/wiki/Q124757622)** ([WP](https://de.wikipedia.org/wiki/Noel_Futkeu)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Noël Aséko](https://www.wikidata.org/wiki/Q112570858)** ([WP](https://de.wikipedia.org/wiki/Noël_Aséko)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Oscar Højlund](https://www.wikidata.org/wiki/Q120804891)** ([WP](https://de.wikipedia.org/wiki/Oscar_Højlund)) (2024–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
-- **[Raphael Onyedika](https://www.wikidata.org/wiki/Q107985602)** ([WP](https://de.wikipedia.org/wiki/Raphael_Onyedika)) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
+- **[Raphael Onyedika](https://www.wikidata.org/wiki/Q107985602)** ([WP](https://de.wikipedia.org/wiki/Raphael_Onyedika)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Younes Ebnoutalib](https://www.wikidata.org/wiki/Q136388604)** ([WP](https://de.wikipedia.org/wiki/Younes_Ebnoutalib)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Love Arrhov](https://www.wikidata.org/wiki/Q134271451)** ([WP](https://de.wikipedia.org/wiki/Love_Arrhov)) (2026–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

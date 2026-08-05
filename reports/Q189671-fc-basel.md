@@ -6,11 +6,15 @@
 - Current members on Wikidata: 279
 - Suggested edits: 304
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Albian Ajeti](https://www.wikidata.org/wiki/Q16148161)** ([WP](https://de.wikipedia.org/wiki/Albian_Ajeti)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (18)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Aaron Malouda](https://www.wikidata.org/wiki/Q122926221)** ([WP](https://de.wikipedia.org/wiki/Aaron_Malouda)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Asane Sow](https://www.wikidata.org/wiki/Q140472483)** ([WP](https://en.wikipedia.org/wiki/Asane_Sow)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -31,7 +35,10 @@
 - **[Philip Otele](https://www.wikidata.org/wiki/Q65259981)** ([WP](https://de.wikipedia.org/wiki/Philip_Otele)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Žan Celar](https://www.wikidata.org/wiki/Q30005073)** ([WP](https://de.wikipedia.org/wiki/Žan_Celar)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (275)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (275)</strong></summary>
 
 - **[Adama Traoré](https://www.wikidata.org/wiki/Q4680091)** ([WP](https://de.wikipedia.org/wiki/Adama_Traor%C3%A9_(Fu%C3%9Fballspieler,_1990))) (2015–2017) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adolf Frey](https://www.wikidata.org/wiki/Q96371486)** ([WP](https://en.wikipedia.org/wiki/Adolf_Frey_(footballer))) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -309,11 +316,17 @@
 - **[Yannick Marchand](https://www.wikidata.org/wiki/Q65029871)** ([WP](https://de.wikipedia.org/wiki/Yannick_Marchand)) (2019–2023) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yves Kaiser](https://www.wikidata.org/wiki/Q61744375)** ([WP](https://de.wikipedia.org/wiki/Yves_Kaiser)) (2018–2019) — Add an end date (P582) to the membership → FC Basel (Q189671); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Giacomo Koloto](https://www.wikidata.org/wiki/Q138296660)** ([WP](https://de.wikipedia.org/wiki/Giacomo_Koloto)) (2026–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (9)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (9)</strong></summary>
 
 - **Andrei Bačanin** — 'Andrei Bačanin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bennett Hoch** — 'Bennett Hoch' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -324,3 +337,5 @@
 - **Noah Kakor** — 'Noah Kakor' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Renato** — 'Renato' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Victory Akpe** — 'Victory Akpe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

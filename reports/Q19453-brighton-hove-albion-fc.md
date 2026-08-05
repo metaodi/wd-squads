@@ -2,15 +2,19 @@
 
 - Wikidata item: [Q19453](https://www.wikidata.org/wiki/Q19453)
 - Wikipedia article: [Brighton & Hove Albion F.C.](https://en.wikipedia.org/wiki/Brighton_&_Hove_Albion_F.C.)
-- Players in Wikipedia squad: 39
+- Players in Wikipedia squad: 38
 - Current members on Wikidata: 202
-- Suggested edits: 208
+- Suggested edits: 207
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Lewis Dunk](https://www.wikidata.org/wiki/Q6536506)** ([WP](https://en.wikipedia.org/wiki/Lewis_Dunk)) (2010–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (185)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (185)</strong></summary>
 
 - **[Aaron Connolly](https://www.wikidata.org/wiki/Q41560004)** ([WP](https://en.wikipedia.org/wiki/Aaron_Connolly_(Irish_footballer))) (2017–2023) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Chicksen](https://www.wikidata.org/wiki/Q4678848)** ([WP](https://en.wikipedia.org/wiki/Adam_Chicksen)) (2013–2016) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -198,9 +202,11 @@
 - **[Will Collar](https://www.wikidata.org/wiki/Q56292773)** ([WP](https://en.wikipedia.org/wiki/Will_Collar)) (2018–2019) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Willie Wragg](https://www.wikidata.org/wiki/Q8021908)** ([WP](https://en.wikipedia.org/wiki/Willie_Wragg)) (1905–1906) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (21)
+</details>
 
-- **[Carl Rushworth](https://www.wikidata.org/wiki/Q107985580)** ([WP](https://en.wikipedia.org/wiki/Carl_Rushworth)) (2019–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
+
 - **[Charalampos Kostoulas](https://www.wikidata.org/wiki/Q117360254)** ([WP](https://en.wikipedia.org/wiki/Charalampos_Kostoulas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Charlie Tasker](https://www.wikidata.org/wiki/Q136032454)** ([WP](https://en.wikipedia.org/wiki/Charlie_Tasker)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Costinha](https://www.wikidata.org/wiki/Q85038325)** ([WP](https://en.wikipedia.org/wiki/Costinha_(footballer,_born_2000))) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
@@ -222,6 +228,11 @@
 - **[Tommy Watson](https://www.wikidata.org/wiki/Q122878833)** ([WP](https://en.wikipedia.org/wiki/Tommy_Watson_(footballer,_born_2006))) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Zadok Yohanna](https://www.wikidata.org/wiki/Q135491767)** ([WP](https://en.wikipedia.org/wiki/Zadok_Yohanna)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Evan Ferguson](https://www.wikidata.org/wiki/Q68650133)** ([WP](https://en.wikipedia.org/wiki/Evan_Ferguson)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

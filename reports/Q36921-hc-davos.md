@@ -6,11 +6,15 @@
 - Current members on Wikidata: 221
 - Suggested edits: 244
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Matěj Stránský](https://www.wikidata.org/wiki/Q20936611)** ([WP](https://de.wikipedia.org/wiki/Matěj_Stránský)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (19)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Adam Tambellini](https://www.wikidata.org/wiki/Q20858924)** ([WP](https://en.wikipedia.org/wiki/Adam_Tambellini)) — Add a 'member of sports team' (P54) statement → HC Davos (Q36921); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Beni Waidacher](https://www.wikidata.org/wiki/Q136806943)** ([WP](https://de.wikipedia.org/wiki/Beni_Waidacher)) (2019–) — Add a 'member of sports team' (P54) statement → HC Davos (Q36921); the player is in the current squad on Wikipedia.
@@ -32,7 +36,10 @@
 - **[Simon Ryfors](https://www.wikidata.org/wiki/Q104183019)** ([WP](https://en.wikipedia.org/wiki/Simon_Ryfors)) — Add a 'member of sports team' (P54) statement → HC Davos (Q36921); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Valentin Nussbaumer](https://www.wikidata.org/wiki/Q47003796)** ([WP](https://de.wikipedia.org/wiki/Valentin_Nussbaumer)) (2021–) — Add a 'member of sports team' (P54) statement → HC Davos (Q36921); the player is in the current squad on Wikipedia.
 
-## Recorded as a current member, but no longer in the squad (216)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (216)</strong></summary>
 
 - **[Ahren Spylo](https://www.wikidata.org/wiki/Q402683)** ([WP](https://de.wikipedia.org/wiki/Ahren_Spylo)) (2017) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Tallarini](https://www.wikidata.org/wiki/Q2830598)** — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -245,22 +252,30 @@
 - **[Vitali Prokhorov](https://www.wikidata.org/wiki/Q1373863)** ([WP](https://de.wikipedia.org/wiki/Witali_Wladimirowitsch_Prochorow)) (1998–1999) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vojtěch Polák](https://www.wikidata.org/wiki/Q531038)** ([WP](https://de.wikipedia.org/wiki/Vojt%C4%9Bch_Pol%C3%A1k)) (2013) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Václav Varaďa](https://www.wikidata.org/wiki/Q671087)** ([WP](https://de.wikipedia.org/wiki/V%C3%A1clav_Vara%C4%8Fa)) (2006–2007) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Walter Dürst](https://www.wikidata.org/wiki/Q550988)** ([WP](https://de.wikipedia.org/wiki/Walter_D%C3%BCrst)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Walter Dürst](https://www.wikidata.org/wiki/Q16145049)** ([WP](https://en.wikipedia.org/wiki/Walter_D%C3%BCrst_(ice_hockey,_born_1950))) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Walter Dürst](https://www.wikidata.org/wiki/Q550988)** ([WP](https://de.wikipedia.org/wiki/Walter_D%C3%BCrst)) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yanick Bodemann](https://www.wikidata.org/wiki/Q4022507)** — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yves Sarault](https://www.wikidata.org/wiki/Q680239)** ([WP](https://de.wikipedia.org/wiki/Yves_Sarault)) (2006–2007) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zdeněk Kutlák](https://www.wikidata.org/wiki/Q169006)** ([WP](https://de.wikipedia.org/wiki/Zden%C4%9Bk_Kutl%C3%A1k)) (2013–2014) — Add an end date (P582) to the membership → HC Davos (Q36921); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (4)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (4)</strong></summary>
 
 - **[Chris Egli](https://www.wikidata.org/wiki/Q28545920)** ([WP](https://de.wikipedia.org/wiki/Chris_Egli)) (2009–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Davyd Barandun](https://www.wikidata.org/wiki/Q47044558)** ([WP](https://de.wikipedia.org/wiki/Davyd_Barandun)) (2014–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Sven Jung](https://www.wikidata.org/wiki/Q28546564)** ([WP](https://de.wikipedia.org/wiki/Sven_Jung)) (2015–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Tino Kessler](https://www.wikidata.org/wiki/Q28546570)** ([WP](https://de.wikipedia.org/wiki/Tino_Kessler)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (4)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (4)</strong></summary>
 
 - **Julian Parrée** — 'Julian Parrée' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Laurin Solèr** — 'Laurin Solèr' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tim Minder** — 'Tim Minder' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Yannick Frehner** — 'Yannick Frehner' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

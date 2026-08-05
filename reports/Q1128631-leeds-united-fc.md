@@ -6,12 +6,16 @@
 - Current members on Wikidata: 180
 - Suggested edits: 190
 
-## Membership marked ended, but player is in the current squad (2)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Alex Cairns](https://www.wikidata.org/wiki/Q4716779)** ([WP](https://en.wikipedia.org/wiki/Alex_Cairns)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Sam Byram](https://www.wikidata.org/wiki/Q5591335)** ([WP](https://en.wikipedia.org/wiki/Sam_Byram)) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (171)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (171)</strong></summary>
 
 - **[Aapo Halme](https://www.wikidata.org/wiki/Q17380497)** ([WP](https://en.wikipedia.org/wiki/Aapo_Halme)) (2018–2019) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Lockwood](https://www.wikidata.org/wiki/Q2823973)** ([WP](https://en.wikipedia.org/wiki/Adam_Lockwood)) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -185,7 +189,10 @@
 - **[William Cooke](https://www.wikidata.org/wiki/Q16079686)** ([WP](https://en.wikipedia.org/wiki/Wilf_Cooke)) (1938–1939) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[William Pringle](https://www.wikidata.org/wiki/Q28836939)** ([WP](https://en.wikipedia.org/wiki/William_Pringle_(footballer))) (1949–1954) — Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (15)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
 
 - **[Brenden Aaronson](https://www.wikidata.org/wiki/Q33129609)** ([WP](https://en.wikipedia.org/wiki/Brenden_Aaronson)) (2022–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Daniel James](https://www.wikidata.org/wiki/Q30689579)** ([WP](https://en.wikipedia.org/wiki/Daniel_James_(footballer))) (2021–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
@@ -203,7 +210,12 @@
 - **[Tarik Muharemović](https://www.wikidata.org/wiki/Q106620882)** ([WP](https://en.wikipedia.org/wiki/Tarik_Muharemović)) (2026–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Wilfried Gnonto](https://www.wikidata.org/wiki/Q100792975)** ([WP](https://en.wikipedia.org/wiki/Wilfried_Gnonto)) (2022–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (2)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Largie Ramazani](https://www.wikidata.org/wiki/Q76743396)** ([WP](https://en.wikipedia.org/wiki/Largie_Ramazani)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Mateo Joseph](https://www.wikidata.org/wiki/Q115492364)** ([WP](https://en.wikipedia.org/wiki/Mateo_Joseph)) (2022–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

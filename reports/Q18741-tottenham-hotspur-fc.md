@@ -6,11 +6,15 @@
 - Current members on Wikidata: 197
 - Suggested edits: 181
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Alfie Dorrington](https://www.wikidata.org/wiki/Q123353679)** ([WP](https://en.wikipedia.org/wiki/Alfie_Dorrington)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (166)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (166)</strong></summary>
 
 - **[Aaron McEneff](https://www.wikidata.org/wiki/Q53567638)** ([WP](https://en.wikipedia.org/wiki/Aaron_McEneff)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Connell](https://www.wikidata.org/wiki/Q4706403)** ([WP](https://en.wikipedia.org/wiki/Alan_Connell)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -179,7 +183,10 @@
 - **[Willie Murray](https://www.wikidata.org/wiki/Q50365656)** ([WP](https://en.wikipedia.org/wiki/Willie_Murray_(footballer,_born_1881))) (1904–1906) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zaine Francis-Angol](https://www.wikidata.org/wiki/Q144402)** ([WP](https://en.wikipedia.org/wiki/Zaine_Francis-Angol)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (13)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (13)</strong></summary>
 
 - **[Brandon Austin](https://www.wikidata.org/wiki/Q107316392)** ([WP](https://en.wikipedia.org/wiki/Brandon_Austin)) (2019–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Callum Olusesi](https://www.wikidata.org/wiki/Q131573499)** ([WP](https://en.wikipedia.org/wiki/Callum_Olusesi)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
@@ -195,6 +202,11 @@
 - **[Pape Matar Sarr](https://www.wikidata.org/wiki/Q104877690)** ([WP](https://en.wikipedia.org/wiki/Pape_Matar_Sarr)) (2021–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Souza](https://www.wikidata.org/wiki/Q124661440)** ([WP](https://en.wikipedia.org/wiki/Souza_(footballer,_born_2006))) (2026–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[George Abbott](https://www.wikidata.org/wiki/Q118915232)** ([WP](https://en.wikipedia.org/wiki/George_Abbott_(footballer,_born_August_2005))) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

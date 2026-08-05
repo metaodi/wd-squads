@@ -6,7 +6,8 @@
 - Current members on Wikidata: 158
 - Suggested edits: 179
 
-## Recorded as a current member, but no longer in the squad (152)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (152)</strong></summary>
 
 - **[Abby Holmes](https://www.wikidata.org/wiki/Q41435153)** — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Matthews](https://www.wikidata.org/wiki/Q350383)** ([WP](https://en.wikipedia.org/wiki/Adam_Matthews)) (2015–2019) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -159,12 +160,15 @@
 - **[William Fall](https://www.wikidata.org/wiki/Q47545431)** ([WP](https://en.wikipedia.org/wiki/William_Fall)) (1923–1925) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[William Gibson](https://www.wikidata.org/wiki/Q55367455)** ([WP](https://en.wikipedia.org/wiki/William_Gibson_(footballer,_born_1876))) (1901–1902) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Williams Kokolo](https://www.wikidata.org/wiki/Q59656498)** ([WP](https://en.wikipedia.org/wiki/William_Kokolo)) (2018–2020) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Zak Johnson](https://www.wikidata.org/wiki/Q122772050)** ([WP](https://en.wikipedia.org/wiki/Zak_Johnson)) (2021–) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Zak Johnson](https://www.wikidata.org/wiki/Q122772050)** ([WP](https://en.wikipedia.org/wiki/Zak_Johnson)) (2021–2026) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (26)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
 
 - **[Abdoullah Ba](https://www.wikidata.org/wiki/Q106860208)** ([WP](https://en.wikipedia.org/wiki/Abdoullah_Ba)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
-- **[Ahmed Abdullahi](https://www.wikidata.org/wiki/Q117061559)** ([WP](https://en.wikipedia.org/wiki/Ahmed_Abdullahi_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
+- **[Ahmed Abdullahi](https://www.wikidata.org/wiki/Q117061559)** ([WP](https://en.wikipedia.org/wiki/Ahmed_Abdullahi_(footballer))) (2024–2026) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Aji Alese](https://www.wikidata.org/wiki/Q67853785)** ([WP](https://en.wikipedia.org/wiki/Aji_Alese)) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Alan Browne](https://www.wikidata.org/wiki/Q16229852)** ([WP](https://en.wikipedia.org/wiki/Alan_Browne_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Anthony Patterson](https://www.wikidata.org/wiki/Q107987091)** ([WP](https://en.wikipedia.org/wiki/Anthony_Patterson)) (2018–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
@@ -190,6 +194,11 @@
 - **[Trai Hume](https://www.wikidata.org/wiki/Q110425651)** ([WP](https://en.wikipedia.org/wiki/Trai_Hume)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Wilson Isidor](https://www.wikidata.org/wiki/Q58484930)** ([WP](https://en.wikipedia.org/wiki/Wilson_Isidor)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Romaine Mundle](https://www.wikidata.org/wiki/Q121032499)** ([WP](https://en.wikipedia.org/wiki/Romaine_Mundle)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

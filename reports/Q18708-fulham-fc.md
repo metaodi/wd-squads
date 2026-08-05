@@ -2,15 +2,19 @@
 
 - Wikidata item: [Q18708](https://www.wikidata.org/wiki/Q18708)
 - Wikipedia article: [Fulham F.C.](https://en.wikipedia.org/wiki/Fulham_F.C.)
-- Players in Wikipedia squad: 22
-- Current members on Wikidata: 279
-- Suggested edits: 281
+- Players in Wikipedia squad: 23
+- Current members on Wikidata: 280
+- Suggested edits: 283
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Jorge Cuenca](https://www.wikidata.org/wiki/Q28972640)** ([WP](https://en.wikipedia.org/wiki/Jorge_Cuenca)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (268)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (269)</strong></summary>
 
 - **[Aboubakar Kamara](https://www.wikidata.org/wiki/Q18206847)** ([WP](https://en.wikipedia.org/wiki/Aboubakar_Kamara)) (2017–2021) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abraham Wales](https://www.wikidata.org/wiki/Q96313674)** ([WP](https://en.wikipedia.org/wiki/Abraham_Wales_(footballer,_born_1874))) (1904) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -184,6 +188,7 @@
 - **[Liam Davis](https://www.wikidata.org/wiki/Q6539552)** ([WP](https://en.wikipedia.org/wiki/Liam_Davis_(footballer,_born_1986))) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Liam Donnelly](https://www.wikidata.org/wiki/Q17144215)** ([WP](https://en.wikipedia.org/wiki/Liam_Donnelly_(footballer))) (2012–2016) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Liam Millar](https://www.wikidata.org/wiki/Q50505969)** ([WP](https://en.wikipedia.org/wiki/Liam_Millar)) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Luc de Fougerolles](https://www.wikidata.org/wiki/Q121829403)** ([WP](https://en.wikipedia.org/wiki/Luc_de_Fougerolles)) (2023–) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luca de la Torre](https://www.wikidata.org/wiki/Q26251807)** ([WP](https://en.wikipedia.org/wiki/Luca_de_la_Torre)) (2016–2020) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luca Moscatiello](https://www.wikidata.org/wiki/Q11348900)** ([WP](https://en.wikipedia.org/wiki/Luca_Moscatiello)) (–2010) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lucas Piazón](https://www.wikidata.org/wiki/Q126903)** ([WP](https://en.wikipedia.org/wiki/Lucas_Piazon)) (2016–2018) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -281,10 +286,14 @@
 - **[Willie Wood](https://www.wikidata.org/wiki/Q85815831)** ([WP](https://en.wikipedia.org/wiki/Willie_Wood_(footballer))) (1905) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Yohan Mollo](https://www.wikidata.org/wiki/Q1362018)** ([WP](https://en.wikipedia.org/wiki/Yohan_Mollo)) (2017–2018) — Add an end date (P582) to the membership → Fulham F.C. (Q18708); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (10)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (11)</strong></summary>
 
 - **[Benjamin Lecomte](https://www.wikidata.org/wiki/Q2070900)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Lecomte)) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Emile Smith Rowe](https://www.wikidata.org/wiki/Q55820249)** ([WP](https://en.wikipedia.org/wiki/Emile_Smith_Rowe)) (2024–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
+- **[Gonzalo García](https://www.wikidata.org/wiki/Q118869601)** ([WP](https://en.wikipedia.org/wiki/Gonzalo_García_(footballer,_born_2004))) (2026–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Joachim Andersen](https://www.wikidata.org/wiki/Q15943423)** ([WP](https://en.wikipedia.org/wiki/Joachim_Andersen_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Jonah Kusi-Asare](https://www.wikidata.org/wiki/Q122227001)** ([WP](https://en.wikipedia.org/wiki/Jonah_Kusi-Asare)) (2026–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Josh King](https://www.wikidata.org/wiki/Q131518757)** ([WP](https://en.wikipedia.org/wiki/Josh_King_(footballer,_born_2007))) (2024–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
@@ -294,7 +303,12 @@
 - **[Oscar Bobb](https://www.wikidata.org/wiki/Q110466658)** ([WP](https://en.wikipedia.org/wiki/Oscar_Bobb)) (2026–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Rodrigo Muniz](https://www.wikidata.org/wiki/Q97097982)** ([WP](https://en.wikipedia.org/wiki/Rodrigo_Muniz_(Brazilian_footballer))) (2021–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (2)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Calvin Bassey](https://www.wikidata.org/wiki/Q97059010)** ([WP](https://en.wikipedia.org/wiki/Calvin_Bassey)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Ryan Sessegnon](https://www.wikidata.org/wiki/Q26250297)** ([WP](https://en.wikipedia.org/wiki/Ryan_Sessegnon)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

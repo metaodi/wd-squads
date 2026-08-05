@@ -6,13 +6,17 @@
 - Current members on Wikidata: 176
 - Suggested edits: 167
 
-## Membership marked ended, but player is in the current squad (3)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
 
 - **[Ethan Nwaneri](https://www.wikidata.org/wiki/Q114027518)** ([WP](https://en.wikipedia.org/wiki/Ethan_Nwaneri)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Gabriel Jesus](https://www.wikidata.org/wiki/Q19708656)** ([WP](https://en.wikipedia.org/wiki/Gabriel_Jesus)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Reiss Nelson](https://www.wikidata.org/wiki/Q35039261)** ([WP](https://en.wikipedia.org/wiki/Reiss_Nelson)) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## Recorded as a current member, but no longer in the squad (153)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (153)</strong></summary>
 
 - **[Afaf Al-Sadiq](https://www.wikidata.org/wiki/Q47092717)** — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Morton](https://www.wikidata.org/wiki/Q4707382)** ([WP](https://en.wikipedia.org/wiki/Alan_Morton_(footballer,_born_1942))) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -168,7 +172,10 @@
 - **[Wycliff Luyombya](https://www.wikidata.org/wiki/Q123584499)** — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zachari Fagan](https://www.wikidata.org/wiki/Q16523844)** — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (10)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (10)</strong></summary>
 
 - **[Andre Harriman-Annous](https://www.wikidata.org/wiki/Q136672473)** ([WP](https://en.wikipedia.org/wiki/Andre_Harriman-Annous)) (2025–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Brando Bailey-Joseph](https://www.wikidata.org/wiki/Q137921069)** ([WP](https://en.wikipedia.org/wiki/Brando_Bailey-Joseph)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
@@ -181,6 +188,11 @@
 - **[Marli Salmon](https://www.wikidata.org/wiki/Q135615356)** ([WP](https://en.wikipedia.org/wiki/Marli_Salmon)) (2025–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Tommy Setford](https://www.wikidata.org/wiki/Q123512560)** ([WP](https://en.wikipedia.org/wiki/Tommy_Setford)) (2024–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (1)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Myles Lewis-Skelly](https://www.wikidata.org/wiki/Q118571844)** ([WP](https://en.wikipedia.org/wiki/Myles_Lewis-Skelly)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>

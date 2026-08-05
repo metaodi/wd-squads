@@ -6,7 +6,8 @@
 - Current members on Wikidata: 323
 - Suggested edits: 351
 
-## Recorded as a current member, but no longer in the squad (308)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (308)</strong></summary>
 
 - **[Abdelaziz Ahanfouf](https://www.wikidata.org/wiki/Q307843)** ([WP](https://de.wikipedia.org/wiki/Abdelaziz_Ahanfouf)) (1995–1997) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Grbić](https://www.wikidata.org/wiki/Q21033347)** ([WP](https://de.wikipedia.org/wiki/Adrian_Grbi%C4%87)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -317,7 +318,10 @@
 - **[Ádám Szalai](https://www.wikidata.org/wiki/Q249572)** ([WP](https://de.wikipedia.org/wiki/%C3%81d%C3%A1m_Szalai)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Öztürk Karataş](https://www.wikidata.org/wiki/Q307954)** ([WP](https://de.wikipedia.org/wiki/%C3%96zt%C3%BCrk_Karata%C5%9F)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (39)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (39)</strong></summary>
 
 - **[Antonijo Janjić](https://www.wikidata.org/wiki/Q140134226)** ([WP](https://de.wikipedia.org/wiki/Antonijo_Janjić)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Badredine Bouanani](https://www.wikidata.org/wiki/Q114593540)** ([WP](https://de.wikipedia.org/wiki/Badredine_Bouanani)) (2025–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
@@ -359,12 +363,20 @@
 - **[Veit Stange](https://www.wikidata.org/wiki/Q118112363)** ([WP](https://de.wikipedia.org/wiki/Veit_Stange)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Yanik Spalt](https://www.wikidata.org/wiki/Q136384878)** ([WP](https://de.wikipedia.org/wiki/Yanik_Spalt)) (2026–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 
-## Current member, but the membership has no start date (3)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (3)</strong></summary>
 
 - **[Alexander Groiß](https://www.wikidata.org/wiki/Q24034336)** ([WP](https://de.wikipedia.org/wiki/Alexander_Groiß)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Atakan Karazor](https://www.wikidata.org/wiki/Q47487632)** ([WP](https://de.wikipedia.org/wiki/Atakan_Karazor)) (2019–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Nicolás Sessa](https://www.wikidata.org/wiki/Q56249397)** ([WP](https://de.wikipedia.org/wiki/Nicolás_Sessa)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
-## In current squad, but no Wikidata item could be found (1)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
 
 - **Ertugrul Yigit/** — 'Ertugrul Yigit/' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

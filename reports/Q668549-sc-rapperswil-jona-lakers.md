@@ -6,7 +6,8 @@
 - Current members on Wikidata: 131
 - Suggested edits: 160
 
-## Recorded as a current member, but no longer in the squad (131)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (131)</strong></summary>
 
 - **[Ahren Spylo](https://www.wikidata.org/wiki/Q402683)** ([WP](https://de.wikipedia.org/wiki/Ahren_Spylo)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Reist](https://www.wikidata.org/wiki/Q2830214)** ([WP](https://en.wikipedia.org/wiki/Alain_Reist)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -140,7 +141,10 @@
 - **[Wayne Dillon](https://www.wikidata.org/wiki/Q3566824)** ([WP](https://de.wikipedia.org/wiki/Wayne_Dillon)) (1980–1981) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zarley Zalapski](https://www.wikidata.org/wiki/Q147992)** ([WP](https://de.wikipedia.org/wiki/Zarley_Zalapski)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (18)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Dominic Lammer](https://www.wikidata.org/wiki/Q1237597)** ([WP](https://de.wikipedia.org/wiki/Dominic_Lammer)) (2021–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 - **[Ivars Punnenovs](https://www.wikidata.org/wiki/Q15238436)** ([WP](https://de.wikipedia.org/wiki/Ivars_Punnenovs)) (2012–2015) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
@@ -161,7 +165,10 @@
 - **[Victor Rask](https://www.wikidata.org/wiki/Q1699128)** ([WP](https://de.wikipedia.org/wiki/Victor_Rask)) (2023–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 - **[Yannick-Lennart Albrecht](https://www.wikidata.org/wiki/Q28542753)** ([WP](https://de.wikipedia.org/wiki/Yannick-Lennart_Albrecht)) (2021–) — Add a 'member of sports team' (P54) statement → SC Rapperswil-Jona Lakers (Q668549); the player is in the current squad on Wikipedia.
 
-## In current squad, but no Wikidata item could be found (11)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (11)</strong></summary>
 
 - **Benjamin Quinn** — 'Benjamin Quinn' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Fabian Maier** — 'Fabian Maier' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -174,3 +181,5 @@
 - **Mika Henauer** — 'Mika Henauer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nico Dünner** — 'Nico Dünner' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Robin Bisig** — 'Robin Bisig' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

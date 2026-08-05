@@ -6,7 +6,8 @@
 - Current members on Wikidata: 159
 - Suggested edits: 175
 
-## Recorded as a current member, but no longer in the squad (153)
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (153)</strong></summary>
 
 - **[Alain Reist](https://www.wikidata.org/wiki/Q2830214)** ([WP](https://en.wikipedia.org/wiki/Alain_Reist)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexei Krutov](https://www.wikidata.org/wiki/Q690570)** ([WP](https://de.wikipedia.org/wiki/Alexei_Wladimirowitsch_Krutow)) (2007–2011) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -162,7 +163,10 @@
 - **[Zarley Zalapski](https://www.wikidata.org/wiki/Q147992)** ([WP](https://de.wikipedia.org/wiki/Zarley_Zalapski)) (1998–1999) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Éric Lecompte](https://www.wikidata.org/wiki/Q955037)** ([WP](https://en.wikipedia.org/wiki/%C3%89ric_Lecompte)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## In current squad, but no membership statement on Wikidata (20)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Alessandro Segafredo](https://www.wikidata.org/wiki/Q81906861)** — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Chris Baltisberger](https://www.wikidata.org/wiki/Q16830856)** ([WP](https://de.wikipedia.org/wiki/Chris_Baltisberger)) (2011–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
@@ -185,7 +189,12 @@
 - **[Yannick Weber](https://www.wikidata.org/wiki/Q869663)** ([WP](https://de.wikipedia.org/wiki/Yannick_Weber)) (2021–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Šimon Hrubec](https://www.wikidata.org/wiki/Q4686350)** ([WP](https://de.wikipedia.org/wiki/Šimon_Hrubec)) (2022–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 
-## In current squad, but no Wikidata item could be found (2)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (2)</strong></summary>
 
 - **Jan Schwendeler** — 'Jan Schwendeler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Timo Bünzli** — 'Timo Bünzli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>

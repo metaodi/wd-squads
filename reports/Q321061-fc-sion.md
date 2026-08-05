@@ -6,11 +6,15 @@
 - Current members on Wikidata: 83
 - Suggested edits: 108
 
-## Membership marked ended, but player is in the current squad (1)
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Benjamin Kololli](https://www.wikidata.org/wiki/Q16234710)** ([WP](https://de.wikipedia.org/wiki/Benjamin_Kololli)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
-## In current squad, but no membership statement on Wikidata (19)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Adrien Llukes](https://www.wikidata.org/wiki/Q134561961)** — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ali Kabacalman](https://www.wikidata.org/wiki/Q33529300)** ([WP](https://en.wikipedia.org/wiki/Ali_Kabacalman)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -32,7 +36,10 @@
 - **[Théo Berdayes](https://www.wikidata.org/wiki/Q107986757)** ([WP](https://de.wikipedia.org/wiki/Théo_Berdayes)) (2021–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Théo Bouchlarhem](https://www.wikidata.org/wiki/Q116050917)** ([WP](https://en.wikipedia.org/wiki/Th%C3%A9o_Bouchlarhem)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## Recorded as a current member, but no longer in the squad (81)
+</details>
+
+<details open>
+<summary><strong>Recorded as a current member, but no longer in the squad (81)</strong></summary>
 
 - **[Aimery Pinga](https://www.wikidata.org/wiki/Q30905620)** ([WP](https://de.wikipedia.org/wiki/Aimery_Pinga)) (2016–2021) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Leandro](https://www.wikidata.org/wiki/Q2832978)** ([WP](https://en.wikipedia.org/wiki/Alex_Leandro)) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -116,15 +123,23 @@
 - **[Vincent Fournier](https://www.wikidata.org/wiki/Q65598583)** ([WP](https://en.wikipedia.org/wiki/Vincent_Fournier_(footballer))) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vincent Rüfli](https://www.wikidata.org/wiki/Q686065)** ([WP](https://de.wikipedia.org/wiki/Vincent_R%C3%BCfli)) (2013–2016) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
-## Current member, but the membership has no start date (2)
+</details>
+
+<details open>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Baltazar Costa](https://www.wikidata.org/wiki/Q56248714)** ([WP](https://de.wikipedia.org/wiki/Baltazar_Costa_Rodrigues_de_Oliveira)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Belmar Joseph](https://www.wikidata.org/wiki/Q130261735)** ([WP](https://en.wikipedia.org/wiki/Belmar_Joseph)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
-## In current squad, but no Wikidata item could be found (5)
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (5)</strong></summary>
 
 - **Altin Shala** — 'Altin Shala' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Lamine Diack** — 'Lamine Diack' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Maxime Dubosson** — 'Maxime Dubosson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nevio Biner** — 'Nevio Biner' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Winsley Boteli** — 'Winsley Boteli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+
+</details>
