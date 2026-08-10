@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q464775](https://www.wikidata.org/wiki/Q464775)
 - Wikipedia article: [FC Thun](https://de.wikipedia.org/wiki/FC_Thun)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 47
-- Suggested edits: 72
+- Suggested edits: 71
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -65,11 +65,10 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Ashvin Balaruban](https://www.wikidata.org/wiki/Q96575719)** ([WP](https://en.wikipedia.org/wiki/Ashvin_Balaruban)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Brighton Labeau](https://www.wikidata.org/wiki/Q36694978)** ([WP](https://de.wikipedia.org/wiki/Brighton_Labeau)) (2025–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
-- **[Christopher Ibayi](https://www.wikidata.org/wiki/Q127315896)** ([WP](https://en.wikipedia.org/wiki/Christopher_Ibayi)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Dorian Derbaci](https://www.wikidata.org/wiki/Q131108474)** ([WP](https://de.wikipedia.org/wiki/Dorian_Derbaci)) (2026–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
 - **[Fabio Fehr](https://www.wikidata.org/wiki/Q107750289)** ([WP](https://en.wikipedia.org/wiki/Fabio_Fehr)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Furkan Dursun](https://www.wikidata.org/wiki/Q116889140)** ([WP](https://de.wikipedia.org/wiki/Furkan_Dursun)) (2026–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.

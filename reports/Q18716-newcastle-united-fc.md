@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q18716](https://www.wikidata.org/wiki/Q18716)
 - Wikipedia article: [Newcastle United F.C.](https://en.wikipedia.org/wiki/Newcastle_United_F.C.)
-- Players in Wikipedia squad: 34
-- Current members on Wikidata: 144
+- Players in Wikipedia squad: 33
+- Current members on Wikidata: 143
 - Suggested edits: 125
 
 <details open>
@@ -47,7 +47,7 @@
 - **[Dave Bell](https://www.wikidata.org/wiki/Q5228320)** ([WP](https://en.wikipedia.org/wiki/Dave_Bell)) (1930–1934) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dave Turner](https://www.wikidata.org/wiki/Q56253655)** ([WP](https://en.wikipedia.org/wiki/Dave_Turner_(footballer,_born_1943))) (1960–1963) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dave Watson](https://www.wikidata.org/wiki/Q1173381)** ([WP](https://en.wikipedia.org/wiki/Dave_Watson)) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Derek Bell](https://www.wikidata.org/wiki/Q27929710)** ([WP](https://en.wikipedia.org/wiki/Derek_Bell_(footballer,_born_1963))) (1980–1984) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Derek Bell](https://www.wikidata.org/wiki/Q27929710)** ([WP](https://en.wikipedia.org/wiki/Derek_Bell_(footballer,_born_1963))) (1981–1984) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Derek Weddle](https://www.wikidata.org/wiki/Q19578226)** ([WP](https://en.wikipedia.org/wiki/Derek_Weddle)) (–1953) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Duncan Hutchison](https://www.wikidata.org/wiki/Q16007411)** ([WP](https://en.wikipedia.org/wiki/Duncan_Hutchison)) (1929–1931) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ebor Reed](https://www.wikidata.org/wiki/Q59588499)** ([WP](https://en.wikipedia.org/wiki/Ebor_Reed)) (1922–1925) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

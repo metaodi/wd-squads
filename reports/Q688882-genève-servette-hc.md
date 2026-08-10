@@ -3,11 +3,11 @@
 - Wikidata item: [Q688882](https://www.wikidata.org/wiki/Q688882)
 - Wikipedia article: [Genève-Servette HC](https://de.wikipedia.org/wiki/Genève-Servette_HC)
 - Players in Wikipedia squad: 27
-- Current members on Wikidata: 164
-- Suggested edits: 186
+- Current members on Wikidata: 163
+- Suggested edits: 185
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (159)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (158)</strong></summary>
 
 - **[Alexandre Picard](https://www.wikidata.org/wiki/Q549125)** ([WP](https://de.wikipedia.org/wiki/Alexandre_Picard_(Eishockeyspieler,_Oktober_1985))) (2012–2016) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexandre Tremblay](https://www.wikidata.org/wiki/Q2643783)** ([WP](https://de.wikipedia.org/wiki/Alexandre_Tremblay)) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -34,7 +34,6 @@
 - **[Daniel Rubin](https://www.wikidata.org/wiki/Q680273)** ([WP](https://de.wikipedia.org/wiki/Daniel_Rubin)) (2014–2019) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniel Vukovic](https://www.wikidata.org/wiki/Q3014798)** ([WP](https://de.wikipedia.org/wiki/Daniel_Vukovic)) (2008–2019) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daniele Marghitola](https://www.wikidata.org/wiki/Q3702010)** — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Denis Hollenstein](https://www.wikidata.org/wiki/Q1187419)** ([WP](https://de.wikipedia.org/wiki/Denis_Hollenstein)) (2013–2014) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Deniss Smirnovs](https://www.wikidata.org/wiki/Q67890506)** ([WP](https://en.wikipedia.org/wiki/Deniss_Smirnovs)) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dino Kessler](https://www.wikidata.org/wiki/Q16196533)** ([WP](https://en.wikipedia.org/wiki/Dino_Kessler)) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Edouard Filliol](https://www.wikidata.org/wiki/Q1336053)** ([WP](https://de.wikipedia.org/wiki/Emil_Filliol)) — Add an end date (P582) to the membership → Genève-Servette HC (Q688882); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q5794](https://www.wikidata.org/wiki/Q5794)
 - Wikipedia article: [Everton F.C.](https://en.wikipedia.org/wiki/Everton_F.C.)
-- Players in Wikipedia squad: 23
+- Players in Wikipedia squad: 24
 - Current members on Wikidata: 304
-- Suggested edits: 314
+- Suggested edits: 315
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,10 +15,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (14)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** ([WP](https://en.wikipedia.org/wiki/Adam_Aznou)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Charly Alcaraz](https://www.wikidata.org/wiki/Q88130791)** ([WP](https://en.wikipedia.org/wiki/Charly_Alcaraz)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
+- **[Christian Nørgaard](https://www.wikidata.org/wiki/Q5109980)** ([WP](https://en.wikipedia.org/wiki/Christian_Nørgaard)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Harrison Armstrong](https://www.wikidata.org/wiki/Q129702132)** ([WP](https://en.wikipedia.org/wiki/Harrison_Armstrong_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Hayden Hackney](https://www.wikidata.org/wiki/Q104764328)** ([WP](https://en.wikipedia.org/wiki/Hayden_Hackney)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Iliman Ndiaye](https://www.wikidata.org/wiki/Q105956269)** ([WP](https://en.wikipedia.org/wiki/Iliman_Ndiaye)) (2024–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.

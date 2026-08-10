@@ -2,7 +2,7 @@
 
 - Wikidata item: [Q321061](https://www.wikidata.org/wiki/Q321061)
 - Wikipedia article: [FC Sion](https://de.wikipedia.org/wiki/FC_Sion)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 26
 - Current members on Wikidata: 83
 - Suggested edits: 108
 
@@ -14,15 +14,14 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
 - **[Adrien Llukes](https://www.wikidata.org/wiki/Q134561961)** — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ali Kabacalman](https://www.wikidata.org/wiki/Q33529300)** ([WP](https://en.wikipedia.org/wiki/Ali_Kabacalman)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Anthony Racioppi](https://www.wikidata.org/wiki/Q60050106)** ([WP](https://de.wikipedia.org/wiki/Anthony_Racioppi)) (2025–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
-- **[Dinis Rodrigues](https://www.wikidata.org/wiki/Q122740558)** — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Donat Rrudhani](https://www.wikidata.org/wiki/Q83538960)** ([WP](https://de.wikipedia.org/wiki/Donat_Rrudhani)) (2025–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Francesco Ruberto](https://www.wikidata.org/wiki/Q23799357)** ([WP](https://en.wikipedia.org/wiki/Francesco_Ruberto)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Gabriele Mulazzi](https://www.wikidata.org/wiki/Q113687689)** ([WP](https://en.wikipedia.org/wiki/Gabriele_Mulazzi)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Franck Surdez](https://www.wikidata.org/wiki/Q124364897)** ([WP](https://en.wikipedia.org/wiki/Franck_Surdez)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ilyas Chouaref](https://www.wikidata.org/wiki/Q59782505)** ([WP](https://de.wikipedia.org/wiki/Ilyas_Chouaref)) (2022–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Jan Kronig](https://www.wikidata.org/wiki/Q64010927)** ([WP](https://de.wikipedia.org/wiki/Jan_Kronig)) (2024–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Josias Lukembila](https://www.wikidata.org/wiki/Q105613659)** ([WP](https://de.wikipedia.org/wiki/Josias_Lukembila)) (2025–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
@@ -34,12 +33,11 @@
 - **[Numa Lavanchy](https://www.wikidata.org/wiki/Q10513187)** ([WP](https://de.wikipedia.org/wiki/Numa_Lavanchy)) (2022–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Rilind Nivokazi](https://www.wikidata.org/wiki/Q69416807)** ([WP](https://en.wikipedia.org/wiki/Rilind_Nivokazi)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Théo Berdayes](https://www.wikidata.org/wiki/Q107986757)** ([WP](https://de.wikipedia.org/wiki/Théo_Berdayes)) (2021–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
-- **[Théo Bouchlarhem](https://www.wikidata.org/wiki/Q116050917)** ([WP](https://en.wikipedia.org/wiki/Th%C3%A9o_Bouchlarhem)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (81)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (82)</strong></summary>
 
 - **[Aimery Pinga](https://www.wikidata.org/wiki/Q30905620)** ([WP](https://de.wikipedia.org/wiki/Aimery_Pinga)) (2016–2021) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Leandro](https://www.wikidata.org/wiki/Q2832978)** ([WP](https://en.wikipedia.org/wiki/Alex_Leandro)) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -48,6 +46,7 @@
 - **[André Bosson](https://www.wikidata.org/wiki/Q2847340)** — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Anton Mitryushkin](https://www.wikidata.org/wiki/Q15072604)** ([WP](https://de.wikipedia.org/wiki/Anton_Wladimirowitsch_Mitrjuschkin)) (2016–2020) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arian Kabashi](https://www.wikidata.org/wiki/Q99529074)** ([WP](https://de.wikipedia.org/wiki/Arian_Kabashi)) (2020–2022) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Belmar Joseph](https://www.wikidata.org/wiki/Q130261735)** ([WP](https://en.wikipedia.org/wiki/Belmar_Joseph)) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Benjamin Besnard](https://www.wikidata.org/wiki/Q25858020)** ([WP](https://de.wikipedia.org/wiki/Benjamin_Besnard)) (2013) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Birama Ndoye](https://www.wikidata.org/wiki/Q17580328)** ([WP](https://de.wikipedia.org/wiki/Birama_Ndoye)) (2013–2022) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bruno Ferreira Morgado](https://www.wikidata.org/wiki/Q28099372)** ([WP](https://en.wikipedia.org/wiki/Bruno_Morgado)) — Add an end date (P582) to the membership → FC Sion (Q321061); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -126,20 +125,21 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Baltazar Costa](https://www.wikidata.org/wiki/Q56248714)** ([WP](https://de.wikipedia.org/wiki/Baltazar_Costa_Rodrigues_de_Oliveira)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-- **[Belmar Joseph](https://www.wikidata.org/wiki/Q130261735)** ([WP](https://en.wikipedia.org/wiki/Belmar_Joseph)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (5)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (7)</strong></summary>
 
-- **Altin Shala** — 'Altin Shala' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Lamine Diack** — 'Lamine Diack' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Maxime Dubosson** — 'Maxime Dubosson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Nevio Biner** — 'Nevio Biner' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Damien Möschinger** — 'Damien Möschinger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Fode Sylla** — 'Fode Sylla' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jason Almeida** — 'Jason Almeida' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lorenzo Villa** — 'Lorenzo Villa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ryan Kessler** — 'Ryan Kessler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Simon Caillet** — 'Simon Caillet' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Winsley Boteli** — 'Winsley Boteli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

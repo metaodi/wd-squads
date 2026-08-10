@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q659212](https://www.wikidata.org/wiki/Q659212)
 - Wikipedia article: [FC St. Gallen](https://de.wikipedia.org/wiki/FC_St._Gallen)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 32
 - Current members on Wikidata: 92
-- Suggested edits: 118
+- Suggested edits: 121
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (90)</strong></summary>
@@ -44,9 +44,9 @@
 - **[Ilija Ivić](https://www.wikidata.org/wiki/Q16233873)** ([WP](https://en.wikipedia.org/wiki/Ilija_Ivi%C4%87_(footballer,_born_1991))) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jim Freid](https://www.wikidata.org/wiki/Q23908274)** — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jimmy Townley](https://www.wikidata.org/wiki/Q1689449)** ([WP](https://de.wikipedia.org/wiki/Jimmy_Townley)) (1923–1925) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jordi Quintillà](https://www.wikidata.org/wiki/Q5934323)** ([WP](https://de.wikipedia.org/wiki/Jordi_Quintill%C3%A0)) (2022–) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Josef Zinnbauer](https://www.wikidata.org/wiki/Q1706119)** ([WP](https://de.wikipedia.org/wiki/Josef_Zinnbauer)) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kerim Frei](https://www.wikidata.org/wiki/Q552253)** ([WP](https://de.wikipedia.org/wiki/Kerim_Frei)) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Kevin Csoboth](https://www.wikidata.org/wiki/Q64745050)** ([WP](https://de.wikipedia.org/wiki/Kevin_Csoboth)) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kofi Schulz](https://www.wikidata.org/wiki/Q1778367)** ([WP](https://de.wikipedia.org/wiki/Kofi_Schulz)) (2016–2017) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Konrad Ehrbar](https://www.wikidata.org/wiki/Q33083393)** — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Leonel Herrera Silva](https://www.wikidata.org/wiki/Q6526226)** ([WP](https://de.wikipedia.org/wiki/Leonel_Herrera_Silva)) (1997–1998) — Add an end date (P582) to the membership → FC St. Gallen (Q659212); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -103,12 +103,10 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
-- **[Albert Vallci](https://www.wikidata.org/wiki/Q25273278)** ([WP](https://de.wikipedia.org/wiki/Albert_Vallci)) (2022–2026) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
-- **[Alessandro Vogt](https://www.wikidata.org/wiki/Q136121363)** ([WP](https://de.wikipedia.org/wiki/Alessandro_Vogt)) (2025–2026) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
-- **[Aliou Baldé](https://www.wikidata.org/wiki/Q106088792)** ([WP](https://de.wikipedia.org/wiki/Aliou_Baldé)) (2025–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
-- **[Antonio Verinac](https://www.wikidata.org/wiki/Q140667852)** ([WP](https://de.wikipedia.org/wiki/Antonio_Verinac)) (2026–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Aliou Baldé](https://www.wikidata.org/wiki/Q106088792)** ([WP](https://de.wikipedia.org/wiki/Aliou_Baldé)) (2026–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
+- **[Andrin Hunziker](https://www.wikidata.org/wiki/Q105805524)** ([WP](https://de.wikipedia.org/wiki/Andrin_Hunziker)) (2026–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Behar Neziri](https://www.wikidata.org/wiki/Q131912838)** ([WP](https://de.wikipedia.org/wiki/Behar_Neziri)) (2023–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Carlo Boukhalfa](https://www.wikidata.org/wiki/Q99297018)** ([WP](https://de.wikipedia.org/wiki/Carlo_Boukhalfa)) (2025–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Chima Okoroji](https://www.wikidata.org/wiki/Q57587674)** ([WP](https://de.wikipedia.org/wiki/Chima_Okoroji)) (2023–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
@@ -119,11 +117,12 @@
 - **[Hugo Vandermersch](https://www.wikidata.org/wiki/Q66586772)** ([WP](https://de.wikipedia.org/wiki/Hugo_Vandermersch)) (2024–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Jozo Stanić](https://www.wikidata.org/wiki/Q57580906)** ([WP](https://de.wikipedia.org/wiki/Jozo_Stanić)) (2023–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Lawrence Ati Zigi](https://www.wikidata.org/wiki/Q21523253)** ([WP](https://de.wikipedia.org/wiki/Lawrence_Ati_Zigi)) (2020–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
+- **[Leon Frokaj](https://www.wikidata.org/wiki/Q135841065)** — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Lukas Daschner](https://www.wikidata.org/wiki/Q29999471)** ([WP](https://de.wikipedia.org/wiki/Lukas_Daschner)) (2025–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Lukas Görtler](https://www.wikidata.org/wiki/Q19848894)** ([WP](https://de.wikipedia.org/wiki/Lukas_Görtler)) (2019–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Lukas Watkowiak](https://www.wikidata.org/wiki/Q26496629)** ([WP](https://de.wikipedia.org/wiki/Lukas_Watkowiak)) (2020–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Mihailo Stevanovic](https://www.wikidata.org/wiki/Q84822323)** ([WP](https://de.wikipedia.org/wiki/Mihailo_Stevanovic)) (2023–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
-- **[Shkelqim Vladi](https://www.wikidata.org/wiki/Q122967693)** ([WP](https://en.wikipedia.org/wiki/Shkelqim_Vladi)) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Stephan Ambrosius](https://www.wikidata.org/wiki/Q51166396)** ([WP](https://de.wikipedia.org/wiki/Stephan_Ambrosius)) (2024–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 - **[Tom Gaal](https://www.wikidata.org/wiki/Q122397431)** ([WP](https://de.wikipedia.org/wiki/Tom_Gaal)) (2025–) — Add a 'member of sports team' (P54) statement → FC St. Gallen (Q659212); the player is in the current squad on Wikipedia.
 
 </details>
@@ -136,14 +135,18 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (7)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (11)</strong></summary>
 
 - **Bela Dumrath** — 'Bela Dumrath' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Cyrill May** — 'Cyrill May' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Janis Widmer** — 'Janis Widmer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Diego Besio** — 'Diego Besio' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Joel Ruiz** — 'Joel Ruiz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jorge Rans** — 'Jorge Rans' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Melamine Efkele** — 'Melamine Efkele' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mostafa Heydari** — 'Mostafa Heydari' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nevio Scherrer** — 'Nevio Scherrer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Nino Weibel** — 'Nino Weibel' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Pascal Büttiker** — 'Pascal Büttiker' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Tarik Seferovic** — 'Tarik Seferovic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Tiemoko Outtara** — 'Tiemoko Outtara' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Yannick Bujard** — 'Yannick Bujard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

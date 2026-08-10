@@ -3,11 +3,11 @@
 - Wikidata item: [Q9653](https://www.wikidata.org/wiki/Q9653)
 - Wikipedia article: [Ipswich Town F.C.](https://en.wikipedia.org/wiki/Ipswich_Town_F.C.)
 - Players in Wikipedia squad: 33
-- Current members on Wikidata: 98
-- Suggested edits: 120
+- Current members on Wikidata: 99
+- Suggested edits: 119
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (27)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
 
 - **[Abdul Fatawu](https://www.wikidata.org/wiki/Q105812639)** ([WP](https://en.wikipedia.org/wiki/Abdul_Fatawu)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Alex Palmer](https://www.wikidata.org/wiki/Q60733809)** ([WP](https://en.wikipedia.org/wiki/Alex_Palmer)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
@@ -35,7 +35,6 @@
 - **[Kasey McAteer](https://www.wikidata.org/wiki/Q110086287)** ([WP](https://en.wikipedia.org/wiki/Kasey_McAteer)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Kayne van Oevelen](https://www.wikidata.org/wiki/Q122839844)** ([WP](https://en.wikipedia.org/wiki/Kayne_van_Oevelen)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Kjell Scherpen](https://www.wikidata.org/wiki/Q42913004)** ([WP](https://en.wikipedia.org/wiki/Kjell_Scherpen)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
-- **[Wes Burns](https://www.wikidata.org/wiki/Q7983858)** ([WP](https://en.wikipedia.org/wiki/Wes_Burns)) (2021–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 
 </details>
 

@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q190526](https://www.wikidata.org/wiki/Q190526)
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 90
-- Suggested edits: 101
+- Suggested edits: 102
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Alan Virginius](https://www.wikidata.org/wiki/Q99485545)** ([WP](https://de.wikipedia.org/wiki/Alan_Virginius)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Cédric Zesiger](https://www.wikidata.org/wiki/Q27662789)** ([WP](https://de.wikipedia.org/wiki/Cédric_Zesiger)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
@@ -18,6 +18,7 @@
 - **[Isaac Schmidt](https://www.wikidata.org/wiki/Q97037469)** ([WP](https://de.wikipedia.org/wiki/Isaac_Schmidt)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Joël Mall](https://www.wikidata.org/wiki/Q122261)** ([WP](https://de.wikipedia.org/wiki/Joël_Mall)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Joël Monteiro](https://www.wikidata.org/wiki/Q99674396)** ([WP](https://de.wikipedia.org/wiki/Joël_Monteiro)) (2021–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
+- **[Kaly Sène](https://www.wikidata.org/wiki/Q98592835)** ([WP](https://de.wikipedia.org/wiki/Kaly_Sène)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Kastriot Imeri](https://www.wikidata.org/wiki/Q70780296)** ([WP](https://de.wikipedia.org/wiki/Kastriot_Imeri)) (2022–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Lewin Blum](https://www.wikidata.org/wiki/Q110830881)** ([WP](https://de.wikipedia.org/wiki/Lewin_Blum)) (2021–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Marvin Keller](https://www.wikidata.org/wiki/Q108698128)** ([WP](https://de.wikipedia.org/wiki/Marvin_Keller)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.

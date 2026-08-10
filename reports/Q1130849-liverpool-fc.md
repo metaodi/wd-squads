@@ -2,16 +2,17 @@
 
 - Wikidata item: [Q1130849](https://www.wikidata.org/wiki/Q1130849)
 - Wikipedia article: [Liverpool F.C.](https://en.wikipedia.org/wiki/Liverpool_F.C.)
-- Players in Wikipedia squad: 32
-- Current members on Wikidata: 364
-- Suggested edits: 353
+- Players in Wikipedia squad: 42
+- Current members on Wikidata: 365
+- Suggested edits: 362
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (6)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (7)</strong></summary>
 
 - **[Diogo Jota](https://www.wikidata.org/wiki/Q19518278)** ([WP](https://en.wikipedia.org/wiki/Diogo_Jota)) (2020–2025) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Federico Chiesa](https://www.wikidata.org/wiki/Q26704703)** ([WP](https://en.wikipedia.org/wiki/Federico_Chiesa)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Giovanni Leoni](https://www.wikidata.org/wiki/Q126361834)** ([WP](https://en.wikipedia.org/wiki/Giovanni_Leoni)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Kaide Gordon](https://www.wikidata.org/wiki/Q104554107)** ([WP](https://en.wikipedia.org/wiki/Kaide_Gordon)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Stefan Bajcetic](https://www.wikidata.org/wiki/Q113433814)** ([WP](https://en.wikipedia.org/wiki/Stefan_Bajcetic)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Wataru Endo](https://www.wikidata.org/wiki/Q10526787)** ([WP](https://en.wikipedia.org/wiki/Wataru_Endo)) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Ármin Pécsi](https://www.wikidata.org/wiki/Q131721965)** ([WP](https://en.wikipedia.org/wiki/Ármin_Pécsi)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
@@ -187,7 +188,6 @@
 - **[Jasmine Matthews](https://www.wikidata.org/wiki/Q27541516)** ([WP](https://en.wikipedia.org/wiki/Jasmine_Matthews)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jason Massie](https://www.wikidata.org/wiki/Q6163050)** ([WP](https://en.wikipedia.org/wiki/Jason_Massie)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jason Wyn-Jones](https://www.wikidata.org/wiki/Q6162809)** ([WP](https://en.wikipedia.org/wiki/Jason_Wyn-Jones)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jayden Danns](https://www.wikidata.org/wiki/Q118724922)** ([WP](https://en.wikipedia.org/wiki/Jayden_Danns)) (2023–) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jerome Sinclair](https://www.wikidata.org/wiki/Q2127364)** ([WP](https://en.wikipedia.org/wiki/Jerome_Sinclair)) (2012–2016) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jessica King](https://www.wikidata.org/wiki/Q38028767)** ([WP](https://en.wikipedia.org/wiki/Jessica_King_(footballer))) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jim Harley](https://www.wikidata.org/wiki/Q10384799)** ([WP](https://en.wikipedia.org/wiki/Jim_Harley)) (1934–1949) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -303,6 +303,7 @@
 - **[Robert Neil](https://www.wikidata.org/wiki/Q7347984)** ([WP](https://en.wikipedia.org/wiki/Bobby_Neill_(footballer))) (1896–1897) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Robert Priday](https://www.wikidata.org/wiki/Q7349036)** ([WP](https://en.wikipedia.org/wiki/Robert_Priday)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ron Jones](https://www.wikidata.org/wiki/Q7363999)** ([WP](https://en.wikipedia.org/wiki/Ron_Jones_(footballer))) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ronald Araújo](https://www.wikidata.org/wiki/Q56332606)** ([WP](https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rosie White](https://www.wikidata.org/wiki/Q1669821)** ([WP](https://en.wikipedia.org/wiki/Rosie_White)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Russell Crossley](https://www.wikidata.org/wiki/Q7381441)** ([WP](https://en.wikipedia.org/wiki/Russell_Crossley)) (1950–1954) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ryan Fulton](https://www.wikidata.org/wiki/Q22280163)** ([WP](https://en.wikipedia.org/wiki/Ryan_Fulton)) (2015–2017) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -367,12 +368,20 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (4)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
 
+- **[Amara Nallo](https://www.wikidata.org/wiki/Q124691152)** ([WP](https://en.wikipedia.org/wiki/Amara_Nallo)) (2024–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Calum Scanlon](https://www.wikidata.org/wiki/Q118725094)** ([WP](https://en.wikipedia.org/wiki/Calum_Scanlon)) (2023–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Freddie Woodman](https://www.wikidata.org/wiki/Q20127322)** ([WP](https://en.wikipedia.org/wiki/Freddie_Woodman)) (2025–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Harvey Davies](https://www.wikidata.org/wiki/Q115145113)** ([WP](https://en.wikipedia.org/wiki/Harvey_Davies)) (2020–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Isaac Mabaya](https://www.wikidata.org/wiki/Q113434149)** ([WP](https://en.wikipedia.org/wiki/Isaac_Mabaya)) (2024–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[James McConnell](https://www.wikidata.org/wiki/Q118767830)** ([WP](https://en.wikipedia.org/wiki/James_McConnell_(footballer,_born_2004))) (2023–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Kieran Morrison](https://www.wikidata.org/wiki/Q118727397)** ([WP](https://en.wikipedia.org/wiki/Kieran_Morrison_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Lewis Koumas](https://www.wikidata.org/wiki/Q118725657)** ([WP](https://en.wikipedia.org/wiki/Lewis_Koumas)) (2023–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Luke Chambers](https://www.wikidata.org/wiki/Q112791108)** ([WP](https://en.wikipedia.org/wiki/Luke_Chambers_(footballer,_born_2004))) (2022–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Owen Beck](https://www.wikidata.org/wiki/Q109296921)** ([WP](https://en.wikipedia.org/wiki/Owen_Beck_(footballer))) (2021–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Vítězslav Jaroš](https://www.wikidata.org/wiki/Q112503285)** ([WP](https://en.wikipedia.org/wiki/Vítězslav_Jaroš)) (2020–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Wellity Lucky](https://www.wikidata.org/wiki/Q118727330)** ([WP](https://en.wikipedia.org/wiki/Wellity_Lucky)) (2025–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 
 </details>
 

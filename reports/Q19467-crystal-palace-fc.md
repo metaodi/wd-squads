@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q19467](https://www.wikidata.org/wiki/Q19467)
 - Wikipedia article: [Crystal Palace F.C.](https://en.wikipedia.org/wiki/Crystal_Palace_F.C.)
-- Players in Wikipedia squad: 30
-- Current members on Wikidata: 171
+- Players in Wikipedia squad: 31
+- Current members on Wikidata: 172
 - Suggested edits: 178
 
 <details open>

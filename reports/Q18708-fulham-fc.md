@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q18708](https://www.wikidata.org/wiki/Q18708)
 - Wikipedia article: [Fulham F.C.](https://en.wikipedia.org/wiki/Fulham_F.C.)
-- Players in Wikipedia squad: 23
-- Current members on Wikidata: 280
+- Players in Wikipedia squad: 22
+- Current members on Wikidata: 279
 - Suggested edits: 283
 
 <details open>

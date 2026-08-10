@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q675245](https://www.wikidata.org/wiki/Q675245)
 - Wikipedia article: [Lausanne HC](https://de.wikipedia.org/wiki/Lausanne_HC)
-- Players in Wikipedia squad: 26
-- Current members on Wikidata: 163
-- Suggested edits: 187
+- Players in Wikipedia squad: 25
+- Current members on Wikidata: 164
+- Suggested edits: 188
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (161)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (163)</strong></summary>
 
 - **[Adrian Trunz](https://www.wikidata.org/wiki/Q2825055)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Birbaum](https://www.wikidata.org/wiki/Q2829573)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -90,6 +90,7 @@
 - **[Jérémie Kamerzin](https://www.wikidata.org/wiki/Q3190714)** ([WP](https://de.wikipedia.org/wiki/J%C3%A9r%C3%A9mie_Kamerzin)) (2009–2013) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jérémy Gailland](https://www.wikidata.org/wiki/Q3190750)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jérôme Bonnet](https://www.wikidata.org/wiki/Q3190824)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ken Jager](https://www.wikidata.org/wiki/Q47058080)** ([WP](https://de.wikipedia.org/wiki/Ken_J%C3%A4ger)) (2020–2026) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kevin Lotscher](https://www.wikidata.org/wiki/Q683158)** ([WP](https://de.wikipedia.org/wiki/Kevin_L%C3%B6tscher)) (2007–2008) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Killian Mottet](https://www.wikidata.org/wiki/Q18221762)** ([WP](https://de.wikipedia.org/wiki/Killian_Mottet)) (2011–2012) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kévin Hecquefeuille](https://www.wikidata.org/wiki/Q941722)** ([WP](https://de.wikipedia.org/wiki/K%C3%A9vin_Hecquefeuille)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -110,6 +111,7 @@
 - **[Martin Hänggi](https://www.wikidata.org/wiki/Q689094)** ([WP](https://de.wikipedia.org/wiki/Martin_H%C3%A4nggi)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Martin St. Louis](https://www.wikidata.org/wiki/Q715426)** ([WP](https://de.wikipedia.org/wiki/Martin_St._Louis)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Martin Ulmer](https://www.wikidata.org/wiki/Q1905157)** ([WP](https://de.wikipedia.org/wiki/Martin_Ulmer_(Eishockeyspieler))) (2011–2012) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Michael Fora](https://www.wikidata.org/wiki/Q47038855)** ([WP](https://de.wikipedia.org/wiki/Michael_Fora)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michael Tobler](https://www.wikidata.org/wiki/Q3308557)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michaël Ngoy](https://www.wikidata.org/wiki/Q3308406)** ([WP](https://en.wikipedia.org/wiki/Micha%C3%ABl_Ngoy)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mike Kaszycki](https://www.wikidata.org/wiki/Q681796)** ([WP](https://de.wikipedia.org/wiki/Mike_Kaszycki)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -134,7 +136,7 @@
 - **[Philippe Marquis](https://www.wikidata.org/wiki/Q3380323)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philippe Seydoux](https://www.wikidata.org/wiki/Q3380728)** ([WP](https://de.wikipedia.org/wiki/Philippe_Seydoux)) (2012–2015) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Pierrick Pivron](https://www.wikidata.org/wiki/Q3387926)** — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Q130261527](https://www.wikidata.org/wiki/Q130261527)** ([WP](https://en.wikipedia.org/wiki/Antoine_Keller)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Q130261527](https://www.wikidata.org/wiki/Q130261527)** ([WP](https://de.wikipedia.org/wiki/Antoine_Keller)) (2024–2025) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ralph Stalder](https://www.wikidata.org/wiki/Q3418300)** ([WP](https://en.wikipedia.org/wiki/Ralph_Stalder)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Raymond Gafner](https://www.wikidata.org/wiki/Q3420870)** ([WP](https://en.wikipedia.org/wiki/Raymond_Gafner)) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Reto Suri](https://www.wikidata.org/wiki/Q2146231)** ([WP](https://de.wikipedia.org/wiki/Reto_Suri)) (2008–2009) — Add an end date (P582) to the membership → Lausanne HC (Q675245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -195,9 +197,8 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
-- **[Ken Jäger](https://www.wikidata.org/wiki/Q47058080)** ([WP](https://de.wikipedia.org/wiki/Ken_Jäger)) (2020–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Théo Rochette](https://www.wikidata.org/wiki/Q123644284)** ([WP](https://en.wikipedia.org/wiki/Th%C3%A9o_Rochette)) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 </details>

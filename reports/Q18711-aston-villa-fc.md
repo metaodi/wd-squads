@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q18711](https://www.wikidata.org/wiki/Q18711)
 - Wikipedia article: [Aston Villa F.C.](https://en.wikipedia.org/wiki/Aston_Villa_F.C.)
-- Players in Wikipedia squad: 56
-- Current members on Wikidata: 284
+- Players in Wikipedia squad: 55
+- Current members on Wikidata: 283
 - Suggested edits: 303
 
 <details open>

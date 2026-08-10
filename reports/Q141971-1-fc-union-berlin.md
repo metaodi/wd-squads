@@ -149,7 +149,7 @@
 - **[Tim Blaszczak](https://www.wikidata.org/wiki/Q140855152)** — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tim Skarke](https://www.wikidata.org/wiki/Q21146090)** ([WP](https://de.wikipedia.org/wiki/Tim_Skarke)) (2022–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Tom Rothe](https://www.wikidata.org/wiki/Q111626301)** ([WP](https://de.wikipedia.org/wiki/Tom_Rothe)) (2024–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
-- **[Zeno Van Den Bosch](https://www.wikidata.org/wiki/Q115103823)** ([WP](https://de.wikipedia.org/wiki/Zeno_Van_Den_Bosch)) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
+- **[Zeno Van Den Bosch](https://www.wikidata.org/wiki/Q115103823)** ([WP](https://de.wikipedia.org/wiki/Zeno_Van_Den_Bosch)) (2026–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 
 </details>
 

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q38245](https://www.wikidata.org/wiki/Q38245)
 - Wikipedia article: [Eintracht Frankfurt](https://de.wikipedia.org/wiki/Eintracht_Frankfurt)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 28
 - Current members on Wikidata: 135
-- Suggested edits: 141
+- Suggested edits: 142
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (124)</strong></summary>
@@ -162,5 +162,12 @@
 <summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Love Arrhov](https://www.wikidata.org/wiki/Q134271451)** ([WP](https://de.wikipedia.org/wiki/Love_Arrhov)) (2026–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
+
+- **Otávio** — 'Otávio' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

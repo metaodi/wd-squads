@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q22707](https://www.wikidata.org/wiki/Q22707)
 - Wikipedia article: [TSG 1899 Hoffenheim](https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim)
-- Players in Wikipedia squad: 62
+- Players in Wikipedia squad: 63
 - Current members on Wikidata: 78
-- Suggested edits: 122
+- Suggested edits: 123
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (33)</strong></summary>
@@ -121,7 +121,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (20)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (21)</strong></summary>
 
 - **Alex Honajzer** — 'Alex Honajzer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ben Opoku** — 'Ben Opoku' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -130,6 +130,7 @@
 - **Diren Dağdeviren** — 'Diren Dağdeviren' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Kryštof ČížekU19** — 'Kryštof ČížekU19' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Lion Wagenbach** — 'Lion Wagenbach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Lúkas Petersson1** — 'Lúkas Petersson1' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Maxime Ndong-Penda** — 'Maxime Ndong-Penda' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nico BiedermannU19** — 'Nico BiedermannU19' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nils Schlosser** — 'Nils Schlosser' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

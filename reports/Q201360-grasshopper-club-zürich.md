@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q201360](https://www.wikidata.org/wiki/Q201360)
 - Wikipedia article: [Grasshopper Club Zürich](https://de.wikipedia.org/wiki/Grasshopper_Club_Zürich)
-- Players in Wikipedia squad: 34
+- Players in Wikipedia squad: 35
 - Current members on Wikidata: 55
-- Suggested edits: 86
+- Suggested edits: 87
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
@@ -91,10 +91,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (20)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (21)</strong></summary>
 
 - **Demis Fiechter** — 'Demis Fiechter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Denis Sahin** — 'Denis Sahin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Diego Ferrazza** — 'Diego Ferrazza' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dominik Papic** — 'Dominik Papic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dorian Paloschi** — 'Dorian Paloschi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Elijah Muogbo** — 'Elijah Muogbo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

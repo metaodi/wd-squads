@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q19477](https://www.wikidata.org/wiki/Q19477)
 - Wikipedia article: [Hull City A.F.C.](https://en.wikipedia.org/wiki/Hull_City_A.F.C.)
-- Players in Wikipedia squad: 65
+- Players in Wikipedia squad: 67
 - Current members on Wikidata: 96
-- Suggested edits: 157
+- Suggested edits: 159
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (37)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (39)</strong></summary>
 
 - **[Abdülkadir Ömür](https://www.wikidata.org/wiki/Q27832286)** ([WP](https://en.wikipedia.org/wiki/Abdülkadir_Ömür)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Abu Kamara](https://www.wikidata.org/wiki/Q117377497)** ([WP](https://en.wikipedia.org/wiki/Abu_Kamara_(footballer,_born_2003))) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
@@ -18,11 +18,13 @@
 - **[David Akintola](https://www.wikidata.org/wiki/Q27671136)** ([WP](https://en.wikipedia.org/wiki/David_Akintola)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Dillon Phillips](https://www.wikidata.org/wiki/Q17496506)** ([WP](https://en.wikipedia.org/wiki/Dillon_Phillips)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Eliot Matazo](https://www.wikidata.org/wiki/Q98829607)** ([WP](https://en.wikipedia.org/wiki/Eliot_Matazo)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Elliot Stroud](https://www.wikidata.org/wiki/Q117789805)** ([WP](https://en.wikipedia.org/wiki/Elliot_Stroud)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Emmanuel Sarpong](https://www.wikidata.org/wiki/Q54010052)** ([WP](https://en.wikipedia.org/wiki/Emmanuel_Sarpong)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Enis Destan](https://www.wikidata.org/wiki/Q105473101)** ([WP](https://en.wikipedia.org/wiki/Enis_Destan)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Harvey Cartwright](https://www.wikidata.org/wiki/Q110966213)** ([WP](https://en.wikipedia.org/wiki/Harvey_Cartwright)) (2019–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Hugh Parker](https://www.wikidata.org/wiki/Q133544851)** ([WP](https://en.wikipedia.org/wiki/Hugh_Parker_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Jack Butland](https://www.wikidata.org/wiki/Q313089)** ([WP](https://en.wikipedia.org/wiki/Jack_Butland)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Jens Hjertø-Dahl](https://www.wikidata.org/wiki/Q119997086)** ([WP](https://en.wikipedia.org/wiki/Jens_Hjertø-Dahl)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[John Egan](https://www.wikidata.org/wiki/Q150332)** ([WP](https://en.wikipedia.org/wiki/John_Egan_(footballer,_born_1992))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[João Mendes](https://www.wikidata.org/wiki/Q116449437)** ([WP](https://en.wikipedia.org/wiki/João_Mendes_(footballer,_born_2005))) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Kieran Dowell](https://www.wikidata.org/wiki/Q18627270)** ([WP](https://en.wikipedia.org/wiki/Kieran_Dowell)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
@@ -33,12 +35,12 @@
 - **[Matt Crooks](https://www.wikidata.org/wiki/Q17496496)** ([WP](https://en.wikipedia.org/wiki/Matt_Crooks)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Matty Jacob](https://www.wikidata.org/wiki/Q124157117)** ([WP](https://en.wikipedia.org/wiki/Matty_Jacob)) (2019–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Mohamed Belloumi](https://www.wikidata.org/wiki/Q107294602)** ([WP](https://en.wikipedia.org/wiki/Mohamed_Belloumi)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
-- **[Noah Wadsworth](https://www.wikidata.org/wiki/Q125113486)** ([WP](https://en.wikipedia.org/wiki/Noah_Wadsworth)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Noah Wadsworth](https://www.wikidata.org/wiki/Q125113486)** ([WP](https://en.wikipedia.org/wiki/Noah_Wadsworth)) (2024–2026) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Oli McBurnie](https://www.wikidata.org/wiki/Q16239659)** ([WP](https://en.wikipedia.org/wiki/Oli_McBurnie)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Paddy McNair](https://www.wikidata.org/wiki/Q18142105)** ([WP](https://en.wikipedia.org/wiki/Paddy_McNair)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Pharrell Brown](https://www.wikidata.org/wiki/Q118213235)** ([WP](https://en.wikipedia.org/wiki/Pharrell_Brown)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Regan Slater](https://www.wikidata.org/wiki/Q48545157)** ([WP](https://en.wikipedia.org/wiki/Regan_Slater)) (2022–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
-- **[Rocco Coyle](https://www.wikidata.org/wiki/Q139445468)** ([WP](https://en.wikipedia.org/wiki/Rocco_Coyle)) (2023–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Rocco Coyle](https://www.wikidata.org/wiki/Q139445468)** ([WP](https://en.wikipedia.org/wiki/Rocco_Coyle)) (2025–2026) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Ryan Giles](https://www.wikidata.org/wiki/Q59914064)** ([WP](https://en.wikipedia.org/wiki/Ryan_Giles)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Sammy Henia-Kamau](https://www.wikidata.org/wiki/Q140132319)** ([WP](https://en.wikipedia.org/wiki/Sammy_Henia-Kamau)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Semi Ajayi](https://www.wikidata.org/wiki/Q21592164)** ([WP](https://en.wikipedia.org/wiki/Semi_Ajayi)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.

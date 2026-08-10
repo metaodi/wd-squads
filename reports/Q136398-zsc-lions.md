@@ -3,8 +3,15 @@
 - Wikidata item: [Q136398](https://www.wikidata.org/wiki/Q136398)
 - Wikipedia article: [ZSC Lions](https://de.wikipedia.org/wiki/ZSC_Lions)
 - Players in Wikipedia squad: 28
-- Current members on Wikidata: 159
-- Suggested edits: 175
+- Current members on Wikidata: 161
+- Suggested edits: 173
+
+<details open>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
+
+- **[Alessandro Segafredo](https://www.wikidata.org/wiki/Q81906861)** — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+
+</details>
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (153)</strong></summary>
@@ -70,7 +77,6 @@
 - **[Kim Lindemann](https://www.wikidata.org/wiki/Q1741534)** ([WP](https://de.wikipedia.org/wiki/Kim_Lindemann)) (2003–2008) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Larri Leeger](https://www.wikidata.org/wiki/Q3218076)** ([WP](https://en.wikipedia.org/wiki/Larri_Leeger)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Les Strongman](https://www.wikidata.org/wiki/Q16089987)** ([WP](https://en.wikipedia.org/wiki/Les_Strongman)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Livia Altmann](https://www.wikidata.org/wiki/Q15803693)** ([WP](https://de.wikipedia.org/wiki/Livia_Altmann)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lorenzo Schmid](https://www.wikidata.org/wiki/Q1611346)** ([WP](https://de.wikipedia.org/wiki/Lorenzo_Schmid)) (1976–1984) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luca Cunti](https://www.wikidata.org/wiki/Q1282354)** ([WP](https://de.wikipedia.org/wiki/Luca_Cunti)) (2011–2017) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ludwig Waidacher junior](https://www.wikidata.org/wiki/Q5391651)** ([WP](https://de.wikipedia.org/wiki/Ludwig_Waidacher_junior)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -145,6 +151,7 @@
 - **[Sean Blanchard](https://www.wikidata.org/wiki/Q2262089)** ([WP](https://de.wikipedia.org/wiki/Sean_Blanchard)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sergei Pryakhin](https://www.wikidata.org/wiki/Q2510701)** ([WP](https://de.wikipedia.org/wiki/Sergei_Wassiljewitsch_Prjachin)) (1991–1992) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Severin Blindenbacher](https://www.wikidata.org/wiki/Q347630)** ([WP](https://de.wikipedia.org/wiki/Severin_Blindenbacher)) (2011–2020) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Simon Knak](https://www.wikidata.org/wiki/Q104648678)** ([WP](https://de.wikipedia.org/wiki/Simon_Knak)) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Steve McCarthy](https://www.wikidata.org/wiki/Q665476)** ([WP](https://de.wikipedia.org/wiki/Steve_McCarthy)) (2013–2014) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sven Helfenstein](https://www.wikidata.org/wiki/Q2371119)** ([WP](https://de.wikipedia.org/wiki/Sven_Helfenstein)) (2003–2007) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Thibaut Monnet](https://www.wikidata.org/wiki/Q390685)** ([WP](https://de.wikipedia.org/wiki/Thibaut_Monnet)) (2007–2013) — Add an end date (P582) to the membership → ZSC Lions (Q136398); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -166,18 +173,15 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
-- **[Alessandro Segafredo](https://www.wikidata.org/wiki/Q81906861)** — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Chris Baltisberger](https://www.wikidata.org/wiki/Q16830856)** ([WP](https://de.wikipedia.org/wiki/Chris_Baltisberger)) (2011–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Christian Marti](https://www.wikidata.org/wiki/Q5109885)** ([WP](https://de.wikipedia.org/wiki/Christian_Marti_(Eishockeyspieler))) (2016–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Daniel Olsson](https://www.wikidata.org/wiki/Q105747133)** ([WP](https://en.wikipedia.org/wiki/Daniel_Olsson)) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Daniil Ustinkov](https://www.wikidata.org/wiki/Q140202723)** — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Dean Kukan](https://www.wikidata.org/wiki/Q5246283)** ([WP](https://de.wikipedia.org/wiki/Dean_Kukan)) (2022–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
-- **[Denis Hollenstein](https://www.wikidata.org/wiki/Q1187419)** ([WP](https://de.wikipedia.org/wiki/Denis_Hollenstein)) (2018–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Denis Malgin](https://www.wikidata.org/wiki/Q563784)** ([WP](https://de.wikipedia.org/wiki/Denis_Malgin)) (2023–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Derek Grant](https://www.wikidata.org/wiki/Q1200037)** ([WP](https://de.wikipedia.org/wiki/Derek_Grant_(Eishockeyspieler,_1990))) (2023–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
-- **[Harrison Schreiber](https://www.wikidata.org/wiki/Q116860943)** ([WP](https://de.wikipedia.org/wiki/Harrison_Schreiber)) (2026–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
+- **[Harrison Schreiber](https://www.wikidata.org/wiki/Q116860943)** ([WP](https://de.wikipedia.org/wiki/Harrison_Schreiber)) (–2026) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Johan Sundström](https://www.wikidata.org/wiki/Q522646)** ([WP](https://de.wikipedia.org/wiki/Johan_Sundström)) (2026–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Juho Lammikko](https://www.wikidata.org/wiki/Q15936031)** ([WP](https://de.wikipedia.org/wiki/Juho_Lammikko)) (2026–) — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia.
 - **[Justin Sigrist](https://www.wikidata.org/wiki/Q131390278)** — Add a 'member of sports team' (P54) statement → ZSC Lions (Q136398); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.

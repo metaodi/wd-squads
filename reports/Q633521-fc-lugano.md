@@ -2,20 +2,19 @@
 
 - Wikidata item: [Q633521](https://www.wikidata.org/wiki/Q633521)
 - Wikipedia article: [FC Lugano](https://de.wikipedia.org/wiki/FC_Lugano)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 57
-- Suggested edits: 78
+- Suggested edits: 83
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Ezgjan Alioski](https://www.wikidata.org/wiki/Q15936571)** ([WP](https://de.wikipedia.org/wiki/Ezgjan_Alioski)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-- **[Mattia Bottani](https://www.wikidata.org/wiki/Q20819907)** ([WP](https://de.wikipedia.org/wiki/Mattia_Bottani)) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (53)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (55)</strong></summary>
 
 - **[Adrian Durrer](https://www.wikidata.org/wiki/Q105952426)** ([WP](https://de.wikipedia.org/wiki/Adrian_Durrer)) (2022–2026) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Harrison](https://www.wikidata.org/wiki/Q16077734)** ([WP](https://en.wikipedia.org/wiki/Albert_Harrison_(footballer,_born_1904))) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -23,6 +22,7 @@
 - **[Antoine Rey](https://www.wikidata.org/wiki/Q20819921)** ([WP](https://de.wikipedia.org/wiki/Antoine_Rey)) (2010–2017) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Antonini Čulina](https://www.wikidata.org/wiki/Q4776355)** ([WP](https://en.wikipedia.org/wiki/Antonini_%C4%8Culina)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Assan Ceesay](https://www.wikidata.org/wiki/Q26405960)** ([WP](https://de.wikipedia.org/wiki/Assan_Ceesay)) (2016–2018) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ayman El Wafi](https://www.wikidata.org/wiki/Q120373298)** ([WP](https://en.wikipedia.org/wiki/Ayman_El_Wafi)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Aziz Binous](https://www.wikidata.org/wiki/Q55820270)** ([WP](https://en.wikipedia.org/wiki/Aziz_Binous)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Brahima Touré](https://www.wikidata.org/wiki/Q2923564)** ([WP](https://en.wikipedia.org/wiki/Brahima_Tour%C3%A9)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Béla Volentik](https://www.wikidata.org/wiki/Q1415864)** ([WP](https://en.wikipedia.org/wiki/B%C3%A9la_Volentik)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -69,6 +69,7 @@
 - **[Shane Rufer](https://www.wikidata.org/wiki/Q7488254)** ([WP](https://en.wikipedia.org/wiki/Shane_Rufer)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tasos Donis](https://www.wikidata.org/wiki/Q19957563)** ([WP](https://de.wikipedia.org/wiki/Anastasios_Donis)) (2015–2016) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Valmir Pontes Arantes](https://www.wikidata.org/wiki/Q7912499)** ([WP](https://en.wikipedia.org/wiki/Valmir_(footballer,_born_1981))) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Zachary Brault-Guillard](https://www.wikidata.org/wiki/Q55281269)** ([WP](https://de.wikipedia.org/wiki/Zachary_Brault-Guillard)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Zdeněk Zeman](https://www.wikidata.org/wiki/Q169092)** ([WP](https://de.wikipedia.org/wiki/Zden%C4%9Bk_Zeman)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 
 </details>
@@ -76,34 +77,38 @@
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
+- **[Ahmadou Ndiaye](https://www.wikidata.org/wiki/Q137888701)** — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ahmed Kendouci](https://www.wikidata.org/wiki/Q107171535)** ([WP](https://en.wikipedia.org/wiki/Ahmed_Kendouci)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Alexandre Parsemain](https://www.wikidata.org/wiki/Q136341087)** ([WP](https://en.wikipedia.org/wiki/Alexandre_Parsemain)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Amir Saipi](https://www.wikidata.org/wiki/Q93630570)** ([WP](https://de.wikipedia.org/wiki/Amir_Saipi)) (2021–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 - **[Anto Grgić](https://www.wikidata.org/wiki/Q22162713)** ([WP](https://de.wikipedia.org/wiki/Anto_Grgić)) (2023–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 - **[Antonios Papadopoulos](https://www.wikidata.org/wiki/Q42374597)** ([WP](https://de.wikipedia.org/wiki/Antonios_Papadopoulos)) (2024–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
+- **[Beckham Castro](https://www.wikidata.org/wiki/Q118964215)** ([WP](https://en.wikipedia.org/wiki/Beckham_Castro)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Claudio Cassano](https://www.wikidata.org/wiki/Q114672151)** ([WP](https://en.wikipedia.org/wiki/Claudio_Cassano)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[David von Ballmoos](https://www.wikidata.org/wiki/Q35749541)** ([WP](https://de.wikipedia.org/wiki/David_von_Ballmoos)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
-- **[Georgios Koutsias](https://www.wikidata.org/wiki/Q99461452)** ([WP](https://de.wikipedia.org/wiki/Georgios_Koutsias)) (2025–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
-- **[Hadj Mahmoud](https://www.wikidata.org/wiki/Q108653548)** ([WP](https://de.wikipedia.org/wiki/Hadj_Mahmoud)) (2021–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
-- **[Hicham Mahou](https://www.wikidata.org/wiki/Q30274614)** ([WP](https://de.wikipedia.org/wiki/Hicham_Mahou)) (2022–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
-- **[Lars Lukas Mai](https://www.wikidata.org/wiki/Q52084009)** ([WP](https://de.wikipedia.org/wiki/Lars_Lukas_Mai)) (2022–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
+- **[Dereck Moncada](https://www.wikidata.org/wiki/Q127754842)** ([WP](https://en.wikipedia.org/wiki/Dereck_Moncada)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Felix Gebhardt](https://www.wikidata.org/wiki/Q98090041)** ([WP](https://de.wikipedia.org/wiki/Felix_Gebhardt)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
+- **[Hannes Delcroix](https://www.wikidata.org/wiki/Q56011432)** ([WP](https://de.wikipedia.org/wiki/Hannes_Delcroix)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
+- **[Jason Parente](https://www.wikidata.org/wiki/Q118747044)** — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Joel Bichsel](https://www.wikidata.org/wiki/Q122065235)** ([WP](https://de.wikipedia.org/wiki/Joel_Bichsel)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
+- **[Lukas Mai](https://www.wikidata.org/wiki/Q52084009)** ([WP](https://de.wikipedia.org/wiki/Lars_Lukas_Mai)) (2022–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 - **[Martim Marques](https://www.wikidata.org/wiki/Q120637543)** ([WP](https://en.wikipedia.org/wiki/Martim_Marques)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Mattia Zanotti](https://www.wikidata.org/wiki/Q110074272)** ([WP](https://de.wikipedia.org/wiki/Mattia_Zanotti)) (2024–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
-- **[Ousmane Doumbia](https://www.wikidata.org/wiki/Q14899797)** ([WP](https://de.wikipedia.org/wiki/Ousmane_Doumbia)) (2022–2026) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 - **[Renato Steffen](https://www.wikidata.org/wiki/Q16234212)** ([WP](https://de.wikipedia.org/wiki/Renato_Steffen)) (2022–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
-- **[Serif Berbic](https://www.wikidata.org/wiki/Q123139692)** ([WP](https://en.wikipedia.org/wiki/%C5%A0erif_Berbi%C4%87)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Yanis Cimignani](https://www.wikidata.org/wiki/Q98642596)** ([WP](https://de.wikipedia.org/wiki/Yanis_Cimignani)) (2023–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (10)</strong></summary>
 
+- **Bryan Zurmühle** — 'Bryan Zurmühle' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Carbone** — 'Carbone' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Christian Raffa** — 'Christian Raffa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Damian Kelvin** — 'Damian Kelvin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Daniel Dos Santos** — 'Daniel Dos Santos' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Diego Mina** — 'Diego Mina' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Elias Pihlström** — 'Elias Pihlström' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Ilija Maslarov** — 'Ilija Maslarov' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Yassin Sbai** — 'Yassin Sbai' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Gjan Ajdin** — 'Gjan Ajdin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ian Tiraboschi** — 'Ian Tiraboschi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Niccolò Puddu** — 'Niccolò Puddu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

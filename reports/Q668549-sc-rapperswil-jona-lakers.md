@@ -3,14 +3,15 @@
 - Wikidata item: [Q668549](https://www.wikidata.org/wiki/Q668549)
 - Wikipedia article: [SC Rapperswil-Jona Lakers](https://de.wikipedia.org/wiki/SC_Rapperswil-Jona_Lakers)
 - Players in Wikipedia squad: 29
-- Current members on Wikidata: 131
-- Suggested edits: 160
+- Current members on Wikidata: 132
+- Suggested edits: 161
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (131)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (132)</strong></summary>
 
 - **[Ahren Spylo](https://www.wikidata.org/wiki/Q402683)** ([WP](https://de.wikipedia.org/wiki/Ahren_Spylo)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alain Reist](https://www.wikidata.org/wiki/Q2830214)** ([WP](https://en.wikipedia.org/wiki/Alain_Reist)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Alessandro Segafredo](https://www.wikidata.org/wiki/Q81906861)** — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Hutchings](https://www.wikidata.org/wiki/Q4717211)** ([WP](https://en.wikipedia.org/wiki/Alex_Hutchings_(ice_hockey))) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Küng](https://www.wikidata.org/wiki/Q2846464)** — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andreas Ritsch](https://www.wikidata.org/wiki/Q500257)** ([WP](https://de.wikipedia.org/wiki/Andreas_Ritsch)) — Add an end date (P582) to the membership → SC Rapperswil-Jona Lakers (Q668549); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

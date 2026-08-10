@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q50602](https://www.wikidata.org/wiki/Q50602)
 - Wikipedia article: [Manchester City F.C.](https://en.wikipedia.org/wiki/Manchester_City_F.C.)
-- Players in Wikipedia squad: 48
+- Players in Wikipedia squad: 47
 - Current members on Wikidata: 212
-- Suggested edits: 207
+- Suggested edits: 208
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,7 +15,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (185)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (186)</strong></summary>
 
 - **[Adam Carson](https://www.wikidata.org/wiki/Q4678835)** ([WP](https://en.wikipedia.org/wiki/Adam_Carson_(footballer))) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrián Bernabé](https://www.wikidata.org/wiki/Q56809124)** ([WP](https://en.wikipedia.org/wiki/Adri%C3%A1n_Bernab%C3%A9)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -110,6 +110,7 @@
 - **[Jackie Swindells](https://www.wikidata.org/wiki/Q6116682)** ([WP](https://en.wikipedia.org/wiki/Jackie_Swindells)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Buchan](https://www.wikidata.org/wiki/Q6130428)** ([WP](https://en.wikipedia.org/wiki/James_Buchan_(footballer))) (1904–1911) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Sharples](https://www.wikidata.org/wiki/Q24632377)** — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[James Trafford](https://www.wikidata.org/wiki/Q107985608)** ([WP](https://en.wikipedia.org/wiki/James_Trafford)) (2025–2026) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jane Ross](https://www.wikidata.org/wiki/Q6152689)** ([WP](https://en.wikipedia.org/wiki/Jane_Ross_(footballer))) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jason Hasford](https://www.wikidata.org/wiki/Q6162679)** ([WP](https://en.wikipedia.org/wiki/Jason_Hasford)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jim Bentley](https://www.wikidata.org/wiki/Q6193632)** ([WP](https://en.wikipedia.org/wiki/Jim_Bentley)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

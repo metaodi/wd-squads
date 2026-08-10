@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q189671](https://www.wikidata.org/wiki/Q189671)
 - Wikipedia article: [FC Basel](https://de.wikipedia.org/wiki/FC_Basel)
-- Players in Wikipedia squad: 32
+- Players in Wikipedia squad: 31
 - Current members on Wikidata: 279
-- Suggested edits: 304
+- Suggested edits: 303
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
 - **[Aaron Malouda](https://www.wikidata.org/wiki/Q122926221)** ([WP](https://de.wikipedia.org/wiki/Aaron_Malouda)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Asane Sow](https://www.wikidata.org/wiki/Q140472483)** ([WP](https://en.wikipedia.org/wiki/Asane_Sow)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -23,7 +23,6 @@
 - **[Djordje Jovanovic](https://www.wikidata.org/wiki/Q110047580)** — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Flavius Daniliuc](https://www.wikidata.org/wiki/Q65948503)** ([WP](https://de.wikipedia.org/wiki/Flavius_Daniliuc)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Gabriel Sigua](https://www.wikidata.org/wiki/Q115592990)** ([WP](https://de.wikipedia.org/wiki/Gabriel_Sigua)) (2023–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
-- **[Ibrahim Salah](https://www.wikidata.org/wiki/Q113472639)** ([WP](https://de.wikipedia.org/wiki/Ibrahim_Salah_(Fußballspieler,_2001))) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Jonas Harder](https://www.wikidata.org/wiki/Q131573154)** ([WP](https://en.wikipedia.org/wiki/Jonas_Harder)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Kaio Eduardo](https://www.wikidata.org/wiki/Q135988642)** — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Kazeem Olaigbe](https://www.wikidata.org/wiki/Q113366789)** ([WP](https://en.wikipedia.org/wiki/Kazeem_Olaigbe)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.

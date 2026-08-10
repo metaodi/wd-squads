@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q41420](https://www.wikidata.org/wiki/Q41420)
 - Wikipedia article: [Borussia Dortmund](https://de.wikipedia.org/wiki/Borussia_Dortmund)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 28
 - Current members on Wikidata: 77
-- Suggested edits: 82
+- Suggested edits: 81
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
 
 - **[Alexander Meyer](https://www.wikidata.org/wiki/Q66005227)** ([WP](https://de.wikipedia.org/wiki/Alexander_Meyer_(Fußballspieler,_1991))) (2022–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Almugera Kabar](https://www.wikidata.org/wiki/Q118465236)** ([WP](https://de.wikipedia.org/wiki/Almugera_Kabar)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
@@ -31,7 +31,6 @@
 - **[Ramy Bensebaini](https://www.wikidata.org/wiki/Q17484446)** ([WP](https://de.wikipedia.org/wiki/Ramy_Bensebaini)) (2023–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Samuele Inácio](https://www.wikidata.org/wiki/Q130316575)** ([WP](https://de.wikipedia.org/wiki/Samuele_Inácio)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Waldemar Anton](https://www.wikidata.org/wiki/Q23559699)** ([WP](https://de.wikipedia.org/wiki/Waldemar_Anton)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
-- **[Yan Couto](https://www.wikidata.org/wiki/Q75057147)** ([WP](https://de.wikipedia.org/wiki/Yan_Couto)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 
 </details>
 

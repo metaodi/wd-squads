@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
-- Players in Wikipedia squad: 35
-- Current members on Wikidata: 98
+- Players in Wikipedia squad: 34
+- Current members on Wikidata: 97
 - Suggested edits: 105
 
 <details open>
