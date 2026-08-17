@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q223262](https://www.wikidata.org/wiki/Q223262)
 - Wikipedia article: [FC Luzern](https://de.wikipedia.org/wiki/FC_Luzern)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 60
-- Suggested edits: 88
+- Suggested edits: 89
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
@@ -100,12 +100,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (13)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (14)</strong></summary>
 
 - **Bung Hua Freimann** — 'Bung Hua Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bung Meng Freimann** — 'Bung Meng Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Daniel Mikolajewski** — 'Daniel Mikolajewski' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Erblin Sadikaj** — 'Erblin Sadikaj' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Faveurdi Bongeli** — 'Faveurdi Bongeli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jérome Bieler** — 'Jérome Bieler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Lucas Ferreira** — 'Lucas Ferreira' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Mio Zimmermann** — 'Mio Zimmermann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

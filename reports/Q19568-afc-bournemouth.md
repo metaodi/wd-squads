@@ -2,20 +2,19 @@
 
 - Wikidata item: [Q19568](https://www.wikidata.org/wiki/Q19568)
 - Wikipedia article: [AFC Bournemouth](https://en.wikipedia.org/wiki/AFC_Bournemouth)
-- Players in Wikipedia squad: 35
+- Players in Wikipedia squad: 34
 - Current members on Wikidata: 130
-- Suggested edits: 148
+- Suggested edits: 145
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Ben Gannon-Doak](https://www.wikidata.org/wiki/Q110739094)** ([WP](https://en.wikipedia.org/wiki/Ben_Gannon-Doak)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-- **[Enes Ünal](https://www.wikidata.org/wiki/Q14637461)** ([WP](https://en.wikipedia.org/wiki/Enes_Ünal)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (121)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (120)</strong></summary>
 
 - **[Alan Noble](https://www.wikidata.org/wiki/Q19577438)** ([WP](https://en.wikipedia.org/wiki/Alan_Noble_(footballer))) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Forbes](https://www.wikidata.org/wiki/Q4717736)** ([WP](https://en.wikipedia.org/wiki/Alex_S._Forbes)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -69,7 +68,6 @@
 - **[George Smith](https://www.wikidata.org/wiki/Q20641505)** ([WP](https://en.wikipedia.org/wiki/George_Smith_(footballer,_born_1910))) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Glenn Murray](https://www.wikidata.org/wiki/Q93391)** ([WP](https://en.wikipedia.org/wiki/Glenn_Murray)) (2015–2017) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gordon Watson](https://www.wikidata.org/wiki/Q5585975)** ([WP](https://en.wikipedia.org/wiki/Gordon_Watson_(footballer,_born_1971))) (1999–2000) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Hamed Junior Traoré](https://www.wikidata.org/wiki/Q43559571)** ([WP](https://en.wikipedia.org/wiki/Hamed_Traor%C3%A8)) (2023–2026) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Arter](https://www.wikidata.org/wiki/Q10413488)** ([WP](https://en.wikipedia.org/wiki/Harry_Arter)) (2010–2020) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Cornick](https://www.wikidata.org/wiki/Q19872285)** ([WP](https://en.wikipedia.org/wiki/Harry_Cornick)) (2013–2017) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Kinghorn](https://www.wikidata.org/wiki/Q15998703)** ([WP](https://en.wikipedia.org/wiki/Harry_Kinghorn)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -142,7 +140,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (24)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (23)</strong></summary>
 
 - **[Alex Scott](https://www.wikidata.org/wiki/Q106778648)** ([WP](https://en.wikipedia.org/wiki/Alex_Scott_(footballer,_born_2003))) (2023–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Alex Tóth](https://www.wikidata.org/wiki/Q125570083)** ([WP](https://en.wikipedia.org/wiki/Alex_Tóth)) (2026–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
@@ -154,7 +152,6 @@
 - **[Eli Junior Kroupi](https://www.wikidata.org/wiki/Q117774884)** ([WP](https://en.wikipedia.org/wiki/Eli_Junior_Kroupi)) (2025–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Evanilson](https://www.wikidata.org/wiki/Q69975567)** ([WP](https://en.wikipedia.org/wiki/Evanilson_(footballer,_born_1999))) (2024–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[James Hill](https://www.wikidata.org/wiki/Q60734582)** ([WP](https://en.wikipedia.org/wiki/James_Hill_(footballer,_born_2002))) (2022–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
-- **[Juanlu Sánchez](https://www.wikidata.org/wiki/Q110164175)** ([WP](https://en.wikipedia.org/wiki/Juanlu_Sánchez)) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Julián Araujo](https://www.wikidata.org/wiki/Q57242266)** ([WP](https://en.wikipedia.org/wiki/Julián_Araujo)) (2024–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Justin Kluivert](https://www.wikidata.org/wiki/Q26934107)** ([WP](https://en.wikipedia.org/wiki/Justin_Kluivert)) (2023–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.
 - **[Marcus Tavernier](https://www.wikidata.org/wiki/Q37996874)** ([WP](https://en.wikipedia.org/wiki/Marcus_Tavernier)) (2022–) — Add a 'member of sports team' (P54) statement → AFC Bournemouth (Q19568); the player is in the current squad on Wikipedia.

@@ -3,8 +3,8 @@
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
 - Players in Wikipedia squad: 34
-- Current members on Wikidata: 97
-- Suggested edits: 105
+- Current members on Wikidata: 96
+- Suggested edits: 104
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (84)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (83)</strong></summary>
 
 - **[Alexander Siebeck](https://www.wikidata.org/wiki/Q20437173)** ([WP](https://de.wikipedia.org/wiki/Alexander_Siebeck)) (2013) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Sorge](https://www.wikidata.org/wiki/Q24701204)** ([WP](https://de.wikipedia.org/wiki/Alexander_Sorge)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -79,7 +79,6 @@
 - **[Lazar Samardžić](https://www.wikidata.org/wiki/Q94723966)** ([WP](https://de.wikipedia.org/wiki/Lazar_Samard%C5%BEi%C4%87)) (2020–2021) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lisa Pfretzschner](https://www.wikidata.org/wiki/Q55028456)** ([WP](https://de.wikipedia.org/wiki/Lisa_Pfretzschner)) (2016–2018) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lisa Reichenbach](https://www.wikidata.org/wiki/Q55028463)** ([WP](https://de.wikipedia.org/wiki/Lisa_Reichenbach)) (2016–2021) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Loïs Openda](https://www.wikidata.org/wiki/Q56183407)** ([WP](https://de.wikipedia.org/wiki/Lo%C3%AFs_Openda)) (2023–2025) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luan Cândido](https://www.wikidata.org/wiki/Q59207116)** ([WP](https://de.wikipedia.org/wiki/Luan_C%C3%A2ndido)) (2019) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lukas Krüger](https://www.wikidata.org/wiki/Q55935425)** ([WP](https://de.wikipedia.org/wiki/Lukas_Kr%C3%BCger)) (2018–2019) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Madlen Frank](https://www.wikidata.org/wiki/Q15990527)** ([WP](https://de.wikipedia.org/wiki/Madlen_Frank)) (2016–2022) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

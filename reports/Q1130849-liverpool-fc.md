@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q1130849](https://www.wikidata.org/wiki/Q1130849)
 - Wikipedia article: [Liverpool F.C.](https://en.wikipedia.org/wiki/Liverpool_F.C.)
-- Players in Wikipedia squad: 42
+- Players in Wikipedia squad: 43
 - Current members on Wikidata: 365
-- Suggested edits: 362
+- Suggested edits: 361
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (7)</strong></summary>
@@ -20,7 +20,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (342)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (341)</strong></summary>
 
 - **[Abe Rosenthal](https://www.wikidata.org/wiki/Q4666434)** ([WP](https://en.wikipedia.org/wiki/Abe_Rosenthal)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abraham Foxall](https://www.wikidata.org/wiki/Q4668858)** ([WP](https://en.wikipedia.org/wiki/Abraham_Foxall)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -303,7 +303,6 @@
 - **[Robert Neil](https://www.wikidata.org/wiki/Q7347984)** ([WP](https://en.wikipedia.org/wiki/Bobby_Neill_(footballer))) (1896–1897) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Robert Priday](https://www.wikidata.org/wiki/Q7349036)** ([WP](https://en.wikipedia.org/wiki/Robert_Priday)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ron Jones](https://www.wikidata.org/wiki/Q7363999)** ([WP](https://en.wikipedia.org/wiki/Ron_Jones_(footballer))) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Ronald Araújo](https://www.wikidata.org/wiki/Q56332606)** ([WP](https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rosie White](https://www.wikidata.org/wiki/Q1669821)** ([WP](https://en.wikipedia.org/wiki/Rosie_White)) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Russell Crossley](https://www.wikidata.org/wiki/Q7381441)** ([WP](https://en.wikipedia.org/wiki/Russell_Crossley)) (1950–1954) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ryan Fulton](https://www.wikidata.org/wiki/Q22280163)** ([WP](https://en.wikipedia.org/wiki/Ryan_Fulton)) (2015–2017) — Add an end date (P582) to the membership → Liverpool F.C. (Q1130849); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

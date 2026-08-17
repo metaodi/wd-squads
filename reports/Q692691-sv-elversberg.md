@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q692691](https://www.wikidata.org/wiki/Q692691)
 - Wikipedia article: [SV Elversberg](https://de.wikipedia.org/wiki/SV_Elversberg)
-- Players in Wikipedia squad: 28
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 40
-- Suggested edits: 66
+- Suggested edits: 67
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (39)</strong></summary>
@@ -52,7 +52,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (27)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (28)</strong></summary>
 
 - **[Amara Condé](https://www.wikidata.org/wiki/Q26211996)** ([WP](https://de.wikipedia.org/wiki/Amara_Condé)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Cole Campbell](https://www.wikidata.org/wiki/Q116725515)** ([WP](https://de.wikipedia.org/wiki/Cole_Campbell)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
@@ -77,6 +77,7 @@
 - **[Nicholas Mickelson](https://www.wikidata.org/wiki/Q31080531)** ([WP](https://de.wikipedia.org/wiki/Nicholas_Mickelson)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Nicolas Kristof](https://www.wikidata.org/wiki/Q113226875)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Kristof)) (2021–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Noah Darvich](https://www.wikidata.org/wiki/Q118465124)** ([WP](https://de.wikipedia.org/wiki/Noah_Darvich)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
+- **[Noel Futkeu](https://www.wikidata.org/wiki/Q124757622)** ([WP](https://de.wikipedia.org/wiki/Noel_Futkeu)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Raif Adam](https://www.wikidata.org/wiki/Q140559114)** ([WP](https://de.wikipedia.org/wiki/Raif_Adam)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Tim Boss](https://www.wikidata.org/wiki/Q21191141)** ([WP](https://de.wikipedia.org/wiki/Tim_Boss)) (2023–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Tom Zimmerschied](https://www.wikidata.org/wiki/Q99244389)** ([WP](https://de.wikipedia.org/wiki/Tom_Zimmerschied)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.

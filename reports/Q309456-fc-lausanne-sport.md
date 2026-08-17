@@ -2,16 +2,17 @@
 
 - Wikidata item: [Q309456](https://www.wikidata.org/wiki/Q309456)
 - Wikipedia article: [FC Lausanne-Sport](https://de.wikipedia.org/wiki/FC_Lausanne-Sport)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 28
 - Current members on Wikidata: 67
-- Suggested edits: 92
+- Suggested edits: 93
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Alban Ajdini](https://www.wikidata.org/wiki/Q101001363)** ([WP](https://de.wikipedia.org/wiki/Alban_Ajdini)) (2024–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Beyatt Lekoueiry](https://www.wikidata.org/wiki/Q110630118)** ([WP](https://en.wikipedia.org/wiki/Beyatt_Lekweiry)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Brandon Soppy](https://www.wikidata.org/wiki/Q74050136)** ([WP](https://de.wikipedia.org/wiki/Brandon_Soppy)) (2025–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
+- **[Enzo Molebe](https://www.wikidata.org/wiki/Q113505136)** ([WP](https://de.wikipedia.org/wiki/Enzo_Molebe)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Florent Mollet](https://www.wikidata.org/wiki/Q15639458)** ([WP](https://de.wikipedia.org/wiki/Florent_Mollet)) (2025–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Hamza Abdallah](https://www.wikidata.org/wiki/Q130680098)** ([WP](https://en.wikipedia.org/wiki/Hamza_Abdallah)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Jamie Roche](https://www.wikidata.org/wiki/Q100741735)** ([WP](https://de.wikipedia.org/wiki/Jamie_Roche)) (2023–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q464775](https://www.wikidata.org/wiki/Q464775)
 - Wikipedia article: [FC Thun](https://de.wikipedia.org/wiki/FC_Thun)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 47
-- Suggested edits: 71
+- Suggested edits: 72
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -65,12 +65,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Ashvin Balaruban](https://www.wikidata.org/wiki/Q96575719)** ([WP](https://en.wikipedia.org/wiki/Ashvin_Balaruban)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Brighton Labeau](https://www.wikidata.org/wiki/Q36694978)** ([WP](https://de.wikipedia.org/wiki/Brighton_Labeau)) (2025–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
 - **[Dorian Derbaci](https://www.wikidata.org/wiki/Q131108474)** ([WP](https://de.wikipedia.org/wiki/Dorian_Derbaci)) (2026–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
 - **[Fabio Fehr](https://www.wikidata.org/wiki/Q107750289)** ([WP](https://en.wikipedia.org/wiki/Fabio_Fehr)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Fabio Saiz](https://www.wikidata.org/wiki/Q141065552)** ([WP](https://en.wikipedia.org/wiki/Fabio_Saiz)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Furkan Dursun](https://www.wikidata.org/wiki/Q116889140)** ([WP](https://de.wikipedia.org/wiki/Furkan_Dursun)) (2026–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
 - **[Genís Montolio](https://www.wikidata.org/wiki/Q45106847)** ([WP](https://de.wikipedia.org/wiki/Genís_Montolio)) (2024–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
 - **[Jan Bamert](https://www.wikidata.org/wiki/Q23707670)** ([WP](https://de.wikipedia.org/wiki/Jan_Bamert)) (2022–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
@@ -83,6 +84,7 @@
 - **[Nico Maier](https://www.wikidata.org/wiki/Q100288559)** ([WP](https://de.wikipedia.org/wiki/Nico_Maier)) (2026–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
 - **[Niklas Steffen](https://www.wikidata.org/wiki/Q138328466)** ([WP](https://en.wikipedia.org/wiki/Niklas_Steffen)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Nils Reichmuth](https://www.wikidata.org/wiki/Q97570448)** ([WP](https://de.wikipedia.org/wiki/Nils_Reichmuth)) (2024–) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.
+- **[Riccardo Braschi](https://www.wikidata.org/wiki/Q136295574)** ([WP](https://en.wikipedia.org/wiki/Riccardo_Braschi)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tim Spycher](https://www.wikidata.org/wiki/Q138328470)** ([WP](https://en.wikipedia.org/wiki/Tim_Spycher)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Valmir Matoshi](https://www.wikidata.org/wiki/Q138328476)** ([WP](https://en.wikipedia.org/wiki/Valmir_Matoshi)) — Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
@@ -96,12 +98,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (5)</strong></summary>
 
 - **Adam Ilic** — 'Adam Ilic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Amir Maaroufi** — 'Amir Maaroufi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dario Wälti** — 'Dario Wälti' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Fabio Saiz** — 'Fabio Saiz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Leo Stucki** — 'Leo Stucki' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Louis Passavant** — 'Louis Passavant' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 

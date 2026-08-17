@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q22707](https://www.wikidata.org/wiki/Q22707)
 - Wikipedia article: [TSG 1899 Hoffenheim](https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim)
-- Players in Wikipedia squad: 63
+- Players in Wikipedia squad: 61
 - Current members on Wikidata: 78
-- Suggested edits: 123
+- Suggested edits: 121
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (33)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (32)</strong></summary>
 
 - **[Adam Daghim](https://www.wikidata.org/wiki/Q112970825)** ([WP](https://de.wikipedia.org/wiki/Adam_Daghim)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Albian Hajdari](https://www.wikidata.org/wiki/Q99694316)** ([WP](https://de.wikipedia.org/wiki/Albian_Hajdari)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
@@ -17,10 +17,9 @@
 - **[Bambasé Conté](https://www.wikidata.org/wiki/Q123409527)** ([WP](https://de.wikipedia.org/wiki/Bambasé_Conté)) (2023–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Bernardo](https://www.wikidata.org/wiki/Q22675674)** ([WP](https://de.wikipedia.org/wiki/Bernardo_(Fußballspieler,_1995))) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Cajetan Lenz](https://www.wikidata.org/wiki/Q135678341)** ([WP](https://de.wikipedia.org/wiki/Cajetan_Lenz)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
-- **[Deniz Zeitler](https://www.wikidata.org/wiki/Q123651623)** ([WP](https://de.wikipedia.org/wiki/Deniz_Zeitler)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Fisnik Asllani](https://www.wikidata.org/wiki/Q109653419)** ([WP](https://de.wikipedia.org/wiki/Fisnik_Asllani)) (2021–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Florian Micheler](https://www.wikidata.org/wiki/Q130215867)** ([WP](https://de.wikipedia.org/wiki/Florian_Micheler)) (2024–2025) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
-- **[Jakov Dedić](https://www.wikidata.org/wiki/Q139979318)** ([WP](https://en.wikipedia.org/wiki/Jakov_Dedi%C4%87)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Jakov Dedić](https://www.wikidata.org/wiki/Q139979318)** ([WP](https://de.wikipedia.org/wiki/Jakov_Dedić)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Jykese Fields](https://www.wikidata.org/wiki/Q140472795)** — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Klaus Gjasula](https://www.wikidata.org/wiki/Q20631116)** ([WP](https://de.wikipedia.org/wiki/Klaus_Gjasula)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Konstantin Aleksa](https://www.wikidata.org/wiki/Q128841262)** ([WP](https://de.wikipedia.org/wiki/Konstantin_Aleksa)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
@@ -36,7 +35,7 @@
 - **[Nathan De Cat](https://www.wikidata.org/wiki/Q124416502)** ([WP](https://de.wikipedia.org/wiki/Nathan_De_Cat)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Natnael Abraha](https://www.wikidata.org/wiki/Q140855102)** — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Robin Hranáč](https://www.wikidata.org/wiki/Q107647351)** ([WP](https://de.wikipedia.org/wiki/Robin_Hranáč)) (2024–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
-- **[Santino Pistrol](https://www.wikidata.org/wiki/Q137168777)** ([WP](https://de.wikipedia.org/wiki/Santino_Pistrol)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Santino Pistrol](https://www.wikidata.org/wiki/Q137168777)** ([WP](https://de.wikipedia.org/wiki/Santino_Pistrol)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Tim Lemperle](https://www.wikidata.org/wiki/Q96678433)** ([WP](https://de.wikipedia.org/wiki/Tim_Lemperle)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Tobias Trautner](https://www.wikidata.org/wiki/Q55182196)** ([WP](https://de.wikipedia.org/wiki/Tobias_Trautner)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Umut Tohumcu](https://www.wikidata.org/wiki/Q112041896)** ([WP](https://de.wikipedia.org/wiki/Umut_Tohumcu)) (2022–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
@@ -121,7 +120,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (21)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (20)</strong></summary>
 
 - **Alex Honajzer** — 'Alex Honajzer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ben Opoku** — 'Ben Opoku' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -130,7 +129,6 @@
 - **Diren Dağdeviren** — 'Diren Dağdeviren' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Kryštof ČížekU19** — 'Kryštof ČížekU19' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Lion Wagenbach** — 'Lion Wagenbach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Lúkas Petersson1** — 'Lúkas Petersson1' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Maxime Ndong-Penda** — 'Maxime Ndong-Penda' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nico BiedermannU19** — 'Nico BiedermannU19' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nils Schlosser** — 'Nils Schlosser' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

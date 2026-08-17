@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18708](https://www.wikidata.org/wiki/Q18708)
 - Wikipedia article: [Fulham F.C.](https://en.wikipedia.org/wiki/Fulham_F.C.)
-- Players in Wikipedia squad: 22
+- Players in Wikipedia squad: 23
 - Current members on Wikidata: 279
-- Suggested edits: 283
+- Suggested edits: 284
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -289,7 +289,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (11)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
 
 - **[Benjamin Lecomte](https://www.wikidata.org/wiki/Q2070900)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Lecomte)) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Emile Smith Rowe](https://www.wikidata.org/wiki/Q55820249)** ([WP](https://en.wikipedia.org/wiki/Emile_Smith_Rowe)) (2024–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
@@ -302,6 +302,7 @@
 - **[Luke Harris](https://www.wikidata.org/wiki/Q113800726)** ([WP](https://en.wikipedia.org/wiki/Luke_Harris)) (2022–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Oscar Bobb](https://www.wikidata.org/wiki/Q110466658)** ([WP](https://en.wikipedia.org/wiki/Oscar_Bobb)) (2026–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 - **[Rodrigo Muniz](https://www.wikidata.org/wiki/Q97097982)** ([WP](https://en.wikipedia.org/wiki/Rodrigo_Muniz_(Brazilian_footballer))) (2021–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
+- **[Shea Charles](https://www.wikidata.org/wiki/Q112214607)** ([WP](https://en.wikipedia.org/wiki/Shea_Charles)) (2026–) — Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.
 
 </details>
 

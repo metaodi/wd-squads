@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18741](https://www.wikidata.org/wiki/Q18741)
 - Wikipedia article: [Tottenham Hotspur F.C.](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.)
-- Players in Wikipedia squad: 45
-- Current members on Wikidata: 197
-- Suggested edits: 181
+- Players in Wikipedia squad: 41
+- Current members on Wikidata: 195
+- Suggested edits: 183
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (166)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (168)</strong></summary>
 
 - **[Aaron McEneff](https://www.wikidata.org/wiki/Q53567638)** ([WP](https://en.wikipedia.org/wiki/Aaron_McEneff)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Connell](https://www.wikidata.org/wiki/Q4706403)** ([WP](https://en.wikipedia.org/wiki/Alan_Connell)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -30,6 +30,7 @@
 - **[Arthur Elliott](https://www.wikidata.org/wiki/Q16066728)** ([WP](https://en.wikipedia.org/wiki/Arthur_Elliott_(footballer))) (1894) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arthur Sinning](https://www.wikidata.org/wiki/Q4800292)** ([WP](https://en.wikipedia.org/wiki/Arthur_Sinning)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arthur Turner](https://www.wikidata.org/wiki/Q4800503)** ([WP](https://en.wikipedia.org/wiki/Arthur_Turner_(Tottenham_Hotspur_football_manager))) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ashley Phillips](https://www.wikidata.org/wiki/Q113547044)** ([WP](https://en.wikipedia.org/wiki/Ashley_Phillips)) (2023–2026) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bill Edrich](https://www.wikidata.org/wiki/Q3528662)** ([WP](https://en.wikipedia.org/wiki/Bill_Edrich)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bill Joyce](https://www.wikidata.org/wiki/Q4909649)** ([WP](https://en.wikipedia.org/wiki/Bill_Joyce)) (1898–1899) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bill Julian](https://www.wikidata.org/wiki/Q2461222)** ([WP](https://en.wikipedia.org/wiki/Bill_Julian)) (1894–1895) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -125,6 +126,7 @@
 - **[Luke Medley](https://www.wikidata.org/wiki/Q5982940)** ([WP](https://en.wikipedia.org/wiki/Luke_Medley)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luke Prosser](https://www.wikidata.org/wiki/Q6702282)** ([WP](https://en.wikipedia.org/wiki/Luke_Prosser)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lyle Della-Verde](https://www.wikidata.org/wiki/Q20807337)** ([WP](https://en.wikipedia.org/wiki/Lyle_Della-Verde)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Manor Solomon](https://www.wikidata.org/wiki/Q28968069)** ([WP](https://en.wikipedia.org/wiki/Manor_Solomon)) (2023–2026) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mark Newson](https://www.wikidata.org/wiki/Q6769020)** ([WP](https://en.wikipedia.org/wiki/Mark_Newson)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mark Wright](https://www.wikidata.org/wiki/Q6770436)** ([WP](https://en.wikipedia.org/wiki/Mark_Wright_(TV_personality))) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Martin McIntosh](https://www.wikidata.org/wiki/Q6776165)** ([WP](https://en.wikipedia.org/wiki/Martin_McIntosh)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

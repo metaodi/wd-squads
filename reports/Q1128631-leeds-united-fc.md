@@ -2,15 +2,14 @@
 
 - Wikidata item: [Q1128631](https://www.wikidata.org/wiki/Q1128631)
 - Wikipedia article: [Leeds United F.C.](https://en.wikipedia.org/wiki/Leeds_United_F.C.)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 25
 - Current members on Wikidata: 180
-- Suggested edits: 191
+- Suggested edits: 189
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
 - **[Alex Cairns](https://www.wikidata.org/wiki/Q4716779)** ([WP](https://en.wikipedia.org/wiki/Alex_Cairns)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-- **[Sam Byram](https://www.wikidata.org/wiki/Q5591335)** ([WP](https://en.wikipedia.org/wiki/Sam_Byram)) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 
@@ -192,7 +191,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
 
 - **[Brenden Aaronson](https://www.wikidata.org/wiki/Q33129609)** ([WP](https://en.wikipedia.org/wiki/Brenden_Aaronson)) (2022–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Daniel James](https://www.wikidata.org/wiki/Q30689579)** ([WP](https://en.wikipedia.org/wiki/Daniel_James_(footballer))) (2021–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
@@ -202,7 +201,6 @@
 - **[James Justin](https://www.wikidata.org/wiki/Q26251403)** ([WP](https://en.wikipedia.org/wiki/James_Justin)) (2025–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[James Trafford](https://www.wikidata.org/wiki/Q107985608)** ([WP](https://en.wikipedia.org/wiki/James_Trafford)) (2026–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Jayden Bogle](https://www.wikidata.org/wiki/Q56223640)** ([WP](https://en.wikipedia.org/wiki/Jayden_Bogle)) (2024–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
-- **[Joe Gelhardt](https://www.wikidata.org/wiki/Q62209358)** ([WP](https://en.wikipedia.org/wiki/Joe_Gelhardt)) (2020–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Joël Piroe](https://www.wikidata.org/wiki/Q28532244)** ([WP](https://en.wikipedia.org/wiki/Joël_Piroe)) (2023–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Lucas Perri](https://www.wikidata.org/wiki/Q23893097)** ([WP](https://en.wikipedia.org/wiki/Lucas_Perri)) (2025–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Lukas Nmecha](https://www.wikidata.org/wiki/Q39082413)** ([WP](https://en.wikipedia.org/wiki/Lukas_Nmecha)) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.

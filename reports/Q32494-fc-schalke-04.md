@@ -3,8 +3,8 @@
 - Wikidata item: [Q32494](https://www.wikidata.org/wiki/Q32494)
 - Wikipedia article: [FC Schalke 04](https://de.wikipedia.org/wiki/FC_Schalke_04)
 - Players in Wikipedia squad: 43
-- Current members on Wikidata: 143
-- Suggested edits: 178
+- Current members on Wikidata: 144
+- Suggested edits: 179
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -56,7 +56,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (139)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (140)</strong></summary>
 
 - **[Ahmed Kutucu](https://www.wikidata.org/wiki/Q59641577)** ([WP](https://de.wikipedia.org/wiki/Ahmed_Kutucu)) (2018–2021) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alban Sabah](https://www.wikidata.org/wiki/Q2637203)** ([WP](https://de.wikipedia.org/wiki/Alban_Sabah)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -118,7 +118,7 @@
 - **[Júnior Caiçara](https://www.wikidata.org/wiki/Q10538186)** ([WP](https://de.wikipedia.org/wiki/J%C3%BAnior_Cai%C3%A7ara)) (2015–2017) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jürgen Klein](https://www.wikidata.org/wiki/Q1717346)** ([WP](https://de.wikipedia.org/wiki/J%C3%BCrgen_Klein_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jürgen Sobieray](https://www.wikidata.org/wiki/Q1717720)** ([WP](https://de.wikipedia.org/wiki/J%C3%BCrgen_Sobieray)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jürgen Täuber](https://www.wikidata.org/wiki/Q1717780)** ([WP](https://de.wikipedia.org/wiki/J%C3%BCrgen_T%C3%A4uber)) (–1981) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jürgen Täuber](https://www.wikidata.org/wiki/Q1717780)** ([WP](https://de.wikipedia.org/wiki/J%C3%BCrgen_T%C3%A4uber)) (1981) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kai Hesse](https://www.wikidata.org/wiki/Q834605)** ([WP](https://de.wikipedia.org/wiki/Kai_Hesse)) (2004–2005) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kai Wagner](https://www.wikidata.org/wiki/Q36224503)** ([WP](https://de.wikipedia.org/wiki/Kai_Wagner)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Karl Krause](https://www.wikidata.org/wiki/Q14899026)** ([WP](https://de.wikipedia.org/wiki/Karl_Krause_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -129,6 +129,7 @@
 - **[Klaus Salmutter](https://www.wikidata.org/wiki/Q325630)** ([WP](https://de.wikipedia.org/wiki/Klaus_Salmutter)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Klaus Schonz](https://www.wikidata.org/wiki/Q1438958)** ([WP](https://de.wikipedia.org/wiki/Klaus_Schonz)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Levent Mercan](https://www.wikidata.org/wiki/Q66391676)** ([WP](https://de.wikipedia.org/wiki/Levent_Mercan)) (2019–2021) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Luca Podlech](https://www.wikidata.org/wiki/Q140811986)** ([WP](https://de.wikipedia.org/wiki/Luca_Podlech)) (2024–) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ludger Winkel](https://www.wikidata.org/wiki/Q22342842)** ([WP](https://de.wikipedia.org/wiki/Ludger_Winkel)) (1980–1982) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manfred Berz](https://www.wikidata.org/wiki/Q1889221)** ([WP](https://de.wikipedia.org/wiki/Manfred_Berz)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manfred Kreuz](https://www.wikidata.org/wiki/Q1889607)** ([WP](https://de.wikipedia.org/wiki/Manfred_Kreuz)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

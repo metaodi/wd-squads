@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q15789](https://www.wikidata.org/wiki/Q15789)
 - Wikipedia article: [FC Bayern München](https://de.wikipedia.org/wiki/FC_Bayern_München)
-- Players in Wikipedia squad: 87
+- Players in Wikipedia squad: 89
 - Current members on Wikidata: 213
-- Suggested edits: 267
+- Suggested edits: 269
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -217,11 +217,12 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (30)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (31)</strong></summary>
 
 - **[Anton Heinz](https://www.wikidata.org/wiki/Q128497615)** ([WP](https://de.wikipedia.org/wiki/Anton_Heinz)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Artur Degraf](https://www.wikidata.org/wiki/Q139666359)** ([WP](https://en.wikipedia.org/wiki/Artur_Degraf)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Bajung Darboe](https://www.wikidata.org/wiki/Q119271184)** ([WP](https://en.wikipedia.org/wiki/Bajung_Darboe)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Bara Ndiaye](https://www.wikidata.org/wiki/Q137733792)** ([WP](https://de.wikipedia.org/wiki/Bara_Ndiaye)) (2026–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Benedikt Wimmer](https://www.wikidata.org/wiki/Q139577279)** ([WP](https://en.wikipedia.org/wiki/Benedikt_Wimmer)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Benno Schmitz](https://www.wikidata.org/wiki/Q17310494)** ([WP](https://de.wikipedia.org/wiki/Benno_Schmitz)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Cassiano Kiala](https://www.wikidata.org/wiki/Q134462732)** ([WP](https://de.wikipedia.org/wiki/Cassiano_Kiala)) (2025–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
@@ -260,7 +261,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (38)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (39)</strong></summary>
 
 - **10. April 2007** — '10. April 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **10. Januar 2007** — '10. Januar 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -281,6 +282,7 @@
 - **28. Juni 2005** — '28. Juni 2005' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **3. August 1988** — '3. August 1988' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **3. Mai 2004** — '3. Mai 2004' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **31. Dezember 2007** — '31. Dezember 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **8. August 2003** — '8. August 2003' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Adam El-Chaar** — 'Adam El-Chaar' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Allen Junior Lambé** — 'Allen Junior Lambé' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

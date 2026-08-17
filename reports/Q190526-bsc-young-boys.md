@@ -3,8 +3,8 @@
 - Wikidata item: [Q190526](https://www.wikidata.org/wiki/Q190526)
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
 - Players in Wikipedia squad: 30
-- Current members on Wikidata: 90
-- Suggested edits: 102
+- Current members on Wikidata: 89
+- Suggested edits: 101
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
@@ -31,7 +31,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (81)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (80)</strong></summary>
 
 - **[Alexander Gerndt](https://www.wikidata.org/wiki/Q610747)** ([WP](https://de.wikipedia.org/wiki/Alexander_Gerndt)) (2013–2017) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[André Daina](https://www.wikidata.org/wiki/Q251426)** ([WP](https://de.wikipedia.org/wiki/Andr%C3%A9_Daina)) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -42,7 +42,6 @@
 - **[Christopher Martins](https://www.wikidata.org/wiki/Q18011163)** ([WP](https://de.wikipedia.org/wiki/Christopher_Martins)) (2019–2022) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Claudio Holenstein](https://www.wikidata.org/wiki/Q16233229)** ([WP](https://de.wikipedia.org/wiki/Claudio_Holenstein)) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David von Ballmoos](https://www.wikidata.org/wiki/Q35749541)** ([WP](https://de.wikipedia.org/wiki/David_von_Ballmoos)) (2013–2026) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Djibril Sow](https://www.wikidata.org/wiki/Q27995699)** ([WP](https://de.wikipedia.org/wiki/Djibril_Sow)) (2017–2019) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Elia Alessandrini](https://www.wikidata.org/wiki/Q30015139)** ([WP](https://de.wikipedia.org/wiki/Elia_Alessandrini)) (2017–2019) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Enrico Schirinzi](https://www.wikidata.org/wiki/Q1343895)** ([WP](https://de.wikipedia.org/wiki/Enrico_Schirinzi)) (–2005) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erwin Hochsträsser](https://www.wikidata.org/wiki/Q2635272)** ([WP](https://de.wikipedia.org/wiki/Erwin_Hochstrasser)) (1932–1934) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

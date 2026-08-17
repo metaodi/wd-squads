@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q38245](https://www.wikidata.org/wiki/Q38245)
 - Wikipedia article: [Eintracht Frankfurt](https://de.wikipedia.org/wiki/Eintracht_Frankfurt)
-- Players in Wikipedia squad: 28
+- Players in Wikipedia squad: 27
 - Current members on Wikidata: 135
-- Suggested edits: 142
+- Suggested edits: 141
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (124)</strong></summary>
@@ -139,6 +139,7 @@
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
+- **[Amil Šiljević](https://www.wikidata.org/wiki/Q136296091)** — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ayoube Amaimouni](https://www.wikidata.org/wiki/Q137705019)** ([WP](https://de.wikipedia.org/wiki/Ayoube_Amaimouni)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Elias Baum](https://www.wikidata.org/wiki/Q123390886)** ([WP](https://de.wikipedia.org/wiki/Elias_Baum)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Farès Chaïbi](https://www.wikidata.org/wiki/Q113474248)** ([WP](https://de.wikipedia.org/wiki/Farès_Chaïbi)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
@@ -150,7 +151,6 @@
 - **[Malik Pimpong](https://www.wikidata.org/wiki/Q140435636)** ([WP](https://en.wikipedia.org/wiki/Malik_Pimpong)) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Michael Zetterer](https://www.wikidata.org/wiki/Q17124764)** ([WP](https://de.wikipedia.org/wiki/Michael_Zetterer)) (2025–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Nnamdi Collins](https://www.wikidata.org/wiki/Q106367360)** ([WP](https://de.wikipedia.org/wiki/Nnamdi_Collins)) (2024–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
-- **[Noel Futkeu](https://www.wikidata.org/wiki/Q124757622)** ([WP](https://de.wikipedia.org/wiki/Noel_Futkeu)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Noël Aséko](https://www.wikidata.org/wiki/Q112570858)** ([WP](https://de.wikipedia.org/wiki/Noël_Aséko)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Oscar Højlund](https://www.wikidata.org/wiki/Q120804891)** ([WP](https://de.wikipedia.org/wiki/Oscar_Højlund)) (2024–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Raphael Onyedika](https://www.wikidata.org/wiki/Q107985602)** ([WP](https://de.wikipedia.org/wiki/Raphael_Onyedika)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
@@ -162,12 +162,5 @@
 <summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Love Arrhov](https://www.wikidata.org/wiki/Q134271451)** ([WP](https://de.wikipedia.org/wiki/Love_Arrhov)) (2026–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-
-</details>
-
-<details open>
-<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
-
-- **Otávio** — 'Otávio' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

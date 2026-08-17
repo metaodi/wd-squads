@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q189671](https://www.wikidata.org/wiki/Q189671)
 - Wikipedia article: [FC Basel](https://de.wikipedia.org/wiki/FC_Basel)
-- Players in Wikipedia squad: 31
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 279
-- Suggested edits: 303
+- Suggested edits: 302
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Aaron Malouda](https://www.wikidata.org/wiki/Q122926221)** ([WP](https://de.wikipedia.org/wiki/Aaron_Malouda)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Asane Sow](https://www.wikidata.org/wiki/Q140472483)** ([WP](https://en.wikipedia.org/wiki/Asane_Sow)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -28,7 +28,6 @@
 - **[Kazeem Olaigbe](https://www.wikidata.org/wiki/Q113366789)** ([WP](https://en.wikipedia.org/wiki/Kazeem_Olaigbe)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Keigo Tsunemoto](https://www.wikidata.org/wiki/Q101198734)** ([WP](https://de.wikipedia.org/wiki/Keigo_Tsunemoto)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Kevin Rüegg](https://www.wikidata.org/wiki/Q33885886)** ([WP](https://de.wikipedia.org/wiki/Kevin_Rüegg)) (2023–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
-- **[Léo Leroy](https://www.wikidata.org/wiki/Q61940947)** ([WP](https://de.wikipedia.org/wiki/Léo_Leroy)) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Moussa Cissé](https://www.wikidata.org/wiki/Q128871829)** ([WP](https://de.wikipedia.org/wiki/Moussa_Cissé_(Fußballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Nicolas Vouilloz](https://www.wikidata.org/wiki/Q96745606)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Vouilloz_(Fussballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Philip Otele](https://www.wikidata.org/wiki/Q65259981)** ([WP](https://de.wikipedia.org/wiki/Philip_Otele)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.

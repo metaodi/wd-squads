@@ -7,17 +7,17 @@
 - Suggested edits: 315
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
-- **[Dwight McNeil](https://www.wikidata.org/wiki/Q53652291)** ([WP](https://en.wikipedia.org/wiki/Dwight_McNeil)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Michael Keane](https://www.wikidata.org/wiki/Q80712)** ([WP](https://en.wikipedia.org/wiki/Michael_Keane_(footballer,_born_1993))) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** ([WP](https://en.wikipedia.org/wiki/Adam_Aznou)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
+- **[Brennan Johnson](https://www.wikidata.org/wiki/Q66108160)** ([WP](https://en.wikipedia.org/wiki/Brennan_Johnson)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Charly Alcaraz](https://www.wikidata.org/wiki/Q88130791)** ([WP](https://en.wikipedia.org/wiki/Charly_Alcaraz)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Christian Nørgaard](https://www.wikidata.org/wiki/Q5109980)** ([WP](https://en.wikipedia.org/wiki/Christian_Nørgaard)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Harrison Armstrong](https://www.wikidata.org/wiki/Q129702132)** ([WP](https://en.wikipedia.org/wiki/Harrison_Armstrong_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
@@ -171,6 +171,7 @@
 - **[Ian Liversedge](https://www.wikidata.org/wiki/Q5982059)** ([WP](https://en.wikipedia.org/wiki/Ian_Liversedge)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ibou Touray](https://www.wikidata.org/wiki/Q25915897)** ([WP](https://en.wikipedia.org/wiki/Ibou_Touray)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Idrissa Gueye](https://www.wikidata.org/wiki/Q46679)** ([WP](https://en.wikipedia.org/wiki/Idrissa_Gueye)) (2022–2026) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Iman Mustafa](https://www.wikidata.org/wiki/Q141023860)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[J Coyne](https://www.wikidata.org/wiki/Q48816261)** ([WP](https://en.wikipedia.org/wiki/Jas_Coyne)) (1888) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Deighton](https://www.wikidata.org/wiki/Q60791117)** ([WP](https://en.wikipedia.org/wiki/Jack_Deighton)) (1934–1935) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Earp](https://www.wikidata.org/wiki/Q65048113)** ([WP](https://en.wikipedia.org/wiki/Jack_Earp)) (1891–1892) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -297,7 +298,6 @@
 - **[Stephen Duke-McKenna](https://www.wikidata.org/wiki/Q59240267)** ([WP](https://en.wikipedia.org/wiki/Stephen_Duke-McKenna)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Steve Jennings](https://www.wikidata.org/wiki/Q7612943)** ([WP](https://en.wikipedia.org/wiki/Steve_Jennings_(footballer))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Steve Melledew](https://www.wikidata.org/wiki/Q55238021)** ([WP](https://en.wikipedia.org/wiki/Steve_Melledew)) (1969–1971) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Séamus Coleman](https://www.wikidata.org/wiki/Q316724)** ([WP](https://en.wikipedia.org/wiki/S%C3%A9amus_Coleman)) (2009–2026) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Talbot Lewis](https://www.wikidata.org/wiki/Q7679032)** ([WP](https://en.wikipedia.org/wiki/Talbot_Lewis)) (1898–1899) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ted Anderson](https://www.wikidata.org/wiki/Q7692961)** ([WP](https://en.wikipedia.org/wiki/Ted_Anderson_(footballer))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Teddy Barton](https://www.wikidata.org/wiki/Q7693977)** ([WP](https://en.wikipedia.org/wiki/Teddy_Barton)) (–1925) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

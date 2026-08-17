@@ -7,10 +7,11 @@
 - Suggested edits: 208
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
 
 - **[Josh Wilson-Esbrand](https://www.wikidata.org/wiki/Q105477902)** ([WP](https://en.wikipedia.org/wiki/Josh_Wilson-Esbrand)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Marc-Vivien Foé](https://www.wikidata.org/wiki/Q223843)** ([WP](https://en.wikipedia.org/wiki/Marc-Vivien_Foé)) (2002–2003) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Rodri](https://www.wikidata.org/wiki/Q20994118)** ([WP](https://en.wikipedia.org/wiki/Rodri_(footballer,_born_1996))) (2019–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 
@@ -207,12 +208,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Charlie Gray](https://www.wikidata.org/wiki/Q137433913)** ([WP](https://en.wikipedia.org/wiki/Charlie_Gray_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Claudio Echeverri](https://www.wikidata.org/wiki/Q116463164)** ([WP](https://en.wikipedia.org/wiki/Claudio_Echeverri)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Divine Mukasa](https://www.wikidata.org/wiki/Q131382825)** ([WP](https://en.wikipedia.org/wiki/Divine_Mukasa)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
-- **[Finley Burns](https://www.wikidata.org/wiki/Q108673780)** ([WP](https://en.wikipedia.org/wiki/Finley_Burns)) (2021–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Jeremy Monga](https://www.wikidata.org/wiki/Q133832511)** ([WP](https://en.wikipedia.org/wiki/Jeremy_Monga)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Kaden Braithwaite](https://www.wikidata.org/wiki/Q130360009)** ([WP](https://en.wikipedia.org/wiki/Kaden_Braithwaite)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Kian Noble](https://www.wikidata.org/wiki/Q137374928)** ([WP](https://en.wikipedia.org/wiki/Kian_Noble)) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.

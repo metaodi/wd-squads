@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q101959](https://www.wikidata.org/wiki/Q101959)
 - Wikipedia article: [Borussia Mönchengladbach](https://de.wikipedia.org/wiki/Borussia_Mönchengladbach)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 32
 - Current members on Wikidata: 84
-- Suggested edits: 94
+- Suggested edits: 97
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (74)</strong></summary>
@@ -115,5 +115,14 @@
 <summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Moritz Nicolas](https://www.wikidata.org/wiki/Q57398922)** ([WP](https://de.wikipedia.org/wiki/Moritz_Nicolas)) (2017–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
+
+- **Fritz Fleck** — 'Fritz Fleck' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Iaia Manco Danfa** — 'Iaia Manco Danfa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mathieu Nguefack** — 'Mathieu Nguefack' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

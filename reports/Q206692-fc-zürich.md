@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q206692](https://www.wikidata.org/wiki/Q206692)
 - Wikipedia article: [FC Zürich](https://de.wikipedia.org/wiki/FC_Zürich)
-- Players in Wikipedia squad: 34
+- Players in Wikipedia squad: 33
 - Current members on Wikidata: 89
-- Suggested edits: 109
+- Suggested edits: 108
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (82)</strong></summary>
@@ -109,10 +109,9 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (19)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (18)</strong></summary>
 
 - **Cosimo Fiorini** — 'Cosimo Fiorini' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **David Vujevic** — 'David Vujevic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Din Ramic** — 'Din Ramic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jill Stiel** — 'Jill Stiel' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jorge Segura** — 'Jorge Segura' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

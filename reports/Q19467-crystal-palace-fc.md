@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19467](https://www.wikidata.org/wiki/Q19467)
 - Wikipedia article: [Crystal Palace F.C.](https://en.wikipedia.org/wiki/Crystal_Palace_F.C.)
-- Players in Wikipedia squad: 31
+- Players in Wikipedia squad: 33
 - Current members on Wikidata: 172
-- Suggested edits: 178
+- Suggested edits: 182
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (159)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (160)</strong></summary>
 
 - **[Adrian Birch](https://www.wikidata.org/wiki/Q14527004)** ([WP](https://en.wikipedia.org/wiki/Adrian_Birch)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Mariappa](https://www.wikidata.org/wiki/Q10572)** ([WP](https://en.wikipedia.org/wiki/Adrian_Mariappa)) (2013–2016) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -34,6 +34,7 @@
 - **[Bob Spottiswood](https://www.wikidata.org/wiki/Q3641344)** ([WP](https://en.wikipedia.org/wiki/Bob_Spottiswood)) (1909–1915) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bob Turnbull](https://www.wikidata.org/wiki/Q4934237)** ([WP](https://en.wikipedia.org/wiki/Bob_Turnbull)) (1931–1932) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Brandon Pierrick](https://www.wikidata.org/wiki/Q80656203)** ([WP](https://en.wikipedia.org/wiki/Brandon_Pierrick)) (2019–2021) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Brennan Johnson](https://www.wikidata.org/wiki/Q66108160)** ([WP](https://en.wikipedia.org/wiki/Brennan_Johnson)) (2026) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Brian Eastick](https://www.wikidata.org/wiki/Q4963650)** ([WP](https://en.wikipedia.org/wiki/Brian_Eastick)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Bud Rossiter](https://www.wikidata.org/wiki/Q4983932)** ([WP](https://en.wikipedia.org/wiki/Bud_Rossiter)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Børge Thorup](https://www.wikidata.org/wiki/Q28758600)** ([WP](https://en.wikipedia.org/wiki/B%C3%B8rge_Thorup)) (1969–1970) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -74,8 +75,8 @@
 - **[George Cooper](https://www.wikidata.org/wiki/Q40750243)** ([WP](https://en.wikipedia.org/wiki/George_Cooper_(footballer,_born_1932))) (1955–1959) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Johnson](https://www.wikidata.org/wiki/Q16027049)** ([WP](https://en.wikipedia.org/wiki/George_Johnson_(footballer,_born_1871))) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Rumbold](https://www.wikidata.org/wiki/Q5544106)** ([WP](https://en.wikipedia.org/wiki/George_Rumbold)) (1934–1937) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[George Walker](https://www.wikidata.org/wiki/Q16030107)** ([WP](https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1877))) (1905–) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Walker](https://www.wikidata.org/wiki/Q16886404)** ([WP](https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1909))) (1936–1939) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[George Walker](https://www.wikidata.org/wiki/Q16030107)** ([WP](https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1877))) (1905–) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Watson](https://www.wikidata.org/wiki/Q5546082)** ([WP](https://en.wikipedia.org/wiki/George_Watson_(cricketer,_born_1907))) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Salt](https://www.wikidata.org/wiki/Q24284661)** ([WP](https://en.wikipedia.org/wiki/Harry_Salt)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Henry Thompson](https://www.wikidata.org/wiki/Q85766295)** ([WP](https://en.wikipedia.org/wiki/Henry_Thompson_(footballer))) (1910–1911) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -179,11 +180,14 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
+- **[Anan Khalaili](https://www.wikidata.org/wiki/Q118206666)** ([WP](https://en.wikipedia.org/wiki/Anan_Khalaili)) (2026–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Chadi Riad](https://www.wikidata.org/wiki/Q104784108)** ([WP](https://en.wikipedia.org/wiki/Chadi_Riad)) (2024–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Cheick Doucouré](https://www.wikidata.org/wiki/Q47490408)** ([WP](https://en.wikipedia.org/wiki/Cheick_Doucouré)) (2022–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[David Ozoh](https://www.wikidata.org/wiki/Q116285341)** ([WP](https://en.wikipedia.org/wiki/David_Ozoh)) (2023–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
+- **[Dwight McNeil](https://www.wikidata.org/wiki/Q53652291)** ([WP](https://en.wikipedia.org/wiki/Dwight_McNeil)) (2026–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
+- **[Evann Guessand](https://www.wikidata.org/wiki/Q98593672)** ([WP](https://en.wikipedia.org/wiki/Evann_Guessand)) (2026–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Ismaïla Sarr](https://www.wikidata.org/wiki/Q26924482)** ([WP](https://en.wikipedia.org/wiki/Ismaïla_Sarr)) (2024–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Jaydee Canvot](https://www.wikidata.org/wiki/Q129404148)** ([WP](https://en.wikipedia.org/wiki/Jaydee_Canvot)) (2025–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
 - **[Jesurun Rak-Sakyi](https://www.wikidata.org/wiki/Q108094357)** ([WP](https://en.wikipedia.org/wiki/Jesurun_Rak-Sakyi)) (2021–) — Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.
