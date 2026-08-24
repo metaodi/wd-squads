@@ -2,13 +2,14 @@
 
 - Wikidata item: [Q9653](https://www.wikidata.org/wiki/Q9653)
 - Wikipedia article: [Ipswich Town F.C.](https://en.wikipedia.org/wiki/Ipswich_Town_F.C.)
-- Players in Wikipedia squad: 32
-- Current members on Wikidata: 100
+- Players in Wikipedia squad: 33
+- Current members on Wikidata: 101
 - Suggested edits: 117
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (24)</strong></summary>
 
+- **[Abdoul Ouattara](https://www.wikidata.org/wiki/Q131366878)** ([WP](https://en.wikipedia.org/wiki/Abdoul_Ouattara)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Abdul Fatawu](https://www.wikidata.org/wiki/Q105812639)** ([WP](https://en.wikipedia.org/wiki/Abdul_Fatawu)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Alex Palmer](https://www.wikidata.org/wiki/Q60733809)** ([WP](https://en.wikipedia.org/wiki/Alex_Palmer)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Azor Matusiwa](https://www.wikidata.org/wiki/Q27908084)** ([WP](https://en.wikipedia.org/wiki/Azor_Matusiwa)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
@@ -24,7 +25,6 @@
 - **[David Button](https://www.wikidata.org/wiki/Q1173879)** ([WP](https://en.wikipedia.org/wiki/David_Button)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Emersonn](https://www.wikidata.org/wiki/Q117089936)** ([WP](https://en.wikipedia.org/wiki/Emersonn)) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Florentino Luís](https://www.wikidata.org/wiki/Q26924424)** ([WP](https://en.wikipedia.org/wiki/Florentino_Luís)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
-- **[George Hirst](https://www.wikidata.org/wiki/Q27914873)** ([WP](https://en.wikipedia.org/wiki/George_Hirst_(footballer))) (2023–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Issa Diop](https://www.wikidata.org/wiki/Q21621180)** ([WP](https://en.wikipedia.org/wiki/Issa_Diop_(footballer))) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Jack Clarke](https://www.wikidata.org/wiki/Q57078908)** ([WP](https://en.wikipedia.org/wiki/Jack_Clarke_(footballer,_born_2000))) (2024–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Jack Taylor](https://www.wikidata.org/wiki/Q27915090)** ([WP](https://en.wikipedia.org/wiki/Jack_Taylor_(footballer,_born_1998))) (2023–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.

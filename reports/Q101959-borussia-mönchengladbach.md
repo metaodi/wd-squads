@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q101959](https://www.wikidata.org/wiki/Q101959)
 - Wikipedia article: [Borussia Mönchengladbach](https://de.wikipedia.org/wiki/Borussia_Mönchengladbach)
-- Players in Wikipedia squad: 32
+- Players in Wikipedia squad: 31
 - Current members on Wikidata: 84
-- Suggested edits: 97
+- Suggested edits: 96
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (74)</strong></summary>
@@ -87,7 +87,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Daiki Hashioka](https://www.wikidata.org/wiki/Q39117170)** ([WP](https://de.wikipedia.org/wiki/Daiki_Hashioka)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Daniel Batz](https://www.wikidata.org/wiki/Q1160026)** ([WP](https://de.wikipedia.org/wiki/Daniel_Batz)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
@@ -101,7 +101,6 @@
 - **[Kevin Diks](https://www.wikidata.org/wiki/Q17602824)** ([WP](https://de.wikipedia.org/wiki/Kevin_Diks)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Kevin Stöger](https://www.wikidata.org/wiki/Q86523)** ([WP](https://de.wikipedia.org/wiki/Kevin_Stöger)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Lion Schweers](https://www.wikidata.org/wiki/Q24006307)** ([WP](https://de.wikipedia.org/wiki/Lion_Schweers)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
-- **[Nathan Ngoumou](https://www.wikidata.org/wiki/Q64746308)** ([WP](https://de.wikipedia.org/wiki/Nathan_Ngoumou)) (2022–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Philipp Sander](https://www.wikidata.org/wiki/Q57579312)** ([WP](https://de.wikipedia.org/wiki/Philipp_Sander_(Fußballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Robin Hack](https://www.wikidata.org/wiki/Q41487752)** ([WP](https://de.wikipedia.org/wiki/Robin_Hack)) (2023–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Shūto Machino](https://www.wikidata.org/wiki/Q47582288)** ([WP](https://de.wikipedia.org/wiki/Shūto_Machino)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.

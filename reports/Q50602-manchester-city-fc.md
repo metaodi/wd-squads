@@ -2,16 +2,15 @@
 
 - Wikidata item: [Q50602](https://www.wikidata.org/wiki/Q50602)
 - Wikipedia article: [Manchester City F.C.](https://en.wikipedia.org/wiki/Manchester_City_F.C.)
-- Players in Wikipedia squad: 47
-- Current members on Wikidata: 212
-- Suggested edits: 208
+- Players in Wikipedia squad: 45
+- Current members on Wikidata: 211
+- Suggested edits: 207
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Josh Wilson-Esbrand](https://www.wikidata.org/wiki/Q105477902)** ([WP](https://en.wikipedia.org/wiki/Josh_Wilson-Esbrand)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Marc-Vivien Foé](https://www.wikidata.org/wiki/Q223843)** ([WP](https://en.wikipedia.org/wiki/Marc-Vivien_Foé)) (2002–2003) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-- **[Rodri](https://www.wikidata.org/wiki/Q20994118)** ([WP](https://en.wikipedia.org/wiki/Rodri_(footballer,_born_1996))) (2019–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 

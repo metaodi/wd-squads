@@ -15,7 +15,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (30)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (31)</strong></summary>
 
 - **[Aaron Hickey](https://www.wikidata.org/wiki/Q64010525)** ([WP](https://en.wikipedia.org/wiki/Aaron_Hickey)) (2022–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Antoni Milambo](https://www.wikidata.org/wiki/Q108067127)** ([WP](https://en.wikipedia.org/wiki/Antoni_Milambo)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
@@ -31,6 +31,7 @@
 - **[Jaidon Anthony](https://www.wikidata.org/wiki/Q103417114)** ([WP](https://en.wikipedia.org/wiki/Jaidon_Anthony)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Jannik Schuster](https://www.wikidata.org/wiki/Q123149162)** ([WP](https://en.wikipedia.org/wiki/Jannik_Schuster)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Jayden Meghoma](https://www.wikidata.org/wiki/Q121307507)** ([WP](https://en.wikipedia.org/wiki/Jayden_Meghoma)) (2024–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
+- **[Josh Stephenson](https://www.wikidata.org/wiki/Q141149852)** ([WP](https://en.wikipedia.org/wiki/Josh_Stephenson)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Julian Eyestone](https://www.wikidata.org/wiki/Q133188139)** ([WP](https://en.wikipedia.org/wiki/Julian_Eyestone)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Kaye Furo](https://www.wikidata.org/wiki/Q121602801)** ([WP](https://en.wikipedia.org/wiki/Kaye_Furo)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Kevin Schade](https://www.wikidata.org/wiki/Q103845834)** ([WP](https://en.wikipedia.org/wiki/Kevin_Schade)) (2023–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
@@ -255,14 +256,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (10)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (9)</strong></summary>
 
 - **Andre Grey** — 'Andre Grey' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Caelan Avenell** — 'Caelan Avenell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Connor Wolfheimer** — 'Connor Wolfheimer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Conor McManus** — 'Conor McManus' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Isaac Holland** — 'Isaac Holland' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Josh Stephenson** — 'Josh Stephenson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Luca Picotto** — 'Luca Picotto' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Matas Klimas** — 'Matas Klimas' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ollie Shield** — 'Ollie Shield' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

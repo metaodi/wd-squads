@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q41420](https://www.wikidata.org/wiki/Q41420)
 - Wikipedia article: [Borussia Dortmund](https://de.wikipedia.org/wiki/Borussia_Dortmund)
-- Players in Wikipedia squad: 27
-- Current members on Wikidata: 77
+- Players in Wikipedia squad: 29
+- Current members on Wikidata: 79
 - Suggested edits: 80
 
 <details open>
@@ -17,7 +17,7 @@
 <summary><strong>In current squad, but no membership statement on Wikidata (14)</strong></summary>
 
 - **[Alexander Meyer](https://www.wikidata.org/wiki/Q66005227)** ([WP](https://de.wikipedia.org/wiki/Alexander_Meyer_(Fußballspieler,_1991))) (2022–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
-- **[Diant Ramaj](https://www.wikidata.org/wiki/Q104177308)** ([WP](https://de.wikipedia.org/wiki/Diant_Ramaj)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
+- **[Enzo dos Santos](https://www.wikidata.org/wiki/Q134722733)** ([WP](https://de.wikipedia.org/wiki/Enzo_dos_Santos)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Felix Nmecha](https://www.wikidata.org/wiki/Q60889488)** ([WP](https://de.wikipedia.org/wiki/Felix_Nmecha)) (2023–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Filippo Mane](https://www.wikidata.org/wiki/Q124694195)** ([WP](https://de.wikipedia.org/wiki/Filippo_Mane)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.
 - **[Joane Gadou](https://www.wikidata.org/wiki/Q118441569)** ([WP](https://de.wikipedia.org/wiki/Joane_Gadou)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Dortmund (Q41420); the player is in the current squad on Wikipedia.

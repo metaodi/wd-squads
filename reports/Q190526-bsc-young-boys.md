@@ -121,6 +121,6 @@
 
 - **Benjamin Kabeya** — 'Benjamin Kabeya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Edin Etoski** — 'Edin Etoski' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Emmanuel Tsimba** — 'Emmanuel Tsimba' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Tristan Jost** — 'Tristan Jost' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

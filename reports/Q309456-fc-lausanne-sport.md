@@ -117,8 +117,8 @@
 - **Dircssi Ngonzo** — 'Dircssi Ngonzo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Emilien Grosso** — 'Emilien Grosso' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Eren Özcan** — 'Eren Özcan' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Evan Franchi** — 'Evan Franchi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ibrahim Bah Mendes** — 'Ibrahim Bah Mendes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Ilija Despotovic** — 'Ilija Despotovic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Souleymane N’Diaye** — 'Souleymane N’Diaye' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

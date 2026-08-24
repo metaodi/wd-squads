@@ -3,8 +3,8 @@
 - Wikidata item: [Q19568](https://www.wikidata.org/wiki/Q19568)
 - Wikipedia article: [AFC Bournemouth](https://en.wikipedia.org/wiki/AFC_Bournemouth)
 - Players in Wikipedia squad: 34
-- Current members on Wikidata: 130
-- Suggested edits: 145
+- Current members on Wikidata: 131
+- Suggested edits: 146
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (120)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (121)</strong></summary>
 
 - **[Alan Noble](https://www.wikidata.org/wiki/Q19577438)** ([WP](https://en.wikipedia.org/wiki/Alan_Noble_(footballer))) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Forbes](https://www.wikidata.org/wiki/Q4717736)** ([WP](https://en.wikipedia.org/wiki/Alex_S._Forbes)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -102,6 +102,7 @@
 - **[Matt Butcher](https://www.wikidata.org/wiki/Q22958673)** ([WP](https://en.wikipedia.org/wiki/Matt_Butcher_(footballer))) (2015–2020) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Matt Worthington](https://www.wikidata.org/wiki/Q30147949)** ([WP](https://en.wikipedia.org/wiki/Matt_Worthington)) (2016–2019) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Max Gradel](https://www.wikidata.org/wiki/Q714036)** ([WP](https://en.wikipedia.org/wiki/Max_Gradel)) (2015–2018) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Michele Di Gregorio](https://www.wikidata.org/wiki/Q42317168)** ([WP](https://en.wikipedia.org/wiki/Michele_Di_Gregorio)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mikael Ndjoli](https://www.wikidata.org/wiki/Q55820201)** ([WP](https://en.wikipedia.org/wiki/Mikael_Ndjoli)) (2018–2021) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Milton Graham](https://www.wikidata.org/wiki/Q6861104)** ([WP](https://en.wikipedia.org/wiki/Milton_Graham)) (1981–1985) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nnamdi Ofoborh](https://www.wikidata.org/wiki/Q59913726)** ([WP](https://en.wikipedia.org/wiki/Nnamdi_Ofoborh)) (2017–2021) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

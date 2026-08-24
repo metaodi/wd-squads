@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q219235](https://www.wikidata.org/wiki/Q219235)
 - Wikipedia article: [Servette FC](https://de.wikipedia.org/wiki/Servette_FC)
-- Players in Wikipedia squad: 31
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 69
-- Suggested edits: 96
+- Suggested edits: 95
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
@@ -113,12 +113,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (8)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (7)</strong></summary>
 
 - **Ivan Izquierdo** — 'Ivan Izquierdo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jarell Njiké Simo** — 'Jarell Njiké Simo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Louis Rieder** — 'Louis Rieder' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Lucas Lorenzon** — 'Lucas Lorenzon' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Léo Besson** — 'Léo Besson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sylvain Djoho** — 'Sylvain Djoho' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Thomas Lopes** — 'Thomas Lopes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

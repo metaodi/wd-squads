@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19453](https://www.wikidata.org/wiki/Q19453)
 - Wikipedia article: [Brighton & Hove Albion F.C.](https://en.wikipedia.org/wiki/Brighton_&_Hove_Albion_F.C.)
-- Players in Wikipedia squad: 33
+- Players in Wikipedia squad: 35
 - Current members on Wikidata: 202
-- Suggested edits: 202
+- Suggested edits: 204
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -205,8 +205,9 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
+- **[Amario Cozier-Duberry](https://www.wikidata.org/wiki/Q121438432)** ([WP](https://en.wikipedia.org/wiki/Amario_Cozier-Duberry)) (2024–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Charalampos Kostoulas](https://www.wikidata.org/wiki/Q117360254)** ([WP](https://en.wikipedia.org/wiki/Charalampos_Kostoulas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Costinha](https://www.wikidata.org/wiki/Q85038325)** ([WP](https://en.wikipedia.org/wiki/Costinha_(footballer,_born_2000))) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Eiran Cashin](https://www.wikidata.org/wiki/Q110062925)** ([WP](https://en.wikipedia.org/wiki/Eiran_Cashin)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
@@ -218,6 +219,7 @@
 - **[Michael Svoboda](https://www.wikidata.org/wiki/Q55813157)** ([WP](https://en.wikipedia.org/wiki/Michael_Svoboda)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Olivier Boscagli](https://www.wikidata.org/wiki/Q19968607)** ([WP](https://en.wikipedia.org/wiki/Olivier_Boscagli)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Pascal Struijk](https://www.wikidata.org/wiki/Q78218410)** ([WP](https://en.wikipedia.org/wiki/Pascal_Struijk)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
+- **[Promise David](https://www.wikidata.org/wiki/Q112988067)** ([WP](https://en.wikipedia.org/wiki/Promise_David)) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Rodrigo Rêgo](https://www.wikidata.org/wiki/Q137040896)** ([WP](https://en.wikipedia.org/wiki/Rodrigo_Rêgo_(footballer,_born_2005))) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Stefanos Tzimas](https://www.wikidata.org/wiki/Q115973968)** ([WP](https://en.wikipedia.org/wiki/Stefanos_Tzimas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Tommy Watson](https://www.wikidata.org/wiki/Q122878833)** ([WP](https://en.wikipedia.org/wiki/Tommy_Watson_(footballer,_born_2006))) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.

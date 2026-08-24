@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q160532](https://www.wikidata.org/wiki/Q160532)
 - Wikipedia article: [SC Paderborn 07](https://de.wikipedia.org/wiki/SC_Paderborn_07)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 32
 - Current members on Wikidata: 47
-- Suggested edits: 77
+- Suggested edits: 79
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (4)</strong></summary>
@@ -17,17 +17,19 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (28)</strong></summary>
 
 - **[Albert Millgramm](https://www.wikidata.org/wiki/Q140685654)** ([WP](https://en.wikipedia.org/wiki/Albert_Millgramm)) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Clemens Lippmann](https://www.wikidata.org/wiki/Q140855112)** — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Deniz Zeitler](https://www.wikidata.org/wiki/Q123651623)** ([WP](https://de.wikipedia.org/wiki/Deniz_Zeitler)) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Felix Götze](https://www.wikidata.org/wiki/Q19201325)** ([WP](https://de.wikipedia.org/wiki/Felix_Götze)) (2024–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Florian Pruhs](https://www.wikidata.org/wiki/Q140855115)** — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Gabriel Vidović](https://www.wikidata.org/wiki/Q110611871)** ([WP](https://de.wikipedia.org/wiki/Gabriel_Vidović)) (2026–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Jano ter Horst](https://www.wikidata.org/wiki/Q123999664)** ([WP](https://de.wikipedia.org/wiki/Jano_ter_Horst)) (2026–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Kennedy Okpala](https://www.wikidata.org/wiki/Q123514165)** ([WP](https://de.wikipedia.org/wiki/Kennedy_Okpala)) (2026–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Lasse Eickel](https://www.wikidata.org/wiki/Q140855119)** — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Laurin Curda](https://www.wikidata.org/wiki/Q124260635)** ([WP](https://de.wikipedia.org/wiki/Laurin_Curda)) (2023–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
+- **[Laurin Ulrich](https://www.wikidata.org/wiki/Q115190702)** ([WP](https://de.wikipedia.org/wiki/Laurin_Ulrich)) (2026–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Luka Đurić](https://www.wikidata.org/wiki/Q135703925)** ([WP](https://de.wikipedia.org/wiki/Luka_Đurić)) (2026–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Marcel Hoffmeier](https://www.wikidata.org/wiki/Q76445964)** ([WP](https://de.wikipedia.org/wiki/Marcel_Hoffmeier)) (2022–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.
 - **[Markus Schubert](https://www.wikidata.org/wiki/Q21588109)** ([WP](https://de.wikipedia.org/wiki/Markus_Schubert)) (2024–) — Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.

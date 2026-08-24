@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q1128631](https://www.wikidata.org/wiki/Q1128631)
 - Wikipedia article: [Leeds United F.C.](https://en.wikipedia.org/wiki/Leeds_United_F.C.)
-- Players in Wikipedia squad: 25
-- Current members on Wikidata: 180
+- Players in Wikipedia squad: 26
+- Current members on Wikidata: 181
 - Suggested edits: 189
 
 <details open>

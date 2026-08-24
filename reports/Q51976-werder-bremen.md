@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q51976](https://www.wikidata.org/wiki/Q51976)
 - Wikipedia article: [Werder Bremen](https://de.wikipedia.org/wiki/Werder_Bremen)
-- Players in Wikipedia squad: 31
-- Current members on Wikidata: 97
+- Players in Wikipedia squad: 32
+- Current members on Wikidata: 98
 - Suggested edits: 113
 
 <details open>
@@ -117,10 +117,10 @@
 - **[Dariusz Stalmach](https://www.wikidata.org/wiki/Q110890452)** ([WP](https://de.wikipedia.org/wiki/Dariusz_Stalmach)) (2026–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Darwin Soylu](https://www.wikidata.org/wiki/Q140855158)** — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Dawid Kownacki](https://www.wikidata.org/wiki/Q15983214)** ([WP](https://de.wikipedia.org/wiki/Dawid_Kownacki)) (2023–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
+- **[Eren Dinkçi](https://www.wikidata.org/wiki/Q98169045)** ([WP](https://de.wikipedia.org/wiki/Eren_Dinkçi)) (2026–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Jens Stage](https://www.wikidata.org/wiki/Q24901052)** ([WP](https://de.wikipedia.org/wiki/Jens_Stage)) (2022–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Julián Malatini](https://www.wikidata.org/wiki/Q105811295)** ([WP](https://de.wikipedia.org/wiki/Julián_Malatini)) (2024–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Justin Njinmah](https://www.wikidata.org/wiki/Q110610689)** ([WP](https://de.wikipedia.org/wiki/Justin_Njinmah)) (2023–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
-- **[Karim Coulibaly](https://www.wikidata.org/wiki/Q135968088)** ([WP](https://de.wikipedia.org/wiki/Karim_Coulibaly_(Fußballspieler,_2007))) (2025–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Karl Hein](https://www.wikidata.org/wiki/Q98918607)** ([WP](https://de.wikipedia.org/wiki/Karl_Hein_(Fußballspieler))) (2025–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Keke Topp](https://www.wikidata.org/wiki/Q109925006)** ([WP](https://de.wikipedia.org/wiki/Keke_Topp)) (2024–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Kenny Quetant](https://www.wikidata.org/wiki/Q137970998)** ([WP](https://de.wikipedia.org/wiki/Kenny_Quetant)) (2026–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.

@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q201360](https://www.wikidata.org/wiki/Q201360)
 - Wikipedia article: [Grasshopper Club Zürich](https://de.wikipedia.org/wiki/Grasshopper_Club_Zürich)
-- Players in Wikipedia squad: 38
-- Current members on Wikidata: 56
+- Players in Wikipedia squad: 37
+- Current members on Wikidata: 57
 - Suggested edits: 91
 
 <details open>
@@ -28,7 +28,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (54)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (55)</strong></summary>
 
 - **[Alban Pnishi](https://www.wikidata.org/wiki/Q20873461)** ([WP](https://en.wikipedia.org/wiki/Alban_Pnishi)) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albion Avdijaj](https://www.wikidata.org/wiki/Q16977436)** ([WP](https://de.wikipedia.org/wiki/Albion_Avdijaj)) (2017–2019) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -59,6 +59,7 @@
 - **[Leonardo Almeida](https://www.wikidata.org/wiki/Q128198214)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Levent Gülen](https://www.wikidata.org/wiki/Q15665466)** ([WP](https://de.wikipedia.org/wiki/Levent_G%C3%BClen)) (2012–2016) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lucas Waldesbühl](https://www.wikidata.org/wiki/Q3838365)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Manex Gibelalde](https://www.wikidata.org/wiki/Q131404403)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manuel Huber](https://www.wikidata.org/wiki/Q5993272)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manuel Kubli](https://www.wikidata.org/wiki/Q21103030)** ([WP](https://de.wikipedia.org/wiki/Manuel_Kubli)) (2014–2017) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marko Bašić](https://www.wikidata.org/wiki/Q21207273)** ([WP](https://en.wikipedia.org/wiki/Marko_Ba%C5%A1i%C4%87_(footballer,_born_1988))) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -95,20 +96,19 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (21)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (20)</strong></summary>
 
 - **Demis Fiechter** — 'Demis Fiechter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Denis Sahin** — 'Denis Sahin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Diego Ferrazza** — 'Diego Ferrazza' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dominik Papic** — 'Dominik Papic' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dorian Paloschi** — 'Dorian Paloschi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Elijah Muogbo** — 'Elijah Muogbo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Eron Avdullahu** — 'Eron Avdullahu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Imourane Hassane** — 'Imourane Hassane' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Leart Kabashi** — 'Leart Kabashi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Lionel Thüring** — 'Lionel Thüring' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Loris Giandomenico** — 'Loris Giandomenico' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Luka Mikulić** — 'Luka Mikulić' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Manex Guibelalde** — 'Manex Guibelalde' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Marvin Hübel** — 'Marvin Hübel' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nico Rissi** — 'Nico Rissi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nicolas Muci** — 'Nicolas Muci' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q9617](https://www.wikidata.org/wiki/Q9617)
 - Wikipedia article: [Arsenal F.C.](https://en.wikipedia.org/wiki/Arsenal_F.C.)
-- Players in Wikipedia squad: 36
-- Current members on Wikidata: 177
-- Suggested edits: 166
+- Players in Wikipedia squad: 38
+- Current members on Wikidata: 178
+- Suggested edits: 167
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
@@ -175,7 +175,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (9)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (10)</strong></summary>
 
 - **[Andre Harriman-Annous](https://www.wikidata.org/wiki/Q136672473)** ([WP](https://en.wikipedia.org/wiki/Andre_Harriman-Annous)) (2025–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Brando Bailey-Joseph](https://www.wikidata.org/wiki/Q137921069)** ([WP](https://en.wikipedia.org/wiki/Brando_Bailey-Joseph)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
@@ -183,6 +183,7 @@
 - **[Christos Tzolis](https://www.wikidata.org/wiki/Q96182871)** ([WP](https://en.wikipedia.org/wiki/Christos_Tzolis)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Ife Ibrahim](https://www.wikidata.org/wiki/Q137920955)** ([WP](https://en.wikipedia.org/wiki/Ife_Ibrahim)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Illan Meslier](https://www.wikidata.org/wiki/Q56249966)** ([WP](https://en.wikipedia.org/wiki/Illan_Meslier)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
+- **[Ismeal Kabia](https://www.wikidata.org/wiki/Q130304859)** ([WP](https://en.wikipedia.org/wiki/Ismeal_Kabia)) (2024–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Jaden Dixon](https://www.wikidata.org/wiki/Q129033718)** ([WP](https://en.wikipedia.org/wiki/Jaden_Dixon)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Marli Salmon](https://www.wikidata.org/wiki/Q135615356)** ([WP](https://en.wikipedia.org/wiki/Marli_Salmon)) (2025–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Tommy Setford](https://www.wikidata.org/wiki/Q123512560)** ([WP](https://en.wikipedia.org/wiki/Tommy_Setford)) (2024–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.

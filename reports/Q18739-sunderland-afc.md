@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q18739](https://www.wikidata.org/wiki/Q18739)
 - Wikipedia article: [Sunderland A.F.C.](https://en.wikipedia.org/wiki/Sunderland_A.F.C.)
-- Players in Wikipedia squad: 28
-- Current members on Wikidata: 158
+- Players in Wikipedia squad: 29
+- Current members on Wikidata: 157
 - Suggested edits: 175
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (152)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (151)</strong></summary>
 
 - **[Abby Holmes](https://www.wikidata.org/wiki/Q41435153)** — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Matthews](https://www.wikidata.org/wiki/Q350383)** ([WP](https://en.wikipedia.org/wiki/Adam_Matthews)) (2015–2019) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -110,7 +110,6 @@
 - **[Les Dodds](https://www.wikidata.org/wiki/Q47546737)** ([WP](https://en.wikipedia.org/wiki/Les_Dodds_(footballer,_born_1936))) (1953–1960) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Liam Bridcutt](https://www.wikidata.org/wiki/Q2080923)** ([WP](https://en.wikipedia.org/wiki/Liam_Bridcutt)) (2014–2016) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luke Molyneux](https://www.wikidata.org/wiki/Q56250126)** ([WP](https://en.wikipedia.org/wiki/Luke_Molyneux)) (2018–2019) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Lutsharel Geertruida](https://www.wikidata.org/wiki/Q42328360)** ([WP](https://en.wikipedia.org/wiki/Lutsharel_Geertruida)) (2025–2026) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lynden Gooch](https://www.wikidata.org/wiki/Q20895094)** ([WP](https://en.wikipedia.org/wiki/Lynden_Gooch)) (2015–2023) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Matthew Ferguson](https://www.wikidata.org/wiki/Q6790495)** ([WP](https://en.wikipedia.org/wiki/Matthew_Ferguson_(Scottish_footballer))) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Maurice Hepworth](https://www.wikidata.org/wiki/Q18044065)** ([WP](https://en.wikipedia.org/wiki/Maurice_Hepworth)) (1970–) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -165,7 +164,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (22)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (23)</strong></summary>
 
 - **[Abdoullah Ba](https://www.wikidata.org/wiki/Q106860208)** ([WP](https://en.wikipedia.org/wiki/Abdoullah_Ba)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Aji Alese](https://www.wikidata.org/wiki/Q67853785)** ([WP](https://en.wikipedia.org/wiki/Aji_Alese)) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
@@ -174,6 +173,7 @@
 - **[Chemsdine Talbi](https://www.wikidata.org/wiki/Q113510254)** ([WP](https://en.wikipedia.org/wiki/Chemsdine_Talbi)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Chris Rigg](https://www.wikidata.org/wiki/Q116077683)** ([WP](https://en.wikipedia.org/wiki/Chris_Rigg)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Daniel Ballard](https://www.wikidata.org/wiki/Q56588154)** ([WP](https://en.wikipedia.org/wiki/Daniel_Ballard)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
+- **[Dayann Methalie](https://www.wikidata.org/wiki/Q135855436)** ([WP](https://en.wikipedia.org/wiki/Dayann_Methalie)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Enzo Le Fée](https://www.wikidata.org/wiki/Q64009974)** ([WP](https://en.wikipedia.org/wiki/Enzo_Le_Fée)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Habib Diarra](https://www.wikidata.org/wiki/Q108924143)** ([WP](https://en.wikipedia.org/wiki/Habib_Diarra)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Jenson Seelt](https://www.wikidata.org/wiki/Q104543610)** ([WP](https://en.wikipedia.org/wiki/Jenson_Seelt)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.

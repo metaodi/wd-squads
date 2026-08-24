@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18711](https://www.wikidata.org/wiki/Q18711)
 - Wikipedia article: [Aston Villa F.C.](https://en.wikipedia.org/wiki/Aston_Villa_F.C.)
-- Players in Wikipedia squad: 55
-- Current members on Wikidata: 283
-- Suggested edits: 303
+- Players in Wikipedia squad: 56
+- Current members on Wikidata: 285
+- Suggested edits: 302
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
@@ -285,7 +285,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (25)</strong></summary>
 
 - **[Aidan Borland](https://www.wikidata.org/wiki/Q130360134)** ([WP](https://en.wikipedia.org/wiki/Aidan_Borland)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Alysson](https://www.wikidata.org/wiki/Q127257240)** ([WP](https://en.wikipedia.org/wiki/Alysson_(footballer,_born_2006))) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
@@ -306,7 +306,6 @@
 - **[Marco Bizot](https://www.wikidata.org/wiki/Q218937)** ([WP](https://en.wikipedia.org/wiki/Marco_Bizot)) (2025–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Mason Cotcher](https://www.wikidata.org/wiki/Q129084705)** ([WP](https://en.wikipedia.org/wiki/Mason_Cotcher)) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Modou Kéba Cissé](https://www.wikidata.org/wiki/Q132719377)** ([WP](https://en.wikipedia.org/wiki/Modou_Kéba_Cissé)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
-- **[Omar Khedr](https://www.wikidata.org/wiki/Q121437654)** ([WP](https://en.wikipedia.org/wiki/Omar_Khedr)) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Rhys Oakley](https://www.wikidata.org/wiki/Q7321826)** ([WP](https://en.wikipedia.org/wiki/Rhys_Oakley)) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Rory Wilson](https://www.wikidata.org/wiki/Q115814681)** ([WP](https://en.wikipedia.org/wiki/Rory_Wilson)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Tommi O'Reilly](https://www.wikidata.org/wiki/Q123822976)** ([WP](https://en.wikipedia.org/wiki/Tommi_O'Reilly)) (2023–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.

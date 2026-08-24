@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q38245](https://www.wikidata.org/wiki/Q38245)
 - Wikipedia article: [Eintracht Frankfurt](https://de.wikipedia.org/wiki/Eintracht_Frankfurt)
-- Players in Wikipedia squad: 27
-- Current members on Wikidata: 135
-- Suggested edits: 141
+- Players in Wikipedia squad: 26
+- Current members on Wikidata: 134
+- Suggested edits: 143
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (124)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (125)</strong></summary>
 
 - **[Adam Schmitt](https://www.wikidata.org/wiki/Q74455998)** ([WP](https://de.wikipedia.org/wiki/Adam_Schmitt_(Fu%C3%9Fballspieler))) (1935–1949) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Wirsching](https://www.wikidata.org/wiki/Q60723995)** ([WP](https://de.wikipedia.org/wiki/Albert_Wirsching)) (1936–1948) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -39,6 +39,7 @@
 - **[Eduard Francke](https://www.wikidata.org/wiki/Q21035843)** ([WP](https://de.wikipedia.org/wiki/Eduard_Francke_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Edwin Westenberger](https://www.wikidata.org/wiki/Q1295050)** ([WP](https://de.wikipedia.org/wiki/Edwin_Westenberger)) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Egon Bihn](https://www.wikidata.org/wiki/Q1298475)** ([WP](https://de.wikipedia.org/wiki/Egon_Bihn)) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Ellyes Skhiri](https://www.wikidata.org/wiki/Q20641500)** ([WP](https://de.wikipedia.org/wiki/Ellyes_Skhiri)) (2023–2026) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Emil Arheilger](https://www.wikidata.org/wiki/Q43126238)** ([WP](https://de.wikipedia.org/wiki/Emil_Arheilger)) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Enis Bunjaki](https://www.wikidata.org/wiki/Q17154511)** ([WP](https://de.wikipedia.org/wiki/Enis_Bunjaki)) (2015–2017) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erich Dziwoki](https://www.wikidata.org/wiki/Q22342435)** ([WP](https://de.wikipedia.org/wiki/Erich_Dziwoki)) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -137,11 +138,12 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
 
 - **[Amil Šiljević](https://www.wikidata.org/wiki/Q136296091)** — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ayoube Amaimouni](https://www.wikidata.org/wiki/Q137705019)** ([WP](https://de.wikipedia.org/wiki/Ayoube_Amaimouni)) (2026–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Elias Baum](https://www.wikidata.org/wiki/Q123390886)** ([WP](https://de.wikipedia.org/wiki/Elias_Baum)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
+- **[Elye Wahi](https://www.wikidata.org/wiki/Q104215027)** ([WP](https://de.wikipedia.org/wiki/Elye_Wahi)) (2025–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Farès Chaïbi](https://www.wikidata.org/wiki/Q113474248)** ([WP](https://de.wikipedia.org/wiki/Farès_Chaïbi)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Hugo Larsson](https://www.wikidata.org/wiki/Q111586862)** ([WP](https://de.wikipedia.org/wiki/Hugo_Larsson)) (2023–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.
 - **[Jean-Mattéo Bahoya](https://www.wikidata.org/wiki/Q116052667)** ([WP](https://de.wikipedia.org/wiki/Jean-Mattéo_Bahoya)) (2024–) — Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q189671](https://www.wikidata.org/wiki/Q189671)
 - Wikipedia article: [FC Basel](https://de.wikipedia.org/wiki/FC_Basel)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 279
-- Suggested edits: 302
+- Suggested edits: 301
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -324,11 +324,10 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (9)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (8)</strong></summary>
 
 - **Andrei Bačanin** — 'Andrei Bačanin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bennett Hoch** — 'Bennett Hoch' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Evann Senaya** — 'Evann Senaya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jean Doucoure** — 'Jean Doucoure' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ludwig Malachowski** — 'Ludwig Malachowski' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Metinho** — 'Metinho' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

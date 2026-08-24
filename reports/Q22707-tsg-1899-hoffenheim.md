@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q22707](https://www.wikidata.org/wiki/Q22707)
 - Wikipedia article: [TSG 1899 Hoffenheim](https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim)
-- Players in Wikipedia squad: 61
+- Players in Wikipedia squad: 60
 - Current members on Wikidata: 78
-- Suggested edits: 121
+- Suggested edits: 120
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (32)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (31)</strong></summary>
 
 - **[Adam Daghim](https://www.wikidata.org/wiki/Q112970825)** ([WP](https://de.wikipedia.org/wiki/Adam_Daghim)) (2026–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Albian Hajdari](https://www.wikidata.org/wiki/Q99694316)** ([WP](https://de.wikipedia.org/wiki/Albian_Hajdari)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
@@ -38,7 +38,6 @@
 - **[Santino Pistrol](https://www.wikidata.org/wiki/Q137168777)** ([WP](https://de.wikipedia.org/wiki/Santino_Pistrol)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Tim Lemperle](https://www.wikidata.org/wiki/Q96678433)** ([WP](https://de.wikipedia.org/wiki/Tim_Lemperle)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Tobias Trautner](https://www.wikidata.org/wiki/Q55182196)** ([WP](https://de.wikipedia.org/wiki/Tobias_Trautner)) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Umut Tohumcu](https://www.wikidata.org/wiki/Q112041896)** ([WP](https://de.wikipedia.org/wiki/Umut_Tohumcu)) (2022–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Vladimír Coufal](https://www.wikidata.org/wiki/Q15113326)** ([WP](https://de.wikipedia.org/wiki/Vladimír_Coufal)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 - **[Wouter Burger](https://www.wikidata.org/wiki/Q53998229)** ([WP](https://de.wikipedia.org/wiki/Wouter_Burger)) (2025–) — Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.
 

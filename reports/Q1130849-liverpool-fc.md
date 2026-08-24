@@ -3,8 +3,8 @@
 - Wikidata item: [Q1130849](https://www.wikidata.org/wiki/Q1130849)
 - Wikipedia article: [Liverpool F.C.](https://en.wikipedia.org/wiki/Liverpool_F.C.)
 - Players in Wikipedia squad: 43
-- Current members on Wikidata: 365
-- Suggested edits: 361
+- Current members on Wikidata: 364
+- Suggested edits: 362
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (7)</strong></summary>
@@ -367,12 +367,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (13)</strong></summary>
 
 - **[Amara Nallo](https://www.wikidata.org/wiki/Q124691152)** ([WP](https://en.wikipedia.org/wiki/Amara_Nallo)) (2024–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Calum Scanlon](https://www.wikidata.org/wiki/Q118725094)** ([WP](https://en.wikipedia.org/wiki/Calum_Scanlon)) (2023–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Freddie Woodman](https://www.wikidata.org/wiki/Q20127322)** ([WP](https://en.wikipedia.org/wiki/Freddie_Woodman)) (2025–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Harvey Davies](https://www.wikidata.org/wiki/Q115145113)** ([WP](https://en.wikipedia.org/wiki/Harvey_Davies)) (2020–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
+- **[Ifeanyi Ndukwe](https://www.wikidata.org/wiki/Q135583601)** ([WP](https://en.wikipedia.org/wiki/Ifeanyi_Ndukwe)) (2026–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Isaac Mabaya](https://www.wikidata.org/wiki/Q113434149)** ([WP](https://en.wikipedia.org/wiki/Isaac_Mabaya)) (2024–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[James McConnell](https://www.wikidata.org/wiki/Q118767830)** ([WP](https://en.wikipedia.org/wiki/James_McConnell_(footballer,_born_2004))) (2023–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.
 - **[Kieran Morrison](https://www.wikidata.org/wiki/Q118727397)** ([WP](https://en.wikipedia.org/wiki/Kieran_Morrison_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Liverpool F.C. (Q1130849); the player is in the current squad on Wikipedia.

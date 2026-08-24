@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q106394](https://www.wikidata.org/wiki/Q106394)
 - Wikipedia article: [SC Freiburg](https://de.wikipedia.org/wiki/SC_Freiburg)
-- Players in Wikipedia squad: 60
+- Players in Wikipedia squad: 59
 - Current members on Wikidata: 75
-- Suggested edits: 118
+- Suggested edits: 117
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -87,14 +87,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (27)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
 
 - **[Anthony Jung](https://www.wikidata.org/wiki/Q573461)** ([WP](https://de.wikipedia.org/wiki/Anthony_Jung)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Berkay Yılmaz](https://www.wikidata.org/wiki/Q123510066)** ([WP](https://de.wikipedia.org/wiki/Berkay_Yılmaz)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Bruno Ogbus](https://www.wikidata.org/wiki/Q123505973)** ([WP](https://de.wikipedia.org/wiki/Bruno_Ogbus)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Cyriaque Irié](https://www.wikidata.org/wiki/Q133808438)** ([WP](https://de.wikipedia.org/wiki/Cyriaque_Irié)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Derry Scherhant](https://www.wikidata.org/wiki/Q113532157)** ([WP](https://de.wikipedia.org/wiki/Derry_Scherhant)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
-- **[Eren Dinkçi](https://www.wikidata.org/wiki/Q98169045)** ([WP](https://de.wikipedia.org/wiki/Eren_Dinkçi)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Florent Muslija](https://www.wikidata.org/wiki/Q30006877)** ([WP](https://de.wikipedia.org/wiki/Florent_Muslija)) (2024–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Florian Müller](https://www.wikidata.org/wiki/Q24061542)** ([WP](https://de.wikipedia.org/wiki/Florian_Müller_(Fußballspieler,_1997))) (2023–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.
 - **[Igor Matanović](https://www.wikidata.org/wiki/Q102399064)** ([WP](https://de.wikipedia.org/wiki/Igor_Matanović)) (2025–) — Add a 'member of sports team' (P54) statement → SC Freiburg (Q106394); the player is in the current squad on Wikipedia.

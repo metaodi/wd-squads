@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q4512](https://www.wikidata.org/wiki/Q4512)
 - Wikipedia article: [VfB Stuttgart](https://de.wikipedia.org/wiki/VfB_Stuttgart)
-- Players in Wikipedia squad: 57
+- Players in Wikipedia squad: 55
 - Current members on Wikidata: 323
-- Suggested edits: 353
+- Suggested edits: 351
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (308)</strong></summary>
@@ -321,7 +321,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (42)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (40)</strong></summary>
 
 - **[Antonijo Janjić](https://www.wikidata.org/wiki/Q140134226)** ([WP](https://de.wikipedia.org/wiki/Antonijo_Janjić)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Badredine Bouanani](https://www.wikidata.org/wiki/Q114593540)** ([WP](https://de.wikipedia.org/wiki/Badredine_Bouanani)) (2025–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
@@ -341,10 +341,8 @@
 - **[Jerik von der Felsen](https://www.wikidata.org/wiki/Q139567682)** ([WP](https://de.wikipedia.org/wiki/Jerik_von_der_Felsen)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Jordan Majchrzak](https://www.wikidata.org/wiki/Q117084669)** ([WP](https://de.wikipedia.org/wiki/Jordan_Majchrzak)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Josha Vagnoman](https://www.wikidata.org/wiki/Q50384596)** ([WP](https://de.wikipedia.org/wiki/Josha_Vagnoman)) (2022–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
-- **[Jovan Milošević](https://www.wikidata.org/wiki/Q113138312)** ([WP](https://de.wikipedia.org/wiki/Jovan_Milošević)) (2023–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Julian Lüers](https://www.wikidata.org/wiki/Q135582285)** ([WP](https://de.wikipedia.org/wiki/Julian_Lüers)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Lauri Penna](https://www.wikidata.org/wiki/Q135687046)** ([WP](https://de.wikipedia.org/wiki/Lauri_Penna)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
-- **[Laurin Ulrich](https://www.wikidata.org/wiki/Q115190702)** ([WP](https://de.wikipedia.org/wiki/Laurin_Ulrich)) (2022–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Lazar Jovanović](https://www.wikidata.org/wiki/Q121086658)** ([WP](https://de.wikipedia.org/wiki/Lazar_Jovanović_(Fußballspieler,_2006))) (2025–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Leonidas Stergiou](https://www.wikidata.org/wiki/Q64009619)** ([WP](https://de.wikipedia.org/wiki/Leonidas_Stergiou)) (2023–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Lorenz Assignon](https://www.wikidata.org/wiki/Q108199499)** ([WP](https://de.wikipedia.org/wiki/Lorenz_Assignon)) (2025–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
