@@ -3,8 +3,8 @@
 - Wikidata item: [Q51976](https://www.wikidata.org/wiki/Q51976)
 - Wikipedia article: [Werder Bremen](https://de.wikipedia.org/wiki/Werder_Bremen)
 - Players in Wikipedia squad: 32
-- Current members on Wikidata: 98
-- Suggested edits: 113
+- Current members on Wikidata: 97
+- Suggested edits: 112
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (89)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (88)</strong></summary>
 
 - **[Aaran Lines](https://www.wikidata.org/wiki/Q301037)** ([WP](https://de.wikipedia.org/wiki/Aaran_Lines)) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abdullah Doğan](https://www.wikidata.org/wiki/Q23951776)** ([WP](https://de.wikipedia.org/wiki/Abdullah_Dogan)) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -85,7 +85,6 @@
 - **[Reinhard Heinrich](https://www.wikidata.org/wiki/Q59641341)** ([WP](https://de.wikipedia.org/wiki/Reinhard_Heinrich_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rieke Dieckmann](https://www.wikidata.org/wiki/Q26791727)** ([WP](https://de.wikipedia.org/wiki/Rieke_Dieckmann)) (2021–2026) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Robert Mahlstedt](https://www.wikidata.org/wiki/Q69811186)** ([WP](https://de.wikipedia.org/wiki/Robert_Mahlstedt)) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Romano Schmid](https://www.wikidata.org/wiki/Q30080273)** ([WP](https://de.wikipedia.org/wiki/Romano_Schmid)) (2019–2026) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sambou Yatabaré](https://www.wikidata.org/wiki/Q27528)** ([WP](https://de.wikipedia.org/wiki/Sambou_Yatabar%C3%A9)) (2016) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sandra Hausberger](https://www.wikidata.org/wiki/Q24631112)** ([WP](https://de.wikipedia.org/wiki/Sandra_Hausberger)) (2013–2017) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Santiago García](https://www.wikidata.org/wiki/Q2660937)** ([WP](https://de.wikipedia.org/wiki/Santiago_Garc%C3%ADa_(Fu%C3%9Fballspieler,_1988))) (2013–2017) — Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

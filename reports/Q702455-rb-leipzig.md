@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
-- Players in Wikipedia squad: 32
-- Current members on Wikidata: 97
+- Players in Wikipedia squad: 33
+- Current members on Wikidata: 98
 - Suggested edits: 107
 
 <details open>
@@ -75,8 +75,6 @@
 - **[Justin Kluivert](https://www.wikidata.org/wiki/Q26934107)** ([WP](https://de.wikipedia.org/wiki/Justin_Kluivert)) (2020–2021) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kamil Wojtkowski](https://www.wikidata.org/wiki/Q20641645)** ([WP](https://en.wikipedia.org/wiki/Kamil_Wojtkowski)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ken Gipson](https://www.wikidata.org/wiki/Q21292951)** ([WP](https://de.wikipedia.org/wiki/Ken_Gipson)) (2015–2017) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Kevin Kampl](https://www.wikidata.org/wiki/Q1740190)** ([WP](https://de.wikipedia.org/wiki/Kevin_Kampl)) (2017–2025) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Korina Lara Janež](https://www.wikidata.org/wiki/Q98090478)** ([WP](https://de.wikipedia.org/wiki/Korina_Jane%C5%BE)) (2022–2024) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kossivi Amédédjisso](https://www.wikidata.org/wiki/Q75876773)** ([WP](https://de.wikipedia.org/wiki/Kossivi_Am%C3%A9d%C3%A9djisso)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lazar Samardžić](https://www.wikidata.org/wiki/Q94723966)** ([WP](https://de.wikipedia.org/wiki/Lazar_Samard%C5%BEi%C4%87)) (2020–2021) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lisa Pfretzschner](https://www.wikidata.org/wiki/Q55028456)** ([WP](https://de.wikipedia.org/wiki/Lisa_Pfretzschner)) (2016–2018) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -103,6 +101,8 @@
 - **[Paul Schinke](https://www.wikidata.org/wiki/Q12815634)** — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Köhn](https://www.wikidata.org/wiki/Q56612830)** ([WP](https://de.wikipedia.org/wiki/Philipp_K%C3%B6hn)) (2017–2018) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Tschauner](https://www.wikidata.org/wiki/Q878033)** ([WP](https://de.wikipedia.org/wiki/Philipp_Tschauner)) (2019–2022) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Q1740190](https://www.wikidata.org/wiki/Q1740190)** ([WP](https://de.wikipedia.org/wiki/Kevin_Kampl)) (2017–2025) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Q98090478](https://www.wikidata.org/wiki/Q98090478)** ([WP](https://de.wikipedia.org/wiki/Korina_Jane%C5%BE)) (2022–2024) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rani Khedira](https://www.wikidata.org/wiki/Q86312)** ([WP](https://de.wikipedia.org/wiki/Rani_Khedira)) (2014–2017) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Robert Klauß](https://www.wikidata.org/wiki/Q55443134)** ([WP](https://de.wikipedia.org/wiki/Robert_Klau%C3%9F)) (2009–2010) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sascha Lense](https://www.wikidata.org/wiki/Q7425029)** ([WP](https://de.wikipedia.org/wiki/Sascha_Lense)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

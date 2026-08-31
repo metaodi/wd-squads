@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q50602](https://www.wikidata.org/wiki/Q50602)
 - Wikipedia article: [Manchester City F.C.](https://en.wikipedia.org/wiki/Manchester_City_F.C.)
-- Players in Wikipedia squad: 45
+- Players in Wikipedia squad: 44
 - Current members on Wikidata: 211
-- Suggested edits: 207
+- Suggested edits: 209
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,7 +15,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (186)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (187)</strong></summary>
 
 - **[Adam Carson](https://www.wikidata.org/wiki/Q4678835)** ([WP](https://en.wikipedia.org/wiki/Adam_Carson_(footballer))) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrián Bernabé](https://www.wikidata.org/wiki/Q56809124)** ([WP](https://en.wikipedia.org/wiki/Adri%C3%A1n_Bernab%C3%A9)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -100,6 +100,7 @@
 - **[Ian Woan](https://www.wikidata.org/wiki/Q5983308)** ([WP](https://en.wikipedia.org/wiki/Ian_Woan)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Irvine Thornley](https://www.wikidata.org/wiki/Q6074388)** ([WP](https://en.wikipedia.org/wiki/Irvine_Thornley)) (1904–1912) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Isobel Christiansen](https://www.wikidata.org/wiki/Q6085292)** ([WP](https://en.wikipedia.org/wiki/Izzy_Christiansen)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Issa Kaboré](https://www.wikidata.org/wiki/Q67175861)** ([WP](https://en.wikipedia.org/wiki/Issa_Kabor%C3%A9)) (2020–2026) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ivan Ilić](https://www.wikidata.org/wiki/Q29081863)** ([WP](https://en.wikipedia.org/wiki/Ivan_Ili%C4%87_(footballer,_born_2001))) (2017–2020) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Breedon](https://www.wikidata.org/wiki/Q6111389)** ([WP](https://en.wikipedia.org/wiki/Jack_Breedon)) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jack Byrne](https://www.wikidata.org/wiki/Q21130217)** ([WP](https://en.wikipedia.org/wiki/Jack_Byrne_(footballer,_born_1996))) (2015–2017) — Add an end date (P582) to the membership → Manchester City F.C. (Q50602); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -212,8 +213,8 @@
 - **[Charlie Gray](https://www.wikidata.org/wiki/Q137433913)** ([WP](https://en.wikipedia.org/wiki/Charlie_Gray_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Claudio Echeverri](https://www.wikidata.org/wiki/Q116463164)** ([WP](https://en.wikipedia.org/wiki/Claudio_Echeverri)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Divine Mukasa](https://www.wikidata.org/wiki/Q131382825)** ([WP](https://en.wikipedia.org/wiki/Divine_Mukasa)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
+- **[Floyd Samba](https://www.wikidata.org/wiki/Q139889492)** ([WP](https://en.wikipedia.org/wiki/Floyd_Samba)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Jeremy Monga](https://www.wikidata.org/wiki/Q133832511)** ([WP](https://en.wikipedia.org/wiki/Jeremy_Monga)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
-- **[Kaden Braithwaite](https://www.wikidata.org/wiki/Q130360009)** ([WP](https://en.wikipedia.org/wiki/Kaden_Braithwaite)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Kian Noble](https://www.wikidata.org/wiki/Q137374928)** ([WP](https://en.wikipedia.org/wiki/Kian_Noble)) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Luke Mbete](https://www.wikidata.org/wiki/Q108665614)** ([WP](https://en.wikipedia.org/wiki/Luke_Mbete)) (2021–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Marcus Bettinelli](https://www.wikidata.org/wiki/Q16200385)** ([WP](https://en.wikipedia.org/wiki/Marcus_Bettinelli)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
@@ -231,8 +232,9 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Divin Mubama](https://www.wikidata.org/wiki/Q115044761)** ([WP](https://en.wikipedia.org/wiki/Divin_Mubama)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Kaden Braithwaite](https://www.wikidata.org/wiki/Q130360009)** ([WP](https://en.wikipedia.org/wiki/Kaden_Braithwaite)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 </details>

@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q18739](https://www.wikidata.org/wiki/Q18739)
 - Wikipedia article: [Sunderland A.F.C.](https://en.wikipedia.org/wiki/Sunderland_A.F.C.)
-- Players in Wikipedia squad: 29
-- Current members on Wikidata: 157
+- Players in Wikipedia squad: 30
+- Current members on Wikidata: 158
 - Suggested edits: 175
 
 <details open>
@@ -62,7 +62,7 @@
 - **[Grace Ede](https://www.wikidata.org/wiki/Q134961662)** — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Graham Reed](https://www.wikidata.org/wiki/Q50365698)** ([WP](https://en.wikipedia.org/wiki/Graham_Reed_(footballer,_born_1938))) (1957–1958) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harold Shaw](https://www.wikidata.org/wiki/Q5672303)** ([WP](https://en.wikipedia.org/wiki/Harry_Shaw_(footballer))) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Harrison Jones](https://www.wikidata.org/wiki/Q132158391)** ([WP](https://en.wikipedia.org/wiki/Harrison_Jones_(English_footballer))) (2025–2026) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Harrison Jones](https://www.wikidata.org/wiki/Q132158391)** ([WP](https://en.wikipedia.org/wiki/Harrison_Jones_(English_footballer))) (2024–2026) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Wardle](https://www.wikidata.org/wiki/Q50215958)** ([WP](https://en.wikipedia.org/wiki/Harry_Wardle)) (1903–1905) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Henry Forster](https://www.wikidata.org/wiki/Q16067048)** ([WP](https://en.wikipedia.org/wiki/Henry_Forster_(footballer))) (1907–1911) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Henry Hartness](https://www.wikidata.org/wiki/Q23463383)** ([WP](https://en.wikipedia.org/wiki/Henry_Hartness)) — Add an end date (P582) to the membership → Sunderland A.F.C. (Q18739); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -169,7 +169,6 @@
 - **[Abdoullah Ba](https://www.wikidata.org/wiki/Q106860208)** ([WP](https://en.wikipedia.org/wiki/Abdoullah_Ba)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Aji Alese](https://www.wikidata.org/wiki/Q67853785)** ([WP](https://en.wikipedia.org/wiki/Aji_Alese)) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Alan Browne](https://www.wikidata.org/wiki/Q16229852)** ([WP](https://en.wikipedia.org/wiki/Alan_Browne_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
-- **[Brian Brobbey](https://www.wikidata.org/wiki/Q57456997)** ([WP](https://en.wikipedia.org/wiki/Brian_Brobbey)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Chemsdine Talbi](https://www.wikidata.org/wiki/Q113510254)** ([WP](https://en.wikipedia.org/wiki/Chemsdine_Talbi)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Chris Rigg](https://www.wikidata.org/wiki/Q116077683)** ([WP](https://en.wikipedia.org/wiki/Chris_Rigg)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Daniel Ballard](https://www.wikidata.org/wiki/Q56588154)** ([WP](https://en.wikipedia.org/wiki/Daniel_Ballard)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
@@ -178,6 +177,7 @@
 - **[Habib Diarra](https://www.wikidata.org/wiki/Q108924143)** ([WP](https://en.wikipedia.org/wiki/Habib_Diarra)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Jenson Seelt](https://www.wikidata.org/wiki/Q104543610)** ([WP](https://en.wikipedia.org/wiki/Jenson_Seelt)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Jocelin Ta Bi](https://www.wikidata.org/wiki/Q137796970)** ([WP](https://en.wikipedia.org/wiki/Jocelin_Ta_Bi)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
+- **[Jules Ahoka](https://www.wikidata.org/wiki/Q140986989)** — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Luke O'Nien](https://www.wikidata.org/wiki/Q16236417)** ([WP](https://en.wikipedia.org/wiki/Luke_O'Nien)) (2018–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Luís Semedo](https://www.wikidata.org/wiki/Q110755842)** ([WP](https://en.wikipedia.org/wiki/Luís_Semedo)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Melker Ellborg](https://www.wikidata.org/wiki/Q74222613)** ([WP](https://en.wikipedia.org/wiki/Melker_Ellborg)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.

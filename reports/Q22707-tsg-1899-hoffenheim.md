@@ -4,7 +4,7 @@
 - Wikipedia article: [TSG 1899 Hoffenheim](https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim)
 - Players in Wikipedia squad: 60
 - Current members on Wikidata: 78
-- Suggested edits: 120
+- Suggested edits: 122
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (31)</strong></summary>
@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (69)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (70)</strong></summary>
 
 - **[Alexander Rossipal](https://www.wikidata.org/wiki/Q44966010)** ([WP](https://de.wikipedia.org/wiki/Alexander_Rossipal)) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Stolz](https://www.wikidata.org/wiki/Q77941)** ([WP](https://de.wikipedia.org/wiki/Alexander_Stolz)) (2013–2020) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -57,6 +57,7 @@
 - **[Christoph Martschinko](https://www.wikidata.org/wiki/Q5111722)** ([WP](https://de.wikipedia.org/wiki/Christoph_Martschinko)) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Connor Krempicki](https://www.wikidata.org/wiki/Q55819922)** ([WP](https://de.wikipedia.org/wiki/Connor_Krempicki)) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David Otto](https://www.wikidata.org/wiki/Q44965254)** ([WP](https://de.wikipedia.org/wiki/David_Otto)) (2017–2019) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Dennis Geiger](https://www.wikidata.org/wiki/Q36194149)** ([WP](https://de.wikipedia.org/wiki/Dennis_Geiger_(Fu%C3%9Fballspieler,_1998))) (2016–2026) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dóra Zeller](https://www.wikidata.org/wiki/Q1467012)** ([WP](https://de.wikipedia.org/wiki/D%C3%B3ra_Zeller)) (2014–2019) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ermin Bičakčić](https://www.wikidata.org/wiki/Q75993)** ([WP](https://de.wikipedia.org/wiki/Ermin_Bi%C4%8Dak%C4%8Di%C4%87)) (2014–2023) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erwin Rupp](https://www.wikidata.org/wiki/Q30253095)** ([WP](https://de.wikipedia.org/wiki/Erwin_Rupp)) — Add an end date (P582) to the membership → TSG 1899 Hoffenheim (Q22707); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -119,7 +120,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (20)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (21)</strong></summary>
 
 - **Alex Honajzer** — 'Alex Honajzer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ben Opoku** — 'Ben Opoku' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -129,6 +130,7 @@
 - **Kryštof ČížekU19** — 'Kryštof ČížekU19' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Lion Wagenbach** — 'Lion Wagenbach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Maxime Ndong-Penda** — 'Maxime Ndong-Penda' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Maximilian Theuer** — 'Maximilian Theuer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nico BiedermannU19** — 'Nico BiedermannU19' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nils Schlosser** — 'Nils Schlosser' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Noah Mikrut** — 'Noah Mikrut' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

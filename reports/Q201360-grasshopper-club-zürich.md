@@ -3,8 +3,8 @@
 - Wikidata item: [Q201360](https://www.wikidata.org/wiki/Q201360)
 - Wikipedia article: [Grasshopper Club Zürich](https://de.wikipedia.org/wiki/Grasshopper_Club_Zürich)
 - Players in Wikipedia squad: 37
-- Current members on Wikidata: 57
-- Suggested edits: 91
+- Current members on Wikidata: 58
+- Suggested edits: 92
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
@@ -28,7 +28,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (55)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (56)</strong></summary>
 
 - **[Alban Pnishi](https://www.wikidata.org/wiki/Q20873461)** ([WP](https://en.wikipedia.org/wiki/Alban_Pnishi)) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albion Avdijaj](https://www.wikidata.org/wiki/Q16977436)** ([WP](https://de.wikipedia.org/wiki/Albion_Avdijaj)) (2017–2019) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -71,6 +71,7 @@
 - **[Nedim Bajrami](https://www.wikidata.org/wiki/Q28962317)** ([WP](https://de.wikipedia.org/wiki/Nedim_Bajrami)) (2017–2020) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nikola Gjorgjev](https://www.wikidata.org/wiki/Q21066262)** ([WP](https://de.wikipedia.org/wiki/Nikola_Gjorgjev)) (2015–2022) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nikola Sukacev](https://www.wikidata.org/wiki/Q51194134)** ([WP](https://en.wikipedia.org/wiki/Nikola_Sukacev)) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Noah Loosli](https://www.wikidata.org/wiki/Q28967838)** ([WP](https://de.wikipedia.org/wiki/Noah_Loosli)) (2021–2023) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Otto Bühler](https://www.wikidata.org/wiki/Q2635476)** ([WP](https://en.wikipedia.org/wiki/Otto_B%C3%BChler)) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Pascale Küffer](https://www.wikidata.org/wiki/Q5475506)** ([WP](https://de.wikipedia.org/wiki/Pascale_K%C3%BCffer)) (2013–) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Peter Wespe](https://www.wikidata.org/wiki/Q26972517)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

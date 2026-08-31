@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q19490](https://www.wikidata.org/wiki/Q19490)
 - Wikipedia article: [Nottingham Forest F.C.](https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.)
-- Players in Wikipedia squad: 52
+- Players in Wikipedia squad: 53
 - Current members on Wikidata: 210
-- Suggested edits: 237
+- Suggested edits: 236
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (197)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (196)</strong></summary>
 
 - **[Adam Crookes](https://www.wikidata.org/wiki/Q56289680)** ([WP](https://en.wikipedia.org/wiki/Adam_Crookes)) (2017–2019) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Scott](https://www.wikidata.org/wiki/Q65963020)** ([WP](https://en.wikipedia.org/wiki/Adam_Scott_(footballer))) (1890–1900) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -112,7 +112,6 @@
 - **[James Demetriou](https://www.wikidata.org/wiki/Q28320309)** ([WP](https://en.wikipedia.org/wiki/James_Demetriou)) (2013–2014) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Iremonger](https://www.wikidata.org/wiki/Q10805574)** ([WP](https://en.wikipedia.org/wiki/James_Iremonger)) (1895–1910) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Thorne](https://www.wikidata.org/wiki/Q27915136)** ([WP](https://en.wikipedia.org/wiki/James_Thorne_(footballer))) (2016–2017) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[James Ward-Prowse](https://www.wikidata.org/wiki/Q2643777)** ([WP](https://en.wikipedia.org/wiki/James_Ward-Prowse)) (2024–2025) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jamie Ward](https://www.wikidata.org/wiki/Q328479)** ([WP](https://en.wikipedia.org/wiki/Jamie_Ward)) (2015–2019) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jayden Richardson](https://www.wikidata.org/wiki/Q66625340)** ([WP](https://en.wikipedia.org/wiki/Jayden_Richardson)) (2019–2022) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jesper Mattsson](https://www.wikidata.org/wiki/Q5979997)** ([WP](https://en.wikipedia.org/wiki/Jesper_Mattsson_(footballer))) (1998–1999) — Add an end date (P582) to the membership → Nottingham Forest F.C. (Q19490); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

@@ -2,16 +2,15 @@
 
 - Wikidata item: [Q9617](https://www.wikidata.org/wiki/Q9617)
 - Wikipedia article: [Arsenal F.C.](https://en.wikipedia.org/wiki/Arsenal_F.C.)
-- Players in Wikipedia squad: 38
+- Players in Wikipedia squad: 37
 - Current members on Wikidata: 178
-- Suggested edits: 167
+- Suggested edits: 166
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Ethan Nwaneri](https://www.wikidata.org/wiki/Q114027518)** ([WP](https://en.wikipedia.org/wiki/Ethan_Nwaneri)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Gabriel Jesus](https://www.wikidata.org/wiki/Q19708656)** ([WP](https://en.wikipedia.org/wiki/Gabriel_Jesus)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-- **[Reiss Nelson](https://www.wikidata.org/wiki/Q35039261)** ([WP](https://en.wikipedia.org/wiki/Reiss_Nelson)) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 

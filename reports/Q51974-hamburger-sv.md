@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q51974](https://www.wikidata.org/wiki/Q51974)
 - Wikipedia article: [Hamburger SV](https://de.wikipedia.org/wiki/Hamburger_SV)
-- Players in Wikipedia squad: 28
-- Current members on Wikidata: 167
+- Players in Wikipedia squad: 29
+- Current members on Wikidata: 168
 - Suggested edits: 182
 
 <details open>
@@ -181,7 +181,6 @@
 - **[Emir Sahiti](https://www.wikidata.org/wiki/Q52419347)** ([WP](https://de.wikipedia.org/wiki/Emir_Sahiti)) (2024–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Fernando Dickes](https://www.wikidata.org/wiki/Q135393114)** — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Immanuël Pherai](https://www.wikidata.org/wiki/Q96192572)** ([WP](https://de.wikipedia.org/wiki/Immanuël_Pherai)) (2023–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
-- **[Jean-Luc Dompé](https://www.wikidata.org/wiki/Q17476763)** ([WP](https://de.wikipedia.org/wiki/Jean-Luc_Dompé)) (2022–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Joel Agyekum](https://www.wikidata.org/wiki/Q132174135)** ([WP](https://de.wikipedia.org/wiki/Joel_Agyekum)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Jordan Torunarigha](https://www.wikidata.org/wiki/Q28653717)** ([WP](https://de.wikipedia.org/wiki/Jordan_Torunarigha)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Kofi Amoako](https://www.wikidata.org/wiki/Q123913081)** ([WP](https://de.wikipedia.org/wiki/Kofi_Amoako)) (2026–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
@@ -192,6 +191,7 @@
 - **[Otto Stange](https://www.wikidata.org/wiki/Q131090282)** ([WP](https://de.wikipedia.org/wiki/Otto_Stange_(Fußballspieler))) (2023–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Patson Daka](https://www.wikidata.org/wiki/Q20810726)** ([WP](https://de.wikipedia.org/wiki/Patson_Daka)) (2026–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Rayan Philippe](https://www.wikidata.org/wiki/Q67157835)** ([WP](https://de.wikipedia.org/wiki/Rayan_Philippe)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
+- **[Sebastiaan Bornauw](https://www.wikidata.org/wiki/Q55806994)** ([WP](https://de.wikipedia.org/wiki/Sebastiaan_Bornauw)) (2026–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Shafiq Nandja](https://www.wikidata.org/wiki/Q138007104)** ([WP](https://de.wikipedia.org/wiki/Shafiq_Nandja)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 - **[Warmed Omari](https://www.wikidata.org/wiki/Q108105534)** ([WP](https://de.wikipedia.org/wiki/Warmed_Omari)) (2025–) — Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.
 

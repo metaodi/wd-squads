@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q19477](https://www.wikidata.org/wiki/Q19477)
 - Wikipedia article: [Hull City A.F.C.](https://en.wikipedia.org/wiki/Hull_City_A.F.C.)
-- Players in Wikipedia squad: 62
-- Current members on Wikidata: 99
+- Players in Wikipedia squad: 63
+- Current members on Wikidata: 100
 - Suggested edits: 152
 
 <details open>

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18741](https://www.wikidata.org/wiki/Q18741)
 - Wikipedia article: [Tottenham Hotspur F.C.](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.)
-- Players in Wikipedia squad: 41
-- Current members on Wikidata: 195
-- Suggested edits: 183
+- Players in Wikipedia squad: 43
+- Current members on Wikidata: 196
+- Suggested edits: 182
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (168)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (167)</strong></summary>
 
 - **[Aaron McEneff](https://www.wikidata.org/wiki/Q53567638)** ([WP](https://en.wikipedia.org/wiki/Aaron_McEneff)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Connell](https://www.wikidata.org/wiki/Q4706403)** ([WP](https://en.wikipedia.org/wiki/Alan_Connell)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -174,7 +174,6 @@
 - **[Tommy Atherton](https://www.wikidata.org/wiki/Q20806863)** ([WP](https://en.wikipedia.org/wiki/Tommy_Atherton)) (1898–1899) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Tommy Gipps](https://www.wikidata.org/wiki/Q7819443)** ([WP](https://en.wikipedia.org/wiki/Tommy_Gipps)) (1907–1911) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Trevor Smith](https://www.wikidata.org/wiki/Q23301493)** ([WP](https://en.wikipedia.org/wiki/Trevor_Smith_(footballer,_born_1910))) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Troy Parrott](https://www.wikidata.org/wiki/Q67243168)** ([WP](https://en.wikipedia.org/wiki/Troy_Parrott)) (2019–2024) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Vincent Janssen](https://www.wikidata.org/wiki/Q14856634)** ([WP](https://en.wikipedia.org/wiki/Vincent_Janssen)) (2016–2019) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Wally Odell](https://www.wikidata.org/wiki/Q28023268)** ([WP](https://en.wikipedia.org/wiki/Wally_Odell)) (1935–1937) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Walter Bull](https://www.wikidata.org/wiki/Q7964415)** ([WP](https://en.wikipedia.org/wiki/Walter_Bull)) (1904–1909) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

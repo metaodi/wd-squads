@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q32494](https://www.wikidata.org/wiki/Q32494)
 - Wikipedia article: [FC Schalke 04](https://de.wikipedia.org/wiki/FC_Schalke_04)
-- Players in Wikipedia squad: 43
+- Players in Wikipedia squad: 42
 - Current members on Wikidata: 144
-- Suggested edits: 179
+- Suggested edits: 178
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,11 +15,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (35)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (34)</strong></summary>
 
 - **[Adil Aouchiche](https://www.wikidata.org/wiki/Q63636233)** ([WP](https://de.wikipedia.org/wiki/Adil_Aouchiche)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Adrian Gantenbein](https://www.wikidata.org/wiki/Q113371053)** ([WP](https://de.wikipedia.org/wiki/Adrian_Gantenbein)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Anton Donkor](https://www.wikidata.org/wiki/Q55820143)** ([WP](https://de.wikipedia.org/wiki/Anton_Donkor)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
+- **[Anton Donkor](https://www.wikidata.org/wiki/Q55820143)** ([WP](https://de.wikipedia.org/wiki/Anton_Donkor)) (2024–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Bryan Lasme](https://www.wikidata.org/wiki/Q45162869)** ([WP](https://de.wikipedia.org/wiki/Bryan_Lasme)) (2023–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Christian Gomis](https://www.wikidata.org/wiki/Q132906887)** ([WP](https://de.wikipedia.org/wiki/Christian_Gomis_(Fußballspieler,_2000))) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Dylan Leonard](https://www.wikidata.org/wiki/Q135678948)** ([WP](https://de.wikipedia.org/wiki/Dylan_Leonard)) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
@@ -35,7 +35,7 @@
 - **[Kevin Müller](https://www.wikidata.org/wiki/Q1740225)** ([WP](https://de.wikipedia.org/wiki/Kevin_Müller)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Luca Vozar](https://www.wikidata.org/wiki/Q140855128)** — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Mauro Zalazar](https://www.wikidata.org/wiki/Q130736460)** ([WP](https://de.wikipedia.org/wiki/Mauro_Zalazar)) (2024–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Max Grüger](https://www.wikidata.org/wiki/Q130381655)** ([WP](https://de.wikipedia.org/wiki/Max_Grüger)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
+- **[Max Grüger](https://www.wikidata.org/wiki/Q130381655)** ([WP](https://de.wikipedia.org/wiki/Max_Grüger)) (2024–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Max Lamby](https://www.wikidata.org/wiki/Q124154051)** ([WP](https://de.wikipedia.org/wiki/Max_Lamby)) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Maximilian Wöber](https://www.wikidata.org/wiki/Q22951388)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Wöber)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Mertcan Ayhan](https://www.wikidata.org/wiki/Q135563356)** ([WP](https://de.wikipedia.org/wiki/Mertcan_Ayhan)) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
@@ -51,7 +51,6 @@
 - **[Timo Becker](https://www.wikidata.org/wiki/Q77080530)** ([WP](https://de.wikipedia.org/wiki/Timo_Becker_(Fußballspieler,_1997))) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Vitalie Becker](https://www.wikidata.org/wiki/Q135554272)** ([WP](https://de.wikipedia.org/wiki/Vitalie_Becker)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Yassin Ben Balla](https://www.wikidata.org/wiki/Q57584820)** ([WP](https://de.wikipedia.org/wiki/Yassin_Ben_Balla)) (2025) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Zaid Tchibara](https://www.wikidata.org/wiki/Q132480889)** ([WP](https://de.wikipedia.org/wiki/Zaid_Tchibara)) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 
 </details>
 

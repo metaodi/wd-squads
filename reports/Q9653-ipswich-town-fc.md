@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q9653](https://www.wikidata.org/wiki/Q9653)
 - Wikipedia article: [Ipswich Town F.C.](https://en.wikipedia.org/wiki/Ipswich_Town_F.C.)
-- Players in Wikipedia squad: 33
-- Current members on Wikidata: 101
+- Players in Wikipedia squad: 34
+- Current members on Wikidata: 102
 - Suggested edits: 117
 
 <details open>
