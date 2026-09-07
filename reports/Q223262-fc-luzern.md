@@ -2,18 +2,17 @@
 
 - Wikidata item: [Q223262](https://www.wikidata.org/wiki/Q223262)
 - Wikipedia article: [FC Luzern](https://de.wikipedia.org/wiki/FC_Luzern)
-- Players in Wikipedia squad: 31
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 60
-- Suggested edits: 90
+- Suggested edits: 88
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
 
 - **[Adrian Grbić](https://www.wikidata.org/wiki/Q21033347)** ([WP](https://de.wikipedia.org/wiki/Adrian_Grbić)) (2024–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Andrejs Cigaņiks](https://www.wikidata.org/wiki/Q31762779)** ([WP](https://de.wikipedia.org/wiki/Andrejs_Cigaņiks)) (2024–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Aurelio Oehlers](https://www.wikidata.org/wiki/Q104634496)** ([WP](https://en.wikipedia.org/wiki/Aurelio_Oehlers)) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Demir Xhemalija](https://www.wikidata.org/wiki/Q118559490)** — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Jesper Löfgren](https://www.wikidata.org/wiki/Q61058839)** ([WP](https://en.wikipedia.org/wiki/Jesper_L%C3%B6fgren)) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Karlo Letica](https://www.wikidata.org/wiki/Q41689776)** ([WP](https://de.wikipedia.org/wiki/Karlo_Letica)) (2026–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Lars Villiger](https://www.wikidata.org/wiki/Q118225148)** ([WP](https://de.wikipedia.org/wiki/Lars_Villiger)) (2023–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
 - **[Leonardo Bertone](https://www.wikidata.org/wiki/Q16212957)** ([WP](https://de.wikipedia.org/wiki/Leonardo_Bertone)) (2026–) — Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia.
@@ -101,7 +100,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (14)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (13)</strong></summary>
 
 - **Bung Hua Freimann** — 'Bung Hua Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bung Meng Freimann** — 'Bung Meng Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -113,7 +112,6 @@
 - **Mio Zimmermann** — 'Mio Zimmermann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nando Toggenburger** — 'Nando Toggenburger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Raphael Radtke** — 'Raphael Radtke' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Ronaldo Dantas Fernandes** — 'Ronaldo Dantas Fernandes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sandro Wyss** — 'Sandro Wyss' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sascha Meyer** — 'Sascha Meyer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tim Hottiger** — 'Tim Hottiger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

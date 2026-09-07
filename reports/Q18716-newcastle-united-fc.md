@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q18716](https://www.wikidata.org/wiki/Q18716)
 - Wikipedia article: [Newcastle United F.C.](https://en.wikipedia.org/wiki/Newcastle_United_F.C.)
-- Players in Wikipedia squad: 35
-- Current members on Wikidata: 145
+- Players in Wikipedia squad: 36
+- Current members on Wikidata: 146
 - Suggested edits: 125
 
 <details open>

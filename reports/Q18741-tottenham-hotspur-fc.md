@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18741](https://www.wikidata.org/wiki/Q18741)
 - Wikipedia article: [Tottenham Hotspur F.C.](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.)
-- Players in Wikipedia squad: 43
-- Current members on Wikidata: 196
-- Suggested edits: 182
+- Players in Wikipedia squad: 44
+- Current members on Wikidata: 200
+- Suggested edits: 181
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (167)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (168)</strong></summary>
 
 - **[Aaron McEneff](https://www.wikidata.org/wiki/Q53567638)** ([WP](https://en.wikipedia.org/wiki/Aaron_McEneff)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Connell](https://www.wikidata.org/wiki/Q4706403)** ([WP](https://en.wikipedia.org/wiki/Alan_Connell)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -54,6 +54,7 @@
 - **[Craig Edwards](https://www.wikidata.org/wiki/Q5180923)** ([WP](https://en.wikipedia.org/wiki/Craig_Edwards_(English_footballer))) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Curtis Alexander](https://www.wikidata.org/wiki/Q5195672)** ([WP](https://en.wikipedia.org/wiki/Curtis_Alexander_(Dream_Team))) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Cy Goddard](https://www.wikidata.org/wiki/Q58973794)** ([WP](https://en.wikipedia.org/wiki/Cy_Goddard)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Dane Scarlett](https://www.wikidata.org/wiki/Q102362241)** ([WP](https://en.wikipedia.org/wiki/Dane_Scarlett)) (2020–2026) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Danny Greaves](https://www.wikidata.org/wiki/Q5220398)** ([WP](https://en.wikipedia.org/wiki/Danny_Greaves_(footballer))) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Darren McQueen](https://www.wikidata.org/wiki/Q17517209)** ([WP](https://en.wikipedia.org/wiki/Darren_McQueen)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[David Copeland](https://www.wikidata.org/wiki/Q5232555)** ([WP](https://en.wikipedia.org/wiki/David_Copeland_(footballer))) (1899–1905) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -187,7 +188,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (13)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (11)</strong></summary>
 
 - **[Brandon Austin](https://www.wikidata.org/wiki/Q107316392)** ([WP](https://en.wikipedia.org/wiki/Brandon_Austin)) (2019–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Callum Olusesi](https://www.wikidata.org/wiki/Q131573499)** ([WP](https://en.wikipedia.org/wiki/Callum_Olusesi)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
@@ -196,11 +197,9 @@
 - **[Jamie Donley](https://www.wikidata.org/wiki/Q123652463)** ([WP](https://en.wikipedia.org/wiki/Jamie_Donley)) (2023–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Jan Paul van Hecke](https://www.wikidata.org/wiki/Q66828825)** ([WP](https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke)) (2026–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Jun'ai Byfield](https://www.wikidata.org/wiki/Q136677630)** ([WP](https://en.wikipedia.org/wiki/Jun'ai_Byfield)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
-- **[Kevin Danso](https://www.wikidata.org/wiki/Q28868192)** ([WP](https://en.wikipedia.org/wiki/Kevin_Danso)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Kōta Takai](https://www.wikidata.org/wiki/Q111113892)** ([WP](https://en.wikipedia.org/wiki/Kōta_Takai)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Lucá Williams-Barnett](https://www.wikidata.org/wiki/Q133455007)** ([WP](https://en.wikipedia.org/wiki/Lucá_Williams-Barnett)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Mikey Moore](https://www.wikidata.org/wiki/Q119700600)** ([WP](https://en.wikipedia.org/wiki/Mikey_Moore)) (2024–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
-- **[Pape Matar Sarr](https://www.wikidata.org/wiki/Q104877690)** ([WP](https://en.wikipedia.org/wiki/Pape_Matar_Sarr)) (2021–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Souza](https://www.wikidata.org/wiki/Q124661440)** ([WP](https://en.wikipedia.org/wiki/Souza_(footballer,_born_2006))) (2026–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 
 </details>

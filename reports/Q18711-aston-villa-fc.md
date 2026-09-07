@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18711](https://www.wikidata.org/wiki/Q18711)
 - Wikipedia article: [Aston Villa F.C.](https://en.wikipedia.org/wiki/Aston_Villa_F.C.)
-- Players in Wikipedia squad: 55
+- Players in Wikipedia squad: 57
 - Current members on Wikidata: 286
-- Suggested edits: 301
+- Suggested edits: 302
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,7 +15,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (264)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (263)</strong></summary>
 
 - **[Aaron Tshibola](https://www.wikidata.org/wiki/Q18128872)** ([WP](https://en.wikipedia.org/wiki/Aaron_Tshibola)) (2016–2019) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abbey-Leigh Stringer](https://www.wikidata.org/wiki/Q24452314)** ([WP](https://en.wikipedia.org/wiki/Abbey-Leigh_Stringer)) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -141,7 +141,6 @@
 - **[Jacob Bedeau](https://www.wikidata.org/wiki/Q28055427)** ([WP](https://en.wikipedia.org/wiki/Jacob_Bedeau)) (2017–2019) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jake Doyle-Hayes](https://www.wikidata.org/wiki/Q37803683)** ([WP](https://en.wikipedia.org/wiki/Jake_Doyle-Hayes)) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jake Walker](https://www.wikidata.org/wiki/Q104736204)** ([WP](https://en.wikipedia.org/wiki/Jake_Walker_(English_footballer))) (2020–2021) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Jamaldeen Jimoh-Aloba](https://www.wikidata.org/wiki/Q136338210)** ([WP](https://en.wikipedia.org/wiki/Jamaldeen_Jimoh-Aloba)) (2024–) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Bree](https://www.wikidata.org/wiki/Q16887631)** ([WP](https://en.wikipedia.org/wiki/James_Bree_(footballer))) (2017–2020) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Cowan](https://www.wikidata.org/wiki/Q3806516)** ([WP](https://en.wikipedia.org/wiki/James_Cowan_(footballer))) (1890–1902) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[James Elliott](https://www.wikidata.org/wiki/Q85770645)** ([WP](https://en.wikipedia.org/wiki/James_Elliott_(footballer))) (1893–1895) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -285,7 +284,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (25)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
 
 - **[Aidan Borland](https://www.wikidata.org/wiki/Q130360134)** ([WP](https://en.wikipedia.org/wiki/Aidan_Borland)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Alysson](https://www.wikidata.org/wiki/Q127257240)** ([WP](https://en.wikipedia.org/wiki/Alysson_(footballer,_born_2006))) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
@@ -308,6 +307,7 @@
 - **[Modou Kéba Cissé](https://www.wikidata.org/wiki/Q132719377)** ([WP](https://en.wikipedia.org/wiki/Modou_Kéba_Cissé)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Rhys Oakley](https://www.wikidata.org/wiki/Q7321826)** ([WP](https://en.wikipedia.org/wiki/Rhys_Oakley)) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Rory Wilson](https://www.wikidata.org/wiki/Q115814681)** ([WP](https://en.wikipedia.org/wiki/Rory_Wilson)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
+- **[Taylor Harwood-Bellis](https://www.wikidata.org/wiki/Q68485418)** ([WP](https://en.wikipedia.org/wiki/Taylor_Harwood-Bellis)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Tommi O'Reilly](https://www.wikidata.org/wiki/Q123822976)** ([WP](https://en.wikipedia.org/wiki/Tommi_O'Reilly)) (2023–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Triston Rowe](https://www.wikidata.org/wiki/Q136542147)** ([WP](https://en.wikipedia.org/wiki/Triston_Rowe)) (2025–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Yasin Özcan](https://www.wikidata.org/wiki/Q115688303)** ([WP](https://en.wikipedia.org/wiki/Yasin_Özcan)) (2025–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
@@ -316,9 +316,10 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (4)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (5)</strong></summary>
 
 - **[George Hemmings](https://www.wikidata.org/wiki/Q137570377)** ([WP](https://en.wikipedia.org/wiki/George_Hemmings)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Jamaldeen Jimoh-Aloba](https://www.wikidata.org/wiki/Q136338210)** ([WP](https://en.wikipedia.org/wiki/Jamaldeen_Jimoh-Aloba)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Lamare Bogarde](https://www.wikidata.org/wiki/Q104737263)** ([WP](https://en.wikipedia.org/wiki/Lamare_Bogarde)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Oliwier Zych](https://www.wikidata.org/wiki/Q105104357)** ([WP](https://en.wikipedia.org/wiki/Oliwier_Zych)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Travis Patterson](https://www.wikidata.org/wiki/Q130360244)** ([WP](https://en.wikipedia.org/wiki/Travis_Patterson)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.

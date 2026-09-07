@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q41420](https://www.wikidata.org/wiki/Q41420)
 - Wikipedia article: [Borussia Dortmund](https://de.wikipedia.org/wiki/Borussia_Dortmund)
-- Players in Wikipedia squad: 29
-- Current members on Wikidata: 79
+- Players in Wikipedia squad: 30
+- Current members on Wikidata: 80
 - Suggested edits: 80
 
 <details open>

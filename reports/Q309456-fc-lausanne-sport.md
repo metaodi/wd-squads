@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q309456](https://www.wikidata.org/wiki/Q309456)
 - Wikipedia article: [FC Lausanne-Sport](https://de.wikipedia.org/wiki/FC_Lausanne-Sport)
-- Players in Wikipedia squad: 28
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 68
-- Suggested edits: 94
+- Suggested edits: 93
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
@@ -15,25 +15,25 @@
 - **[Enzo Molebe](https://www.wikidata.org/wiki/Q113505136)** ([WP](https://de.wikipedia.org/wiki/Enzo_Molebe)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Florent Mollet](https://www.wikidata.org/wiki/Q15639458)** ([WP](https://de.wikipedia.org/wiki/Florent_Mollet)) (2025–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Hamza Abdallah](https://www.wikidata.org/wiki/Q130680098)** ([WP](https://en.wikipedia.org/wiki/Hamza_Abdallah)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Jamie Roche](https://www.wikidata.org/wiki/Q100741735)** ([WP](https://de.wikipedia.org/wiki/Jamie_Roche)) (2023–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Karim Sow](https://www.wikidata.org/wiki/Q109474515)** ([WP](https://de.wikipedia.org/wiki/Karim_Sow)) (2021–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Levy Nene](https://www.wikidata.org/wiki/Q127919470)** ([WP](https://en.wikipedia.org/wiki/Levy_Nene)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Melvin Mastil](https://www.wikidata.org/wiki/Q105846503)** ([WP](https://en.wikipedia.org/wiki/Melvin_Mastil)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Morgan Poaty](https://www.wikidata.org/wiki/Q27514539)** ([WP](https://de.wikipedia.org/wiki/Morgan_Poaty)) (2023–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Nathan Butler-Oyedeji](https://www.wikidata.org/wiki/Q116687539)** ([WP](https://en.wikipedia.org/wiki/Nathan_Butler-Oyedeji)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Nicky Beloko](https://www.wikidata.org/wiki/Q59914302)** ([WP](https://de.wikipedia.org/wiki/Nicky_Beloko)) (2025–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
+- **[Nicolas Cozza](https://www.wikidata.org/wiki/Q43369696)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Cozza)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Omar Janneh](https://www.wikidata.org/wiki/Q128215400)** ([WP](https://en.wikipedia.org/wiki/Omar_Janneh)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Rodolfo Lippo](https://www.wikidata.org/wiki/Q138767563)** ([WP](https://en.wikipedia.org/wiki/Rodolfo_Lippo)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Seydou Traoré](https://www.wikidata.org/wiki/Q7459013)** ([WP](https://en.wikipedia.org/wiki/Seydou_Traor%C3%A9_(footballer))) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Sékou Koné](https://www.wikidata.org/wiki/Q123463980)** ([WP](https://en.wikipedia.org/wiki/S%C3%A9kou_Kon%C3%A9)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Theo Bergvall](https://www.wikidata.org/wiki/Q121891577)** ([WP](https://en.wikipedia.org/wiki/Theo_Bergvall)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Thomas Cordier](https://www.wikidata.org/wiki/Q140633724)** — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tyler Fredricson](https://www.wikidata.org/wiki/Q132454617)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fredricson)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Étienne Youté Kinkoué](https://www.wikidata.org/wiki/Q109712079)** ([WP](https://de.wikipedia.org/wiki/Étienne_Youté_Kinkoué)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (66)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (65)</strong></summary>
 
 - **[Aleksandr Pavlenko](https://www.wikidata.org/wiki/Q2530580)** ([WP](https://en.wikipedia.org/wiki/Aleksandr_Pavlenko_(footballer,_born_1985))) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexandre Pasche](https://www.wikidata.org/wiki/Q681607)** ([WP](https://de.wikipedia.org/wiki/Alexandre_Pasche)) (2015–2020) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -66,7 +66,6 @@
 - **[Karlo Letica](https://www.wikidata.org/wiki/Q41689776)** ([WP](https://de.wikipedia.org/wiki/Karlo_Letica)) (2023–2026) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kevin Martin](https://www.wikidata.org/wiki/Q25990540)** ([WP](https://en.wikipedia.org/wiki/Kevin_Martin_(footballer))) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kevin Méndez](https://www.wikidata.org/wiki/Q16586604)** ([WP](https://de.wikipedia.org/wiki/Kevin_M%C3%A9ndez)) (2016–2017) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Koba Leïn Koindredi](https://www.wikidata.org/wiki/Q104587845)** ([WP](https://de.wikipedia.org/wiki/Koba_Koindredi)) (2024–2025) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Luís Pimenta](https://www.wikidata.org/wiki/Q60733971)** ([WP](https://en.wikipedia.org/wiki/Lu%C3%ADs_Pimenta_(footballer,_born_1986))) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mallal N'Diaye](https://www.wikidata.org/wiki/Q66606344)** ([WP](https://en.wikipedia.org/wiki/Mallal_N%27Diaye)) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manfred Oggier](https://www.wikidata.org/wiki/Q65548532)** ([WP](https://en.wikipedia.org/wiki/Manfred_Oggier)) — Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

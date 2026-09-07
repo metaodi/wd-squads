@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19490](https://www.wikidata.org/wiki/Q19490)
 - Wikipedia article: [Nottingham Forest F.C.](https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.)
-- Players in Wikipedia squad: 53
-- Current members on Wikidata: 210
-- Suggested edits: 236
+- Players in Wikipedia squad: 57
+- Current members on Wikidata: 212
+- Suggested edits: 238
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (196)</strong></summary>
@@ -209,7 +209,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (24)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (23)</strong></summary>
 
 - **[Cuiabano](https://www.wikidata.org/wiki/Q118592236)** ([WP](https://en.wikipedia.org/wiki/Cuiabano)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Dilane Bakwa](https://www.wikidata.org/wiki/Q99672568)** ([WP](https://en.wikipedia.org/wiki/Dilane_Bakwa)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
@@ -230,7 +230,6 @@
 - **[Murillo](https://www.wikidata.org/wiki/Q118220069)** ([WP](https://en.wikipedia.org/wiki/Murillo_(footballer))) (2023–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Nicolás Domínguez](https://www.wikidata.org/wiki/Q29419531)** ([WP](https://en.wikipedia.org/wiki/Nicolás_Domínguez)) (2023–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Nicolò Savona](https://www.wikidata.org/wiki/Q115751484)** ([WP](https://en.wikipedia.org/wiki/Nicolò_Savona)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
-- **[Omari Hutchinson](https://www.wikidata.org/wiki/Q111145131)** ([WP](https://en.wikipedia.org/wiki/Omari_Hutchinson)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Ousmane Diomande](https://www.wikidata.org/wiki/Q116753805)** ([WP](https://en.wikipedia.org/wiki/Ousmane_Diomande)) (2026–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Ryan Yates](https://www.wikidata.org/wiki/Q28794002)** ([WP](https://en.wikipedia.org/wiki/Ryan_Yates)) (2016–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Steven Benda](https://www.wikidata.org/wiki/Q70276774)** ([WP](https://en.wikipedia.org/wiki/Steven_Benda)) (2026–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
@@ -246,7 +245,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (15)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (18)</strong></summary>
 
 - **Aaron Bott** — 'Aaron Bott' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Archie Whitehall** — 'Archie Whitehall' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -255,10 +254,13 @@
 - **Cherif Yaya** — 'Cherif Yaya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Chinaza Nwosu** — 'Chinaza Nwosu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **David Modupe** — 'David Modupe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Ethan Broomes** — 'Ethan Broomes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Frank Djamna** — 'Frank Djamna' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Fuad Smith** — 'Fuad Smith' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **George Murray-Jones** — 'George Murray-Jones' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jamie Newton** — 'Jamie Newton' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jayden Powell** — 'Jayden Powell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Jonathan Whiteley** — 'Jonathan Whiteley' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Keehan Willows** — 'Keehan Willows' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Lamin Sillah** — 'Lamin Sillah' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Luke Campbell** — 'Luke Campbell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

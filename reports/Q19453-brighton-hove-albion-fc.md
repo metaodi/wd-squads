@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q19453](https://www.wikidata.org/wiki/Q19453)
 - Wikipedia article: [Brighton & Hove Albion F.C.](https://en.wikipedia.org/wiki/Brighton_&_Hove_Albion_F.C.)
-- Players in Wikipedia squad: 39
-- Current members on Wikidata: 201
+- Players in Wikipedia squad: 40
+- Current members on Wikidata: 202
 - Suggested edits: 207
 
 <details open>
@@ -211,9 +211,9 @@
 - **[Costinha](https://www.wikidata.org/wiki/Q85038325)** ([WP](https://en.wikipedia.org/wiki/Costinha_(footballer,_born_2000))) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Eiran Cashin](https://www.wikidata.org/wiki/Q110062925)** ([WP](https://en.wikipedia.org/wiki/Eiran_Cashin)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Facundo Buonanotte](https://www.wikidata.org/wiki/Q113028093)** ([WP](https://en.wikipedia.org/wiki/Facundo_Buonanotte)) (2023–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
+- **[Femi Azeez](https://www.wikidata.org/wiki/Q105789835)** ([WP](https://en.wikipedia.org/wiki/Femi_Azeez)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Freddie Simmonds](https://www.wikidata.org/wiki/Q137372560)** ([WP](https://en.wikipedia.org/wiki/Freddie_Simmonds)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Ibrahim Osman](https://www.wikidata.org/wiki/Q117350353)** ([WP](https://en.wikipedia.org/wiki/Ibrahim_Osman_(footballer,_born_2004))) (2024–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
-- **[Igor Julio](https://www.wikidata.org/wiki/Q25983385)** ([WP](https://en.wikipedia.org/wiki/Igor_Julio)) (2023–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Jack Hinshelwood](https://www.wikidata.org/wiki/Q118791841)** ([WP](https://en.wikipedia.org/wiki/Jack_Hinshelwood)) (2023–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Jaouen Hadjam](https://www.wikidata.org/wiki/Q98561102)** ([WP](https://en.wikipedia.org/wiki/Jaouen_Hadjam)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Malick Yalcouyé](https://www.wikidata.org/wiki/Q124734146)** ([WP](https://en.wikipedia.org/wiki/Malick_Yalcouyé)) (2024–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.

@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q633521](https://www.wikidata.org/wiki/Q633521)
 - Wikipedia article: [FC Lugano](https://de.wikipedia.org/wiki/FC_Lugano)
-- Players in Wikipedia squad: 31
+- Players in Wikipedia squad: 32
 - Current members on Wikidata: 58
-- Suggested edits: 83
+- Suggested edits: 84
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -75,10 +75,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Ahmadou Ndiaye](https://www.wikidata.org/wiki/Q137888701)** — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ahmed Kendouci](https://www.wikidata.org/wiki/Q107171535)** ([WP](https://en.wikipedia.org/wiki/Ahmed_Kendouci)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Albian Ajeti](https://www.wikidata.org/wiki/Q16148161)** ([WP](https://de.wikipedia.org/wiki/Albian_Ajeti)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 - **[Anto Grgić](https://www.wikidata.org/wiki/Q22162713)** ([WP](https://de.wikipedia.org/wiki/Anto_Grgić)) (2023–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 - **[Antonios Papadopoulos](https://www.wikidata.org/wiki/Q42374597)** ([WP](https://de.wikipedia.org/wiki/Antonios_Papadopoulos)) (2024–) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.
 - **[Beckham Castro](https://www.wikidata.org/wiki/Q118964215)** ([WP](https://en.wikipedia.org/wiki/Beckham_Castro)) — Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.

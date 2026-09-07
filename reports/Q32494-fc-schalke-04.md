@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q32494](https://www.wikidata.org/wiki/Q32494)
 - Wikipedia article: [FC Schalke 04](https://de.wikipedia.org/wiki/FC_Schalke_04)
-- Players in Wikipedia squad: 42
-- Current members on Wikidata: 144
-- Suggested edits: 178
+- Players in Wikipedia squad: 27
+- Current members on Wikidata: 145
+- Suggested edits: 162
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,42 +15,28 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (34)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Adil Aouchiche](https://www.wikidata.org/wiki/Q63636233)** ([WP](https://de.wikipedia.org/wiki/Adil_Aouchiche)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Adrian Gantenbein](https://www.wikidata.org/wiki/Q113371053)** ([WP](https://de.wikipedia.org/wiki/Adrian_Gantenbein)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Anton Donkor](https://www.wikidata.org/wiki/Q55820143)** ([WP](https://de.wikipedia.org/wiki/Anton_Donkor)) (2024–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Bryan Lasme](https://www.wikidata.org/wiki/Q45162869)** ([WP](https://de.wikipedia.org/wiki/Bryan_Lasme)) (2023–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Christian Gomis](https://www.wikidata.org/wiki/Q132906887)** ([WP](https://de.wikipedia.org/wiki/Christian_Gomis_(Fußballspieler,_2000))) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Dylan Leonard](https://www.wikidata.org/wiki/Q135678948)** ([WP](https://de.wikipedia.org/wiki/Dylan_Leonard)) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Emil Højlund](https://www.wikidata.org/wiki/Q120802868)** ([WP](https://de.wikipedia.org/wiki/Emil_Højlund)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Gerrit Wegkamp](https://www.wikidata.org/wiki/Q1514817)** ([WP](https://de.wikipedia.org/wiki/Gerrit_Wegkamp)) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Hasan Kuruçay](https://www.wikidata.org/wiki/Q47003664)** ([WP](https://de.wikipedia.org/wiki/Hasan_Kuruçay)) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Henning Matriciani](https://www.wikidata.org/wiki/Q106844147)** ([WP](https://de.wikipedia.org/wiki/Henning_Matriciani)) (2021–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Janik Bachmann](https://www.wikidata.org/wiki/Q40785106)** ([WP](https://de.wikipedia.org/wiki/Janik_Bachmann)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Johannes Siebeking](https://www.wikidata.org/wiki/Q140855125)** — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Junior Adamu](https://www.wikidata.org/wiki/Q58170823)** ([WP](https://de.wikipedia.org/wiki/Junior_Adamu)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Junior Dina Ebimbe](https://www.wikidata.org/wiki/Q65951999)** ([WP](https://de.wikipedia.org/wiki/Junior_Dina_Ebimbe)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Kenan Karaman](https://www.wikidata.org/wiki/Q15901932)** ([WP](https://de.wikipedia.org/wiki/Kenan_Karaman)) (2022–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Kevin Müller](https://www.wikidata.org/wiki/Q1740225)** ([WP](https://de.wikipedia.org/wiki/Kevin_Müller)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Luca Vozar](https://www.wikidata.org/wiki/Q140855128)** — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Mauro Zalazar](https://www.wikidata.org/wiki/Q130736460)** ([WP](https://de.wikipedia.org/wiki/Mauro_Zalazar)) (2024–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Max Grüger](https://www.wikidata.org/wiki/Q130381655)** ([WP](https://de.wikipedia.org/wiki/Max_Grüger)) (2024–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Max Lamby](https://www.wikidata.org/wiki/Q124154051)** ([WP](https://de.wikipedia.org/wiki/Max_Lamby)) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
+- **[Luca Vozar](https://www.wikidata.org/wiki/Q140855128)** ([WP](https://de.wikipedia.org/wiki/Luca_Vozar)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Maximilian Wöber](https://www.wikidata.org/wiki/Q22951388)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Wöber)) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Mertcan Ayhan](https://www.wikidata.org/wiki/Q135563356)** ([WP](https://de.wikipedia.org/wiki/Mertcan_Ayhan)) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Moussa Sylla](https://www.wikidata.org/wiki/Q52765781)** ([WP](https://de.wikipedia.org/wiki/Moussa_Sylla_(Fußballspieler,_1999))) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Paul Pöpperl](https://www.wikidata.org/wiki/Q128826877)** ([WP](https://de.wikipedia.org/wiki/Paul_Pöpperl)) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Peter Remmert](https://www.wikidata.org/wiki/Q132853263)** ([WP](https://de.wikipedia.org/wiki/Peter_Remmert_(Fußballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Raphael Ott](https://www.wikidata.org/wiki/Q134391803)** ([WP](https://de.wikipedia.org/wiki/Raphael_Ott)) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Ron Schallenberg](https://www.wikidata.org/wiki/Q97344688)** ([WP](https://de.wikipedia.org/wiki/Ron_Schallenberg)) (2023–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Satoshi Tanaka](https://www.wikidata.org/wiki/Q77670479)** ([WP](https://de.wikipedia.org/wiki/Satoshi_Tanaka_(Fußballspieler))) (2026–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Soufiane El-Faouzi](https://www.wikidata.org/wiki/Q128523160)** ([WP](https://de.wikipedia.org/wiki/Soufiane_El-Faouzi)) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Tidiane Touré](https://www.wikidata.org/wiki/Q133868943)** ([WP](https://de.wikipedia.org/wiki/Tidiane_Touré)) (2025) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Tim-Justin Dietrich](https://www.wikidata.org/wiki/Q123412348)** ([WP](https://de.wikipedia.org/wiki/Tim-Justin_Dietrich)) (2025–2026) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Timo Becker](https://www.wikidata.org/wiki/Q77080530)** ([WP](https://de.wikipedia.org/wiki/Timo_Becker_(Fußballspieler,_1997))) (2025–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 - **[Vitalie Becker](https://www.wikidata.org/wiki/Q135554272)** ([WP](https://de.wikipedia.org/wiki/Vitalie_Becker)) (2024–) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
-- **[Yassin Ben Balla](https://www.wikidata.org/wiki/Q57584820)** ([WP](https://de.wikipedia.org/wiki/Yassin_Ben_Balla)) (2025) — Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.
 
 </details>
 
@@ -168,7 +154,7 @@
 - **[Rainer Schönwälder](https://www.wikidata.org/wiki/Q15841634)** ([WP](https://de.wikipedia.org/wiki/Rainer_Sch%C3%B6nw%C3%A4lder)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ralf Fährmann](https://www.wikidata.org/wiki/Q276428)** ([WP](https://de.wikipedia.org/wiki/Ralf_F%C3%A4hrmann)) (2011–2025) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[René Klingenburg](https://www.wikidata.org/wiki/Q55809731)** ([WP](https://de.wikipedia.org/wiki/Ren%C3%A9_Klingenburg)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Roman Neustädter](https://www.wikidata.org/wiki/Q26233)** ([WP](https://de.wikipedia.org/wiki/Roman_Neust%C3%A4dter)) (2012–2016) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Roman Neustädter](https://www.wikidata.org/wiki/Q26233)** ([WP](https://de.wikipedia.org/wiki/Roman_Petrowitsch_Neust%C3%A4dter)) (2012–2016) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rudolf Schonhoff](https://www.wikidata.org/wiki/Q26236366)** ([WP](https://de.wikipedia.org/wiki/Rudolf_Schonhoff)) (1962–1979) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Salih Altın](https://www.wikidata.org/wiki/Q832205)** ([WP](https://de.wikipedia.org/wiki/Salih_Alt%C4%B1n)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Sascha Riether](https://www.wikidata.org/wiki/Q449214)** ([WP](https://de.wikipedia.org/wiki/Sascha_Riether)) (2017–2019) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -197,13 +183,5 @@
 - **[Willy Gies](https://www.wikidata.org/wiki/Q1536665)** ([WP](https://de.wikipedia.org/wiki/Willy_Gies)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Winfried Geier](https://www.wikidata.org/wiki/Q2584199)** ([WP](https://de.wikipedia.org/wiki/Winfried_Geier)) (1979–1984) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Younès Belhanda](https://www.wikidata.org/wiki/Q348266)** ([WP](https://de.wikipedia.org/wiki/Youn%C3%A8s_Belhanda)) (2016) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-
-</details>
-
-<details open>
-<summary><strong>In current squad, but no Wikidata item could be found (2)</strong></summary>
-
-- **1** — '1' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Ayman Gülaşı** — 'Ayman Gülaşı' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Adrien Llukes](https://www.wikidata.org/wiki/Q134561961)** — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ali Kabacalman](https://www.wikidata.org/wiki/Q33529300)** ([WP](https://en.wikipedia.org/wiki/Ali_Kabacalman)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -33,6 +33,7 @@
 - **[Numa Lavanchy](https://www.wikidata.org/wiki/Q10513187)** ([WP](https://de.wikipedia.org/wiki/Numa_Lavanchy)) (2022–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Rilind Nivokazi](https://www.wikidata.org/wiki/Q69416807)** ([WP](https://en.wikipedia.org/wiki/Rilind_Nivokazi)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Théo Berdayes](https://www.wikidata.org/wiki/Q107986757)** ([WP](https://de.wikipedia.org/wiki/Théo_Berdayes)) (2021–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
+- **[Winsley Boteli](https://www.wikidata.org/wiki/Q118465434)** ([WP](https://de.wikipedia.org/wiki/Winsley_Boteli)) (2025–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 
 </details>
 
@@ -132,7 +133,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (7)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
 
 - **Damien Möschinger** — 'Damien Möschinger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Fode Sylla** — 'Fode Sylla' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -140,6 +141,5 @@
 - **Lorenzo Villa** — 'Lorenzo Villa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ryan Kessler** — 'Ryan Kessler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Simon Caillet** — 'Simon Caillet' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Winsley Boteli** — 'Winsley Boteli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

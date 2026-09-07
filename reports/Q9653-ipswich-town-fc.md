@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q9653](https://www.wikidata.org/wiki/Q9653)
 - Wikipedia article: [Ipswich Town F.C.](https://en.wikipedia.org/wiki/Ipswich_Town_F.C.)
-- Players in Wikipedia squad: 34
+- Players in Wikipedia squad: 35
 - Current members on Wikidata: 102
-- Suggested edits: 117
+- Suggested edits: 118
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (24)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (25)</strong></summary>
 
 - **[Abdoul Ouattara](https://www.wikidata.org/wiki/Q131366878)** ([WP](https://en.wikipedia.org/wiki/Abdoul_Ouattara)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Abdul Fatawu](https://www.wikidata.org/wiki/Q105812639)** ([WP](https://en.wikipedia.org/wiki/Abdul_Fatawu)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
@@ -33,6 +33,7 @@
 - **[Kasey McAteer](https://www.wikidata.org/wiki/Q110086287)** ([WP](https://en.wikipedia.org/wiki/Kasey_McAteer)) (2025–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Kayne van Oevelen](https://www.wikidata.org/wiki/Q122839844)** ([WP](https://en.wikipedia.org/wiki/Kayne_van_Oevelen)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 - **[Kjell Scherpen](https://www.wikidata.org/wiki/Q42913004)** ([WP](https://en.wikipedia.org/wiki/Kjell_Scherpen)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
+- **[Zian Flemming](https://www.wikidata.org/wiki/Q40451970)** ([WP](https://en.wikipedia.org/wiki/Zian_Flemming)) (2026–) — Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.
 
 </details>
 

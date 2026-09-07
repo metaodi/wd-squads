@@ -2,26 +2,24 @@
 
 - Wikidata item: [Q190526](https://www.wikidata.org/wiki/Q190526)
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 88
-- Suggested edits: 102
+- Suggested edits: 101
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
 
 - **[Alan Virginius](https://www.wikidata.org/wiki/Q99485545)** ([WP](https://de.wikipedia.org/wiki/Alan_Virginius)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Cédric Zesiger](https://www.wikidata.org/wiki/Q27662789)** ([WP](https://de.wikipedia.org/wiki/Cédric_Zesiger)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Dominik Pech](https://www.wikidata.org/wiki/Q132306817)** ([WP](https://de.wikipedia.org/wiki/Dominik_Pech)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Edimilson Fernandes](https://www.wikidata.org/wiki/Q21005806)** ([WP](https://de.wikipedia.org/wiki/Edimilson_Fernandes)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Facinet Conte](https://www.wikidata.org/wiki/Q122461025)** ([WP](https://de.wikipedia.org/wiki/Facinet_Conte)) (2024–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
+- **[Herba Guirassy](https://www.wikidata.org/wiki/Q129777758)** ([WP](https://de.wikipedia.org/wiki/Herba_Guirassy)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Isaac Schmidt](https://www.wikidata.org/wiki/Q97037469)** ([WP](https://de.wikipedia.org/wiki/Isaac_Schmidt)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Joël Mall](https://www.wikidata.org/wiki/Q122261)** ([WP](https://de.wikipedia.org/wiki/Joël_Mall)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
-- **[Joël Monteiro](https://www.wikidata.org/wiki/Q99674396)** ([WP](https://de.wikipedia.org/wiki/Joël_Monteiro)) (2021–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Kaly Sène](https://www.wikidata.org/wiki/Q98592835)** ([WP](https://de.wikipedia.org/wiki/Kaly_Sène)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
-- **[Kastriot Imeri](https://www.wikidata.org/wiki/Q70780296)** ([WP](https://de.wikipedia.org/wiki/Kastriot_Imeri)) (2022–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Lewin Blum](https://www.wikidata.org/wiki/Q110830881)** ([WP](https://de.wikipedia.org/wiki/Lewin_Blum)) (2021–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Marvin Keller](https://www.wikidata.org/wiki/Q108698128)** ([WP](https://de.wikipedia.org/wiki/Marvin_Keller)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
-- **[Olivier Mambwa](https://www.wikidata.org/wiki/Q136039458)** ([WP](https://de.wikipedia.org/wiki/Olivier_Mambwa)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Ryan Andrews](https://www.wikidata.org/wiki/Q120015669)** ([WP](https://de.wikipedia.org/wiki/Ryan_Andrews)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Saidy Janko](https://www.wikidata.org/wiki/Q17619317)** ([WP](https://de.wikipedia.org/wiki/Saidy_Janko)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Samuel Essende](https://www.wikidata.org/wiki/Q56486404)** ([WP](https://de.wikipedia.org/wiki/Samuel_Essende)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
@@ -116,12 +114,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (5)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
 
 - **Benjamin Kabeya** — 'Benjamin Kabeya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Edin Etoski** — 'Edin Etoski' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Loris Macumi** — 'Loris Macumi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Noé Tschanz** — 'Noé Tschanz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Silas Ubaka** — 'Silas Ubaka' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tristan Jost** — 'Tristan Jost' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

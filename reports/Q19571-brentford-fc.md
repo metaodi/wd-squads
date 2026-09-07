@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19571](https://www.wikidata.org/wiki/Q19571)
 - Wikipedia article: [Brentford F.C.](https://en.wikipedia.org/wiki/Brentford_F.C.)
-- Players in Wikipedia squad: 52
+- Players in Wikipedia squad: 53
 - Current members on Wikidata: 200
-- Suggested edits: 233
+- Suggested edits: 234
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,15 +15,16 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (30)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (31)</strong></summary>
 
 - **[Aaron Hickey](https://www.wikidata.org/wiki/Q64010525)** ([WP](https://en.wikipedia.org/wiki/Aaron_Hickey)) (2022–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Antoni Milambo](https://www.wikidata.org/wiki/Q108067127)** ([WP](https://en.wikipedia.org/wiki/Antoni_Milambo)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Ben Krauhaus](https://www.wikidata.org/wiki/Q135602840)** ([WP](https://en.wikipedia.org/wiki/Ben_Krauhaus)) (2024–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
-- **[Benjamin Arthur](https://www.wikidata.org/wiki/Q135426296)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Arthur_(footballer))) (2025–2026) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
+- **[Benjamin Arthur](https://www.wikidata.org/wiki/Q135426296)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Arthur_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Benjamin Fredrick](https://www.wikidata.org/wiki/Q118957173)** ([WP](https://en.wikipedia.org/wiki/Benjamin_Fredrick)) (2024–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Callum Wilson](https://www.wikidata.org/wiki/Q5022998)** ([WP](https://en.wikipedia.org/wiki/Callum_Wilson)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Dango Ouattara](https://www.wikidata.org/wiki/Q108000402)** ([WP](https://en.wikipedia.org/wiki/Dango_Ouattara)) (2025–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
+- **[Darwin Guagua](https://www.wikidata.org/wiki/Q133566819)** ([WP](https://en.wikipedia.org/wiki/Darwin_Guagua)) (2026–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Ellery Balcombe](https://www.wikidata.org/wiki/Q104761621)** ([WP](https://en.wikipedia.org/wiki/Ellery_Balcombe)) (2018–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Fábio Carvalho](https://www.wikidata.org/wiki/Q104784711)** ([WP](https://en.wikipedia.org/wiki/Fábio_Carvalho_(footballer,_born_2002))) (2024–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.
 - **[Gustavo Nunes](https://www.wikidata.org/wiki/Q125179502)** ([WP](https://en.wikipedia.org/wiki/Gustavo_Nunes)) (2024–) — Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.

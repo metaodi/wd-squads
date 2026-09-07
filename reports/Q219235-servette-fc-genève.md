@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q219235](https://www.wikidata.org/wiki/Q219235)
 - Wikipedia article: [Servette FC](https://de.wikipedia.org/wiki/Servette_FC)
-- Players in Wikipedia squad: 30
-- Current members on Wikidata: 69
+- Players in Wikipedia squad: 31
+- Current members on Wikidata: 70
 - Suggested edits: 95
 
 <details open>
@@ -14,7 +14,7 @@
 - **[David Douline](https://www.wikidata.org/wiki/Q41767128)** ([WP](https://de.wikipedia.org/wiki/David_Douline)) (2021–) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
 - **[Dylan Bronn](https://www.wikidata.org/wiki/Q26405549)** ([WP](https://de.wikipedia.org/wiki/Dylan_Bronn)) (2024) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
 - **[Houboulang Mendes](https://www.wikidata.org/wiki/Q30320323)** ([WP](https://de.wikipedia.org/wiki/Houboulang_Mendes)) (2026–) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
-- **[Junior Kadile](https://www.wikidata.org/wiki/Q110385369)** ([WP](https://en.wikipedia.org/wiki/Junior_Kadile)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Kingstone Mutandwa](https://www.wikidata.org/wiki/Q124727629)** ([WP](https://de.wikipedia.org/wiki/Kingstone_Mutandwa)) (2026–) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
 - **[Lamine Fomba](https://www.wikidata.org/wiki/Q29412269)** ([WP](https://en.wikipedia.org/wiki/Lamine_Fomba)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Lilian Njoh](https://www.wikidata.org/wiki/Q135831125)** ([WP](https://en.wikipedia.org/wiki/Lilian_Njoh)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Marco Burch](https://www.wikidata.org/wiki/Q87138083)** ([WP](https://de.wikipedia.org/wiki/Marco_Burch)) (2026–) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.

@@ -2,7 +2,7 @@
 
 - Wikidata item: [Q15789](https://www.wikidata.org/wiki/Q15789)
 - Wikipedia article: [FC Bayern München](https://de.wikipedia.org/wiki/FC_Bayern_München)
-- Players in Wikipedia squad: 89
+- Players in Wikipedia squad: 87
 - Current members on Wikidata: 211
 - Suggested edits: 265
 
@@ -15,7 +15,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (193)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (194)</strong></summary>
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** ([WP](https://de.wikipedia.org/wiki/Adam_Aznou)) (2024–2025) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Fein](https://www.wikidata.org/wiki/Q56705037)** ([WP](https://de.wikipedia.org/wiki/Adrian_Fein)) (2020–2022) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -36,6 +36,7 @@
 - **[Anna-Maria Thoma](https://www.wikidata.org/wiki/Q66364014)** ([WP](https://de.wikipedia.org/wiki/Anna-Maria_Thoma)) (–2008) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Anneliese Probst](https://www.wikidata.org/wiki/Q66486298)** ([WP](https://de.wikipedia.org/wiki/Anneliese_Probst_(Fu%C3%9Fballspielerin))) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Anton Grafwallner](https://www.wikidata.org/wiki/Q82949218)** ([WP](https://de.wikipedia.org/wiki/Anton_Grafwallner)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Arijon Ibrahimović](https://www.wikidata.org/wiki/Q114288689)** ([WP](https://de.wikipedia.org/wiki/Arijon_Ibrahimovi%C4%87)) (2022–) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arturo Sanhueza](https://www.wikidata.org/wiki/Q2634464)** ([WP](https://de.wikipedia.org/wiki/Arturo_Sanhueza)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Barbara Brecht](https://www.wikidata.org/wiki/Q29034838)** ([WP](https://de.wikipedia.org/wiki/Barbara_Brecht)) (2017) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Benedict Hollerbach](https://www.wikidata.org/wiki/Q99484682)** ([WP](https://de.wikipedia.org/wiki/Benedict_Hollerbach)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -257,10 +258,9 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (39)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (38)</strong></summary>
 
 - **10. Januar 2007** — '10. Januar 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **11. Dezember 2005** — '11. Dezember 2005' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **11. Februar 1996** — '11. Februar 1996' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **12. Dezember 2001** — '12. Dezember 2001' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **12. Mai 1999** — '12. Mai 1999' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

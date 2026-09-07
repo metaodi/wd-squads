@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-31 06:31 UTC",
-  "total_suggestions": 10283,
+  "generated": "2026-09-07 06:31 UTC",
+  "total_suggestions": 10243,
   "teams": [
     {
       "qid": "Q190526",
       "label": "BSC Young Boys",
       "league": "Swiss Super League",
       "wikipedia_title": "BSC Young Boys",
-      "squad_size": 30,
+      "squad_size": 29,
       "wikidata_current": 88,
       "error": null,
       "suggestions": [
@@ -400,6 +400,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Herba Guirassy",
+          "player_qid": "Q129777758",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Herba Guirassy",
+          "detail": "Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q190526",
+            "wikipedia": "https://de.wikipedia.org/wiki/Herba_Guirassy",
+            "item": "https://www.wikidata.org/wiki/Q129777758"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Hélios Sessolo",
           "player_qid": "Q16235828",
@@ -578,21 +593,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Joël Monteiro",
-          "player_qid": "Q99674396",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Joël Monteiro",
-          "detail": "Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.",
-          "start_year": 2021,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q190526",
-            "wikipedia": "https://de.wikipedia.org/wiki/Joël_Monteiro",
-            "item": "https://www.wikidata.org/wiki/Q99674396"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "József Winkler",
           "player_qid": "Q1465176",
@@ -634,21 +634,6 @@
             "team": "https://www.wikidata.org/wiki/Q190526",
             "wikipedia": "https://de.wikipedia.org/wiki/Kaly_Sène",
             "item": "https://www.wikidata.org/wiki/Q98592835"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Kastriot Imeri",
-          "player_qid": "Q70780296",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Kastriot Imeri",
-          "detail": "Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.",
-          "start_year": 2022,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q190526",
-            "wikipedia": "https://de.wikipedia.org/wiki/Kastriot_Imeri",
-            "item": "https://www.wikidata.org/wiki/Q70780296"
           }
         },
         {
@@ -963,21 +948,6 @@
             "item": "https://www.wikidata.org/wiki/Q33891790",
             "team": "https://www.wikidata.org/wiki/Q190526",
             "wikipedia": "https://de.wikipedia.org/wiki/Nicolas_B%C3%BCrgy"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Olivier Mambwa",
-          "player_qid": "Q136039458",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Olivier Mambwa",
-          "detail": "Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q190526",
-            "wikipedia": "https://de.wikipedia.org/wiki/Olivier_Mambwa",
-            "item": "https://www.wikidata.org/wiki/Q136039458"
           }
         },
         {
@@ -1509,6 +1479,19 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
+          "player": "Silas Ubaka",
+          "player_qid": null,
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "'Silas Ubaka' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q190526"
+          }
+        },
+        {
+          "kind": "NO_WIKIDATA_ITEM",
           "player": "Tristan Jost",
           "player_qid": null,
           "qid_source": null,
@@ -1527,25 +1510,10 @@
       "label": "FC Basel",
       "league": "Swiss Super League",
       "wikipedia_title": "FC Basel",
-      "squad_size": 29,
+      "squad_size": 27,
       "wikidata_current": 279,
       "error": null,
       "suggestions": [
-        {
-          "kind": "REVIEW_ENDED",
-          "player": "Albian Ajeti",
-          "player_qid": "Q16148161",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Albian Ajeti",
-          "detail": "Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q189671",
-            "wikipedia": "https://de.wikipedia.org/wiki/Albian_Ajeti",
-            "item": "https://www.wikidata.org/wiki/Q16148161"
-          }
-        },
         {
           "kind": "ADD_MEMBERSHIP",
           "player": "Aaron Malouda",
@@ -2308,20 +2276,6 @@
             "item": "https://www.wikidata.org/wiki/Q5280738",
             "team": "https://www.wikidata.org/wiki/Q189671",
             "wikipedia": "https://en.wikipedia.org/wiki/Diren_Akdemir"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Djordje Jovanovic",
-          "player_qid": "Q110047580",
-          "qid_source": "search",
-          "wikipedia_title": null,
-          "detail": "Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q189671",
-            "item": "https://www.wikidata.org/wiki/Q110047580"
           }
         },
         {
@@ -6030,7 +5984,7 @@
       "label": "FC Lausanne-Sport",
       "league": "Swiss Super League",
       "wikipedia_title": "FC Lausanne-Sport",
-      "squad_size": 28,
+      "squad_size": 29,
       "wikidata_current": 68,
       "error": null,
       "suggestions": [
@@ -6465,21 +6419,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Jamie Roche",
-          "player_qid": "Q100741735",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Jamie Roche",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q309456",
-            "wikipedia": "https://de.wikipedia.org/wiki/Jamie_Roche",
-            "item": "https://www.wikidata.org/wiki/Q100741735"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Jean-Jacques Maurer",
           "player_qid": "Q26972536",
@@ -6612,21 +6551,6 @@
             "item": "https://www.wikidata.org/wiki/Q16586604",
             "team": "https://www.wikidata.org/wiki/Q309456",
             "wikipedia": "https://de.wikipedia.org/wiki/Kevin_M%C3%A9ndez"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Koba Leïn Koindredi",
-          "player_qid": "Q104587845",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → FC Lausanne-Sport (Q309456); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": 2025,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q104587845",
-            "team": "https://www.wikidata.org/wiki/Q309456",
-            "wikipedia": "https://de.wikipedia.org/wiki/Koba_Koindredi"
           }
         },
         {
@@ -6883,6 +6807,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Nicolas Cozza",
+          "player_qid": "Q43369696",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Nicolas Cozza",
+          "detail": "Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q309456",
+            "wikipedia": "https://de.wikipedia.org/wiki/Nicolas_Cozza",
+            "item": "https://www.wikidata.org/wiki/Q43369696"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Noah Loosli",
           "player_qid": "Q28967838",
@@ -7015,21 +6954,6 @@
             "item": "https://www.wikidata.org/wiki/Q28669544",
             "team": "https://www.wikidata.org/wiki/Q309456",
             "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Schneider_(Swiss_footballer)"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Rodolfo Lippo",
-          "player_qid": "Q138767563",
-          "qid_source": "search",
-          "wikipedia_title": null,
-          "detail": "Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q309456",
-            "wikipedia": "https://en.wikipedia.org/wiki/Rodolfo_Lippo",
-            "item": "https://www.wikidata.org/wiki/Q138767563"
           }
         },
         {
@@ -7315,6 +7239,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Étienne Youté Kinkoué",
+          "player_qid": "Q109712079",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Étienne Youté Kinkoué",
+          "detail": "Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q309456",
+            "wikipedia": "https://de.wikipedia.org/wiki/Étienne_Youté_Kinkoué",
+            "item": "https://www.wikidata.org/wiki/Q109712079"
+          }
+        },
+        {
           "kind": "ADD_START_DATE",
           "player": "Olivier Custodio",
           "player_qid": "Q16236718",
@@ -7429,7 +7368,7 @@
       "label": "FC Lugano",
       "league": "Swiss Super League",
       "wikipedia_title": "FC Lugano",
-      "squad_size": 31,
+      "squad_size": 32,
       "wikidata_current": 58,
       "error": null,
       "suggestions": [
@@ -7505,6 +7444,21 @@
             "item": "https://www.wikidata.org/wiki/Q16077734",
             "team": "https://www.wikidata.org/wiki/Q633521",
             "wikipedia": "https://en.wikipedia.org/wiki/Albert_Harrison_(footballer,_born_1904)"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Albian Ajeti",
+          "player_qid": "Q16148161",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Albian Ajeti",
+          "detail": "Add a 'member of sports team' (P54) statement → FC Lugano (Q633521); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q633521",
+            "wikipedia": "https://de.wikipedia.org/wiki/Albian_Ajeti",
+            "item": "https://www.wikidata.org/wiki/Q16148161"
           }
         },
         {
@@ -8657,7 +8611,7 @@
       "label": "FC Luzern",
       "league": "Swiss Super League",
       "wikipedia_title": "FC Luzern",
-      "squad_size": 31,
+      "squad_size": 29,
       "wikidata_current": 60,
       "error": null,
       "suggestions": [
@@ -9093,21 +9047,6 @@
             "item": "https://www.wikidata.org/wiki/Q6144190",
             "team": "https://www.wikidata.org/wiki/Q223262",
             "wikipedia": "https://en.wikipedia.org/wiki/James_Thompson_(footballer)"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Jesper Löfgren",
-          "player_qid": "Q61058839",
-          "qid_source": "search",
-          "wikipedia_title": null,
-          "detail": "Add a 'member of sports team' (P54) statement → FC Luzern (Q223262); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q223262",
-            "wikipedia": "https://en.wikipedia.org/wiki/Jesper_L%C3%B6fgren",
-            "item": "https://www.wikidata.org/wiki/Q61058839"
           }
         },
         {
@@ -9921,19 +9860,6 @@
           "qid_source": null,
           "wikipedia_title": null,
           "detail": "'Raphael Radtke' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q223262"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Ronaldo Dantas Fernandes",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Ronaldo Dantas Fernandes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
           "start_year": null,
           "end_year": null,
           "links": {
@@ -11482,6 +11408,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Winsley Boteli",
+          "player_qid": "Q118465434",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Winsley Boteli",
+          "detail": "Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.",
+          "start_year": 2025,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q321061",
+            "wikipedia": "https://de.wikipedia.org/wiki/Winsley_Boteli",
+            "item": "https://www.wikidata.org/wiki/Q118465434"
+          }
+        },
+        {
           "kind": "ADD_START_DATE",
           "player": "Baltazar Costa",
           "player_qid": "Q56248714",
@@ -11568,19 +11509,6 @@
           "qid_source": null,
           "wikipedia_title": null,
           "detail": "'Simon Caillet' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q321061"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Winsley Boteli",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Winsley Boteli' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
           "start_year": null,
           "end_year": null,
           "links": {
@@ -13393,7 +13321,7 @@
       "label": "FC Thun",
       "league": "Swiss Super League",
       "wikipedia_title": "FC Thun",
-      "squad_size": 30,
+      "squad_size": 32,
       "wikidata_current": 47,
       "error": null,
       "suggestions": [
@@ -13921,21 +13849,6 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
-          "player": "Layton Stewart",
-          "player_qid": "Q78828882",
-          "qid_source": "search",
-          "wikipedia_title": null,
-          "detail": "Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q464775",
-            "wikipedia": "https://en.wikipedia.org/wiki/Layton_Stewart",
-            "item": "https://www.wikidata.org/wiki/Q78828882"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
           "player": "Leon Grando",
           "player_qid": "Q118465520",
           "qid_source": "search",
@@ -14173,6 +14086,20 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Noah Christoffersson",
+          "player_qid": "Q50506810",
+          "qid_source": "search",
+          "wikipedia_title": null,
+          "detail": "Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q464775",
+            "item": "https://www.wikidata.org/wiki/Q50506810"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Norman Peyretti",
           "player_qid": "Q23799365",
@@ -14188,6 +14115,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Olivier Mambwa",
+          "player_qid": "Q136039458",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Olivier Mambwa",
+          "detail": "Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q464775",
+            "wikipedia": "https://de.wikipedia.org/wiki/Olivier_Mambwa",
+            "item": "https://www.wikidata.org/wiki/Q136039458"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Omer Dzonlagic",
           "player_qid": "Q33891877",
@@ -14200,6 +14142,21 @@
             "item": "https://www.wikidata.org/wiki/Q33891877",
             "team": "https://www.wikidata.org/wiki/Q464775",
             "wikipedia": "https://en.wikipedia.org/wiki/Omer_Dzonlagic"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Patrik Kristal",
+          "player_qid": "Q120084209",
+          "qid_source": "search",
+          "wikipedia_title": null,
+          "detail": "Add a 'member of sports team' (P54) statement → FC Thun (Q464775); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q464775",
+            "wikipedia": "https://en.wikipedia.org/wiki/Patrik_Kristal",
+            "item": "https://www.wikidata.org/wiki/Q120084209"
           }
         },
         {
@@ -15424,7 +15381,7 @@
       "label": "FC Zürich",
       "league": "Swiss Super League",
       "wikipedia_title": "FC Zürich",
-      "squad_size": 33,
+      "squad_size": 32,
       "wikidata_current": 89,
       "error": null,
       "suggestions": [
@@ -15903,6 +15860,21 @@
             "item": "https://www.wikidata.org/wiki/Q48850236",
             "team": "https://www.wikidata.org/wiki/Q206692",
             "wikipedia": "https://de.wikipedia.org/wiki/Izer_Aliu_(Fussballspieler)"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Juan José Perea",
+          "player_qid": "Q67816519",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → FC Zürich (Q206692); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2024,
+          "end_year": 2026,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q67816519",
+            "team": "https://www.wikidata.org/wiki/Q206692",
+            "wikipedia": "https://de.wikipedia.org/wiki/Juan_Jos%C3%A9_Perea"
           }
         },
         {
@@ -16796,6 +16768,19 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
+          "player": "Doron Lichtenstein",
+          "player_qid": null,
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "'Doron Lichtenstein' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q206692"
+          }
+        },
+        {
+          "kind": "NO_WIKIDATA_ITEM",
           "player": "Jill Stiel",
           "player_qid": null,
           "qid_source": null,
@@ -16853,19 +16838,6 @@
           "qid_source": null,
           "wikipedia_title": null,
           "detail": "'Mario Greco' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q206692"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Mattia Rizzo",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Mattia Rizzo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
           "start_year": null,
           "end_year": null,
           "links": {
@@ -17009,7 +16981,7 @@
       "label": "Grasshopper Club Zürich",
       "league": "Swiss Super League",
       "wikipedia_title": "Grasshopper Club Zürich",
-      "squad_size": 37,
+      "squad_size": 33,
       "wikidata_current": 58,
       "error": null,
       "suggestions": [
@@ -17086,21 +17058,6 @@
             "item": "https://www.wikidata.org/wiki/Q4722640",
             "team": "https://www.wikidata.org/wiki/Q201360",
             "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Emuejeraye"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Alieu Conateh",
-          "player_qid": "Q135684978",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Alieu Conateh",
-          "detail": "Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q201360",
-            "wikipedia": "https://de.wikipedia.org/wiki/Alieu_Conateh",
-            "item": "https://www.wikidata.org/wiki/Q135684978"
           }
         },
         {
@@ -17935,21 +17892,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Saulo Decarli",
-          "player_qid": "Q15706612",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Saulo Decarli",
-          "detail": "Add a 'member of sports team' (P54) statement → Grasshopper Club Zürich (Q201360); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q201360",
-            "wikipedia": "https://de.wikipedia.org/wiki/Saulo_Decarli",
-            "item": "https://www.wikidata.org/wiki/Q15706612"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Semir Musić",
           "player_qid": "Q16110172",
@@ -18175,32 +18117,6 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
-          "player": "Leart Kabashi",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Leart Kabashi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q201360"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Loris Giandomenico",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Loris Giandomenico' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q201360"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
           "player": "Luka Mikulić",
           "player_qid": null,
           "qid_source": null,
@@ -18349,8 +18265,8 @@
       "label": "Servette FC Genève",
       "league": "Swiss Super League",
       "wikipedia_title": "Servette FC",
-      "squad_size": 30,
-      "wikidata_current": 69,
+      "squad_size": 31,
+      "wikidata_current": 70,
       "error": null,
       "suggestions": [
         {
@@ -18937,21 +18853,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Junior Kadile",
-          "player_qid": "Q110385369",
-          "qid_source": "search",
-          "wikipedia_title": null,
-          "detail": "Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q219235",
-            "wikipedia": "https://en.wikipedia.org/wiki/Junior_Kadile",
-            "item": "https://www.wikidata.org/wiki/Q110385369"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Jérémy Faug-Porret",
           "player_qid": "Q1714978",
@@ -18994,6 +18895,21 @@
             "item": "https://www.wikidata.org/wiki/Q70780296",
             "team": "https://www.wikidata.org/wiki/Q219235",
             "wikipedia": "https://de.wikipedia.org/wiki/Kastriot_Imeri"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Kingstone Mutandwa",
+          "player_qid": "Q124727629",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Kingstone Mutandwa",
+          "detail": "Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q219235",
+            "wikipedia": "https://de.wikipedia.org/wiki/Kingstone_Mutandwa",
+            "item": "https://www.wikidata.org/wiki/Q124727629"
           }
         },
         {
@@ -53459,21 +53375,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Elias Bakatukanda",
-          "player_qid": "Q131703449",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Elias Bakatukanda",
-          "detail": "Add a 'member of sports team' (P54) statement → 1. FC Köln (Q104770); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q104770",
-            "wikipedia": "https://de.wikipedia.org/wiki/Elias_Bakatukanda",
-            "item": "https://www.wikidata.org/wiki/Q131703449"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Emin Kujović",
           "player_qid": "Q135393258",
@@ -54163,21 +54064,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Julian Pauli",
-          "player_qid": "Q128393885",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Julian Pauli",
-          "detail": "Add a 'member of sports team' (P54) statement → 1. FC Köln (Q104770); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q104770",
-            "wikipedia": "https://de.wikipedia.org/wiki/Julian_Pauli",
-            "item": "https://www.wikidata.org/wiki/Q128393885"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Juliane Wirtz",
           "player_qid": "Q55413421",
@@ -54338,21 +54224,6 @@
           "links": {
             "item": "https://www.wikidata.org/wiki/Q85992226",
             "team": "https://www.wikidata.org/wiki/Q104770"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Kingsley Ehizibue",
-          "player_qid": "Q18426157",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → 1. FC Köln (Q104770); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2019,
-          "end_year": 2022,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q18426157",
-            "team": "https://www.wikidata.org/wiki/Q104770",
-            "wikipedia": "https://de.wikipedia.org/wiki/Kingsley_Ehizibue"
           }
         },
         {
@@ -54743,6 +54614,21 @@
             "item": "https://www.wikidata.org/wiki/Q1724467",
             "team": "https://www.wikidata.org/wiki/Q104770",
             "wikipedia": "https://de.wikipedia.org/wiki/Mike_Wunderlich"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Mikey Moore",
+          "player_qid": "Q119700600",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Mikey Moore",
+          "detail": "Add a 'member of sports team' (P54) statement → 1. FC Köln (Q104770); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q104770",
+            "wikipedia": "https://de.wikipedia.org/wiki/Mikey_Moore",
+            "item": "https://www.wikidata.org/wiki/Q119700600"
           }
         },
         {
@@ -55452,8 +55338,8 @@
       "label": "1. FC Union Berlin",
       "league": "Bundesliga",
       "wikipedia_title": "1. FC Union Berlin",
-      "squad_size": 54,
-      "wikidata_current": 89,
+      "squad_size": 53,
+      "wikidata_current": 88,
       "error": null,
       "suggestions": [
         {
@@ -55499,21 +55385,6 @@
             "team": "https://www.wikidata.org/wiki/Q141971",
             "wikipedia": "https://de.wikipedia.org/wiki/Günter_Hoge",
             "item": "https://www.wikidata.org/wiki/Q1560598"
-          }
-        },
-        {
-          "kind": "REVIEW_ENDED",
-          "player": "Ilyas Ansah",
-          "player_qid": "Q124260632",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Ilyas Ansah",
-          "detail": "Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q141971",
-            "wikipedia": "https://de.wikipedia.org/wiki/Ilyas_Ansah",
-            "item": "https://www.wikidata.org/wiki/Q124260632"
           }
         },
         {
@@ -56132,21 +56003,6 @@
         },
         {
           "kind": "ADD_END_DATE",
-          "player": "David Datro Fofana",
-          "player_qid": "Q105575806",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": 2024,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q105575806",
-            "team": "https://www.wikidata.org/wiki/Q141971",
-            "wikipedia": "https://de.wikipedia.org/wiki/David_Datro_Fofana"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
           "player": "David Hollwitz",
           "player_qid": "Q338156",
           "qid_source": null,
@@ -56595,6 +56451,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Kastriot Imeri",
+          "player_qid": "Q70780296",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Kastriot Imeri",
+          "detail": "Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q141971",
+            "wikipedia": "https://de.wikipedia.org/wiki/Kastriot_Imeri",
+            "item": "https://www.wikidata.org/wiki/Q70780296"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Keita Endo",
           "player_qid": "Q24872420",
@@ -56952,21 +56823,6 @@
             "team": "https://www.wikidata.org/wiki/Q141971",
             "wikipedia": "https://de.wikipedia.org/wiki/Oliver_Burke",
             "item": "https://www.wikidata.org/wiki/Q18125392"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Oluwaseun Ogbemudia",
-          "player_qid": "Q138209059",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Oluwaseun Ogbemudia",
-          "detail": "Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q141971",
-            "wikipedia": "https://de.wikipedia.org/wiki/Oluwaseun_Ogbemudia",
-            "item": "https://www.wikidata.org/wiki/Q138209059"
           }
         },
         {
@@ -57439,7 +57295,7 @@
       "label": "1. FSV Mainz 05",
       "league": "Bundesliga",
       "wikipedia_title": "1. FSV Mainz 05",
-      "squad_size": 34,
+      "squad_size": 32,
       "wikidata_current": 112,
       "error": null,
       "suggestions": [
@@ -57545,21 +57401,6 @@
             "item": "https://www.wikidata.org/wiki/Q27637435",
             "team": "https://www.wikidata.org/wiki/Q105254",
             "wikipedia": "https://de.wikipedia.org/wiki/Anderson_Lucoqui"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Andreas Hanche-Olsen",
-          "player_qid": "Q27671329",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Andreas Hanche-Olsen",
-          "detail": "Add a 'member of sports team' (P54) statement → 1. FSV Mainz 05 (Q105254); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q105254",
-            "wikipedia": "https://de.wikipedia.org/wiki/Andreas_Hanche-Olsen",
-            "item": "https://www.wikidata.org/wiki/Q27671329"
           }
         },
         {
@@ -58768,6 +58609,21 @@
         },
         {
           "kind": "ADD_END_DATE",
+          "player": "Marco Richter",
+          "player_qid": "Q42148629",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → 1. FSV Mainz 05 (Q105254); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2023,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q42148629",
+            "team": "https://www.wikidata.org/wiki/Q105254",
+            "wikipedia": "https://de.wikipedia.org/wiki/Marco_Richter_(Fu%C3%9Fballspieler)"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
           "player": "Marcus Jahn",
           "player_qid": "Q42310295",
           "qid_source": null,
@@ -59443,7 +59299,7 @@
       "league": "Bundesliga",
       "wikipedia_title": "Bayer 04 Leverkusen",
       "squad_size": 29,
-      "wikidata_current": 95,
+      "wikidata_current": 96,
       "error": null,
       "suggestions": [
         {
@@ -59609,21 +59465,6 @@
             "item": "https://www.wikidata.org/wiki/Q522418",
             "team": "https://www.wikidata.org/wiki/Q104761",
             "wikipedia": "https://de.wikipedia.org/wiki/Andr%C3%A9_Ramalho"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Arthur",
-          "player_qid": "Q112182604",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Arthur (Fußballspieler, 2003)",
-          "detail": "Add a 'member of sports team' (P54) statement → Bayer 04 Leverkusen (Q104761); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q104761",
-            "wikipedia": "https://de.wikipedia.org/wiki/Arthur_(Fußballspieler,_2003)",
-            "item": "https://www.wikidata.org/wiki/Q112182604"
           }
         },
         {
@@ -59883,21 +59724,6 @@
         },
         {
           "kind": "ADD_END_DATE",
-          "player": "Gustavo Puerta",
-          "player_qid": "Q116447721",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": 2025,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q116447721",
-            "team": "https://www.wikidata.org/wiki/Q104761",
-            "wikipedia": "https://de.wikipedia.org/wiki/Gustavo_Puerta"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
           "player": "Günter Haarmann",
           "player_qid": "Q60575178",
           "qid_source": null,
@@ -60089,21 +59915,6 @@
             "team": "https://www.wikidata.org/wiki/Q104761",
             "wikipedia": "https://de.wikipedia.org/wiki/Janis_Blaswich",
             "item": "https://www.wikidata.org/wiki/Q20435757"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Jeanuël Belocian",
-          "player_qid": "Q111308976",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Jeanuël Belocian",
-          "detail": "Add a 'member of sports team' (P54) statement → Bayer 04 Leverkusen (Q104761); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q104761",
-            "wikipedia": "https://de.wikipedia.org/wiki/Jeanuël_Belocian",
-            "item": "https://www.wikidata.org/wiki/Q111308976"
           }
         },
         {
@@ -60964,8 +60775,8 @@
       "label": "Borussia Dortmund",
       "league": "Bundesliga",
       "wikipedia_title": "Borussia Dortmund",
-      "squad_size": 29,
-      "wikidata_current": 79,
+      "squad_size": 30,
+      "wikidata_current": 80,
       "error": null,
       "suggestions": [
         {
@@ -62564,6 +62375,20 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Fritz Fleck",
+          "player_qid": "Q141321234",
+          "qid_source": "search",
+          "wikipedia_title": null,
+          "detail": "Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q101959",
+            "item": "https://www.wikidata.org/wiki/Q141321234"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Gerd Schommen",
           "player_qid": "Q1510811",
@@ -63161,6 +62986,20 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Mathieu Nguefack",
+          "player_qid": "Q141321232",
+          "qid_source": "search",
+          "wikipedia_title": null,
+          "detail": "Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q101959",
+            "item": "https://www.wikidata.org/wiki/Q141321232"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Muhittin Baştürk",
           "player_qid": "Q14542497",
@@ -63173,6 +63012,21 @@
             "item": "https://www.wikidata.org/wiki/Q14542497",
             "team": "https://www.wikidata.org/wiki/Q101959",
             "wikipedia": "https://de.wikipedia.org/wiki/Muhittin_Bast%C3%BCrk"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Nicolas Kühn",
+          "player_qid": "Q50822050",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Nicolas Kühn",
+          "detail": "Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q101959",
+            "wikipedia": "https://de.wikipedia.org/wiki/Nicolas_Kühn",
+            "item": "https://www.wikidata.org/wiki/Q50822050"
           }
         },
         {
@@ -63431,21 +63285,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Tomáš Čvančara",
-          "player_qid": "Q104650064",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Tomáš Čvančara",
-          "detail": "Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q101959",
-            "wikipedia": "https://de.wikipedia.org/wiki/Tomáš_Čvančara",
-            "item": "https://www.wikidata.org/wiki/Q104650064"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Torben Müsel",
           "player_qid": "Q41029410",
@@ -63567,37 +63406,11 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
-          "player": "Fritz Fleck",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Fritz Fleck' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q101959"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
           "player": "Iaia Manco Danfa",
           "player_qid": null,
           "qid_source": null,
           "wikipedia_title": null,
           "detail": "'Iaia Manco Danfa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q101959"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Mathieu Nguefack",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Mathieu Nguefack' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
           "start_year": null,
           "end_year": null,
           "links": {
@@ -63611,8 +63424,8 @@
       "label": "Eintracht Frankfurt",
       "league": "Bundesliga",
       "wikipedia_title": "Eintracht Frankfurt",
-      "squad_size": 27,
-      "wikidata_current": 133,
+      "squad_size": 25,
+      "wikidata_current": 135,
       "error": null,
       "suggestions": [
         {
@@ -63772,7 +63585,7 @@
           "wikipedia_title": null,
           "detail": "Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "start_year": 2024,
-          "end_year": null,
+          "end_year": 2026,
           "links": {
             "item": "https://www.wikidata.org/wiki/Q97724521",
             "team": "https://www.wikidata.org/wiki/Q38245",
@@ -64409,21 +64222,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Hugo Larsson",
-          "player_qid": "Q111586862",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Hugo Larsson",
-          "detail": "Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q38245",
-            "wikipedia": "https://de.wikipedia.org/wiki/Hugo_Larsson",
-            "item": "https://www.wikidata.org/wiki/Q111586862"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Jabez Makanda",
           "player_qid": "Q97343114",
@@ -64483,18 +64281,18 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
+          "kind": "ADD_END_DATE",
           "player": "Jean-Mattéo Bahoya",
           "player_qid": "Q116052667",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Jean-Mattéo Bahoya",
-          "detail": "Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "start_year": 2024,
           "end_year": null,
           "links": {
+            "item": "https://www.wikidata.org/wiki/Q116052667",
             "team": "https://www.wikidata.org/wiki/Q38245",
-            "wikipedia": "https://de.wikipedia.org/wiki/Jean-Mattéo_Bahoya",
-            "item": "https://www.wikidata.org/wiki/Q116052667"
+            "wikipedia": "https://de.wikipedia.org/wiki/Jean-Matt%C3%A9o_Bahoya"
           }
         },
         {
@@ -65062,21 +64860,6 @@
             "item": "https://www.wikidata.org/wiki/Q21712255",
             "team": "https://www.wikidata.org/wiki/Q38245",
             "wikipedia": "https://de.wikipedia.org/wiki/Nico_Rinderknecht"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Niels Nkounkou",
-          "player_qid": "Q98937031",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Niels Nkounkou",
-          "detail": "Add a 'member of sports team' (P54) statement → Eintracht Frankfurt (Q38245); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q38245",
-            "wikipedia": "https://de.wikipedia.org/wiki/Niels_Nkounkou",
-            "item": "https://www.wikidata.org/wiki/Q98937031"
           }
         },
         {
@@ -65800,7 +65583,7 @@
       "label": "FC Bayern München",
       "league": "Bundesliga",
       "wikipedia_title": "FC Bayern München",
-      "squad_size": 89,
+      "squad_size": 87,
       "wikidata_current": 211,
       "error": null,
       "suggestions": [
@@ -66129,6 +65912,21 @@
             "team": "https://www.wikidata.org/wiki/Q15789",
             "wikipedia": "https://de.wikipedia.org/wiki/Anton_Heinz",
             "item": "https://www.wikidata.org/wiki/Q128497615"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Arijon Ibrahimović",
+          "player_qid": "Q114288689",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2022,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q114288689",
+            "team": "https://www.wikidata.org/wiki/Q15789",
+            "wikipedia": "https://de.wikipedia.org/wiki/Arijon_Ibrahimovi%C4%87"
           }
         },
         {
@@ -69193,19 +68991,6 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
-          "player": "11. Dezember 2005",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'11. Dezember 2005' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q15789"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
           "player": "11. Februar 1996",
           "player_qid": null,
           "qid_source": null,
@@ -69692,8 +69477,8 @@
       "label": "FC Schalke 04",
       "league": "Bundesliga",
       "wikipedia_title": "FC Schalke 04",
-      "squad_size": 42,
-      "wikidata_current": 144,
+      "squad_size": 27,
+      "wikidata_current": 145,
       "error": null,
       "suggestions": [
         {
@@ -69817,21 +69602,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Anton Donkor",
-          "player_qid": "Q55820143",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Anton Donkor",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": 2026,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Anton_Donkor",
-            "item": "https://www.wikidata.org/wiki/Q55820143"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Arnold Cramer",
           "player_qid": "Q27868208",
@@ -69922,21 +69692,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Christian Gomis",
-          "player_qid": "Q132906887",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Christian Gomis (Fußballspieler, 2000)",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Christian_Gomis_(Fußballspieler,_2000)",
-            "item": "https://www.wikidata.org/wiki/Q132906887"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Danilinho",
           "player_qid": "Q616009",
@@ -69994,21 +69749,6 @@
             "item": "https://www.wikidata.org/wiki/Q470558",
             "team": "https://www.wikidata.org/wiki/Q32494",
             "wikipedia": "https://de.wikipedia.org/wiki/Dimitrios_Grammozis"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Dylan Leonard",
-          "player_qid": "Q135678948",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Dylan Leonard",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Dylan_Leonard",
-            "item": "https://www.wikidata.org/wiki/Q135678948"
           }
         },
         {
@@ -70173,21 +69913,6 @@
             "item": "https://www.wikidata.org/wiki/Q64010327",
             "team": "https://www.wikidata.org/wiki/Q32494",
             "wikipedia": "https://de.wikipedia.org/wiki/George_Timotheou"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Gerrit Wegkamp",
-          "player_qid": "Q1514817",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Gerrit Wegkamp",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Gerrit_Wegkamp",
-            "item": "https://www.wikidata.org/wiki/Q1514817"
           }
         },
         {
@@ -70488,21 +70213,6 @@
             "item": "https://www.wikidata.org/wiki/Q14905814",
             "team": "https://www.wikidata.org/wiki/Q32494",
             "wikipedia": "https://de.wikipedia.org/wiki/Helmut_Manns"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Henning Matriciani",
-          "player_qid": "Q106844147",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Henning Matriciani",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2021,
-          "end_year": 2026,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Henning_Matriciani",
-            "item": "https://www.wikidata.org/wiki/Q106844147"
           }
         },
         {
@@ -71046,13 +70756,14 @@
           "kind": "ADD_MEMBERSHIP",
           "player": "Luca Vozar",
           "player_qid": "Q140855128",
-          "qid_source": "search",
-          "wikipedia_title": null,
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": null,
+          "qid_source": "sitelink",
+          "wikipedia_title": "Luca Vozar",
+          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q32494",
+            "wikipedia": "https://de.wikipedia.org/wiki/Luca_Vozar",
             "item": "https://www.wikidata.org/wiki/Q140855128"
           }
         },
@@ -71234,51 +70945,6 @@
             "item": "https://www.wikidata.org/wiki/Q26216388",
             "team": "https://www.wikidata.org/wiki/Q32494",
             "wikipedia": "https://de.wikipedia.org/wiki/Maurice_Neubauer"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Mauro Zalazar",
-          "player_qid": "Q130736460",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Mauro Zalazar",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": 2026,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Mauro_Zalazar",
-            "item": "https://www.wikidata.org/wiki/Q130736460"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Max Grüger",
-          "player_qid": "Q130381655",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Max Grüger",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": 2026,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Max_Grüger",
-            "item": "https://www.wikidata.org/wiki/Q130381655"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Max Lamby",
-          "player_qid": "Q124154051",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Max Lamby",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Max_Lamby",
-            "item": "https://www.wikidata.org/wiki/Q124154051"
           }
         },
         {
@@ -71567,21 +71233,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Paul Pöpperl",
-          "player_qid": "Q128826877",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Paul Pöpperl",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Paul_Pöpperl",
-            "item": "https://www.wikidata.org/wiki/Q128826877"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Paul Stieber",
           "player_qid": "Q20437444",
@@ -71608,21 +71259,6 @@
             "item": "https://www.wikidata.org/wiki/Q21098111",
             "team": "https://www.wikidata.org/wiki/Q32494",
             "wikipedia": "https://de.wikipedia.org/wiki/Pedro_Aguilar"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Peter Remmert",
-          "player_qid": "Q132853263",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Peter Remmert (Fußballspieler)",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Peter_Remmert_(Fußballspieler)",
-            "item": "https://www.wikidata.org/wiki/Q132853263"
           }
         },
         {
@@ -71746,21 +71382,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Raphael Ott",
-          "player_qid": "Q134391803",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Raphael Ott",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Raphael_Ott",
-            "item": "https://www.wikidata.org/wiki/Q134391803"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "René Klingenburg",
           "player_qid": "Q55809731",
@@ -71787,7 +71408,7 @@
           "links": {
             "item": "https://www.wikidata.org/wiki/Q26233",
             "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Roman_Neust%C3%A4dter"
+            "wikipedia": "https://de.wikipedia.org/wiki/Roman_Petrowitsch_Neust%C3%A4dter"
           }
         },
         {
@@ -71952,36 +71573,6 @@
             "item": "https://www.wikidata.org/wiki/Q2427517",
             "team": "https://www.wikidata.org/wiki/Q32494",
             "wikipedia": "https://de.wikipedia.org/wiki/Thomas_Student"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Tidiane Touré",
-          "player_qid": "Q133868943",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Tidiane Touré",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": 2025,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Tidiane_Touré",
-            "item": "https://www.wikidata.org/wiki/Q133868943"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Tim-Justin Dietrich",
-          "player_qid": "Q123412348",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Tim-Justin Dietrich",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": 2026,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Tim-Justin_Dietrich",
-            "item": "https://www.wikidata.org/wiki/Q123412348"
           }
         },
         {
@@ -72299,21 +71890,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Yassin Ben Balla",
-          "player_qid": "Q57584820",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Yassin Ben Balla",
-          "detail": "Add a 'member of sports team' (P54) statement → FC Schalke 04 (Q32494); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": 2025,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494",
-            "wikipedia": "https://de.wikipedia.org/wiki/Yassin_Ben_Balla",
-            "item": "https://www.wikidata.org/wiki/Q57584820"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Younès Belhanda",
           "player_qid": "Q348266",
@@ -72327,32 +71903,6 @@
             "team": "https://www.wikidata.org/wiki/Q32494",
             "wikipedia": "https://de.wikipedia.org/wiki/Youn%C3%A8s_Belhanda"
           }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "1",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'1' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Ayman Gülaşı",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Ayman Gülaşı' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q32494"
-          }
         }
       ]
     },
@@ -72362,7 +71912,7 @@
       "league": "Bundesliga",
       "wikipedia_title": "Hamburger SV",
       "squad_size": 29,
-      "wikidata_current": 168,
+      "wikidata_current": 169,
       "error": null,
       "suggestions": [
         {
@@ -72587,7 +72137,7 @@
           "links": {
             "item": "https://www.wikidata.org/wiki/Q4873341",
             "team": "https://www.wikidata.org/wiki/Q51974",
-            "wikipedia": "https://de.wikipedia.org/wiki/Batuhan_Alt%C4%B1nta%C5%9F"
+            "wikipedia": "https://de.wikipedia.org/wiki/Batuhan_Alt%C4%B1nta%C5%9F_(Fu%C3%9Fballspieler)"
           }
         },
         {
@@ -72741,21 +72291,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Daniel Elfadli",
-          "player_qid": "Q114413857",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Daniel Elfadli",
-          "detail": "Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q51974",
-            "wikipedia": "https://de.wikipedia.org/wiki/Daniel_Elfadli",
-            "item": "https://www.wikidata.org/wiki/Q114413857"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Daniel Sager",
           "player_qid": "Q1162476",
@@ -72768,6 +72303,21 @@
             "item": "https://www.wikidata.org/wiki/Q1162476",
             "team": "https://www.wikidata.org/wiki/Q51974",
             "wikipedia": "https://de.wikipedia.org/wiki/Daniel_Sager"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "David Møller Wolfe",
+          "player_qid": "Q101095985",
+          "qid_source": "sitelink",
+          "wikipedia_title": "David Møller Wolfe",
+          "detail": "Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q51974",
+            "wikipedia": "https://de.wikipedia.org/wiki/David_Møller_Wolfe",
+            "item": "https://www.wikidata.org/wiki/Q101095985"
           }
         },
         {
@@ -72907,17 +72457,16 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
-          "player": "Emir Sahiti",
-          "player_qid": "Q52419347",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Emir Sahiti",
-          "detail": "Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
+          "player": "Elias Lahti",
+          "player_qid": "Q141321229",
+          "qid_source": "search",
+          "wikipedia_title": null,
+          "detail": "Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
+          "start_year": null,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q51974",
-            "wikipedia": "https://de.wikipedia.org/wiki/Emir_Sahiti",
-            "item": "https://www.wikidata.org/wiki/Q52419347"
+            "item": "https://www.wikidata.org/wiki/Q141321229"
           }
         },
         {
@@ -74386,21 +73935,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Rayan Philippe",
-          "player_qid": "Q67157835",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Rayan Philippe",
-          "detail": "Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q51974",
-            "wikipedia": "https://de.wikipedia.org/wiki/Rayan_Philippe",
-            "item": "https://www.wikidata.org/wiki/Q67157835"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Reginald Westendarp",
           "player_qid": "Q79421413",
@@ -75015,6 +74549,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Zakaria El Ouahdi",
+          "player_qid": "Q108156269",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Zakaria El Ouahdi",
+          "detail": "Add a 'member of sports team' (P54) statement → Hamburger SV (Q51974); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q51974",
+            "wikipedia": "https://de.wikipedia.org/wiki/Zakaria_El_Ouahdi",
+            "item": "https://www.wikidata.org/wiki/Q108156269"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Zbigniew Kruszyński",
           "player_qid": "Q168105",
@@ -75071,19 +74620,6 @@
           "links": {
             "team": "https://www.wikidata.org/wiki/Q51974"
           }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Elias Lahti",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Elias Lahti' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q51974"
-          }
         }
       ]
     },
@@ -75092,8 +74628,8 @@
       "label": "RB Leipzig",
       "league": "Bundesliga",
       "wikipedia_title": "RB Leipzig",
-      "squad_size": 33,
-      "wikidata_current": 98,
+      "squad_size": 30,
+      "wikidata_current": 102,
       "error": null,
       "suggestions": [
         {
@@ -75202,6 +74738,21 @@
           }
         },
         {
+          "kind": "ADD_END_DATE",
+          "player": "Arthur Vermeeren",
+          "player_qid": "Q113499581",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2024,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q113499581",
+            "team": "https://www.wikidata.org/wiki/Q702455",
+            "wikipedia": "https://de.wikipedia.org/wiki/Arthur_Vermeeren"
+          }
+        },
+        {
           "kind": "ADD_MEMBERSHIP",
           "player": "Assan Ouédraogo",
           "player_qid": "Q114825245",
@@ -75229,21 +74780,6 @@
             "item": "https://www.wikidata.org/wiki/Q758356",
             "team": "https://www.wikidata.org/wiki/Q702455",
             "wikipedia": "https://de.wikipedia.org/wiki/At%C4%B1n%C3%A7_Nukan"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Ayodele Thomas",
-          "player_qid": "Q130459793",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Ayodele Thomas",
-          "detail": "Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.",
-          "start_year": 2026,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q702455",
-            "wikipedia": "https://de.wikipedia.org/wiki/Ayodele_Thomas",
-            "item": "https://www.wikidata.org/wiki/Q130459793"
           }
         },
         {
@@ -75350,18 +74886,18 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
+          "kind": "ADD_END_DATE",
           "player": "Conrad Harder",
           "player_qid": "Q122618590",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Conrad Harder",
-          "detail": "Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "start_year": 2025,
           "end_year": null,
           "links": {
+            "item": "https://www.wikidata.org/wiki/Q122618590",
             "team": "https://www.wikidata.org/wiki/Q702455",
-            "wikipedia": "https://de.wikipedia.org/wiki/Conrad_Harder",
-            "item": "https://www.wikidata.org/wiki/Q122618590"
+            "wikipedia": "https://de.wikipedia.org/wiki/Conrad_Harder"
           }
         },
         {
@@ -75410,18 +74946,18 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
+          "kind": "ADD_END_DATE",
           "player": "El Chadaille Bitshiabu",
           "player_qid": "Q110211916",
-          "qid_source": "sitelink",
-          "wikipedia_title": "El Chadaille Bitshiabu",
-          "detail": "Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
           "start_year": 2023,
           "end_year": null,
           "links": {
+            "item": "https://www.wikidata.org/wiki/Q110211916",
             "team": "https://www.wikidata.org/wiki/Q702455",
-            "wikipedia": "https://de.wikipedia.org/wiki/El_Chadaille_Bitshiabu",
-            "item": "https://www.wikidata.org/wiki/Q110211916"
+            "wikipedia": "https://de.wikipedia.org/wiki/El_Chadaille_Bitshiabu"
           }
         },
         {
@@ -76680,19 +76216,6 @@
             "item": "https://www.wikidata.org/wiki/Q16236806",
             "team": "https://www.wikidata.org/wiki/Q702455",
             "wikipedia": "https://de.wikipedia.org/wiki/Zsolt_Kalm%C3%A1r"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Joyeux Masanka Bungi",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Joyeux Masanka Bungi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q702455"
           }
         }
       ]
@@ -78727,21 +78250,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Kennedy Okpala",
-          "player_qid": "Q123514165",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Kennedy Okpala",
-          "detail": "Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.",
-          "start_year": 2026,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q160532",
-            "wikipedia": "https://de.wikipedia.org/wiki/Kennedy_Okpala",
-            "item": "https://www.wikidata.org/wiki/Q123514165"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Kevin Stöger",
           "player_qid": "Q86523",
@@ -79265,6 +78773,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Rayan Philippe",
+          "player_qid": "Q67157835",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Rayan Philippe",
+          "detail": "Add a 'member of sports team' (P54) statement → SC Paderborn 07 (Q160532); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q160532",
+            "wikipedia": "https://de.wikipedia.org/wiki/Rayan_Philippe",
+            "item": "https://www.wikidata.org/wiki/Q67157835"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Robin Krauße",
           "player_qid": "Q16292944",
@@ -79556,7 +79079,7 @@
       "label": "SV Elversberg",
       "league": "Bundesliga",
       "wikipedia_title": "SV Elversberg",
-      "squad_size": 29,
+      "squad_size": 27,
       "wikidata_current": 40,
       "error": null,
       "suggestions": [
@@ -79755,21 +79278,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Filimon Gerezgiher",
-          "player_qid": "Q130449502",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Filimon Gerezgiher",
-          "detail": "Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q692691",
-            "wikipedia": "https://de.wikipedia.org/wiki/Filimon_Gerezgiher",
-            "item": "https://www.wikidata.org/wiki/Q130449502"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Florian Buchler",
           "player_qid": "Q12014050",
@@ -79887,21 +79395,6 @@
             "item": "https://www.wikidata.org/wiki/Q1682343",
             "team": "https://www.wikidata.org/wiki/Q692691",
             "wikipedia": "https://de.wikipedia.org/wiki/Jan_Washausen"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Jason Çeka",
-          "player_qid": "Q107671130",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Jason Çeka",
-          "detail": "Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q692691",
-            "wikipedia": "https://de.wikipedia.org/wiki/Jason_Çeka",
-            "item": "https://www.wikidata.org/wiki/Q107671130"
           }
         },
         {
@@ -80568,7 +80061,7 @@
       "label": "TSG 1899 Hoffenheim",
       "league": "Bundesliga",
       "wikipedia_title": "TSG 1899 Hoffenheim",
-      "squad_size": 60,
+      "squad_size": 57,
       "wikidata_current": 78,
       "error": null,
       "suggestions": [
@@ -80600,21 +80093,6 @@
             "team": "https://www.wikidata.org/wiki/Q22707",
             "wikipedia": "https://de.wikipedia.org/wiki/Albian_Hajdari",
             "item": "https://www.wikidata.org/wiki/Q99694316"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Alessandro Vogt",
-          "player_qid": "Q136121363",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Alessandro Vogt",
-          "detail": "Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.",
-          "start_year": 2026,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q22707",
-            "wikipedia": "https://de.wikipedia.org/wiki/Alessandro_Vogt",
-            "item": "https://www.wikidata.org/wiki/Q136121363"
           }
         },
         {
@@ -80705,21 +80183,6 @@
             "item": "https://www.wikidata.org/wiki/Q15431979",
             "team": "https://www.wikidata.org/wiki/Q22707",
             "wikipedia": "https://de.wikipedia.org/wiki/Antonio_%C4%8Colak"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Arthur Chaves",
-          "player_qid": "Q110943061",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Arthur Chaves",
-          "detail": "Add a 'member of sports team' (P54) statement → TSG 1899 Hoffenheim (Q22707); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q22707",
-            "wikipedia": "https://de.wikipedia.org/wiki/Arthur_Chaves",
-            "item": "https://www.wikidata.org/wiki/Q110943061"
           }
         },
         {
@@ -82228,19 +81691,6 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
-          "player": "Noah Mikrut",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Noah Mikrut' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q22707"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
           "player": "Oskar Hencke",
           "player_qid": null,
           "qid_source": null,
@@ -82363,8 +81813,8 @@
       "label": "VfB Stuttgart",
       "league": "Bundesliga",
       "wikipedia_title": "VfB Stuttgart",
-      "squad_size": 55,
-      "wikidata_current": 323,
+      "squad_size": 51,
+      "wikidata_current": 322,
       "error": null,
       "suggestions": [
         {
@@ -82743,21 +82193,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Badredine Bouanani",
-          "player_qid": "Q114593540",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Badredine Bouanani",
-          "detail": "Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q4512",
-            "wikipedia": "https://de.wikipedia.org/wiki/Badredine_Bouanani",
-            "item": "https://www.wikidata.org/wiki/Q114593540"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Benedict Dos Santos",
           "player_qid": "Q24034264",
@@ -82980,21 +82415,6 @@
             "item": "https://www.wikidata.org/wiki/Q23939194",
             "team": "https://www.wikidata.org/wiki/Q4512",
             "wikipedia": "https://de.wikipedia.org/wiki/Chadrac_Akolo"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Chema",
-          "player_qid": "Q127932393",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Chema (Fußballspieler)",
-          "detail": "Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q4512",
-            "wikipedia": "https://de.wikipedia.org/wiki/Chema_(Fußballspieler)",
-            "item": "https://www.wikidata.org/wiki/Q127932393"
           }
         },
         {
@@ -83549,21 +82969,6 @@
             "team": "https://www.wikidata.org/wiki/Q4512",
             "wikipedia": "https://de.wikipedia.org/wiki/Eliot_Bujupi",
             "item": "https://www.wikidata.org/wiki/Q130268090"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Emiliano Insúa",
-          "player_qid": "Q351797",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2015,
-          "end_year": 2019,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q351797",
-            "team": "https://www.wikidata.org/wiki/Q4512",
-            "wikipedia": "https://de.wikipedia.org/wiki/Emiliano_Ins%C3%BAa"
           }
         },
         {
@@ -84586,21 +83991,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Jeremy Arévalo",
-          "player_qid": "Q121410218",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Jeremy Arévalo",
-          "detail": "Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.",
-          "start_year": 2026,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q4512",
-            "wikipedia": "https://de.wikipedia.org/wiki/Jeremy_Arévalo",
-            "item": "https://www.wikidata.org/wiki/Q121410218"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Jeremy Karikari",
           "player_qid": "Q1560544",
@@ -84748,6 +84138,21 @@
             "item": "https://www.wikidata.org/wiki/Q326799",
             "team": "https://www.wikidata.org/wiki/Q4512",
             "wikipedia": "https://de.wikipedia.org/wiki/Jos%C3%A9-Alex_Ikeng"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Joyeux Masanka Bungi",
+          "player_qid": "Q135393106",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Joyeux Masanka Bungi",
+          "detail": "Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q4512",
+            "wikipedia": "https://de.wikipedia.org/wiki/Joyeux_Masanka_Bungi",
+            "item": "https://www.wikidata.org/wiki/Q135393106"
           }
         },
         {
@@ -85032,21 +84437,6 @@
             "team": "https://www.wikidata.org/wiki/Q4512",
             "wikipedia": "https://de.wikipedia.org/wiki/Lauri_Penna",
             "item": "https://www.wikidata.org/wiki/Q135687046"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Lazar Jovanović",
-          "player_qid": "Q121086658",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Lazar Jovanović (Fußballspieler, 2006)",
-          "detail": "Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q4512",
-            "wikipedia": "https://de.wikipedia.org/wiki/Lazar_Jovanović_(Fußballspieler,_2006)",
-            "item": "https://www.wikidata.org/wiki/Q121086658"
           }
         },
         {
@@ -85635,21 +85025,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Mattheos Tsigkas",
-          "player_qid": "Q136260087",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Mattheos Tsigkas",
-          "detail": "Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q4512",
-            "wikipedia": "https://de.wikipedia.org/wiki/Mattheos_Tsigkas",
-            "item": "https://www.wikidata.org/wiki/Q136260087"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Matthias Jaissle",
           "player_qid": "Q690028",
@@ -85947,21 +85322,6 @@
             "item": "https://www.wikidata.org/wiki/Q1345797",
             "team": "https://www.wikidata.org/wiki/Q4512",
             "wikipedia": "https://de.wikipedia.org/wiki/Mirnes_Me%C5%A1i%C4%87"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Mirza Ćatović",
-          "player_qid": "Q131444982",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Mirza Ćatović",
-          "detail": "Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q4512",
-            "wikipedia": "https://de.wikipedia.org/wiki/Mirza_Ćatović",
-            "item": "https://www.wikidata.org/wiki/Q131444982"
           }
         },
         {
@@ -87628,6 +86988,19 @@
             "wikipedia": "https://de.wikipedia.org/wiki/Nicolás_Sessa",
             "item": "https://www.wikidata.org/wiki/Q56249397"
           }
+        },
+        {
+          "kind": "NO_WIKIDATA_ITEM",
+          "player": "Enis Redzepi",
+          "player_qid": null,
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "'Enis Redzepi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q4512"
+          }
         }
       ]
     },
@@ -87773,6 +87146,21 @@
             "item": "https://www.wikidata.org/wiki/Q48554",
             "team": "https://www.wikidata.org/wiki/Q51976",
             "wikipedia": "https://de.wikipedia.org/wiki/Aron_J%C3%B3hannsson"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Arthur",
+          "player_qid": "Q112182604",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Arthur (Fußballspieler, 2003)",
+          "detail": "Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q51976",
+            "wikipedia": "https://de.wikipedia.org/wiki/Arthur_(Fußballspieler,_2003)",
+            "item": "https://www.wikidata.org/wiki/Q112182604"
           }
         },
         {
@@ -88361,21 +87749,6 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
-          "player": "Julián Malatini",
-          "player_qid": "Q105811295",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Julián Malatini",
-          "detail": "Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q51976",
-            "wikipedia": "https://de.wikipedia.org/wiki/Julián_Malatini",
-            "item": "https://www.wikidata.org/wiki/Q105811295"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
           "player": "Justin Njinmah",
           "player_qid": "Q110610689",
           "qid_source": "sitelink",
@@ -88750,6 +88123,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Moussa Ndiaye",
+          "player_qid": "Q64433049",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Moussa Ndiaye",
+          "detail": "Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q51976",
+            "wikipedia": "https://de.wikipedia.org/wiki/Moussa_Ndiaye",
+            "item": "https://www.wikidata.org/wiki/Q64433049"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Naby Keïta",
           "player_qid": "Q17325280",
@@ -88852,6 +88240,21 @@
             "item": "https://www.wikidata.org/wiki/Q3362956",
             "team": "https://www.wikidata.org/wiki/Q51976",
             "wikipedia": "https://de.wikipedia.org/wiki/Papy_Djilobodji"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Patrice Čović",
+          "player_qid": "Q135939736",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2024,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q135939736",
+            "team": "https://www.wikidata.org/wiki/Q51976",
+            "wikipedia": "https://de.wikipedia.org/wiki/Patrice_%C4%8Covi%C4%87"
           }
         },
         {
@@ -89001,6 +88404,21 @@
             "item": "https://www.wikidata.org/wiki/Q27528",
             "team": "https://www.wikidata.org/wiki/Q51976",
             "wikipedia": "https://de.wikipedia.org/wiki/Sambou_Yatabar%C3%A9"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Samuel Mbangula",
+          "player_qid": "Q105955422",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Werder Bremen (Q51976); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2025,
+          "end_year": null,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q105955422",
+            "team": "https://www.wikidata.org/wiki/Q51976",
+            "wikipedia": "https://de.wikipedia.org/wiki/Samuel_Mbangula"
           }
         },
         {
@@ -89244,6 +88662,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Youri Regeer",
+          "player_qid": "Q86072107",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Youri Regeer",
+          "detail": "Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q51976",
+            "wikipedia": "https://de.wikipedia.org/wiki/Youri_Regeer",
+            "item": "https://www.wikidata.org/wiki/Q86072107"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Zlatko Junuzović",
           "player_qid": "Q207157",
@@ -89289,21 +88722,6 @@
           }
         },
         {
-          "kind": "ADD_START_DATE",
-          "player": "Patrice Čović",
-          "player_qid": "Q135939736",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Patrice Čović",
-          "detail": "Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q51976",
-            "wikipedia": "https://de.wikipedia.org/wiki/Patrice_Čović",
-            "item": "https://www.wikidata.org/wiki/Q135939736"
-          }
-        },
-        {
           "kind": "NO_WIKIDATA_ITEM",
           "player": "Stefan Smarkalew",
           "player_qid": null,
@@ -89324,7 +88742,7 @@
       "league": "Premier League",
       "wikipedia_title": "AFC Bournemouth",
       "squad_size": 31,
-      "wikidata_current": 131,
+      "wikidata_current": 130,
       "error": null,
       "suggestions": [
         {
@@ -91126,21 +90544,6 @@
         },
         {
           "kind": "ADD_END_DATE",
-          "player": "Sam Surridge",
-          "player_qid": "Q34982765",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2015,
-          "end_year": 2021,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q34982765",
-            "team": "https://www.wikidata.org/wiki/Q19568",
-            "wikipedia": "https://en.wikipedia.org/wiki/Sam_Surridge"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
           "player": "Scott Morgan",
           "player_qid": "Q17517248",
           "qid_source": null,
@@ -91446,40 +90849,10 @@
       "label": "Arsenal F.C.",
       "league": "Premier League",
       "wikipedia_title": "Arsenal F.C.",
-      "squad_size": 37,
-      "wikidata_current": 178,
+      "squad_size": 34,
+      "wikidata_current": 177,
       "error": null,
       "suggestions": [
-        {
-          "kind": "REVIEW_ENDED",
-          "player": "Ethan Nwaneri",
-          "player_qid": "Q114027518",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Ethan Nwaneri",
-          "detail": "Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.",
-          "start_year": 2022,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q9617",
-            "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Nwaneri",
-            "item": "https://www.wikidata.org/wiki/Q114027518"
-          }
-        },
-        {
-          "kind": "REVIEW_ENDED",
-          "player": "Gabriel Jesus",
-          "player_qid": "Q19708656",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Gabriel Jesus",
-          "detail": "Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.",
-          "start_year": 2022,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q9617",
-            "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Jesus",
-            "item": "https://www.wikidata.org/wiki/Q19708656"
-          }
-        },
         {
           "kind": "ADD_END_DATE",
           "player": "Afaf Al-Sadiq",
@@ -93927,7 +93300,7 @@
       "label": "Aston Villa F.C.",
       "league": "Premier League",
       "wikipedia_title": "Aston Villa F.C.",
-      "squad_size": 55,
+      "squad_size": 57,
       "wikidata_current": 286,
       "error": null,
       "suggestions": [
@@ -95941,21 +95314,6 @@
         },
         {
           "kind": "ADD_END_DATE",
-          "player": "Jamaldeen Jimoh-Aloba",
-          "player_qid": "Q136338210",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q136338210",
-            "team": "https://www.wikidata.org/wiki/Q18711",
-            "wikipedia": "https://en.wikipedia.org/wiki/Jamaldeen_Jimoh-Aloba"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
           "player": "James Bree",
           "player_qid": "Q16887631",
           "qid_source": null,
@@ -97767,6 +97125,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Taylor Harwood-Bellis",
+          "player_qid": "Q68485418",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Taylor Harwood-Bellis",
+          "detail": "Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18711",
+            "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Harwood-Bellis",
+            "item": "https://www.wikidata.org/wiki/Q68485418"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Taylor Jay-Hart",
           "player_qid": "Q105104439",
@@ -98307,6 +97680,21 @@
         },
         {
           "kind": "ADD_START_DATE",
+          "player": "Jamaldeen Jimoh-Aloba",
+          "player_qid": "Q136338210",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Jamaldeen Jimoh-Aloba",
+          "detail": "Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.",
+          "start_year": 2024,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18711",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jamaldeen_Jimoh-Aloba",
+            "item": "https://www.wikidata.org/wiki/Q136338210"
+          }
+        },
+        {
+          "kind": "ADD_START_DATE",
           "player": "Lamare Bogarde",
           "player_qid": "Q104737263",
           "qid_source": "sitelink",
@@ -98435,7 +97823,7 @@
       "label": "Brentford F.C.",
       "league": "Premier League",
       "wikipedia_title": "Brentford F.C.",
-      "squad_size": 52,
+      "squad_size": 53,
       "wikidata_current": 200,
       "error": null,
       "suggestions": [
@@ -98792,7 +98180,7 @@
           "wikipedia_title": "Benjamin Arthur (footballer)",
           "detail": "Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.",
           "start_year": 2025,
-          "end_year": 2026,
+          "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q19571",
             "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Arthur_(footballer)",
@@ -99171,6 +98559,21 @@
             "team": "https://www.wikidata.org/wiki/Q19571",
             "wikipedia": "https://en.wikipedia.org/wiki/Dango_Ouattara",
             "item": "https://www.wikidata.org/wiki/Q108000402"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Darwin Guagua",
+          "player_qid": "Q133566819",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Darwin Guagua",
+          "detail": "Add a 'member of sports team' (P54) statement → Brentford F.C. (Q19571); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19571",
+            "wikipedia": "https://en.wikipedia.org/wiki/Darwin_Guagua",
+            "item": "https://www.wikidata.org/wiki/Q133566819"
           }
         },
         {
@@ -101918,8 +101321,8 @@
       "label": "Brighton & Hove Albion F.C.",
       "league": "Premier League",
       "wikipedia_title": "Brighton & Hove Albion F.C.",
-      "squad_size": 39,
-      "wikidata_current": 201,
+      "squad_size": 40,
+      "wikidata_current": 202,
       "error": null,
       "suggestions": [
         {
@@ -102898,6 +102301,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Femi Azeez",
+          "player_qid": "Q105789835",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Femi Azeez",
+          "detail": "Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19453",
+            "wikipedia": "https://en.wikipedia.org/wiki/Femi_Azeez",
+            "item": "https://www.wikidata.org/wiki/Q105789835"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Franco Massimo",
           "player_qid": "Q49490026",
@@ -103315,21 +102733,6 @@
             "team": "https://www.wikidata.org/wiki/Q19453",
             "wikipedia": "https://en.wikipedia.org/wiki/Ibrahim_Osman_(footballer,_born_2004)",
             "item": "https://www.wikidata.org/wiki/Q117350353"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Igor Julio",
-          "player_qid": "Q25983385",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Igor Julio",
-          "detail": "Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19453",
-            "wikipedia": "https://en.wikipedia.org/wiki/Igor_Julio",
-            "item": "https://www.wikidata.org/wiki/Q25983385"
           }
         },
         {
@@ -105028,8 +104431,8 @@
       "label": "Chelsea F.C.",
       "league": "Premier League",
       "wikipedia_title": "Chelsea F.C.",
-      "squad_size": 58,
-      "wikidata_current": 157,
+      "squad_size": 55,
+      "wikidata_current": 154,
       "error": null,
       "suggestions": [
         {
@@ -105507,21 +104910,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Deivid Washington",
-          "player_qid": "Q114405335",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Deivid Washington",
-          "detail": "Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q9616",
-            "wikipedia": "https://en.wikipedia.org/wiki/Deivid_Washington",
-            "item": "https://www.wikidata.org/wiki/Q114405335"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Dennis Sorrell",
           "player_qid": "Q62763323",
@@ -105598,17 +104986,17 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
-          "player": "Dário Essugo",
-          "player_qid": "Q106091717",
+          "player": "Dujuan Richards",
+          "player_qid": "Q117076000",
           "qid_source": "sitelink",
-          "wikipedia_title": "Dário Essugo",
+          "wikipedia_title": "Dujuan Richards",
           "detail": "Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
+          "start_year": 2026,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q9616",
-            "wikipedia": "https://en.wikipedia.org/wiki/Dário_Essugo",
-            "item": "https://www.wikidata.org/wiki/Q106091717"
+            "wikipedia": "https://en.wikipedia.org/wiki/Dujuan_Richards",
+            "item": "https://www.wikidata.org/wiki/Q117076000"
           }
         },
         {
@@ -106327,21 +105715,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Kendry Páez",
-          "player_qid": "Q116466426",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Kendry Páez",
-          "detail": "Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q9616",
-            "wikipedia": "https://en.wikipedia.org/wiki/Kendry_Páez",
-            "item": "https://www.wikidata.org/wiki/Q116466426"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Kenedy",
           "player_qid": "Q14755604",
@@ -106369,6 +105742,21 @@
             "team": "https://www.wikidata.org/wiki/Q9616",
             "wikipedia": "https://en.wikipedia.org/wiki/Kiano_Dyer",
             "item": "https://www.wikidata.org/wiki/Q123002504"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Landon Emenalo",
+          "player_qid": "Q132129020",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Landon Emenalo",
+          "detail": "Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q9616",
+            "wikipedia": "https://en.wikipedia.org/wiki/Landon_Emenalo",
+            "item": "https://www.wikidata.org/wiki/Q132129020"
           }
         },
         {
@@ -106920,6 +106308,21 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
+          "player": "Ted Curd",
+          "player_qid": "Q123286149",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Ted Curd",
+          "detail": "Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.",
+          "start_year": 2023,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q9616",
+            "wikipedia": "https://en.wikipedia.org/wiki/Ted_Curd",
+            "item": "https://www.wikidata.org/wiki/Q123286149"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
           "player": "Teddy Sharman-Lowe",
           "player_qid": "Q98970365",
           "qid_source": "sitelink",
@@ -107205,7 +106608,7 @@
       "label": "Coventry City F.C.",
       "league": "Premier League",
       "wikipedia_title": "Coventry City F.C.",
-      "squad_size": 49,
+      "squad_size": 51,
       "wikidata_current": 119,
       "error": null,
       "suggestions": [
@@ -107710,11 +107113,10 @@
           "qid_source": "search",
           "wikipedia_title": null,
           "detail": "Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": 2024,
+          "start_year": null,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q19580",
-            "wikipedia": "https://en.wikipedia.org/wiki/Callum_Perry",
             "item": "https://www.wikidata.org/wiki/Q141065548"
           }
         },
@@ -108226,6 +107628,21 @@
             "item": "https://www.wikidata.org/wiki/Q28655237",
             "team": "https://www.wikidata.org/wiki/Q19580",
             "wikipedia": "https://en.wikipedia.org/wiki/Howard_Moore_(footballer)"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Isaac Moore",
+          "player_qid": "Q141305804",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Isaac Moore (footballer, born 2006)",
+          "detail": "Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.",
+          "start_year": 2024,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19580",
+            "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Moore_(footballer,_born_2006)",
+            "item": "https://www.wikidata.org/wiki/Q141305804"
           }
         },
         {
@@ -109383,6 +108800,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Yann Gboho",
+          "player_qid": "Q66107406",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Yann Gboho",
+          "detail": "Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19580",
+            "wikipedia": "https://en.wikipedia.org/wiki/Yann_Gboho",
+            "item": "https://www.wikidata.org/wiki/Q66107406"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Zain Westbrooke",
           "player_qid": "Q29637727",
@@ -109576,7 +109008,7 @@
       "league": "Premier League",
       "wikipedia_title": "Crystal Palace F.C.",
       "squad_size": 34,
-      "wikidata_current": 174,
+      "wikidata_current": 175,
       "error": null,
       "suggestions": [
         {
@@ -109910,21 +109342,6 @@
           }
         },
         {
-          "kind": "ADD_END_DATE",
-          "player": "Børge Thorup",
-          "player_qid": "Q28758600",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 1969,
-          "end_year": 1970,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q28758600",
-            "team": "https://www.wikidata.org/wiki/Q19467",
-            "wikipedia": "https://en.wikipedia.org/wiki/B%C3%B8rge_Thorup"
-          }
-        },
-        {
           "kind": "ADD_MEMBERSHIP",
           "player": "Chadi Riad",
           "player_qid": "Q104784108",
@@ -110150,6 +109567,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Darío Osorio",
+          "player_qid": "Q110805295",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Darío Osorio",
+          "detail": "Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19467",
+            "wikipedia": "https://en.wikipedia.org/wiki/Darío_Osorio",
+            "item": "https://www.wikidata.org/wiki/Q110805295"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "David Gregory",
           "player_qid": "Q27830962",
@@ -110162,21 +109594,6 @@
             "item": "https://www.wikidata.org/wiki/Q27830962",
             "team": "https://www.wikidata.org/wiki/Q19467",
             "wikipedia": "https://en.wikipedia.org/wiki/David_Gregory_(footballer,_born_1994)"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "David Ozoh",
-          "player_qid": "Q116285341",
-          "qid_source": "sitelink",
-          "wikipedia_title": "David Ozoh",
-          "detail": "Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19467",
-            "wikipedia": "https://en.wikipedia.org/wiki/David_Ozoh",
-            "item": "https://www.wikidata.org/wiki/Q116285341"
           }
         },
         {
@@ -110557,21 +109974,6 @@
         {
           "kind": "ADD_END_DATE",
           "player": "George Walker",
-          "player_qid": "Q16886404",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 1936,
-          "end_year": 1939,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q16886404",
-            "team": "https://www.wikidata.org/wiki/Q19467",
-            "wikipedia": "https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1909)"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "George Walker",
           "player_qid": "Q16030107",
           "qid_source": null,
           "wikipedia_title": null,
@@ -110582,6 +109984,21 @@
             "item": "https://www.wikidata.org/wiki/Q16030107",
             "team": "https://www.wikidata.org/wiki/Q19467",
             "wikipedia": "https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1877)"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "George Walker",
+          "player_qid": "Q16886404",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 1936,
+          "end_year": 1939,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q16886404",
+            "team": "https://www.wikidata.org/wiki/Q19467",
+            "wikipedia": "https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1909)"
           }
         },
         {
@@ -110989,21 +110406,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Joe Whitworth",
-          "player_qid": "Q117161105",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Joe Whitworth",
-          "detail": "Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19467",
-            "wikipedia": "https://en.wikipedia.org/wiki/Joe_Whitworth",
-            "item": "https://www.wikidata.org/wiki/Q117161105"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Joel Ward",
           "player_qid": "Q2621755",
@@ -111151,21 +110553,6 @@
             "item": "https://www.wikidata.org/wiki/Q690663",
             "team": "https://www.wikidata.org/wiki/Q19467",
             "wikipedia": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Speroni"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Justin Devenny",
-          "player_qid": "Q122089959",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Justin Devenny",
-          "detail": "Add a 'member of sports team' (P54) statement → Crystal Palace F.C. (Q19467); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19467",
-            "wikipedia": "https://en.wikipedia.org/wiki/Justin_Devenny",
-            "item": "https://www.wikidata.org/wiki/Q122089959"
           }
         },
         {
@@ -112299,8 +111686,8 @@
       "label": "Everton F.C.",
       "league": "Premier League",
       "wikipedia_title": "Everton F.C.",
-      "squad_size": 24,
-      "wikidata_current": 303,
+      "squad_size": 22,
+      "wikidata_current": 304,
       "error": null,
       "suggestions": [
         {
@@ -114387,21 +113774,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Iliman Ndiaye",
-          "player_qid": "Q105956269",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Iliman Ndiaye",
-          "detail": "Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q5794",
-            "wikipedia": "https://en.wikipedia.org/wiki/Iliman_Ndiaye",
-            "item": "https://www.wikidata.org/wiki/Q105956269"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Iman Mustafa",
           "player_qid": "Q141023860",
@@ -115794,21 +115166,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Nathan Patterson",
-          "player_qid": "Q83264648",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Nathan Patterson (footballer)",
-          "detail": "Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.",
-          "start_year": 2022,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q5794",
-            "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Patterson_(footballer)",
-            "item": "https://www.wikidata.org/wiki/Q83264648"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Nathangelo Markelo",
           "player_qid": "Q95191648",
@@ -116528,21 +115885,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Tim Iroegbunam",
-          "player_qid": "Q111027477",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Tim Iroegbunam",
-          "detail": "Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q5794",
-            "wikipedia": "https://en.wikipedia.org/wiki/Tim_Iroegbunam",
-            "item": "https://www.wikidata.org/wiki/Q111027477"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Tom Davies",
           "player_qid": "Q23844124",
@@ -117014,8 +116356,8 @@
       "label": "Fulham F.C.",
       "league": "Premier League",
       "wikipedia_title": "Fulham F.C.",
-      "squad_size": 26,
-      "wikidata_current": 279,
+      "squad_size": 30,
+      "wikidata_current": 280,
       "error": null,
       "suggestions": [
         {
@@ -117091,6 +116433,20 @@
             "item": "https://www.wikidata.org/wiki/Q50365753",
             "team": "https://www.wikidata.org/wiki/Q18708",
             "wikipedia": "https://en.wikipedia.org/wiki/Albert_Wood_(footballer)"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Alex Borto",
+          "player_qid": "Q141321320",
+          "qid_source": "search",
+          "wikipedia_title": null,
+          "detail": "Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18708",
+            "item": "https://www.wikidata.org/wiki/Q141321320"
           }
         },
         {
@@ -118741,6 +118097,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Hugo Larsson",
+          "player_qid": "Q111586862",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Hugo Larsson (footballer)",
+          "detail": "Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18708",
+            "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Larsson_(footballer)",
+            "item": "https://www.wikidata.org/wiki/Q111586862"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Ian Soler Pino",
           "player_qid": "Q44072645",
@@ -119876,6 +119247,21 @@
             "item": "https://www.wikidata.org/wiki/Q56254425",
             "team": "https://www.wikidata.org/wiki/Q18708",
             "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Norman_(footballer)"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Manuel Ángel",
+          "player_qid": "Q119454675",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Manuel Ángel",
+          "detail": "Add a 'member of sports team' (P54) statement → Fulham F.C. (Q18708); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18708",
+            "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Ángel",
+            "item": "https://www.wikidata.org/wiki/Q119454675"
           }
         },
         {
@@ -121293,8 +120679,8 @@
       "label": "Hull City A.F.C.",
       "league": "Premier League",
       "wikipedia_title": "Hull City A.F.C.",
-      "squad_size": 63,
-      "wikidata_current": 100,
+      "squad_size": 69,
+      "wikidata_current": 103,
       "error": null,
       "suggestions": [
         {
@@ -121642,17 +121028,17 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
-          "player": "Cody Drameh",
-          "player_qid": "Q98815258",
+          "player": "Christos Mouzakitis",
+          "player_qid": "Q126031006",
           "qid_source": "sitelink",
-          "wikipedia_title": "Cody Drameh",
+          "wikipedia_title": "Christos Mouzakitis",
           "detail": "Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
+          "start_year": 2026,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q19477",
-            "wikipedia": "https://en.wikipedia.org/wiki/Cody_Drameh",
-            "item": "https://www.wikidata.org/wiki/Q98815258"
+            "wikipedia": "https://en.wikipedia.org/wiki/Christos_Mouzakitis",
+            "item": "https://www.wikidata.org/wiki/Q126031006"
           }
         },
         {
@@ -121668,6 +121054,21 @@
             "item": "https://www.wikidata.org/wiki/Q27889040",
             "team": "https://www.wikidata.org/wiki/Q19477",
             "wikipedia": "https://en.wikipedia.org/wiki/Craig_Lawford"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Crawley Town",
+          "player_qid": "Q19584",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Crawley Town F.C.",
+          "detail": "Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19477",
+            "wikipedia": "https://en.wikipedia.org/wiki/Crawley_Town_F.C.",
+            "item": "https://www.wikidata.org/wiki/Q19584"
           }
         },
         {
@@ -122043,6 +121444,21 @@
             "item": "https://www.wikidata.org/wiki/Q324690",
             "team": "https://www.wikidata.org/wiki/Q19477",
             "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Wright_(footballer)"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Greenock Morton",
+          "player_qid": "Q867876",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Greenock Morton F.C.",
+          "detail": "Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19477",
+            "wikipedia": "https://en.wikipedia.org/wiki/Greenock_Morton_F.C.",
+            "item": "https://www.wikidata.org/wiki/Q867876"
           }
         },
         {
@@ -122526,6 +121942,21 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
+          "player": "Kieran Wilson",
+          "player_qid": "Q136345041",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Kieran Wilson",
+          "detail": "Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19477",
+            "wikipedia": "https://en.wikipedia.org/wiki/Kieran_Wilson",
+            "item": "https://www.wikidata.org/wiki/Q136345041"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
           "player": "Konstantinos Tzolakis",
           "player_qid": "Q67228775",
           "qid_source": "sitelink",
@@ -122900,6 +122331,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Robinio Vaz",
+          "player_qid": "Q131826846",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Robinio Vaz",
+          "detail": "Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19477",
+            "wikipedia": "https://en.wikipedia.org/wiki/Robinio_Vaz",
+            "item": "https://www.wikidata.org/wiki/Q131826846"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Ryan Fallowfield",
           "player_qid": "Q99362138",
@@ -123047,6 +122493,21 @@
             "item": "https://www.wikidata.org/wiki/Q572260",
             "team": "https://www.wikidata.org/wiki/Q19477",
             "wikipedia": "https://en.wikipedia.org/wiki/Sone_Aluko"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Sorba Thomas",
+          "player_qid": "Q105482087",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Sorba Thomas",
+          "detail": "Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19477",
+            "wikipedia": "https://en.wikipedia.org/wiki/Sorba_Thomas",
+            "item": "https://www.wikidata.org/wiki/Q105482087"
           }
         },
         {
@@ -123201,6 +122662,21 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
+          "player": "Worthing",
+          "player_qid": "Q2676506",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Worthing F.C.",
+          "detail": "Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19477",
+            "wikipedia": "https://en.wikipedia.org/wiki/Worthing_F.C.",
+            "item": "https://www.wikidata.org/wiki/Q2676506"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
           "player": "Óscar Zambrano",
           "player_qid": "Q113467730",
           "qid_source": "sitelink",
@@ -123301,19 +122777,6 @@
           "qid_source": null,
           "wikipedia_title": null,
           "detail": "'Bobby Moore' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19477"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Calvin Okike",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Calvin Okike' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
           "start_year": null,
           "end_year": null,
           "links": {
@@ -123452,32 +122915,6 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
-          "player": "Nathan Tinsdale",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Nathan Tinsdale' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19477"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
-          "player": "Ramell Carter",
-          "player_qid": null,
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "'Ramell Carter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
-          "start_year": null,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19477"
-          }
-        },
-        {
-          "kind": "NO_WIKIDATA_ITEM",
           "player": "Reuben Silk",
           "player_qid": null,
           "qid_source": null,
@@ -123535,7 +122972,7 @@
       "label": "Ipswich Town F.C.",
       "league": "Premier League",
       "wikipedia_title": "Ipswich Town F.C.",
-      "squad_size": 34,
+      "squad_size": 35,
       "wikidata_current": 102,
       "error": null,
       "suggestions": [
@@ -125278,6 +124715,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Zian Flemming",
+          "player_qid": "Q40451970",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Zian Flemming",
+          "detail": "Add a 'member of sports team' (P54) statement → Ipswich Town F.C. (Q9653); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q9653",
+            "wikipedia": "https://en.wikipedia.org/wiki/Zian_Flemming",
+            "item": "https://www.wikidata.org/wiki/Q40451970"
+          }
+        },
+        {
           "kind": "ADD_START_DATE",
           "player": "Marcelino Núñez",
           "player_qid": "Q87447048",
@@ -125299,7 +124751,7 @@
       "label": "Leeds United F.C.",
       "league": "Premier League",
       "wikipedia_title": "Leeds United F.C.",
-      "squad_size": 27,
+      "squad_size": 29,
       "wikidata_current": 180,
       "error": null,
       "suggestions": [
@@ -125991,21 +125443,6 @@
             "item": "https://www.wikidata.org/wiki/Q5273568",
             "team": "https://www.wikidata.org/wiki/Q1128631",
             "wikipedia": "https://en.wikipedia.org/wiki/Dick_Wright_(footballer,_born_1931)"
-          }
-        },
-        {
-          "kind": "ADD_END_DATE",
-          "player": "Diego Llorente",
-          "player_qid": "Q13382434",
-          "qid_source": null,
-          "wikipedia_title": null,
-          "detail": "Add an end date (P582) to the membership → Leeds United F.C. (Q1128631); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
-          "start_year": 2020,
-          "end_year": 2024,
-          "links": {
-            "item": "https://www.wikidata.org/wiki/Q13382434",
-            "team": "https://www.wikidata.org/wiki/Q1128631",
-            "wikipedia": "https://en.wikipedia.org/wiki/Diego_Llorente"
           }
         },
         {
@@ -127238,6 +126675,21 @@
           }
         },
         {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Melvin Bard",
+          "player_qid": "Q55865078",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Melvin Bard",
+          "detail": "Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q1128631",
+            "wikipedia": "https://en.wikipedia.org/wiki/Melvin_Bard",
+            "item": "https://www.wikidata.org/wiki/Q55865078"
+          }
+        },
+        {
           "kind": "ADD_END_DATE",
           "player": "Michael Woods",
           "player_qid": "Q3267081",
@@ -128144,7 +127596,7 @@
       "league": "Premier League",
       "wikipedia_title": "Liverpool F.C.",
       "squad_size": 43,
-      "wikidata_current": 364,
+      "wikidata_current": 365,
       "error": null,
       "suggestions": [
         {
@@ -128205,21 +127657,6 @@
             "team": "https://www.wikidata.org/wiki/Q1130849",
             "wikipedia": "https://en.wikipedia.org/wiki/Kaide_Gordon",
             "item": "https://www.wikidata.org/wiki/Q104554107"
-          }
-        },
-        {
-          "kind": "REVIEW_ENDED",
-          "player": "Stefan Bajcetic",
-          "player_qid": "Q113433814",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Stefan Bajcetic",
-          "detail": "Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.",
-          "start_year": 2022,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q1130849",
-            "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Bajcetic",
-            "item": "https://www.wikidata.org/wiki/Q113433814"
           }
         },
         {
@@ -133566,8 +133003,8 @@
       "label": "Manchester City F.C.",
       "league": "Premier League",
       "wikipedia_title": "Manchester City F.C.",
-      "squad_size": 44,
-      "wikidata_current": 211,
+      "squad_size": 46,
+      "wikidata_current": 215,
       "error": null,
       "suggestions": [
         {
@@ -134182,21 +133619,6 @@
             "item": "https://www.wikidata.org/wiki/Q5107101",
             "team": "https://www.wikidata.org/wiki/Q50602",
             "wikipedia": "https://en.wikipedia.org/wiki/Chris_Kettings"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Claudio Echeverri",
-          "player_qid": "Q116463164",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Claudio Echeverri",
-          "detail": "Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q50602",
-            "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Echeverri",
-            "item": "https://www.wikidata.org/wiki/Q116463164"
           }
         },
         {
@@ -135592,21 +135014,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Luke Mbete",
-          "player_qid": "Q108665614",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Luke Mbete",
-          "detail": "Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.",
-          "start_year": 2021,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q50602",
-            "wikipedia": "https://en.wikipedia.org/wiki/Luke_Mbete",
-            "item": "https://www.wikidata.org/wiki/Q108665614"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Luke McCarthy",
           "player_qid": "Q6702138",
@@ -136239,7 +135646,7 @@
           "qid_source": "sitelink",
           "wikipedia_title": "Spike Brits",
           "detail": "Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.",
-          "start_year": null,
+          "start_year": 2026,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q50602",
@@ -138869,7 +138276,7 @@
           "qid_source": "sitelink",
           "wikipedia_title": "Harry Amass",
           "detail": "Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.",
-          "start_year": 2024,
+          "start_year": 2025,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q18656",
@@ -142682,8 +142089,8 @@
       "label": "Newcastle United F.C.",
       "league": "Premier League",
       "wikipedia_title": "Newcastle United F.C.",
-      "squad_size": 35,
-      "wikidata_current": 145,
+      "squad_size": 36,
+      "wikidata_current": 146,
       "error": null,
       "suggestions": [
         {
@@ -144558,8 +143965,8 @@
       "label": "Nottingham Forest F.C.",
       "league": "Premier League",
       "wikipedia_title": "Nottingham Forest F.C.",
-      "squad_size": 53,
-      "wikidata_current": 210,
+      "squad_size": 57,
+      "wikidata_current": 212,
       "error": null,
       "suggestions": [
         {
@@ -147153,21 +146560,6 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
-          "player": "Omari Hutchinson",
-          "player_qid": "Q111145131",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Omari Hutchinson",
-          "detail": "Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q19490",
-            "wikipedia": "https://en.wikipedia.org/wiki/Omari_Hutchinson",
-            "item": "https://www.wikidata.org/wiki/Q111145131"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
           "player": "Ousmane Diomande",
           "player_qid": "Q116753805",
           "qid_source": "sitelink",
@@ -147960,6 +147352,19 @@
         },
         {
           "kind": "NO_WIKIDATA_ITEM",
+          "player": "Ethan Broomes",
+          "player_qid": null,
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "'Ethan Broomes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19490"
+          }
+        },
+        {
+          "kind": "NO_WIKIDATA_ITEM",
           "player": "Frank Djamna",
           "player_qid": null,
           "qid_source": null,
@@ -148004,6 +147409,32 @@
           "qid_source": null,
           "wikipedia_title": null,
           "detail": "'Jamie Newton' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19490"
+          }
+        },
+        {
+          "kind": "NO_WIKIDATA_ITEM",
+          "player": "Jayden Powell",
+          "player_qid": null,
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "'Jayden Powell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
+          "start_year": null,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q19490"
+          }
+        },
+        {
+          "kind": "NO_WIKIDATA_ITEM",
+          "player": "Jonathan Whiteley",
+          "player_qid": null,
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "'Jonathan Whiteley' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.",
           "start_year": null,
           "end_year": null,
           "links": {
@@ -148069,8 +147500,8 @@
       "label": "Sunderland A.F.C.",
       "league": "Premier League",
       "wikipedia_title": "Sunderland A.F.C.",
-      "squad_size": 30,
-      "wikidata_current": 158,
+      "squad_size": 32,
+      "wikidata_current": 160,
       "error": null,
       "suggestions": [
         {
@@ -149631,15 +149062,31 @@
         },
         {
           "kind": "ADD_MEMBERSHIP",
-          "player": "Jules Ahoka",
-          "player_qid": "Q140986989",
-          "qid_source": "search",
-          "wikipedia_title": null,
-          "detail": "Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.",
-          "start_year": null,
+          "player": "Juan Riquelme Angulo",
+          "player_qid": "Q136525746",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Juan Riquelme Angulo",
+          "detail": "Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
           "end_year": null,
           "links": {
             "team": "https://www.wikidata.org/wiki/Q18739",
+            "wikipedia": "https://en.wikipedia.org/wiki/Juan_Riquelme_Angulo",
+            "item": "https://www.wikidata.org/wiki/Q136525746"
+          }
+        },
+        {
+          "kind": "ADD_MEMBERSHIP",
+          "player": "Jules Ahoka",
+          "player_qid": "Q140986989",
+          "qid_source": "sitelink",
+          "wikipedia_title": "Jules Ahoka",
+          "detail": "Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.",
+          "start_year": 2026,
+          "end_year": null,
+          "links": {
+            "team": "https://www.wikidata.org/wiki/Q18739",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jules_Ahoka",
             "item": "https://www.wikidata.org/wiki/Q140986989"
           }
         },
@@ -149776,21 +149223,6 @@
             "team": "https://www.wikidata.org/wiki/Q18739",
             "wikipedia": "https://en.wikipedia.org/wiki/Luke_O'Nien",
             "item": "https://www.wikidata.org/wiki/Q16236417"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Luís Semedo",
-          "player_qid": "Q110755842",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Luís Semedo",
-          "detail": "Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.",
-          "start_year": 2023,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q18739",
-            "wikipedia": "https://en.wikipedia.org/wiki/Luís_Semedo",
-            "item": "https://www.wikidata.org/wiki/Q110755842"
           }
         },
         {
@@ -150697,8 +150129,8 @@
       "label": "Tottenham Hotspur F.C.",
       "league": "Premier League",
       "wikipedia_title": "Tottenham Hotspur F.C.",
-      "squad_size": 43,
-      "wikidata_current": 196,
+      "squad_size": 44,
+      "wikidata_current": 200,
       "error": null,
       "suggestions": [
         {
@@ -151328,6 +150760,21 @@
             "team": "https://www.wikidata.org/wiki/Q18741",
             "wikipedia": "https://en.wikipedia.org/wiki/Damola_Ajayi",
             "item": "https://www.wikidata.org/wiki/Q131953986"
+          }
+        },
+        {
+          "kind": "ADD_END_DATE",
+          "player": "Dane Scarlett",
+          "player_qid": "Q102362241",
+          "qid_source": null,
+          "wikipedia_title": null,
+          "detail": "Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.",
+          "start_year": 2020,
+          "end_year": 2026,
+          "links": {
+            "item": "https://www.wikidata.org/wiki/Q102362241",
+            "team": "https://www.wikidata.org/wiki/Q18741",
+            "wikipedia": "https://en.wikipedia.org/wiki/Dane_Scarlett"
           }
         },
         {
@@ -152364,21 +151811,6 @@
           }
         },
         {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Kevin Danso",
-          "player_qid": "Q28868192",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Kevin Danso",
-          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
-          "start_year": 2025,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q18741",
-            "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Danso",
-            "item": "https://www.wikidata.org/wiki/Q28868192"
-          }
-        },
-        {
           "kind": "ADD_END_DATE",
           "player": "Kevin Dickenson",
           "player_qid": "Q6396147",
@@ -152751,21 +152183,6 @@
             "item": "https://www.wikidata.org/wiki/Q10513501",
             "team": "https://www.wikidata.org/wiki/Q18741",
             "wikipedia": "https://en.wikipedia.org/wiki/Ollie_Morah"
-          }
-        },
-        {
-          "kind": "ADD_MEMBERSHIP",
-          "player": "Pape Matar Sarr",
-          "player_qid": "Q104877690",
-          "qid_source": "sitelink",
-          "wikipedia_title": "Pape Matar Sarr",
-          "detail": "Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.",
-          "start_year": 2021,
-          "end_year": null,
-          "links": {
-            "team": "https://www.wikidata.org/wiki/Q18741",
-            "wikipedia": "https://en.wikipedia.org/wiki/Pape_Matar_Sarr",
-            "item": "https://www.wikidata.org/wiki/Q104877690"
           }
         },
         {

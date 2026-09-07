@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19580](https://www.wikidata.org/wiki/Q19580)
 - Wikipedia article: [Coventry City F.C.](https://en.wikipedia.org/wiki/Coventry_City_F.C.)
-- Players in Wikipedia squad: 49
+- Players in Wikipedia squad: 51
 - Current members on Wikidata: 119
-- Suggested edits: 159
+- Suggested edits: 161
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (114)</strong></summary>
@@ -127,7 +127,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (32)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (34)</strong></summary>
 
 - **[Aidan Dausch](https://www.wikidata.org/wiki/Q125676489)** ([WP](https://en.wikipedia.org/wiki/Aidan_Dausch)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Aurèle Amenda](https://www.wikidata.org/wiki/Q111805882)** ([WP](https://en.wikipedia.org/wiki/Aurèle_Amenda)) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
@@ -135,7 +135,7 @@
 - **[Bobby Thomas](https://www.wikidata.org/wiki/Q97059250)** ([WP](https://en.wikipedia.org/wiki/Bobby_Thomas_(footballer))) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Brandon Thomas-Asante](https://www.wikidata.org/wiki/Q26251815)** ([WP](https://en.wikipedia.org/wiki/Brandon_Thomas-Asante)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Caleb Yirenkyi](https://www.wikidata.org/wiki/Q130337999)** ([WP](https://en.wikipedia.org/wiki/Caleb_Yirenkyi)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
-- **[Callum Perry](https://www.wikidata.org/wiki/Q141065548)** ([WP](https://en.wikipedia.org/wiki/Callum_Perry)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Callum Perry](https://www.wikidata.org/wiki/Q141065548)** — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Carl Rushworth](https://www.wikidata.org/wiki/Q107985580)** ([WP](https://en.wikipedia.org/wiki/Carl_Rushworth)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Dan Bentley](https://www.wikidata.org/wiki/Q5216541)** ([WP](https://en.wikipedia.org/wiki/Dan_Bentley_(footballer))) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Ellis Simms](https://www.wikidata.org/wiki/Q105062238)** ([WP](https://en.wikipedia.org/wiki/Ellis_Simms)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
@@ -143,6 +143,7 @@
 - **[Ethan Pinnock](https://www.wikidata.org/wiki/Q36999329)** ([WP](https://en.wikipedia.org/wiki/Ethan_Pinnock)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Frank Onyeka](https://www.wikidata.org/wiki/Q56292818)** ([WP](https://en.wikipedia.org/wiki/Frank_Onyeka)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Gustavo Hamer](https://www.wikidata.org/wiki/Q27995477)** ([WP](https://en.wikipedia.org/wiki/Gustavo_Hamer)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
+- **[Isaac Moore](https://www.wikidata.org/wiki/Q141305804)** ([WP](https://en.wikipedia.org/wiki/Isaac_Moore_(footballer,_born_2006))) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Jake Bidwell](https://www.wikidata.org/wiki/Q1678818)** ([WP](https://en.wikipedia.org/wiki/Jake_Bidwell)) (2022–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Jay Dasilva](https://www.wikidata.org/wiki/Q21572868)** ([WP](https://en.wikipedia.org/wiki/Jay_Dasilva)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Kai Andrews](https://www.wikidata.org/wiki/Q121542990)** ([WP](https://en.wikipedia.org/wiki/Kai_Andrews)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
@@ -161,6 +162,7 @@
 - **[Taiwo Awoniyi](https://www.wikidata.org/wiki/Q20932574)** ([WP](https://en.wikipedia.org/wiki/Taiwo_Awoniyi)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Tatsuhiro Sakamoto](https://www.wikidata.org/wiki/Q62085112)** ([WP](https://en.wikipedia.org/wiki/Tatsuhiro_Sakamoto)) (2023–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 - **[Victor Torp](https://www.wikidata.org/wiki/Q100144433)** ([WP](https://en.wikipedia.org/wiki/Victor_Torp)) (2024–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
+- **[Yann Gboho](https://www.wikidata.org/wiki/Q66107406)** ([WP](https://en.wikipedia.org/wiki/Yann_Gboho)) (2026–) — Add a 'member of sports team' (P54) statement → Coventry City F.C. (Q19580); the player is in the current squad on Wikipedia.
 
 </details>
 

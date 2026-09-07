@@ -3,17 +3,16 @@
 - Wikidata item: [Q1130849](https://www.wikidata.org/wiki/Q1130849)
 - Wikipedia article: [Liverpool F.C.](https://en.wikipedia.org/wiki/Liverpool_F.C.)
 - Players in Wikipedia squad: 43
-- Current members on Wikidata: 364
-- Suggested edits: 362
+- Current members on Wikidata: 365
+- Suggested edits: 361
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (7)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (6)</strong></summary>
 
 - **[Diogo Jota](https://www.wikidata.org/wiki/Q19518278)** ([WP](https://en.wikipedia.org/wiki/Diogo_Jota)) (2020–2025) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Federico Chiesa](https://www.wikidata.org/wiki/Q26704703)** ([WP](https://en.wikipedia.org/wiki/Federico_Chiesa)) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Giovanni Leoni](https://www.wikidata.org/wiki/Q126361834)** ([WP](https://en.wikipedia.org/wiki/Giovanni_Leoni)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Kaide Gordon](https://www.wikidata.org/wiki/Q104554107)** ([WP](https://en.wikipedia.org/wiki/Kaide_Gordon)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-- **[Stefan Bajcetic](https://www.wikidata.org/wiki/Q113433814)** ([WP](https://en.wikipedia.org/wiki/Stefan_Bajcetic)) (2022–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Wataru Endo](https://www.wikidata.org/wiki/Q10526787)** ([WP](https://en.wikipedia.org/wiki/Wataru_Endo)) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Ármin Pécsi](https://www.wikidata.org/wiki/Q131721965)** ([WP](https://en.wikipedia.org/wiki/Ármin_Pécsi)) (2025–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 

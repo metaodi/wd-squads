@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19477](https://www.wikidata.org/wiki/Q19477)
 - Wikipedia article: [Hull City A.F.C.](https://en.wikipedia.org/wiki/Hull_City_A.F.C.)
-- Players in Wikipedia squad: 63
-- Current members on Wikidata: 100
-- Suggested edits: 152
+- Players in Wikipedia squad: 69
+- Current members on Wikidata: 103
+- Suggested edits: 155
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (94)</strong></summary>
@@ -107,17 +107,19 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (34)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (40)</strong></summary>
 
 - **[Cathal McCarthy](https://www.wikidata.org/wiki/Q134664423)** ([WP](https://en.wikipedia.org/wiki/Cathal_McCarthy_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Charlie Hughes](https://www.wikidata.org/wiki/Q116413058)** ([WP](https://en.wikipedia.org/wiki/Charlie_Hughes_(footballer,_born_2003))) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
-- **[Cody Drameh](https://www.wikidata.org/wiki/Q98815258)** ([WP](https://en.wikipedia.org/wiki/Cody_Drameh)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Christos Mouzakitis](https://www.wikidata.org/wiki/Q126031006)** ([WP](https://en.wikipedia.org/wiki/Christos_Mouzakitis)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Crawley Town](https://www.wikidata.org/wiki/Q19584)** ([WP](https://en.wikipedia.org/wiki/Crawley_Town_F.C.)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Darko Gyabi](https://www.wikidata.org/wiki/Q112801051)** ([WP](https://en.wikipedia.org/wiki/Darko_Gyabi)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[David Akintola](https://www.wikidata.org/wiki/Q27671136)** ([WP](https://en.wikipedia.org/wiki/David_Akintola)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Dillon Phillips](https://www.wikidata.org/wiki/Q17496506)** ([WP](https://en.wikipedia.org/wiki/Dillon_Phillips)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Eliot Matazo](https://www.wikidata.org/wiki/Q98829607)** ([WP](https://en.wikipedia.org/wiki/Eliot_Matazo)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Elliot Stroud](https://www.wikidata.org/wiki/Q117789805)** ([WP](https://en.wikipedia.org/wiki/Elliot_Stroud)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Emmanuel Sarpong](https://www.wikidata.org/wiki/Q54010052)** ([WP](https://en.wikipedia.org/wiki/Emmanuel_Sarpong)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Greenock Morton](https://www.wikidata.org/wiki/Q867876)** ([WP](https://en.wikipedia.org/wiki/Greenock_Morton_F.C.)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Harvey Cartwright](https://www.wikidata.org/wiki/Q110966213)** ([WP](https://en.wikipedia.org/wiki/Harvey_Cartwright)) (2019–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Hugh Parker](https://www.wikidata.org/wiki/Q133544851)** ([WP](https://en.wikipedia.org/wiki/Hugh_Parker_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Jack Butland](https://www.wikidata.org/wiki/Q313089)** ([WP](https://en.wikipedia.org/wiki/Jack_Butland)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
@@ -126,6 +128,7 @@
 - **[Joe Gelhardt](https://www.wikidata.org/wiki/Q62209358)** ([WP](https://en.wikipedia.org/wiki/Joe_Gelhardt)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[John Egan](https://www.wikidata.org/wiki/Q150332)** ([WP](https://en.wikipedia.org/wiki/John_Egan_(footballer,_born_1992))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Kieran Dowell](https://www.wikidata.org/wiki/Q18627270)** ([WP](https://en.wikipedia.org/wiki/Kieran_Dowell)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Kieran Wilson](https://www.wikidata.org/wiki/Q136345041)** ([WP](https://en.wikipedia.org/wiki/Kieran_Wilson)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Konstantinos Tzolakis](https://www.wikidata.org/wiki/Q67228775)** ([WP](https://en.wikipedia.org/wiki/Konstantinos_Tzolakis)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Lewie Coyle](https://www.wikidata.org/wiki/Q22003774)** ([WP](https://en.wikipedia.org/wiki/Lewie_Coyle)) (2020–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Liam Millar](https://www.wikidata.org/wiki/Q50505969)** ([WP](https://en.wikipedia.org/wiki/Liam_Millar)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
@@ -137,11 +140,14 @@
 - **[Mohamed Belloumi](https://www.wikidata.org/wiki/Q107294602)** ([WP](https://en.wikipedia.org/wiki/Mohamed_Belloumi)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Oli McBurnie](https://www.wikidata.org/wiki/Q16239659)** ([WP](https://en.wikipedia.org/wiki/Oli_McBurnie)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Regan Slater](https://www.wikidata.org/wiki/Q48545157)** ([WP](https://en.wikipedia.org/wiki/Regan_Slater)) (2022–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Robinio Vaz](https://www.wikidata.org/wiki/Q131826846)** ([WP](https://en.wikipedia.org/wiki/Robinio_Vaz)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Ryan Giles](https://www.wikidata.org/wiki/Q59914064)** ([WP](https://en.wikipedia.org/wiki/Ryan_Giles)) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Semi Ajayi](https://www.wikidata.org/wiki/Q21592164)** ([WP](https://en.wikipedia.org/wiki/Semi_Ajayi)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Sorba Thomas](https://www.wikidata.org/wiki/Q105482087)** ([WP](https://en.wikipedia.org/wiki/Sorba_Thomas)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Stan Ashbee](https://www.wikidata.org/wiki/Q128123226)** ([WP](https://en.wikipedia.org/wiki/Stan_Ashbee)) (2023–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Thimothée Lo-Tutala](https://www.wikidata.org/wiki/Q117474288)** ([WP](https://en.wikipedia.org/wiki/Thimothée_Lo-Tutala)) (2022–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Tyrell Sellars-Fleming](https://www.wikidata.org/wiki/Q123737444)** ([WP](https://en.wikipedia.org/wiki/Tyrell_Sellars-Fleming)) (2023–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
+- **[Worthing](https://www.wikidata.org/wiki/Q2676506)** ([WP](https://en.wikipedia.org/wiki/Worthing_F.C.)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Óscar Zambrano](https://www.wikidata.org/wiki/Q113467730)** ([WP](https://en.wikipedia.org/wiki/Óscar_Zambrano)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 
 </details>
@@ -154,7 +160,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (23)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (20)</strong></summary>
 
 - **Albert Matique** — 'Albert Matique' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Alex Edey** — 'Alex Edey' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -162,7 +168,6 @@
 - **Archie Howard** — 'Archie Howard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ben Robinson** — 'Ben Robinson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bobby Moore** — 'Bobby Moore' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Calvin Okike** — 'Calvin Okike' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Charlie Leach** — 'Charlie Leach' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Coist Walker** — 'Coist Walker' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Dellan Robinson** — 'Dellan Robinson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -173,8 +178,6 @@
 - **Josh Ocaya** — 'Josh Ocaya' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Kerr Reynolds** — 'Kerr Reynolds' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Khiani Shombe** — 'Khiani Shombe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Nathan Tinsdale** — 'Nathan Tinsdale' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Ramell Carter** — 'Ramell Carter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Reuben Silk** — 'Reuben Silk' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sasha Gomeniuk** — 'Sasha Gomeniuk' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ted Gode** — 'Ted Gode' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

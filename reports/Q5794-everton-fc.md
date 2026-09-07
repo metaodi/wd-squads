@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q5794](https://www.wikidata.org/wiki/Q5794)
 - Wikipedia article: [Everton F.C.](https://en.wikipedia.org/wiki/Everton_F.C.)
-- Players in Wikipedia squad: 24
-- Current members on Wikidata: 303
-- Suggested edits: 314
+- Players in Wikipedia squad: 22
+- Current members on Wikidata: 304
+- Suggested edits: 311
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (13)</strong></summary>
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** ([WP](https://en.wikipedia.org/wiki/Adam_Aznou)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Brennan Johnson](https://www.wikidata.org/wiki/Q66108160)** ([WP](https://en.wikipedia.org/wiki/Brennan_Johnson)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
@@ -22,13 +22,10 @@
 - **[Christian Nørgaard](https://www.wikidata.org/wiki/Q5109980)** ([WP](https://en.wikipedia.org/wiki/Christian_Nørgaard)) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Harrison Armstrong](https://www.wikidata.org/wiki/Q129702132)** ([WP](https://en.wikipedia.org/wiki/Harrison_Armstrong_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Hayden Hackney](https://www.wikidata.org/wiki/Q104764328)** ([WP](https://en.wikipedia.org/wiki/Hayden_Hackney)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
-- **[Iliman Ndiaye](https://www.wikidata.org/wiki/Q105956269)** ([WP](https://en.wikipedia.org/wiki/Iliman_Ndiaye)) (2024–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Jake O'Brien](https://www.wikidata.org/wiki/Q110565461)** ([WP](https://en.wikipedia.org/wiki/Jake_O'Brien_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[James Tarkowski](https://www.wikidata.org/wiki/Q6144020)** ([WP](https://en.wikipedia.org/wiki/James_Tarkowski)) (2022–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Mark Travers](https://www.wikidata.org/wiki/Q59913688)** ([WP](https://en.wikipedia.org/wiki/Mark_Travers)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Merlin Röhl](https://www.wikidata.org/wiki/Q99752352)** ([WP](https://en.wikipedia.org/wiki/Merlin_Röhl)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
-- **[Nathan Patterson](https://www.wikidata.org/wiki/Q83264648)** ([WP](https://en.wikipedia.org/wiki/Nathan_Patterson_(footballer))) (2022–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
-- **[Tim Iroegbunam](https://www.wikidata.org/wiki/Q111027477)** ([WP](https://en.wikipedia.org/wiki/Tim_Iroegbunam)) (2024–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Tom King](https://www.wikidata.org/wiki/Q27139397)** ([WP](https://en.wikipedia.org/wiki/Tom_King_(footballer,_born_1995))) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Tyler Dibling](https://www.wikidata.org/wiki/Q115973966)** ([WP](https://en.wikipedia.org/wiki/Tyler_Dibling)) (2025–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.
 - **[Tyrique George](https://www.wikidata.org/wiki/Q123002942)** ([WP](https://en.wikipedia.org/wiki/Tyrique_George)) (2026–) — Add a 'member of sports team' (P54) statement → Everton F.C. (Q5794); the player is in the current squad on Wikipedia.

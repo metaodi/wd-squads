@@ -87,7 +87,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Daiki Hashioka](https://www.wikidata.org/wiki/Q39117170)** ([WP](https://de.wikipedia.org/wiki/Daiki_Hashioka)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Daniel Batz](https://www.wikidata.org/wiki/Q1160026)** ([WP](https://de.wikipedia.org/wiki/Daniel_Batz)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
@@ -95,16 +95,18 @@
 - **[Enzo Leopold](https://www.wikidata.org/wiki/Q111955261)** ([WP](https://de.wikipedia.org/wiki/Enzo_Leopold)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Fabio Chiarodia](https://www.wikidata.org/wiki/Q110043588)** ([WP](https://de.wikipedia.org/wiki/Fabio_Chiarodia)) (2023–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Franck Honorat](https://www.wikidata.org/wiki/Q15146137)** ([WP](https://de.wikipedia.org/wiki/Franck_Honorat)) (2023–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Fritz Fleck](https://www.wikidata.org/wiki/Q141321234)** — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Isac Lidberg](https://www.wikidata.org/wiki/Q21860037)** ([WP](https://de.wikipedia.org/wiki/Isac_Lidberg)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Jan Leszczyński](https://www.wikidata.org/wiki/Q140466945)** ([WP](https://de.wikipedia.org/wiki/Jan_Leszczyński)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Jens Castrop](https://www.wikidata.org/wiki/Q98829565)** ([WP](https://de.wikipedia.org/wiki/Jens_Castrop)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Kevin Diks](https://www.wikidata.org/wiki/Q17602824)** ([WP](https://de.wikipedia.org/wiki/Kevin_Diks)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Kevin Stöger](https://www.wikidata.org/wiki/Q86523)** ([WP](https://de.wikipedia.org/wiki/Kevin_Stöger)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Lion Schweers](https://www.wikidata.org/wiki/Q24006307)** ([WP](https://de.wikipedia.org/wiki/Lion_Schweers)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Mathieu Nguefack](https://www.wikidata.org/wiki/Q141321232)** — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Nicolas Kühn](https://www.wikidata.org/wiki/Q50822050)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Kühn)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Philipp Sander](https://www.wikidata.org/wiki/Q57579312)** ([WP](https://de.wikipedia.org/wiki/Philipp_Sander_(Fußballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Robin Hack](https://www.wikidata.org/wiki/Q41487752)** ([WP](https://de.wikipedia.org/wiki/Robin_Hack)) (2023–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Shūto Machino](https://www.wikidata.org/wiki/Q47582288)** ([WP](https://de.wikipedia.org/wiki/Shūto_Machino)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
-- **[Tomáš Čvančara](https://www.wikidata.org/wiki/Q104650064)** ([WP](https://de.wikipedia.org/wiki/Tomáš_Čvančara)) (2023–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Wael Mohya](https://www.wikidata.org/wiki/Q135879349)** ([WP](https://de.wikipedia.org/wiki/Wael_Mohya)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Zento Uno](https://www.wikidata.org/wiki/Q110403334)** ([WP](https://de.wikipedia.org/wiki/Zento_Uno)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 
@@ -118,10 +120,8 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
 
-- **Fritz Fleck** — 'Fritz Fleck' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Iaia Manco Danfa** — 'Iaia Manco Danfa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Mathieu Nguefack** — 'Mathieu Nguefack' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

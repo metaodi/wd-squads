@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q50602](https://www.wikidata.org/wiki/Q50602)
 - Wikipedia article: [Manchester City F.C.](https://en.wikipedia.org/wiki/Manchester_City_F.C.)
-- Players in Wikipedia squad: 44
-- Current members on Wikidata: 211
-- Suggested edits: 209
+- Players in Wikipedia squad: 46
+- Current members on Wikidata: 215
+- Suggested edits: 207
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -208,22 +208,20 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Charlie Gray](https://www.wikidata.org/wiki/Q137433913)** ([WP](https://en.wikipedia.org/wiki/Charlie_Gray_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
-- **[Claudio Echeverri](https://www.wikidata.org/wiki/Q116463164)** ([WP](https://en.wikipedia.org/wiki/Claudio_Echeverri)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Divine Mukasa](https://www.wikidata.org/wiki/Q131382825)** ([WP](https://en.wikipedia.org/wiki/Divine_Mukasa)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Floyd Samba](https://www.wikidata.org/wiki/Q139889492)** ([WP](https://en.wikipedia.org/wiki/Floyd_Samba)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Jeremy Monga](https://www.wikidata.org/wiki/Q133832511)** ([WP](https://en.wikipedia.org/wiki/Jeremy_Monga)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Kian Noble](https://www.wikidata.org/wiki/Q137374928)** ([WP](https://en.wikipedia.org/wiki/Kian_Noble)) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
-- **[Luke Mbete](https://www.wikidata.org/wiki/Q108665614)** ([WP](https://en.wikipedia.org/wiki/Luke_Mbete)) (2021–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Marcus Bettinelli](https://www.wikidata.org/wiki/Q16200385)** ([WP](https://en.wikipedia.org/wiki/Marcus_Bettinelli)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Mathys Detourbet](https://www.wikidata.org/wiki/Q134543047)** ([WP](https://en.wikipedia.org/wiki/Mathys_Detourbet)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Max Hudson](https://www.wikidata.org/wiki/Q131428904)** ([WP](https://en.wikipedia.org/wiki/Max_Hudson)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Pierce Charles](https://www.wikidata.org/wiki/Q125253530)** ([WP](https://en.wikipedia.org/wiki/Pierce_Charles)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Rayan Aït-Nouri](https://www.wikidata.org/wiki/Q50825738)** ([WP](https://en.wikipedia.org/wiki/Rayan_Aït-Nouri)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Ryan McAidoo](https://www.wikidata.org/wiki/Q136668030)** ([WP](https://en.wikipedia.org/wiki/Ryan_McAidoo)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
-- **[Spike Brits](https://www.wikidata.org/wiki/Q120745455)** ([WP](https://en.wikipedia.org/wiki/Spike_Brits)) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
+- **[Spike Brits](https://www.wikidata.org/wiki/Q120745455)** ([WP](https://en.wikipedia.org/wiki/Spike_Brits)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Stephen Mfuni](https://www.wikidata.org/wiki/Q134547817)** ([WP](https://en.wikipedia.org/wiki/Stephen_Mfuni)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Sverre Nypan](https://www.wikidata.org/wiki/Q115106256)** ([WP](https://en.wikipedia.org/wiki/Sverre_Nypan)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.
 - **[Tyrone Samba](https://www.wikidata.org/wiki/Q137836766)** ([WP](https://en.wikipedia.org/wiki/Tyrone_Samba)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester City F.C. (Q50602); the player is in the current squad on Wikipedia.

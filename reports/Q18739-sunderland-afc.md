@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q18739](https://www.wikidata.org/wiki/Q18739)
 - Wikipedia article: [Sunderland A.F.C.](https://en.wikipedia.org/wiki/Sunderland_A.F.C.)
-- Players in Wikipedia squad: 30
-- Current members on Wikidata: 158
+- Players in Wikipedia squad: 32
+- Current members on Wikidata: 160
 - Suggested edits: 175
 
 <details open>
@@ -177,9 +177,9 @@
 - **[Habib Diarra](https://www.wikidata.org/wiki/Q108924143)** ([WP](https://en.wikipedia.org/wiki/Habib_Diarra)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Jenson Seelt](https://www.wikidata.org/wiki/Q104543610)** ([WP](https://en.wikipedia.org/wiki/Jenson_Seelt)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Jocelin Ta Bi](https://www.wikidata.org/wiki/Q137796970)** ([WP](https://en.wikipedia.org/wiki/Jocelin_Ta_Bi)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
-- **[Jules Ahoka](https://www.wikidata.org/wiki/Q140986989)** — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Juan Riquelme Angulo](https://www.wikidata.org/wiki/Q136525746)** ([WP](https://en.wikipedia.org/wiki/Juan_Riquelme_Angulo)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
+- **[Jules Ahoka](https://www.wikidata.org/wiki/Q140986989)** ([WP](https://en.wikipedia.org/wiki/Jules_Ahoka)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Luke O'Nien](https://www.wikidata.org/wiki/Q16236417)** ([WP](https://en.wikipedia.org/wiki/Luke_O'Nien)) (2018–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
-- **[Luís Semedo](https://www.wikidata.org/wiki/Q110755842)** ([WP](https://en.wikipedia.org/wiki/Luís_Semedo)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Melker Ellborg](https://www.wikidata.org/wiki/Q74222613)** ([WP](https://en.wikipedia.org/wiki/Melker_Ellborg)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Milan Aleksić](https://www.wikidata.org/wiki/Q126137074)** ([WP](https://en.wikipedia.org/wiki/Milan_Aleksić_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Nilson Angulo](https://www.wikidata.org/wiki/Q109301509)** ([WP](https://en.wikipedia.org/wiki/Nilson_Angulo)) (2026–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.

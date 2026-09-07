@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q9616](https://www.wikidata.org/wiki/Q9616)
 - Wikipedia article: [Chelsea F.C.](https://en.wikipedia.org/wiki/Chelsea_F.C.)
-- Players in Wikipedia squad: 58
-- Current members on Wikidata: 157
+- Players in Wikipedia squad: 55
+- Current members on Wikidata: 154
 - Suggested edits: 146
 
 <details open>
@@ -146,22 +146,22 @@
 <summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Dastan Satpayev](https://www.wikidata.org/wiki/Q132861503)** ([WP](https://en.wikipedia.org/wiki/Dastan_Satpayev)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
-- **[Deivid Washington](https://www.wikidata.org/wiki/Q114405335)** ([WP](https://en.wikipedia.org/wiki/Deivid_Washington)) (2023–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
-- **[Dário Essugo](https://www.wikidata.org/wiki/Q106091717)** ([WP](https://en.wikipedia.org/wiki/Dário_Essugo)) (2025–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
+- **[Dujuan Richards](https://www.wikidata.org/wiki/Q117076000)** ([WP](https://en.wikipedia.org/wiki/Dujuan_Richards)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Emmanuel Emegha](https://www.wikidata.org/wiki/Q99352518)** ([WP](https://en.wikipedia.org/wiki/Emmanuel_Emegha)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Gabriel Slonina](https://www.wikidata.org/wiki/Q86218147)** ([WP](https://en.wikipedia.org/wiki/Gabriel_Slonina)) (2022–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Harrison Murray-Campbell](https://www.wikidata.org/wiki/Q122978065)** ([WP](https://en.wikipedia.org/wiki/Harrison_Murray-Campbell)) (2024–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Ishe Samuels-Smith](https://www.wikidata.org/wiki/Q118854236)** ([WP](https://en.wikipedia.org/wiki/Ishe_Samuels-Smith)) (2025–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Jesse Derry](https://www.wikidata.org/wiki/Q137370106)** ([WP](https://en.wikipedia.org/wiki/Jesse_Derry)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Kaiden Wilson](https://www.wikidata.org/wiki/Q128797472)** — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Kendry Páez](https://www.wikidata.org/wiki/Q116466426)** ([WP](https://en.wikipedia.org/wiki/Kendry_Páez)) (2025–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Kiano Dyer](https://www.wikidata.org/wiki/Q123002504)** ([WP](https://en.wikipedia.org/wiki/Kiano_Dyer)) (2024–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
+- **[Landon Emenalo](https://www.wikidata.org/wiki/Q132129020)** ([WP](https://en.wikipedia.org/wiki/Landon_Emenalo)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Mahdi Nicoll-Jazuli](https://www.wikidata.org/wiki/Q136678208)** ([WP](https://en.wikipedia.org/wiki/Mahdi_Nicoll-Jazuli)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Max Merrick](https://www.wikidata.org/wiki/Q132128998)** — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ollie Harrison](https://www.wikidata.org/wiki/Q132129011)** — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Reggie Walsh](https://www.wikidata.org/wiki/Q133443961)** ([WP](https://en.wikipedia.org/wiki/Reggie_Walsh)) (2025–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Reggie Watson](https://www.wikidata.org/wiki/Q140775528)** ([WP](https://en.wikipedia.org/wiki/Reggie_Watson)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Shim Mheuka](https://www.wikidata.org/wiki/Q114907868)** ([WP](https://en.wikipedia.org/wiki/Shim_Mheuka)) (2024–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
+- **[Ted Curd](https://www.wikidata.org/wiki/Q123286149)** ([WP](https://en.wikipedia.org/wiki/Ted_Curd)) (2023–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Teddy Sharman-Lowe](https://www.wikidata.org/wiki/Q98970365)** ([WP](https://en.wikipedia.org/wiki/Teddy_Sharman-Lowe)) (2020–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Valentín Barco](https://www.wikidata.org/wiki/Q107542811)** ([WP](https://en.wikipedia.org/wiki/Valentín_Barco)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 

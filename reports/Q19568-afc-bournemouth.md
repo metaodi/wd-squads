@@ -3,8 +3,8 @@
 - Wikidata item: [Q19568](https://www.wikidata.org/wiki/Q19568)
 - Wikipedia article: [AFC Bournemouth](https://en.wikipedia.org/wiki/AFC_Bournemouth)
 - Players in Wikipedia squad: 31
-- Current members on Wikidata: 131
-- Suggested edits: 141
+- Current members on Wikidata: 130
+- Suggested edits: 140
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (120)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (119)</strong></summary>
 
 - **[Alan Noble](https://www.wikidata.org/wiki/Q19577438)** ([WP](https://en.wikipedia.org/wiki/Alan_Noble_(footballer))) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Forbes](https://www.wikidata.org/wiki/Q4717736)** ([WP](https://en.wikipedia.org/wiki/Alex_S._Forbes)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -119,7 +119,6 @@
 - **[Ron Young](https://www.wikidata.org/wiki/Q65067883)** ([WP](https://en.wikipedia.org/wiki/Ron_Young_(footballer,_born_1925))) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ryan Allsop](https://www.wikidata.org/wiki/Q7383831)** ([WP](https://en.wikipedia.org/wiki/Ryan_Allsop)) (2013–2018) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ryan Mason](https://www.wikidata.org/wiki/Q4459692)** ([WP](https://en.wikipedia.org/wiki/Ryan_Mason)) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Sam Surridge](https://www.wikidata.org/wiki/Q34982765)** ([WP](https://en.wikipedia.org/wiki/Sam_Surridge)) (2015–2021) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Scott Morgan](https://www.wikidata.org/wiki/Q17517248)** ([WP](https://en.wikipedia.org/wiki/Scott_Morgan_(footballer))) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Shaun MacDonald](https://www.wikidata.org/wiki/Q1996125)** ([WP](https://en.wikipedia.org/wiki/Shaun_MacDonald_(footballer,_born_1988))) (2011–2016) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Simon Francis](https://www.wikidata.org/wiki/Q7518777)** ([WP](https://en.wikipedia.org/wiki/Simon_Francis_(footballer))) (2012–2020) — Add an end date (P582) to the membership → AFC Bournemouth (Q19568); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
