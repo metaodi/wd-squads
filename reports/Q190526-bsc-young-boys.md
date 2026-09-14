@@ -4,10 +4,10 @@
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
 - Players in Wikipedia squad: 29
 - Current members on Wikidata: 88
-- Suggested edits: 101
+- Suggested edits: 103
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Alan Virginius](https://www.wikidata.org/wiki/Q99485545)** ([WP](https://de.wikipedia.org/wiki/Alan_Virginius)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Cédric Zesiger](https://www.wikidata.org/wiki/Q27662789)** ([WP](https://de.wikipedia.org/wiki/Cédric_Zesiger)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
@@ -20,6 +20,7 @@
 - **[Kaly Sène](https://www.wikidata.org/wiki/Q98592835)** ([WP](https://de.wikipedia.org/wiki/Kaly_Sène)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Lewin Blum](https://www.wikidata.org/wiki/Q110830881)** ([WP](https://de.wikipedia.org/wiki/Lewin_Blum)) (2021–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Marvin Keller](https://www.wikidata.org/wiki/Q108698128)** ([WP](https://de.wikipedia.org/wiki/Marvin_Keller)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
+- **[Moritz Jenz](https://www.wikidata.org/wiki/Q99311305)** ([WP](https://de.wikipedia.org/wiki/Moritz_Jenz)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Ryan Andrews](https://www.wikidata.org/wiki/Q120015669)** ([WP](https://de.wikipedia.org/wiki/Ryan_Andrews)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Saidy Janko](https://www.wikidata.org/wiki/Q17619317)** ([WP](https://de.wikipedia.org/wiki/Saidy_Janko)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Samuel Essende](https://www.wikidata.org/wiki/Q56486404)** ([WP](https://de.wikipedia.org/wiki/Samuel_Essende)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
@@ -28,7 +29,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (80)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (81)</strong></summary>
 
 - **[Alexander Gerndt](https://www.wikidata.org/wiki/Q610747)** ([WP](https://de.wikipedia.org/wiki/Alexander_Gerndt)) (2013–2017) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[André Daina](https://www.wikidata.org/wiki/Q251426)** ([WP](https://de.wikipedia.org/wiki/Andr%C3%A9_Daina)) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -90,6 +91,7 @@
 - **[Pedro Teixeira](https://www.wikidata.org/wiki/Q27922639)** ([WP](https://de.wikipedia.org/wiki/Pedro_Teixeira_(Fussballspieler))) (2017–2019) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Zulechner](https://www.wikidata.org/wiki/Q15241537)** ([WP](https://de.wikipedia.org/wiki/Philipp_Zulechner)) (2016) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Raphael Nuzzolo](https://www.wikidata.org/wiki/Q667926)** ([WP](https://de.wikipedia.org/wiki/Rapha%C3%ABl_Nuzzolo)) (2011–2016) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Rhodri Smith](https://www.wikidata.org/wiki/Q118747021)** ([WP](https://en.wikipedia.org/wiki/Rhodri_Smith_(footballer))) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Roger Assalé](https://www.wikidata.org/wiki/Q18808532)** ([WP](https://de.wikipedia.org/wiki/Roger_Assal%C3%A9)) (2017–2020) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Roger Quinche](https://www.wikidata.org/wiki/Q2006842)** ([WP](https://de.wikipedia.org/wiki/Roger_Quinche)) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Samuel Ballet](https://www.wikidata.org/wiki/Q87137355)** ([WP](https://de.wikipedia.org/wiki/Samuel_Ballet)) (2019–2021) — Add an end date (P582) to the membership → BSC Young Boys (Q190526); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

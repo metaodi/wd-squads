@@ -7,7 +7,7 @@
 - Suggested edits: 93
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Alban Ajdini](https://www.wikidata.org/wiki/Q101001363)** ([WP](https://de.wikipedia.org/wiki/Alban_Ajdini)) (2024–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Beyatt Lekoueiry](https://www.wikidata.org/wiki/Q110630118)** ([WP](https://en.wikipedia.org/wiki/Beyatt_Lekweiry)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -24,7 +24,6 @@
 - **[Nicolas Cozza](https://www.wikidata.org/wiki/Q43369696)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Cozza)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Omar Janneh](https://www.wikidata.org/wiki/Q128215400)** ([WP](https://en.wikipedia.org/wiki/Omar_Janneh)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Seydou Traoré](https://www.wikidata.org/wiki/Q7459013)** ([WP](https://en.wikipedia.org/wiki/Seydou_Traor%C3%A9_(footballer))) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Sékou Koné](https://www.wikidata.org/wiki/Q123463980)** ([WP](https://en.wikipedia.org/wiki/S%C3%A9kou_Kon%C3%A9)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Theo Bergvall](https://www.wikidata.org/wiki/Q121891577)** ([WP](https://en.wikipedia.org/wiki/Theo_Bergvall)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Thomas Cordier](https://www.wikidata.org/wiki/Q140633724)** — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tyler Fredricson](https://www.wikidata.org/wiki/Q132454617)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fredricson)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -112,7 +111,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (7)</strong></summary>
 
 - **Dircssi Ngonzo** — 'Dircssi Ngonzo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Emilien Grosso** — 'Emilien Grosso' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -120,5 +119,6 @@
 - **Evan Franchi** — 'Evan Franchi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ibrahim Bah Mendes** — 'Ibrahim Bah Mendes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Souleymane N’Diaye** — 'Souleymane N’Diaye' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Sékou Koné** — 'Sékou Koné' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

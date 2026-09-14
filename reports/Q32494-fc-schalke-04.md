@@ -3,8 +3,8 @@
 - Wikidata item: [Q32494](https://www.wikidata.org/wiki/Q32494)
 - Wikipedia article: [FC Schalke 04](https://de.wikipedia.org/wiki/FC_Schalke_04)
 - Players in Wikipedia squad: 27
-- Current members on Wikidata: 145
-- Suggested edits: 162
+- Current members on Wikidata: 146
+- Suggested edits: 163
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -41,7 +41,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (140)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (141)</strong></summary>
 
 - **[Ahmed Kutucu](https://www.wikidata.org/wiki/Q59641577)** ([WP](https://de.wikipedia.org/wiki/Ahmed_Kutucu)) (2018–2021) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alban Sabah](https://www.wikidata.org/wiki/Q2637203)** ([WP](https://de.wikipedia.org/wiki/Alban_Sabah)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -162,6 +162,7 @@
 - **[Stefan Blank](https://www.wikidata.org/wiki/Q92300)** ([WP](https://de.wikipedia.org/wiki/Stefan_Blank)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Stiven Rivić](https://www.wikidata.org/wiki/Q1363967)** ([WP](https://de.wikipedia.org/wiki/Stiven_Rivi%C4%87)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Thomas Opitz](https://www.wikidata.org/wiki/Q110572811)** — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Thomas Ouwejan](https://www.wikidata.org/wiki/Q22001902)** ([WP](https://de.wikipedia.org/wiki/Thomas_Ouwejan)) (2021–2024) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Thomas Student](https://www.wikidata.org/wiki/Q2427517)** ([WP](https://de.wikipedia.org/wiki/Thomas_Student)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ulrich Bittcher](https://www.wikidata.org/wiki/Q746358)** ([WP](https://de.wikipedia.org/wiki/Ulrich_Bittcher)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ulrich Pierenkämper](https://www.wikidata.org/wiki/Q2476464)** ([WP](https://de.wikipedia.org/wiki/Ulrich_Pierenk%C3%A4mper)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

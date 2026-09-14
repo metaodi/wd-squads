@@ -3,13 +3,12 @@
 - Wikidata item: [Q18711](https://www.wikidata.org/wiki/Q18711)
 - Wikipedia article: [Aston Villa F.C.](https://en.wikipedia.org/wiki/Aston_Villa_F.C.)
 - Players in Wikipedia squad: 57
-- Current members on Wikidata: 286
-- Suggested edits: 302
+- Current members on Wikidata: 287
+- Suggested edits: 301
 
 <details open>
-<summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
+<summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
 
-- **[Tammy Abraham](https://www.wikidata.org/wiki/Q24050378)** ([WP](https://en.wikipedia.org/wiki/Tammy_Abraham)) (2026–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Tyrone Mings](https://www.wikidata.org/wiki/Q16235643)** ([WP](https://en.wikipedia.org/wiki/Tyrone_Mings)) (2019–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
@@ -284,7 +283,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (28)</strong></summary>
 
 - **[Aidan Borland](https://www.wikidata.org/wiki/Q130360134)** ([WP](https://en.wikipedia.org/wiki/Aidan_Borland)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Alysson](https://www.wikidata.org/wiki/Q127257240)** ([WP](https://en.wikipedia.org/wiki/Alysson_(footballer,_born_2006))) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
@@ -293,6 +292,7 @@
 - **[Boubacar Kamara](https://www.wikidata.org/wiki/Q29962926)** ([WP](https://en.wikipedia.org/wiki/Boubacar_Kamara)) (2022–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Bradley Burrowes](https://www.wikidata.org/wiki/Q136032460)** ([WP](https://en.wikipedia.org/wiki/Bradley_Burrowes)) (2025–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Brian Madjo](https://www.wikidata.org/wiki/Q133462797)** ([WP](https://en.wikipedia.org/wiki/Brian_Madjo)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
+- **[Cole Brannigan](https://www.wikidata.org/wiki/Q141440487)** ([WP](https://en.wikipedia.org/wiki/Cole_Brannigan)) (2025–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Emiliano Buendía](https://www.wikidata.org/wiki/Q18637343)** ([WP](https://en.wikipedia.org/wiki/Emiliano_Buendía)) (2021–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[James Wright](https://www.wikidata.org/wiki/Q130279495)** ([WP](https://en.wikipedia.org/wiki/James_Wright_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Joe Gauci](https://www.wikidata.org/wiki/Q105944501)** ([WP](https://en.wikipedia.org/wiki/Joe_Gauci)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
@@ -302,6 +302,7 @@
 - **[Kane Taylor](https://www.wikidata.org/wiki/Q122705537)** ([WP](https://en.wikipedia.org/wiki/Kane_Taylor)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Kosta Nedeljković](https://www.wikidata.org/wiki/Q119719443)** ([WP](https://en.wikipedia.org/wiki/Kosta_Nedeljković)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Lino Sousa](https://www.wikidata.org/wiki/Q114027511)** ([WP](https://en.wikipedia.org/wiki/Lino_Sousa)) (2024–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
+- **[Luka Lynch](https://www.wikidata.org/wiki/Q141411144)** ([WP](https://en.wikipedia.org/wiki/Luka_Lynch)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Marco Bizot](https://www.wikidata.org/wiki/Q218937)** ([WP](https://en.wikipedia.org/wiki/Marco_Bizot)) (2025–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Mason Cotcher](https://www.wikidata.org/wiki/Q129084705)** ([WP](https://en.wikipedia.org/wiki/Mason_Cotcher)) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
 - **[Modou Kéba Cissé](https://www.wikidata.org/wiki/Q132719377)** ([WP](https://en.wikipedia.org/wiki/Modou_Kéba_Cissé)) (2026–) — Add a 'member of sports team' (P54) statement → Aston Villa F.C. (Q18711); the player is in the current squad on Wikipedia.
@@ -327,10 +328,8 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (4)</strong></summary>
 
-- **Cole Brannigan** — 'Cole Brannigan' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Luka Lynch** — 'Luka Lynch' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sam Lewis** — 'Sam Lewis' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sam Proctor** — 'Sam Proctor' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **TJ Carroll** — 'TJ Carroll' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

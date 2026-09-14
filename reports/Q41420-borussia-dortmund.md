@@ -3,8 +3,8 @@
 - Wikidata item: [Q41420](https://www.wikidata.org/wiki/Q41420)
 - Wikipedia article: [Borussia Dortmund](https://de.wikipedia.org/wiki/Borussia_Dortmund)
 - Players in Wikipedia squad: 30
-- Current members on Wikidata: 80
-- Suggested edits: 80
+- Current members on Wikidata: 79
+- Suggested edits: 79
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -34,7 +34,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (65)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (64)</strong></summary>
 
 - **[Alfred Kohlhäufl](https://www.wikidata.org/wiki/Q2645311)** ([WP](https://de.wikipedia.org/wiki/Alfred_Kohlh%C3%A4ufl)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alfred Mikuda](https://www.wikidata.org/wiki/Q61663379)** ([WP](https://de.wikipedia.org/wiki/Alfred_Mikuda)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -46,7 +46,6 @@
 - **[Damir Vrančić](https://www.wikidata.org/wiki/Q715885)** ([WP](https://de.wikipedia.org/wiki/Damir_Vran%C4%8Di%C4%87)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dan-Axel Zagadou](https://www.wikidata.org/wiki/Q30131952)** ([WP](https://de.wikipedia.org/wiki/Dan-Axel_Zagadou)) (2017–2022) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dardan Karimani](https://www.wikidata.org/wiki/Q28800374)** ([WP](https://de.wikipedia.org/wiki/Dardan_Karimani)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[David Miculescu](https://www.wikidata.org/wiki/Q85525678)** ([WP](https://en.wikipedia.org/wiki/David_Miculescu)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Dieter Mietz](https://www.wikidata.org/wiki/Q1222505)** ([WP](https://de.wikipedia.org/wiki/Dieter_Mietz)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Edmond Kasperski](https://www.wikidata.org/wiki/Q19965148)** ([WP](https://de.wikipedia.org/wiki/Edmond_Kasperski)) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Erwin Halfen](https://www.wikidata.org/wiki/Q60648717)** ([WP](https://de.wikipedia.org/wiki/Erwin_Halfen)) (1947–1953) — Add an end date (P582) to the membership → Borussia Dortmund (Q41420); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

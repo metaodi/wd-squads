@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
-- Players in Wikipedia squad: 30
+- Players in Wikipedia squad: 29
 - Current members on Wikidata: 102
-- Suggested edits: 106
+- Suggested edits: 105
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
 - **[Abdoul Koné](https://www.wikidata.org/wiki/Q126811692)** ([WP](https://de.wikipedia.org/wiki/Abdoul_Koné)) (2026–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 - **[Andrija Maksimović](https://www.wikidata.org/wiki/Q122260202)** ([WP](https://de.wikipedia.org/wiki/Andrija_Maksimović)) (2025–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
@@ -23,7 +23,6 @@
 - **[Ridle Baku](https://www.wikidata.org/wiki/Q46126025)** ([WP](https://de.wikipedia.org/wiki/Ridle_Baku)) (2025–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 - **[Rocco Reitz](https://www.wikidata.org/wiki/Q98248124)** ([WP](https://de.wikipedia.org/wiki/Rocco_Reitz)) (2026–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 - **[Samba Konaté](https://www.wikidata.org/wiki/Q137204751)** ([WP](https://de.wikipedia.org/wiki/Samba_Konaté)) (2025–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
-- **[Suleman Sani](https://www.wikidata.org/wiki/Q132413182)** ([WP](https://de.wikipedia.org/wiki/Suleman_Sani)) (2026–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 - **[Tidiam Gomis](https://www.wikidata.org/wiki/Q118611120)** ([WP](https://de.wikipedia.org/wiki/Tidiam_Gomis)) (2025–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 - **[Viggo Gebel](https://www.wikidata.org/wiki/Q129259791)** ([WP](https://de.wikipedia.org/wiki/Viggo_Gebel)) (2024–) — Add a 'member of sports team' (P54) statement → RB Leipzig (Q702455); the player is in the current squad on Wikipedia.
 

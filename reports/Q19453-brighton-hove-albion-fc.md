@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19453](https://www.wikidata.org/wiki/Q19453)
 - Wikipedia article: [Brighton & Hove Albion F.C.](https://en.wikipedia.org/wiki/Brighton_&_Hove_Albion_F.C.)
-- Players in Wikipedia squad: 40
+- Players in Wikipedia squad: 41
 - Current members on Wikidata: 202
-- Suggested edits: 207
+- Suggested edits: 208
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -236,9 +236,10 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (2)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
 
 - **Josh Robertson** — 'Josh Robertson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Shane Nti** — 'Shane Nti' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Younes Ibrahim** — 'Younes Ibrahim' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

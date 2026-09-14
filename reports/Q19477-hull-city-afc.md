@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19477](https://www.wikidata.org/wiki/Q19477)
 - Wikipedia article: [Hull City A.F.C.](https://en.wikipedia.org/wiki/Hull_City_A.F.C.)
-- Players in Wikipedia squad: 69
+- Players in Wikipedia squad: 68
 - Current members on Wikidata: 103
-- Suggested edits: 155
+- Suggested edits: 154
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (94)</strong></summary>
@@ -107,14 +107,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (40)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (39)</strong></summary>
 
 - **[Cathal McCarthy](https://www.wikidata.org/wiki/Q134664423)** ([WP](https://en.wikipedia.org/wiki/Cathal_McCarthy_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Charlie Hughes](https://www.wikidata.org/wiki/Q116413058)** ([WP](https://en.wikipedia.org/wiki/Charlie_Hughes_(footballer,_born_2003))) (2024–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Christos Mouzakitis](https://www.wikidata.org/wiki/Q126031006)** ([WP](https://en.wikipedia.org/wiki/Christos_Mouzakitis)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Crawley Town](https://www.wikidata.org/wiki/Q19584)** ([WP](https://en.wikipedia.org/wiki/Crawley_Town_F.C.)) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Darko Gyabi](https://www.wikidata.org/wiki/Q112801051)** ([WP](https://en.wikipedia.org/wiki/Darko_Gyabi)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
-- **[David Akintola](https://www.wikidata.org/wiki/Q27671136)** ([WP](https://en.wikipedia.org/wiki/David_Akintola)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Dillon Phillips](https://www.wikidata.org/wiki/Q17496506)** ([WP](https://en.wikipedia.org/wiki/Dillon_Phillips)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Eliot Matazo](https://www.wikidata.org/wiki/Q98829607)** ([WP](https://en.wikipedia.org/wiki/Eliot_Matazo)) (2025–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.
 - **[Elliot Stroud](https://www.wikidata.org/wiki/Q117789805)** ([WP](https://en.wikipedia.org/wiki/Elliot_Stroud)) (2026–) — Add a 'member of sports team' (P54) statement → Hull City A.F.C. (Q19477); the player is in the current squad on Wikipedia.

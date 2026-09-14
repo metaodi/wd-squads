@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19490](https://www.wikidata.org/wiki/Q19490)
 - Wikipedia article: [Nottingham Forest F.C.](https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.)
-- Players in Wikipedia squad: 57
+- Players in Wikipedia squad: 58
 - Current members on Wikidata: 212
-- Suggested edits: 238
+- Suggested edits: 239
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (196)</strong></summary>
@@ -220,7 +220,7 @@
 - **[Jair Cunha](https://www.wikidata.org/wiki/Q123383036)** ([WP](https://en.wikipedia.org/wiki/Jair_Cunha)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[James McAtee](https://www.wikidata.org/wiki/Q108653498)** ([WP](https://en.wikipedia.org/wiki/James_McAtee)) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Jimmy Sinclair](https://www.wikidata.org/wiki/Q137092093)** ([WP](https://en.wikipedia.org/wiki/Jimmy_Sinclair_(footballer,_born_2006))) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
-- **[John Victor](https://www.wikidata.org/wiki/Q66685965)** ([WP](https://en.wikipedia.org/wiki/John_Victor_(footballer))) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
+- **[John Victor](https://www.wikidata.org/wiki/Q66685965)** ([WP](https://en.wikipedia.org/wiki/John_Victor_(Brazilian_footballer))) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Josh Powell](https://www.wikidata.org/wiki/Q135925838)** ([WP](https://en.wikipedia.org/wiki/Josh_Powell_(footballer))) (2025–) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia.
 - **[Kalum Thompson](https://www.wikidata.org/wiki/Q136384383)** — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Kristian Clarke](https://www.wikidata.org/wiki/Q131431079)** ([WP](https://en.wikipedia.org/wiki/Kristian_Clarke)) — Add a 'member of sports team' (P54) statement → Nottingham Forest F.C. (Q19490); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -245,7 +245,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (18)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (19)</strong></summary>
 
 - **Aaron Bott** — 'Aaron Bott' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Archie Whitehall** — 'Archie Whitehall' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -257,6 +257,7 @@
 - **Ethan Broomes** — 'Ethan Broomes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Frank Djamna** — 'Frank Djamna' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Fuad Smith** — 'Fuad Smith' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Gabriel Schluter** — 'Gabriel Schluter' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **George Murray-Jones** — 'George Murray-Jones' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jamie Newton** — 'Jamie Newton' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jayden Powell** — 'Jayden Powell' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

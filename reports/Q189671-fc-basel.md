@@ -2,27 +2,32 @@
 
 - Wikidata item: [Q189671](https://www.wikidata.org/wiki/Q189671)
 - Wikipedia article: [FC Basel](https://de.wikipedia.org/wiki/FC_Basel)
-- Players in Wikipedia squad: 27
+- Players in Wikipedia squad: 28
 - Current members on Wikidata: 279
-- Suggested edits: 299
+- Suggested edits: 300
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Aaron Malouda](https://www.wikidata.org/wiki/Q122926221)** ([WP](https://de.wikipedia.org/wiki/Aaron_Malouda)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
-- **[Asane Sow](https://www.wikidata.org/wiki/Q140472483)** ([WP](https://en.wikipedia.org/wiki/Asane_Sow)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Andrej Bačanin](https://www.wikidata.org/wiki/Q135435322)** ([WP](https://de.wikipedia.org/wiki/Andrej_Bačanin)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Asane Sow](https://www.wikidata.org/wiki/Q140472483)** ([WP](https://de.wikipedia.org/wiki/Asane_Sow)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Bećir Omeragić](https://www.wikidata.org/wiki/Q65029690)** ([WP](https://de.wikipedia.org/wiki/Bećir_Omeragić)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Clément Michelin](https://www.wikidata.org/wiki/Q26033078)** ([WP](https://de.wikipedia.org/wiki/Clément_Michelin)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Coleen Louis](https://www.wikidata.org/wiki/Q140596533)** — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Flavius Daniliuc](https://www.wikidata.org/wiki/Q65948503)** ([WP](https://de.wikipedia.org/wiki/Flavius_Daniliuc)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Gabriel Sigua](https://www.wikidata.org/wiki/Q115592990)** ([WP](https://de.wikipedia.org/wiki/Gabriel_Sigua)) (2023–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
-- **[Jonas Harder](https://www.wikidata.org/wiki/Q131573154)** ([WP](https://en.wikipedia.org/wiki/Jonas_Harder)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Jonas Harder](https://www.wikidata.org/wiki/Q131573154)** ([WP](https://de.wikipedia.org/wiki/Jonas_Harder)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Kaio Eduardo](https://www.wikidata.org/wiki/Q135988642)** — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Kazeem Olaigbe](https://www.wikidata.org/wiki/Q113366789)** ([WP](https://en.wikipedia.org/wiki/Kazeem_Olaigbe)) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Kazeem Olaigbe](https://www.wikidata.org/wiki/Q113366789)** ([WP](https://de.wikipedia.org/wiki/Kazeem_Olaigbe)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Keigo Tsunemoto](https://www.wikidata.org/wiki/Q101198734)** ([WP](https://de.wikipedia.org/wiki/Keigo_Tsunemoto)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Kevin Rüegg](https://www.wikidata.org/wiki/Q33885886)** ([WP](https://de.wikipedia.org/wiki/Kevin_Rüegg)) (2023–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Ludwig Malachowski](https://www.wikidata.org/wiki/Q133894880)** ([WP](https://de.wikipedia.org/wiki/Ludwig_Malachowski)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Metinho](https://www.wikidata.org/wiki/Q102260164)** ([WP](https://de.wikipedia.org/wiki/Metinho)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Moussa Cissé](https://www.wikidata.org/wiki/Q128871829)** ([WP](https://de.wikipedia.org/wiki/Moussa_Cissé_(Fußballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Nicolas Vouilloz](https://www.wikidata.org/wiki/Q96745606)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Vouilloz_(Fussballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Philip Otele](https://www.wikidata.org/wiki/Q65259981)** ([WP](https://de.wikipedia.org/wiki/Philip_Otele)) (2025–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
+- **[Victory Akpe](https://www.wikidata.org/wiki/Q140476592)** ([WP](https://de.wikipedia.org/wiki/Victory_Akpe)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 - **[Žan Celar](https://www.wikidata.org/wiki/Q30005073)** ([WP](https://de.wikipedia.org/wiki/Žan_Celar)) (2026–) — Add a 'member of sports team' (P54) statement → FC Basel (Q189671); the player is in the current squad on Wikipedia.
 
 </details>
@@ -316,15 +321,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (8)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (4)</strong></summary>
 
-- **Andrei Bačanin** — 'Andrei Bačanin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bennett Hoch** — 'Bennett Hoch' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jean Doucoure** — 'Jean Doucoure' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Ludwig Malachowski** — 'Ludwig Malachowski' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Metinho** — 'Metinho' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Noah Kakor** — 'Noah Kakor' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Renato** — 'Renato' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Victory Akpe** — 'Victory Akpe' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

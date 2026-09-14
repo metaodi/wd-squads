@@ -4,10 +4,10 @@
 - Wikipedia article: [Newcastle United F.C.](https://en.wikipedia.org/wiki/Newcastle_United_F.C.)
 - Players in Wikipedia squad: 36
 - Current members on Wikidata: 146
-- Suggested edits: 125
+- Suggested edits: 123
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (117)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (116)</strong></summary>
 
 - **[Aaron Ramsdale](https://www.wikidata.org/wiki/Q27967807)** ([WP](https://en.wikipedia.org/wiki/Aaron_Ramsdale)) (2025–2026) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Achraf Lazaar](https://www.wikidata.org/wiki/Q15984451)** ([WP](https://en.wikipedia.org/wiki/Achraf_Lazaar)) (2016–2021) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -53,7 +53,6 @@
 - **[Ebor Reed](https://www.wikidata.org/wiki/Q59588499)** ([WP](https://en.wikipedia.org/wiki/Ebor_Reed)) (1922–1925) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Edward Ward](https://www.wikidata.org/wiki/Q23688953)** ([WP](https://en.wikipedia.org/wiki/Edward_Ward_(footballer))) (1920–) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Elias Sørensen](https://www.wikidata.org/wiki/Q61594873)** ([WP](https://en.wikipedia.org/wiki/Elias_S%C3%B8rensen)) (2016–2021) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Emil Krafth](https://www.wikidata.org/wiki/Q5371332)** ([WP](https://en.wikipedia.org/wiki/Emil_Krafth)) (2019–2026) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ernie Whittle](https://www.wikidata.org/wiki/Q5394806)** ([WP](https://en.wikipedia.org/wiki/Ernie_Whittle)) (1944–) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fabricio Coloccini](https://www.wikidata.org/wiki/Q215831)** ([WP](https://en.wikipedia.org/wiki/Fabricio_Coloccini)) (2008–2016) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fred Mavin](https://www.wikidata.org/wiki/Q5495885)** ([WP](https://en.wikipedia.org/wiki/Fred_Mavin)) — Add an end date (P582) to the membership → Newcastle United F.C. (Q18716); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -130,9 +129,8 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (6)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (5)</strong></summary>
 
-- **[Ewen Jaouen](https://www.wikidata.org/wiki/Q133248014)** ([WP](https://en.wikipedia.org/wiki/Ewen_Jaouen)) (2026–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Harrison Ashby](https://www.wikidata.org/wiki/Q99366284)** ([WP](https://en.wikipedia.org/wiki/Harrison_Ashby)) (2023–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Leo Shahar](https://www.wikidata.org/wiki/Q119522327)** ([WP](https://en.wikipedia.org/wiki/Leo_Shahar)) (2025–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Park Seung-soo](https://www.wikidata.org/wiki/Q130539360)** ([WP](https://en.wikipedia.org/wiki/Park_Seung-soo)) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
