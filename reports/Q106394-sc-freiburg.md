@@ -3,8 +3,8 @@
 - Wikidata item: [Q106394](https://www.wikidata.org/wiki/Q106394)
 - Wikipedia article: [SC Freiburg](https://de.wikipedia.org/wiki/SC_Freiburg)
 - Players in Wikipedia squad: 55
-- Current members on Wikidata: 76
-- Suggested edits: 112
+- Current members on Wikidata: 75
+- Suggested edits: 111
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,14 +15,13 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (66)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (65)</strong></summary>
 
 - **[Amir Falahen](https://www.wikidata.org/wiki/Q23062751)** ([WP](https://de.wikipedia.org/wiki/Amir_Falahen)) (2015–2017) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charles-Elie Laprevotte](https://www.wikidata.org/wiki/Q14703470)** ([WP](https://de.wikipedia.org/wiki/Charles-Elie_Laprevotte)) (2013–2016) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christian Simon](https://www.wikidata.org/wiki/Q1081924)** ([WP](https://de.wikipedia.org/wiki/Christian_Simon_(Fu%C3%9Fballspieler))) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Falko Michel](https://www.wikidata.org/wiki/Q115235541)** ([WP](https://de.wikipedia.org/wiki/Falko_Michel)) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Florian Kath](https://www.wikidata.org/wiki/Q19276063)** ([WP](https://de.wikipedia.org/wiki/Florian_Kath)) (2015–2020) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Florian Niederlechner](https://www.wikidata.org/wiki/Q1429837)** ([WP](https://de.wikipedia.org/wiki/Florian_Niederlechner)) (2016–2019) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Franz Weber](https://www.wikidata.org/wiki/Q28922851)** ([WP](https://de.wikipedia.org/wiki/Franz_Weber_(Fu%C3%9Fballspieler,_1957))) (1984–1989) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gerd Sachs](https://www.wikidata.org/wiki/Q19502404)** ([WP](https://de.wikipedia.org/wiki/Gerd_Sachs)) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gregor Weber](https://www.wikidata.org/wiki/Q1545198)** ([WP](https://de.wikipedia.org/wiki/Gregor_Weber_(Historiker))) — Add an end date (P582) to the membership → SC Freiburg (Q106394); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

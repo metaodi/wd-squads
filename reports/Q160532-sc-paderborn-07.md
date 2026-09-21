@@ -3,8 +3,8 @@
 - Wikidata item: [Q160532](https://www.wikidata.org/wiki/Q160532)
 - Wikipedia article: [SC Paderborn 07](https://de.wikipedia.org/wiki/SC_Paderborn_07)
 - Players in Wikipedia squad: 32
-- Current members on Wikidata: 47
-- Suggested edits: 79
+- Current members on Wikidata: 48
+- Suggested edits: 80
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
@@ -51,7 +51,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (47)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (48)</strong></summary>
 
 - **[Christian Bickel](https://www.wikidata.org/wiki/Q1078979)** ([WP](https://de.wikipedia.org/wiki/Christian_Bickel)) (2015–2018) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Christopher Antwi-Adjei](https://www.wikidata.org/wiki/Q33135565)** ([WP](https://de.wikipedia.org/wiki/Christopher_Antwi-Adjei)) (2017–2021) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -81,6 +81,7 @@
 - **[Marc Vucinovic](https://www.wikidata.org/wiki/Q6755944)** ([WP](https://de.wikipedia.org/wiki/Marc_Vucinovic)) (2013–2018) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marcel Ndjeng](https://www.wikidata.org/wiki/Q536344)** ([WP](https://de.wikipedia.org/wiki/Marcel_Ndjeng)) (2015–2016) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Markus Gellhaus](https://www.wikidata.org/wiki/Q1901505)** ([WP](https://de.wikipedia.org/wiki/Markus_Gellhaus)) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Marlon Ritter](https://www.wikidata.org/wiki/Q18127547)** ([WP](https://de.wikipedia.org/wiki/Marlon_Ritter)) (2017–2020) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Martin Amedick](https://www.wikidata.org/wiki/Q699718)** ([WP](https://de.wikipedia.org/wiki/Martin_Amedick)) (2013–2014) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Meik Tischler](https://www.wikidata.org/wiki/Q27634447)** ([WP](https://de.wikipedia.org/wiki/Meik_Tischler)) (1991–1992) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Michael Heinloth](https://www.wikidata.org/wiki/Q15835035)** ([WP](https://de.wikipedia.org/wiki/Michael_Heinloth)) (2013–2016) — Add an end date (P582) to the membership → SC Paderborn 07 (Q160532); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

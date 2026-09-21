@@ -10,7 +10,7 @@
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
 - **[Josh Dasilva](https://www.wikidata.org/wiki/Q36696872)** ([WP](https://en.wikipedia.org/wiki/Josh_Dasilva)) (2018–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
-- **[Kim Ji-soo](https://www.wikidata.org/wiki/Q117277515)** ([WP](https://en.wikipedia.org/wiki/Kim_Ji-soo_(footballer))) (2024–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Kim Ji-soo](https://www.wikidata.org/wiki/Q117277515)** ([WP](https://en.wikipedia.org/wiki/Kim_Ji-soo_(footballer))) (2023–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>
 

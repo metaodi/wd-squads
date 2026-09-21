@@ -3,7 +3,7 @@
 - Wikidata item: [Q223262](https://www.wikidata.org/wiki/Q223262)
 - Wikipedia article: [FC Luzern](https://de.wikipedia.org/wiki/FC_Luzern)
 - Players in Wikipedia squad: 29
-- Current members on Wikidata: 60
+- Current members on Wikidata: 61
 - Suggested edits: 88
 
 <details open>
@@ -93,14 +93,15 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
+- **[Sandro Wyss](https://www.wikidata.org/wiki/Q141496737)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Stefan Knežević](https://www.wikidata.org/wiki/Q30015473)** ([WP](https://de.wikipedia.org/wiki/Stefan_Knežević)) (2024–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (13)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (12)</strong></summary>
 
 - **Bung Hua Freimann** — 'Bung Hua Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Bung Meng Freimann** — 'Bung Meng Freimann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -112,7 +113,6 @@
 - **Mio Zimmermann** — 'Mio Zimmermann' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nando Toggenburger** — 'Nando Toggenburger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Raphael Radtke** — 'Raphael Radtke' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Sandro Wyss** — 'Sandro Wyss' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Sascha Meyer** — 'Sascha Meyer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Tim Hottiger** — 'Tim Hottiger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 

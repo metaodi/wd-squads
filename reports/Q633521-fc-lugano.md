@@ -3,7 +3,7 @@
 - Wikidata item: [Q633521](https://www.wikidata.org/wiki/Q633521)
 - Wikipedia article: [FC Lugano](https://de.wikipedia.org/wiki/FC_Lugano)
 - Players in Wikipedia squad: 32
-- Current members on Wikidata: 58
+- Current members on Wikidata: 59
 - Suggested edits: 84
 
 <details open>
@@ -39,7 +39,7 @@
 - **[Fabio Borriello](https://www.wikidata.org/wiki/Q5427800)** ([WP](https://en.wikipedia.org/wiki/Fabio_Borriello)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Filip Holender](https://www.wikidata.org/wiki/Q10554797)** ([WP](https://de.wikipedia.org/wiki/Filip_Holender)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Francesco Russo](https://www.wikidata.org/wiki/Q5479558)** ([WP](https://en.wikipedia.org/wiki/Francesco_Russo_(footballer))) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Gabriele Mascazzini](https://www.wikidata.org/wiki/Q53866708)** ([WP](https://en.wikipedia.org/wiki/Gabriele_Mascazzini)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Gabriele Mascazzini](https://www.wikidata.org/wiki/Q53866708)** — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Goran Jozinović](https://www.wikidata.org/wiki/Q2079278)** ([WP](https://en.wikipedia.org/wiki/Goran_Jozinovi%C4%87)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Hannes Schmidhauser](https://www.wikidata.org/wiki/Q121685)** ([WP](https://de.wikipedia.org/wiki/Hannes_Schmidhauser)) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ignacio Aliseda](https://www.wikidata.org/wiki/Q57293205)** ([WP](https://de.wikipedia.org/wiki/Ignacio_Aliseda)) (2022–2025) — Add an end date (P582) to the membership → FC Lugano (Q633521); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -99,12 +99,18 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (10)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
+
+- **[Damian Kelvin](https://www.wikidata.org/wiki/Q141494229)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (9)</strong></summary>
 
 - **Bryan Zurmühle** — 'Bryan Zurmühle' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Carbone** — 'Carbone' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Christian Raffa** — 'Christian Raffa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Damian Kelvin** — 'Damian Kelvin' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Daniel Dos Santos** — 'Daniel Dos Santos' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Diego Mina** — 'Diego Mina' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Elias Pihlström** — 'Elias Pihlström' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

@@ -200,7 +200,7 @@
 
 - **[Dominic Zwerger](https://www.wikidata.org/wiki/Q16225827)** ([WP](https://de.wikipedia.org/wiki/Dominic_Zwerger)) (2017–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 - **[Inti Pestoni](https://www.wikidata.org/wiki/Q3153645)** ([WP](https://de.wikipedia.org/wiki/Inti_Pestoni)) (2021–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-- **[Tommaso De Luca](https://www.wikidata.org/wiki/Q124805017)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Tommaso De Luca](https://www.wikidata.org/wiki/Q124805017)** ([WP](https://de.wikipedia.org/wiki/Tommaso_De_Luca)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 </details>
 

@@ -3,7 +3,7 @@
 - Wikidata item: [Q321061](https://www.wikidata.org/wiki/Q321061)
 - Wikipedia article: [FC Sion](https://de.wikipedia.org/wiki/FC_Sion)
 - Players in Wikipedia squad: 26
-- Current members on Wikidata: 83
+- Current members on Wikidata: 84
 - Suggested edits: 108
 
 <details open>
@@ -126,19 +126,19 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[Baltazar Costa](https://www.wikidata.org/wiki/Q56248714)** ([WP](https://de.wikipedia.org/wiki/Baltazar_Costa_Rodrigues_de_Oliveira)) (2018–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Lorenzo Villa](https://www.wikidata.org/wiki/Q141494163)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (6)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (5)</strong></summary>
 
 - **Damien Möschinger** — 'Damien Möschinger' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Fode Sylla** — 'Fode Sylla' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jason Almeida** — 'Jason Almeida' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Lorenzo Villa** — 'Lorenzo Villa' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ryan Kessler** — 'Ryan Kessler' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Simon Caillet** — 'Simon Caillet' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 

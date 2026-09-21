@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q9617](https://www.wikidata.org/wiki/Q9617)
 - Wikipedia article: [Arsenal F.C.](https://en.wikipedia.org/wiki/Arsenal_F.C.)
-- Players in Wikipedia squad: 34
+- Players in Wikipedia squad: 35
 - Current members on Wikidata: 177
-- Suggested edits: 164
+- Suggested edits: 165
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (153)</strong></summary>
@@ -166,7 +166,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (10)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (11)</strong></summary>
 
 - **[Andre Harriman-Annous](https://www.wikidata.org/wiki/Q136672473)** ([WP](https://en.wikipedia.org/wiki/Andre_Harriman-Annous)) (2025–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Brando Bailey-Joseph](https://www.wikidata.org/wiki/Q137921069)** ([WP](https://en.wikipedia.org/wiki/Brando_Bailey-Joseph)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
@@ -177,6 +177,7 @@
 - **[Ismeal Kabia](https://www.wikidata.org/wiki/Q130304859)** ([WP](https://en.wikipedia.org/wiki/Ismeal_Kabia)) (2024–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Jaden Dixon](https://www.wikidata.org/wiki/Q129033718)** ([WP](https://en.wikipedia.org/wiki/Jaden_Dixon)) (2026–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 - **[Marli Salmon](https://www.wikidata.org/wiki/Q135615356)** ([WP](https://en.wikipedia.org/wiki/Marli_Salmon)) (2025–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
+- **[Theo Julienne](https://www.wikidata.org/wiki/Q141489193)** — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tommy Setford](https://www.wikidata.org/wiki/Q123512560)** ([WP](https://en.wikipedia.org/wiki/Tommy_Setford)) (2024–) — Add a 'member of sports team' (P54) statement → Arsenal F.C. (Q9617); the player is in the current squad on Wikipedia.
 
 </details>

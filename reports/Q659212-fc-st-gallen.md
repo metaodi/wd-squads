@@ -3,7 +3,7 @@
 - Wikidata item: [Q659212](https://www.wikidata.org/wiki/Q659212)
 - Wikipedia article: [FC St. Gallen](https://de.wikipedia.org/wiki/FC_St._Gallen)
 - Players in Wikipedia squad: 32
-- Current members on Wikidata: 92
+- Current members on Wikidata: 94
 - Suggested edits: 121
 
 <details open>
@@ -129,22 +129,22 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (3)</strong></summary>
 
 - **[Betim Fazliji](https://www.wikidata.org/wiki/Q71600065)** ([WP](https://de.wikipedia.org/wiki/Betim_Fazliji)) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Cyrill May](https://www.wikidata.org/wiki/Q141493531)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Nevio Scherrer](https://www.wikidata.org/wiki/Q141495993)** — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (10)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (8)</strong></summary>
 
 - **Bela Dumrath** — 'Bela Dumrath' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Cyrill May** — 'Cyrill May' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Joel Ruiz** — 'Joel Ruiz' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Jorge Rans** — 'Jorge Rans' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Melamine Efkele** — 'Melamine Efkele' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Mostafa Heydari** — 'Mostafa Heydari' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Nevio Scherrer** — 'Nevio Scherrer' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Nino Weibel** — 'Nino Weibel' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Pascal Büttiker** — 'Pascal Büttiker' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Yannick Bujard** — 'Yannick Bujard' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.

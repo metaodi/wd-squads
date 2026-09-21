@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q4512](https://www.wikidata.org/wiki/Q4512)
 - Wikipedia article: [VfB Stuttgart](https://de.wikipedia.org/wiki/VfB_Stuttgart)
-- Players in Wikipedia squad: 51
+- Players in Wikipedia squad: 52
 - Current members on Wikidata: 321
-- Suggested edits: 345
+- Suggested edits: 346
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (306)</strong></summary>
@@ -241,7 +241,7 @@
 - **[Philipp Förster](https://www.wikidata.org/wiki/Q38041682)** ([WP](https://de.wikipedia.org/wiki/Philipp_F%C3%B6rster)) (2019–2022) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Heineken](https://www.wikidata.org/wiki/Q1749900)** ([WP](https://de.wikipedia.org/wiki/Philipp_Heineken_(Sportfunktion%C3%A4r))) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Philipp Klement](https://www.wikidata.org/wiki/Q7184676)** ([WP](https://de.wikipedia.org/wiki/Philipp_Klement)) (2021–2022) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Philipp Mwene](https://www.wikidata.org/wiki/Q11634138)** ([WP](https://de.wikipedia.org/wiki/Phillipp_Mwene)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Phillipp Mwene](https://www.wikidata.org/wiki/Q11634138)** ([WP](https://de.wikipedia.org/wiki/Phillipp_Mwene)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Prince Owusu](https://www.wikidata.org/wiki/Q20747069)** ([WP](https://de.wikipedia.org/wiki/Prince_Owusu)) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Rainer Eisenhardt](https://www.wikidata.org/wiki/Q87988804)** ([WP](https://de.wikipedia.org/wiki/Rainer_Eisenhardt)) (1964–1967) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Richard Schauffele](https://www.wikidata.org/wiki/Q29954520)** ([WP](https://de.wikipedia.org/wiki/Richard_Schauffele)) (1919–1927) — Add an end date (P582) to the membership → VfB Stuttgart (Q4512); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -319,9 +319,10 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (36)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (37)</strong></summary>
 
 - **[Antonijo Janjić](https://www.wikidata.org/wiki/Q140134226)** ([WP](https://de.wikipedia.org/wiki/Antonijo_Janjić)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Brayann Kenmoe](https://www.wikidata.org/wiki/Q141501543)** ([WP](https://de.wikipedia.org/wiki/Brayann_Kenmoe)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Dan-Axel Zagadou](https://www.wikidata.org/wiki/Q30131952)** ([WP](https://de.wikipedia.org/wiki/Dan-Axel_Zagadou)) (2022–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[David Preu](https://www.wikidata.org/wiki/Q131322119)** ([WP](https://de.wikipedia.org/wiki/David_Preu)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Dennis Seimen](https://www.wikidata.org/wiki/Q114825196)** ([WP](https://de.wikipedia.org/wiki/Dennis_Seimen)) (2023–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.

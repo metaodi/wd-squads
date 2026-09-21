@@ -204,7 +204,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Amario Cozier-Duberry](https://www.wikidata.org/wiki/Q121438432)** ([WP](https://en.wikipedia.org/wiki/Amario_Cozier-Duberry)) (2024–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Charalampos Kostoulas](https://www.wikidata.org/wiki/Q117360254)** ([WP](https://en.wikipedia.org/wiki/Charalampos_Kostoulas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
@@ -224,6 +224,7 @@
 - **[Rodrigo Rêgo](https://www.wikidata.org/wiki/Q137040896)** ([WP](https://en.wikipedia.org/wiki/Rodrigo_Rêgo_(footballer,_born_2005))) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Stefanos Tzimas](https://www.wikidata.org/wiki/Q115973968)** ([WP](https://en.wikipedia.org/wiki/Stefanos_Tzimas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Tommy Watson](https://www.wikidata.org/wiki/Q122878833)** ([WP](https://en.wikipedia.org/wiki/Tommy_Watson_(footballer,_born_2006))) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
+- **[Younes Ibrahim](https://www.wikidata.org/wiki/Q141478491)** ([WP](https://en.wikipedia.org/wiki/Younes_Ibrahim)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Zadok Yohanna](https://www.wikidata.org/wiki/Q135491767)** ([WP](https://en.wikipedia.org/wiki/Zadok_Yohanna)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 
 </details>
@@ -236,10 +237,9 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (2)</strong></summary>
 
 - **Josh Robertson** — 'Josh Robertson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Shane Nti** — 'Shane Nti' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Younes Ibrahim** — 'Younes Ibrahim' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

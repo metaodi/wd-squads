@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18716](https://www.wikidata.org/wiki/Q18716)
 - Wikipedia article: [Newcastle United F.C.](https://en.wikipedia.org/wiki/Newcastle_United_F.C.)
-- Players in Wikipedia squad: 36
+- Players in Wikipedia squad: 41
 - Current members on Wikidata: 146
-- Suggested edits: 123
+- Suggested edits: 128
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (116)</strong></summary>
@@ -129,13 +129,15 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (5)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (7)</strong></summary>
 
 - **[Harrison Ashby](https://www.wikidata.org/wiki/Q99366284)** ([WP](https://en.wikipedia.org/wiki/Harrison_Ashby)) (2023–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Leo Shahar](https://www.wikidata.org/wiki/Q119522327)** ([WP](https://en.wikipedia.org/wiki/Leo_Shahar)) (2025–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
+- **[Miodrag Pivaš](https://www.wikidata.org/wiki/Q127867854)** ([WP](https://en.wikipedia.org/wiki/Miodrag_Pivaš)) (2024–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Park Seung-soo](https://www.wikidata.org/wiki/Q130539360)** ([WP](https://en.wikipedia.org/wiki/Park_Seung-soo)) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Sam Alabi](https://www.wikidata.org/wiki/Q137011789)** ([WP](https://en.wikipedia.org/wiki/Sam_Alabi)) (2025–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 - **[Trevan Sanusi](https://www.wikidata.org/wiki/Q131745460)** ([WP](https://en.wikipedia.org/wiki/Trevan_Sanusi)) (2025–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
+- **[Vakhtang Salia](https://www.wikidata.org/wiki/Q125338651)** ([WP](https://en.wikipedia.org/wiki/Vakhtang_Salia)) (2025–) — Add a 'member of sports team' (P54) statement → Newcastle United F.C. (Q18716); the player is in the current squad on Wikipedia.
 
 </details>
 
@@ -147,8 +149,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (4)</strong></summary>
 
 - **Aidan Harris** — 'Aidan Harris' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Kyran Thompson** — 'Kyran Thompson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Mason Miley** — 'Mason Miley' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Michael Mills** — 'Michael Mills' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

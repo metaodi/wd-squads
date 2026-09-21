@@ -1,8 +1,8 @@
 # wd-squads — suggested Wikidata edits
 
-Generated: 2026-09-14 06:31 UTC
+Generated: 2026-09-21 06:40 UTC
 
-**10242 suggested edits** across **61 teams**.
+**10279 suggested edits** across **61 teams**.
 
 ## Leagues
 
@@ -15,22 +15,22 @@ Generated: 2026-09-14 06:31 UTC
 
 | Team | Squad | WD current | Suggestions | Report |
 | --- | ---: | ---: | ---: | --- |
-| [VfB Stuttgart](https://www.wikidata.org/wiki/Q4512) | 51 | 321 | 345 | [details](Q4512-vfb-stuttgart.md) |
+| [VfB Stuttgart](https://www.wikidata.org/wiki/Q4512) | 52 | 321 | 346 | [details](Q4512-vfb-stuttgart.md) |
 | [FC Bayern München](https://www.wikidata.org/wiki/Q15789) | 87 | 211 | 265 | [details](Q15789-fc-bayern-münchen.md) |
-| [Hamburger SV](https://www.wikidata.org/wiki/Q51974) | 29 | 169 | 181 | [details](Q51974-hamburger-sv.md) |
-| [FC Schalke 04](https://www.wikidata.org/wiki/Q32494) | 27 | 146 | 163 | [details](Q32494-fc-schalke-04.md) |
-| [1. FC Köln](https://www.wikidata.org/wiki/Q104770) | 29 | 134 | 150 | [details](Q104770-1-fc-köln.md) |
-| [Eintracht Frankfurt](https://www.wikidata.org/wiki/Q38245) | 25 | 135 | 143 | [details](Q38245-eintracht-frankfurt.md) |
-| [1. FSV Mainz 05](https://www.wikidata.org/wiki/Q105254) | 32 | 112 | 134 | [details](Q105254-1-fsv-mainz-05.md) |
+| [Hamburger SV](https://www.wikidata.org/wiki/Q51974) | 30 | 169 | 180 | [details](Q51974-hamburger-sv.md) |
+| [Eintracht Frankfurt](https://www.wikidata.org/wiki/Q38245) | 57 | 135 | 173 | [details](Q38245-eintracht-frankfurt.md) |
+| [FC Schalke 04](https://www.wikidata.org/wiki/Q32494) | 27 | 145 | 162 | [details](Q32494-fc-schalke-04.md) |
+| [1. FC Köln](https://www.wikidata.org/wiki/Q104770) | 29 | 136 | 152 | [details](Q104770-1-fc-köln.md) |
+| [1. FSV Mainz 05](https://www.wikidata.org/wiki/Q105254) | 32 | 111 | 133 | [details](Q105254-1-fsv-mainz-05.md) |
 | [1. FC Union Berlin](https://www.wikidata.org/wiki/Q141971) | 53 | 88 | 130 | [details](Q141971-1-fc-union-berlin.md) |
 | [TSG 1899 Hoffenheim](https://www.wikidata.org/wiki/Q22707) | 57 | 78 | 119 | [details](Q22707-tsg-1899-hoffenheim.md) |
 | [Werder Bremen](https://www.wikidata.org/wiki/Q51976) | 32 | 98 | 114 | [details](Q51976-werder-bremen.md) |
-| [SC Freiburg](https://www.wikidata.org/wiki/Q106394) | 55 | 76 | 112 | [details](Q106394-sc-freiburg.md) |
+| [SC Freiburg](https://www.wikidata.org/wiki/Q106394) | 55 | 75 | 111 | [details](Q106394-sc-freiburg.md) |
 | [RB Leipzig](https://www.wikidata.org/wiki/Q702455) | 29 | 102 | 105 | [details](Q702455-rb-leipzig.md) |
 | [Bayer 04 Leverkusen](https://www.wikidata.org/wiki/Q104761) | 29 | 96 | 98 | [details](Q104761-bayer-04-leverkusen.md) |
 | [Borussia Mönchengladbach](https://www.wikidata.org/wiki/Q101959) | 31 | 84 | 96 | [details](Q101959-borussia-mönchengladbach.md) |
+| [SC Paderborn 07](https://www.wikidata.org/wiki/Q160532) | 32 | 48 | 80 | [details](Q160532-sc-paderborn-07.md) |
 | [Borussia Dortmund](https://www.wikidata.org/wiki/Q41420) | 30 | 79 | 79 | [details](Q41420-borussia-dortmund.md) |
-| [SC Paderborn 07](https://www.wikidata.org/wiki/Q160532) | 32 | 47 | 79 | [details](Q160532-sc-paderborn-07.md) |
 | [SV Elversberg](https://www.wikidata.org/wiki/Q692691) | 27 | 40 | 65 | [details](Q692691-sv-elversberg.md) |
 | [FC Augsburg](https://www.wikidata.org/wiki/Q97905916) | 0 | 0 | 0 | [details](Q97905916-fc-augsburg.md) |
 
@@ -59,7 +59,7 @@ Generated: 2026-09-14 06:31 UTC
 | [Everton F.C.](https://www.wikidata.org/wiki/Q5794) | 22 | 304 | 311 | [details](Q5794-everton-fc.md) |
 | [Aston Villa F.C.](https://www.wikidata.org/wiki/Q18711) | 57 | 287 | 301 | [details](Q18711-aston-villa-fc.md) |
 | [Fulham F.C.](https://www.wikidata.org/wiki/Q18708) | 30 | 280 | 288 | [details](Q18708-fulham-fc.md) |
-| [Nottingham Forest F.C.](https://www.wikidata.org/wiki/Q19490) | 58 | 212 | 239 | [details](Q19490-nottingham-forest-fc.md) |
+| [Nottingham Forest F.C.](https://www.wikidata.org/wiki/Q19490) | 57 | 213 | 239 | [details](Q19490-nottingham-forest-fc.md) |
 | [Brentford F.C.](https://www.wikidata.org/wiki/Q19571) | 53 | 200 | 234 | [details](Q19571-brentford-fc.md) |
 | [Brighton & Hove Albion F.C.](https://www.wikidata.org/wiki/Q19453) | 41 | 202 | 208 | [details](Q19453-brighton-hove-albion-fc.md) |
 | [Manchester City F.C.](https://www.wikidata.org/wiki/Q50602) | 46 | 215 | 207 | [details](Q50602-manchester-city-fc.md) |
@@ -67,12 +67,12 @@ Generated: 2026-09-14 06:31 UTC
 | [Tottenham Hotspur F.C.](https://www.wikidata.org/wiki/Q18741) | 44 | 200 | 181 | [details](Q18741-tottenham-hotspur-fc.md) |
 | [Crystal Palace F.C.](https://www.wikidata.org/wiki/Q19467) | 34 | 175 | 178 | [details](Q19467-crystal-palace-fc.md) |
 | [Sunderland A.F.C.](https://www.wikidata.org/wiki/Q18739) | 32 | 160 | 175 | [details](Q18739-sunderland-afc.md) |
-| [Arsenal F.C.](https://www.wikidata.org/wiki/Q9617) | 34 | 177 | 164 | [details](Q9617-arsenal-fc.md) |
+| [Arsenal F.C.](https://www.wikidata.org/wiki/Q9617) | 35 | 177 | 165 | [details](Q9617-arsenal-fc.md) |
 | [Coventry City F.C.](https://www.wikidata.org/wiki/Q19580) | 51 | 119 | 161 | [details](Q19580-coventry-city-fc.md) |
 | [Hull City A.F.C.](https://www.wikidata.org/wiki/Q19477) | 68 | 103 | 154 | [details](Q19477-hull-city-afc.md) |
 | [Chelsea F.C.](https://www.wikidata.org/wiki/Q9616) | 55 | 154 | 146 | [details](Q9616-chelsea-fc.md) |
 | [AFC Bournemouth](https://www.wikidata.org/wiki/Q19568) | 31 | 130 | 140 | [details](Q19568-afc-bournemouth.md) |
-| [Newcastle United F.C.](https://www.wikidata.org/wiki/Q18716) | 36 | 146 | 123 | [details](Q18716-newcastle-united-fc.md) |
+| [Newcastle United F.C.](https://www.wikidata.org/wiki/Q18716) | 41 | 146 | 128 | [details](Q18716-newcastle-united-fc.md) |
 | [Ipswich Town F.C.](https://www.wikidata.org/wiki/Q9653) | 35 | 102 | 118 | [details](Q9653-ipswich-town-fc.md) |
 
 ## Swiss Super League
@@ -80,14 +80,14 @@ Generated: 2026-09-14 06:31 UTC
 | Team | Squad | WD current | Suggestions | Report |
 | --- | ---: | ---: | ---: | --- |
 | [FC Basel](https://www.wikidata.org/wiki/Q189671) | 28 | 279 | 300 | [details](Q189671-fc-basel.md) |
-| [FC St. Gallen](https://www.wikidata.org/wiki/Q659212) | 32 | 92 | 121 | [details](Q659212-fc-st-gallen.md) |
-| [FC Zürich](https://www.wikidata.org/wiki/Q206692) | 32 | 89 | 109 | [details](Q206692-fc-zürich.md) |
-| [FC Sion](https://www.wikidata.org/wiki/Q321061) | 26 | 83 | 108 | [details](Q321061-fc-sion.md) |
+| [FC St. Gallen](https://www.wikidata.org/wiki/Q659212) | 32 | 94 | 121 | [details](Q659212-fc-st-gallen.md) |
+| [FC Zürich](https://www.wikidata.org/wiki/Q206692) | 32 | 90 | 109 | [details](Q206692-fc-zürich.md) |
+| [FC Sion](https://www.wikidata.org/wiki/Q321061) | 26 | 84 | 108 | [details](Q321061-fc-sion.md) |
 | [BSC Young Boys](https://www.wikidata.org/wiki/Q190526) | 29 | 88 | 103 | [details](Q190526-bsc-young-boys.md) |
-| [Servette FC Genève](https://www.wikidata.org/wiki/Q219235) | 32 | 70 | 96 | [details](Q219235-servette-fc-genève.md) |
+| [Servette FC Genève](https://www.wikidata.org/wiki/Q219235) | 33 | 70 | 97 | [details](Q219235-servette-fc-genève.md) |
 | [FC Lausanne-Sport](https://www.wikidata.org/wiki/Q309456) | 29 | 68 | 93 | [details](Q309456-fc-lausanne-sport.md) |
-| [Grasshopper Club Zürich](https://www.wikidata.org/wiki/Q201360) | 34 | 58 | 89 | [details](Q201360-grasshopper-club-zürich.md) |
-| [FC Luzern](https://www.wikidata.org/wiki/Q223262) | 29 | 60 | 88 | [details](Q223262-fc-luzern.md) |
-| [FC Lugano](https://www.wikidata.org/wiki/Q633521) | 32 | 58 | 84 | [details](Q633521-fc-lugano.md) |
+| [Grasshopper Club Zürich](https://www.wikidata.org/wiki/Q201360) | 34 | 61 | 89 | [details](Q201360-grasshopper-club-zürich.md) |
+| [FC Luzern](https://www.wikidata.org/wiki/Q223262) | 29 | 61 | 88 | [details](Q223262-fc-luzern.md) |
+| [FC Lugano](https://www.wikidata.org/wiki/Q633521) | 32 | 59 | 84 | [details](Q633521-fc-lugano.md) |
 | [FC Thun](https://www.wikidata.org/wiki/Q464775) | 32 | 47 | 74 | [details](Q464775-fc-thun.md) |
 | [FC Vaduz](https://www.wikidata.org/wiki/Q216773) | 27 | 39 | 64 | [details](Q216773-fc-vaduz.md) |
