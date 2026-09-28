@@ -3,11 +3,11 @@
 - Wikidata item: [Q19477](https://www.wikidata.org/wiki/Q19477)
 - Wikipedia article: [Hull City A.F.C.](https://en.wikipedia.org/wiki/Hull_City_A.F.C.)
 - Players in Wikipedia squad: 68
-- Current members on Wikidata: 103
-- Suggested edits: 154
+- Current members on Wikidata: 102
+- Suggested edits: 153
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (94)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (93)</strong></summary>
 
 - **[Adama Diomande](https://www.wikidata.org/wiki/Q4680083)** ([WP](https://en.wikipedia.org/wiki/Adama_Diomande)) (2015–2018) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Jarvis](https://www.wikidata.org/wiki/Q24007311)** ([WP](https://en.wikipedia.org/wiki/Alan_Jarvis)) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -74,7 +74,6 @@
 - **[João Pedro Galvao](https://www.wikidata.org/wiki/Q2626107)** ([WP](https://en.wikipedia.org/wiki/Jo%C3%A3o_Pedro_(footballer,_born_1992))) (2024–2025) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Keane Lewis-Potter](https://www.wikidata.org/wiki/Q62269289)** ([WP](https://en.wikipedia.org/wiki/Keane_Lewis-Potter)) (2019–2022) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ken Boden](https://www.wikidata.org/wiki/Q6387346)** ([WP](https://en.wikipedia.org/wiki/Ken_Boden)) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Lincoln Henrique](https://www.wikidata.org/wiki/Q19822751)** ([WP](https://en.wikipedia.org/wiki/Lincoln_(footballer,_born_1998))) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Matt Ingram](https://www.wikidata.org/wiki/Q10557783)** ([WP](https://en.wikipedia.org/wiki/Matt_Ingram)) (2019–2024) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Max Clark](https://www.wikidata.org/wiki/Q24005423)** ([WP](https://en.wikipedia.org/wiki/Max_Clark_(footballer))) (2021) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Max Sheaf](https://www.wikidata.org/wiki/Q62269258)** ([WP](https://en.wikipedia.org/wiki/Max_Sheaf)) (2018–2021) — Add an end date (P582) to the membership → Hull City A.F.C. (Q19477); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

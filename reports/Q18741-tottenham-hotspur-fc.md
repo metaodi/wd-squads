@@ -4,7 +4,7 @@
 - Wikipedia article: [Tottenham Hotspur F.C.](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.)
 - Players in Wikipedia squad: 44
 - Current members on Wikidata: 200
-- Suggested edits: 181
+- Suggested edits: 180
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (168)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (167)</strong></summary>
 
 - **[Aaron McEneff](https://www.wikidata.org/wiki/Q53567638)** ([WP](https://en.wikipedia.org/wiki/Aaron_McEneff)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Connell](https://www.wikidata.org/wiki/Q4706403)** ([WP](https://en.wikipedia.org/wiki/Alan_Connell)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -82,7 +82,6 @@
 - **[Georges-Kévin Nkoudou](https://www.wikidata.org/wiki/Q15084554)** ([WP](https://en.wikipedia.org/wiki/Georges-K%C3%A9vin_Nkoudou)) (2016–2019) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Glynn Hurst](https://www.wikidata.org/wiki/Q5572973)** ([WP](https://en.wikipedia.org/wiki/Glynn_Hurst)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Grant Ward](https://www.wikidata.org/wiki/Q17183995)** ([WP](https://en.wikipedia.org/wiki/Grant_Ward)) (2014–2016) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Harry Redknapp](https://www.wikidata.org/wiki/Q221349)** ([WP](https://en.wikipedia.org/wiki/Harry_Redknapp)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Voss](https://www.wikidata.org/wiki/Q22098855)** — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ian Gilzean](https://www.wikidata.org/wiki/Q5981658)** ([WP](https://en.wikipedia.org/wiki/Ian_Gilzean)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ian Stonebridge](https://www.wikidata.org/wiki/Q5983004)** ([WP](https://en.wikipedia.org/wiki/Ian_Stonebridge)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -188,7 +187,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (11)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (10)</strong></summary>
 
 - **[Brandon Austin](https://www.wikidata.org/wiki/Q107316392)** ([WP](https://en.wikipedia.org/wiki/Brandon_Austin)) (2019–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Callum Olusesi](https://www.wikidata.org/wiki/Q131573499)** ([WP](https://en.wikipedia.org/wiki/Callum_Olusesi)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
@@ -197,7 +196,6 @@
 - **[Jamie Donley](https://www.wikidata.org/wiki/Q123652463)** ([WP](https://en.wikipedia.org/wiki/Jamie_Donley)) (2023–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Jan Paul van Hecke](https://www.wikidata.org/wiki/Q66828825)** ([WP](https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke)) (2026–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Jun'ai Byfield](https://www.wikidata.org/wiki/Q136677630)** ([WP](https://en.wikipedia.org/wiki/Jun'ai_Byfield)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
-- **[Kōta Takai](https://www.wikidata.org/wiki/Q111113892)** ([WP](https://en.wikipedia.org/wiki/Kōta_Takai)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Lucá Williams-Barnett](https://www.wikidata.org/wiki/Q133455007)** ([WP](https://en.wikipedia.org/wiki/Lucá_Williams-Barnett)) (2025–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Mikey Moore](https://www.wikidata.org/wiki/Q119700600)** ([WP](https://en.wikipedia.org/wiki/Mikey_Moore)) (2024–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
 - **[Souza](https://www.wikidata.org/wiki/Q124661440)** ([WP](https://en.wikipedia.org/wiki/Souza_(footballer,_born_2006))) (2026–) — Add a 'member of sports team' (P54) statement → Tottenham Hotspur F.C. (Q18741); the player is in the current squad on Wikipedia.
@@ -205,8 +203,9 @@
 </details>
 
 <details open>
-<summary><strong>Current member, but the membership has no start date (1)</strong></summary>
+<summary><strong>Current member, but the membership has no start date (2)</strong></summary>
 
 - **[George Abbott](https://www.wikidata.org/wiki/Q118915232)** ([WP](https://en.wikipedia.org/wiki/George_Abbott_(footballer,_born_August_2005))) (2023–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+- **[Kōta Takai](https://www.wikidata.org/wiki/Q111113892)** ([WP](https://en.wikipedia.org/wiki/Kōta_Takai)) (2025–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
 
 </details>

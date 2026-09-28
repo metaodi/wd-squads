@@ -3,11 +3,11 @@
 - Wikidata item: [Q101959](https://www.wikidata.org/wiki/Q101959)
 - Wikipedia article: [Borussia Mönchengladbach](https://de.wikipedia.org/wiki/Borussia_Mönchengladbach)
 - Players in Wikipedia squad: 31
-- Current members on Wikidata: 84
-- Suggested edits: 96
+- Current members on Wikidata: 85
+- Suggested edits: 97
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (74)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (75)</strong></summary>
 
 - **[Alassane Pléa](https://www.wikidata.org/wiki/Q4708679)** ([WP](https://de.wikipedia.org/wiki/Alassane_Pl%C3%A9a)) (2018–2025) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Jansen](https://www.wikidata.org/wiki/Q2638234)** ([WP](https://de.wikipedia.org/wiki/Albert_Jansen)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -53,6 +53,7 @@
 - **[Kevin Holzweiler](https://www.wikidata.org/wiki/Q57610313)** ([WP](https://de.wikipedia.org/wiki/Kevin_Holzweiler)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kim Everaerts](https://www.wikidata.org/wiki/Q30068868)** — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Klaus Amrath](https://www.wikidata.org/wiki/Q1744864)** ([WP](https://de.wikipedia.org/wiki/Klaus_Amrath)) (1977–1979) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Kota Takai](https://www.wikidata.org/wiki/Q111113892)** ([WP](https://de.wikipedia.org/wiki/K%C5%8Dta_Takai)) (2026) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lars Leese](https://www.wikidata.org/wiki/Q1782915)** ([WP](https://de.wikipedia.org/wiki/Lars_Leese)) (2001–2003) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mandela Egbo](https://www.wikidata.org/wiki/Q19561352)** ([WP](https://de.wikipedia.org/wiki/Mandela_Egbo)) (2018) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manfred Bergfeld](https://www.wikidata.org/wiki/Q2776381)** ([WP](https://de.wikipedia.org/wiki/Manfred_Bergfeld)) (1979–1982) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

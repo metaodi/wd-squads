@@ -3,11 +3,11 @@
 - Wikidata item: [Q9617](https://www.wikidata.org/wiki/Q9617)
 - Wikipedia article: [Arsenal F.C.](https://en.wikipedia.org/wiki/Arsenal_F.C.)
 - Players in Wikipedia squad: 35
-- Current members on Wikidata: 177
-- Suggested edits: 165
+- Current members on Wikidata: 178
+- Suggested edits: 166
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (153)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (154)</strong></summary>
 
 - **[Afaf Al-Sadiq](https://www.wikidata.org/wiki/Q47092717)** — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Morton](https://www.wikidata.org/wiki/Q4707382)** ([WP](https://en.wikipedia.org/wiki/Alan_Morton_(footballer,_born_1942))) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -111,6 +111,7 @@
 - **[Maldini Kacurri](https://www.wikidata.org/wiki/Q130305495)** ([WP](https://en.wikipedia.org/wiki/Maldini_Kacurri)) (2024–2026) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marcelo Flores](https://www.wikidata.org/wiki/Q100243106)** ([WP](https://en.wikipedia.org/wiki/Marcelo_Flores)) (2022–2023) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marquinhos](https://www.wikidata.org/wiki/Q107584170)** ([WP](https://en.wikipedia.org/wiki/Marquinhos_(footballer,_born_2003))) (2022–2025) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Masal Bugduv](https://www.wikidata.org/wiki/Q6782491)** ([WP](https://en.wikipedia.org/wiki/Masal_Bugduv)) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Melisa Filis](https://www.wikidata.org/wiki/Q83196933)** ([WP](https://en.wikipedia.org/wiki/Mel_Filis)) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Miguel Molina](https://www.wikidata.org/wiki/Q131304249)** ([WP](https://en.wikipedia.org/wiki/Miguel_Molina_(footballer))) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Molly Bartrip](https://www.wikidata.org/wiki/Q24085028)** ([WP](https://en.wikipedia.org/wiki/Molly_Bartrip)) — Add an end date (P582) to the membership → Arsenal F.C. (Q9617); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

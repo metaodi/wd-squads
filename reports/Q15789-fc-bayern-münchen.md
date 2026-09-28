@@ -9,7 +9,7 @@
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
 
-- **[Serge Gnabry](https://www.wikidata.org/wiki/Q59490)** ([WP](https://de.wikipedia.org/wiki/Serge_Gnabry)) (2017–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
+- **[Serge Gnabry](https://www.wikidata.org/wiki/Q59490)** ([WP](https://de.wikipedia.org/wiki/Serge_Gnabry)) (2018–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 - **[Sven Ulreich](https://www.wikidata.org/wiki/Q60340)** ([WP](https://de.wikipedia.org/wiki/Sven_Ulreich)) (2021–) — Wikidata records this membership as ended (P582 set), but the player is in the current squad on Wikipedia. They may have returned, or the end date may be wrong.
 
 </details>

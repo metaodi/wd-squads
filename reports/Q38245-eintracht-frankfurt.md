@@ -3,11 +3,11 @@
 - Wikidata item: [Q38245](https://www.wikidata.org/wiki/Q38245)
 - Wikipedia article: [Eintracht Frankfurt](https://de.wikipedia.org/wiki/Eintracht_Frankfurt)
 - Players in Wikipedia squad: 57
-- Current members on Wikidata: 135
-- Suggested edits: 173
+- Current members on Wikidata: 134
+- Suggested edits: 172
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (125)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (124)</strong></summary>
 
 - **[Adam Schmitt](https://www.wikidata.org/wiki/Q74455998)** ([WP](https://de.wikipedia.org/wiki/Adam_Schmitt_(Fu%C3%9Fballspieler))) (1935–1949) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Wirsching](https://www.wikidata.org/wiki/Q60723995)** ([WP](https://de.wikipedia.org/wiki/Albert_Wirsching)) (1936–1948) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -78,7 +78,6 @@
 - **[Luca Waldschmidt](https://www.wikidata.org/wiki/Q19831784)** ([WP](https://de.wikipedia.org/wiki/Luca_Waldschmidt)) (2014–2016) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lucas Silva Melo](https://www.wikidata.org/wiki/Q61680332)** ([WP](https://de.wikipedia.org/wiki/Tuta_(Fu%C3%9Fballspieler,_1999))) (2019–2025) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Lukas Fahrnberger](https://www.wikidata.org/wiki/Q98248309)** — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Mahmoud Dahoud](https://www.wikidata.org/wiki/Q17659996)** ([WP](https://de.wikipedia.org/wiki/Mahmoud_Dahoud)) (2024–2026) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Makoto Hasebe](https://www.wikidata.org/wiki/Q164676)** ([WP](https://de.wikipedia.org/wiki/Makoto_Hasebe)) (2014–2024) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Malte Schwenzfeier](https://www.wikidata.org/wiki/Q89042752)** — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marc Stendera](https://www.wikidata.org/wiki/Q3288415)** ([WP](https://de.wikipedia.org/wiki/Marc_Stendera)) (2012–2019) — Add an end date (P582) to the membership → Eintracht Frankfurt (Q38245); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
