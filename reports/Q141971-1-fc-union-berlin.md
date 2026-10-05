@@ -3,8 +3,8 @@
 - Wikidata item: [Q141971](https://www.wikidata.org/wiki/Q141971)
 - Wikipedia article: [1. FC Union Berlin](https://de.wikipedia.org/wiki/1._FC_Union_Berlin)
 - Players in Wikipedia squad: 53
-- Current members on Wikidata: 88
-- Suggested edits: 130
+- Current members on Wikidata: 89
+- Suggested edits: 129
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (19)</strong></summary>
@@ -119,9 +119,8 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (25)</strong></summary>
 
-- **[Aljoscha Kemlein](https://www.wikidata.org/wiki/Q121720422)** ([WP](https://de.wikipedia.org/wiki/Aljoscha_Kemlein)) (2022–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Andrej Ilić](https://www.wikidata.org/wiki/Q97924313)** ([WP](https://de.wikipedia.org/wiki/Andrej_Ilić)) (2024–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.
 - **[Andrik Markgraf](https://www.wikidata.org/wiki/Q135393237)** — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Carl Klaus](https://www.wikidata.org/wiki/Q20744922)** ([WP](https://de.wikipedia.org/wiki/Carl_Klaus)) (2024–) — Add a 'member of sports team' (P54) statement → 1. FC Union Berlin (Q141971); the player is in the current squad on Wikipedia.

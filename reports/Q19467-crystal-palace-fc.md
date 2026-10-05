@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19467](https://www.wikidata.org/wiki/Q19467)
 - Wikipedia article: [Crystal Palace F.C.](https://en.wikipedia.org/wiki/Crystal_Palace_F.C.)
-- Players in Wikipedia squad: 34
+- Players in Wikipedia squad: 35
 - Current members on Wikidata: 175
-- Suggested edits: 178
+- Suggested edits: 179
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -205,5 +205,12 @@
 <summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Tyrick Mitchell](https://www.wikidata.org/wiki/Q96943831)** ([WP](https://en.wikipedia.org/wiki/Tyrick_Mitchell)) (2020–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
+
+</details>
+
+<details open>
+<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
+
+- **Sebastian Williams** — 'Sebastian Williams' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

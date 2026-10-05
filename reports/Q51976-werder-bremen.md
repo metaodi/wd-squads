@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q51976](https://www.wikidata.org/wiki/Q51976)
 - Wikipedia article: [Werder Bremen](https://de.wikipedia.org/wiki/Werder_Bremen)
-- Players in Wikipedia squad: 32
+- Players in Wikipedia squad: 31
 - Current members on Wikidata: 98
-- Suggested edits: 114
+- Suggested edits: 113
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -110,7 +110,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (22)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (21)</strong></summary>
 
 - **[Alexander Schlager](https://www.wikidata.org/wiki/Q20745286)** ([WP](https://de.wikipedia.org/wiki/Alexander_Schlager)) (2026–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Amos Pieper](https://www.wikidata.org/wiki/Q61640976)** ([WP](https://de.wikipedia.org/wiki/Amos_Pieper)) (2022–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
@@ -118,7 +118,6 @@
 - **[Chuki](https://www.wikidata.org/wiki/Q130223651)** ([WP](https://de.wikipedia.org/wiki/Chuki_(Fußballspieler))) (2026–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Dariusz Stalmach](https://www.wikidata.org/wiki/Q110890452)** ([WP](https://de.wikipedia.org/wiki/Dariusz_Stalmach)) (2026–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Darwin Soylu](https://www.wikidata.org/wiki/Q140855158)** — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
-- **[Dawid Kownacki](https://www.wikidata.org/wiki/Q15983214)** ([WP](https://de.wikipedia.org/wiki/Dawid_Kownacki)) (2023–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Eren Dinkçi](https://www.wikidata.org/wiki/Q98169045)** ([WP](https://de.wikipedia.org/wiki/Eren_Dinkçi)) (2026–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Jens Stage](https://www.wikidata.org/wiki/Q24901052)** ([WP](https://de.wikipedia.org/wiki/Jens_Stage)) (2022–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.
 - **[Justin Njinmah](https://www.wikidata.org/wiki/Q110610689)** ([WP](https://de.wikipedia.org/wiki/Justin_Njinmah)) (2023–) — Add a 'member of sports team' (P54) statement → Werder Bremen (Q51976); the player is in the current squad on Wikipedia.

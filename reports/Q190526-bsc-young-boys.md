@@ -3,11 +3,11 @@
 - Wikidata item: [Q190526](https://www.wikidata.org/wiki/Q190526)
 - Wikipedia article: [BSC Young Boys](https://de.wikipedia.org/wiki/BSC_Young_Boys)
 - Players in Wikipedia squad: 29
-- Current members on Wikidata: 88
-- Suggested edits: 103
+- Current members on Wikidata: 89
+- Suggested edits: 102
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (15)</strong></summary>
 
 - **[Alan Virginius](https://www.wikidata.org/wiki/Q99485545)** ([WP](https://de.wikipedia.org/wiki/Alan_Virginius)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Cédric Zesiger](https://www.wikidata.org/wiki/Q27662789)** ([WP](https://de.wikipedia.org/wiki/Cédric_Zesiger)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
@@ -20,7 +20,6 @@
 - **[Kaly Sène](https://www.wikidata.org/wiki/Q98592835)** ([WP](https://de.wikipedia.org/wiki/Kaly_Sène)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Lewin Blum](https://www.wikidata.org/wiki/Q110830881)** ([WP](https://de.wikipedia.org/wiki/Lewin_Blum)) (2021–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Marvin Keller](https://www.wikidata.org/wiki/Q108698128)** ([WP](https://de.wikipedia.org/wiki/Marvin_Keller)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
-- **[Moritz Jenz](https://www.wikidata.org/wiki/Q99311305)** ([WP](https://de.wikipedia.org/wiki/Moritz_Jenz)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Ryan Andrews](https://www.wikidata.org/wiki/Q120015669)** ([WP](https://de.wikipedia.org/wiki/Ryan_Andrews)) (2025–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Saidy Janko](https://www.wikidata.org/wiki/Q17619317)** ([WP](https://de.wikipedia.org/wiki/Saidy_Janko)) (2023–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.
 - **[Samuel Essende](https://www.wikidata.org/wiki/Q56486404)** ([WP](https://de.wikipedia.org/wiki/Samuel_Essende)) (2026–) — Add a 'member of sports team' (P54) statement → BSC Young Boys (Q190526); the player is in the current squad on Wikipedia.

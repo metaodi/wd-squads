@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q36932](https://www.wikidata.org/wiki/Q36932)
 - Wikipedia article: [HC Ambrì-Piotta](https://de.wikipedia.org/wiki/HC_Ambrì-Piotta)
-- Players in Wikipedia squad: 26
+- Players in Wikipedia squad: 25
 - Current members on Wikidata: 163
-- Suggested edits: 186
+- Suggested edits: 185
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (160)</strong></summary>
@@ -173,9 +173,8 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (17)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
 
-- **[Alex Formenton](https://www.wikidata.org/wiki/Q41726820)** ([WP](https://de.wikipedia.org/wiki/Alex_Formenton)) (2025–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
 - **[André Heim](https://www.wikidata.org/wiki/Q47038478)** ([WP](https://de.wikipedia.org/wiki/André_Heim)) (2021–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
 - **[Chris Tierney](https://www.wikidata.org/wiki/Q18341327)** ([WP](https://de.wikipedia.org/wiki/Chris_Tierney_(Eishockeyspieler))) (2025–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.
 - **[Daniele Grassi](https://www.wikidata.org/wiki/Q3701988)** ([WP](https://de.wikipedia.org/wiki/Daniele_Grassi)) (2020–) — Add a 'member of sports team' (P54) statement → HC Ambrì-Piotta (Q36932); the player is in the current squad on Wikipedia.

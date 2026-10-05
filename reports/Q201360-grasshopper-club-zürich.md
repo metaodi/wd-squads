@@ -3,8 +3,8 @@
 - Wikidata item: [Q201360](https://www.wikidata.org/wiki/Q201360)
 - Wikipedia article: [Grasshopper Club Zürich](https://de.wikipedia.org/wiki/Grasshopper_Club_Zürich)
 - Players in Wikipedia squad: 34
-- Current members on Wikidata: 61
-- Suggested edits: 89
+- Current members on Wikidata: 62
+- Suggested edits: 90
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
@@ -25,7 +25,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (56)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (57)</strong></summary>
 
 - **[Alban Pnishi](https://www.wikidata.org/wiki/Q20873461)** ([WP](https://en.wikipedia.org/wiki/Alban_Pnishi)) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albion Avdijaj](https://www.wikidata.org/wiki/Q16977436)** ([WP](https://de.wikipedia.org/wiki/Albion_Avdijaj)) (2017–2019) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -48,6 +48,7 @@
 - **[Fritz Wagner](https://www.wikidata.org/wiki/Q2464677)** ([WP](https://de.wikipedia.org/wiki/Fritz_Wagner_(Fussballspieler))) (1936–1939) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Getoar Sallauka](https://www.wikidata.org/wiki/Q12313841)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harun Alpsoy](https://www.wikidata.org/wiki/Q23707669)** ([WP](https://de.wikipedia.org/wiki/Harun_Alpsoy)) (2015–2017) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Hayao Kawabe](https://www.wikidata.org/wiki/Q15401982)** ([WP](https://de.wikipedia.org/wiki/Hayao_Kawabe)) (2022–2023) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ike Cotrina](https://www.wikidata.org/wiki/Q27832551)** — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jan Bamert](https://www.wikidata.org/wiki/Q23707670)** ([WP](https://de.wikipedia.org/wiki/Jan_Bamert)) (2016–2017) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jordan Brown](https://www.wikidata.org/wiki/Q20811311)** ([WP](https://de.wikipedia.org/wiki/Jordan_Brown_(Fu%C3%9Fballspieler))) (2015–2016) — Add an end date (P582) to the membership → Grasshopper Club Zürich (Q201360); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

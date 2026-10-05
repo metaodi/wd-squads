@@ -33,7 +33,7 @@
 - **[Numa Lavanchy](https://www.wikidata.org/wiki/Q10513187)** ([WP](https://de.wikipedia.org/wiki/Numa_Lavanchy)) (2022–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 - **[Rilind Nivokazi](https://www.wikidata.org/wiki/Q69416807)** ([WP](https://en.wikipedia.org/wiki/Rilind_Nivokazi)) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Théo Berdayes](https://www.wikidata.org/wiki/Q107986757)** ([WP](https://de.wikipedia.org/wiki/Théo_Berdayes)) (2021–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
-- **[Winsley Boteli](https://www.wikidata.org/wiki/Q118465434)** ([WP](https://de.wikipedia.org/wiki/Winsley_Boteli)) (2025–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
+- **[Winsley Boteli](https://www.wikidata.org/wiki/Q118465434)** ([WP](https://de.wikipedia.org/wiki/Winsley_Boteli)) (2026–) — Add a 'member of sports team' (P54) statement → FC Sion (Q321061); the player is in the current squad on Wikipedia.
 
 </details>
 

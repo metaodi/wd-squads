@@ -3,8 +3,8 @@
 - Wikidata item: [Q702455](https://www.wikidata.org/wiki/Q702455)
 - Wikipedia article: [RB Leipzig](https://de.wikipedia.org/wiki/RB_Leipzig)
 - Players in Wikipedia squad: 29
-- Current members on Wikidata: 102
-- Suggested edits: 105
+- Current members on Wikidata: 101
+- Suggested edits: 104
 
 <details open>
 <summary><strong>In current squad, but no membership statement on Wikidata (16)</strong></summary>
@@ -29,7 +29,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (89)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (88)</strong></summary>
 
 - **[Alexander Siebeck](https://www.wikidata.org/wiki/Q20437173)** ([WP](https://de.wikipedia.org/wiki/Alexander_Siebeck)) (2013) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alexander Sorge](https://www.wikidata.org/wiki/Q24701204)** ([WP](https://de.wikipedia.org/wiki/Alexander_Sorge)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -70,7 +70,6 @@
 - **[John-Patrick Strauß](https://www.wikidata.org/wiki/Q37179171)** ([WP](https://de.wikipedia.org/wiki/John-Patrick_Strau%C3%9F)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jonathan Norbye](https://www.wikidata.org/wiki/Q123523430)** ([WP](https://de.wikipedia.org/wiki/Jonathan_Norbye)) (2024–) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Joscha Wosz](https://www.wikidata.org/wiki/Q99904420)** ([WP](https://de.wikipedia.org/wiki/Joscha_Wosz)) (2020–2022) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Josep Martínez](https://www.wikidata.org/wiki/Q63384393)** ([WP](https://de.wikipedia.org/wiki/Josep_Mart%C3%ADnez)) (2020–2022) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Justin Kluivert](https://www.wikidata.org/wiki/Q26934107)** ([WP](https://de.wikipedia.org/wiki/Justin_Kluivert)) (2020–2021) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kamil Wojtkowski](https://www.wikidata.org/wiki/Q20641645)** ([WP](https://en.wikipedia.org/wiki/Kamil_Wojtkowski)) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ken Gipson](https://www.wikidata.org/wiki/Q21292951)** ([WP](https://de.wikipedia.org/wiki/Ken_Gipson)) (2015–2017) — Add an end date (P582) to the membership → RB Leipzig (Q702455); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

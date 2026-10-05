@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q4512](https://www.wikidata.org/wiki/Q4512)
 - Wikipedia article: [VfB Stuttgart](https://de.wikipedia.org/wiki/VfB_Stuttgart)
-- Players in Wikipedia squad: 52
+- Players in Wikipedia squad: 54
 - Current members on Wikidata: 321
-- Suggested edits: 346
+- Suggested edits: 348
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (306)</strong></summary>
@@ -319,10 +319,11 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (37)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (39)</strong></summary>
 
 - **[Antonijo Janjić](https://www.wikidata.org/wiki/Q140134226)** ([WP](https://de.wikipedia.org/wiki/Antonijo_Janjić)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Brayann Kenmoe](https://www.wikidata.org/wiki/Q141501543)** ([WP](https://de.wikipedia.org/wiki/Brayann_Kenmoe)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Collin Schramm](https://www.wikidata.org/wiki/Q141599757)** ([WP](https://de.wikipedia.org/wiki/Collin_Schramm)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Dan-Axel Zagadou](https://www.wikidata.org/wiki/Q30131952)** ([WP](https://de.wikipedia.org/wiki/Dan-Axel_Zagadou)) (2022–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[David Preu](https://www.wikidata.org/wiki/Q131322119)** ([WP](https://de.wikipedia.org/wiki/David_Preu)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Dennis Seimen](https://www.wikidata.org/wiki/Q114825196)** ([WP](https://de.wikipedia.org/wiki/Dennis_Seimen)) (2023–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
@@ -340,6 +341,7 @@
 - **[Josha Vagnoman](https://www.wikidata.org/wiki/Q50384596)** ([WP](https://de.wikipedia.org/wiki/Josha_Vagnoman)) (2022–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Joyeux Masanka Bungi](https://www.wikidata.org/wiki/Q135393106)** ([WP](https://de.wikipedia.org/wiki/Joyeux_Masanka_Bungi)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Julian Lüers](https://www.wikidata.org/wiki/Q135582285)** ([WP](https://de.wikipedia.org/wiki/Julian_Lüers)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
+- **[Kian Speidel](https://www.wikidata.org/wiki/Q141496760)** ([WP](https://de.wikipedia.org/wiki/Kian_Speidel)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Lauri Penna](https://www.wikidata.org/wiki/Q135687046)** ([WP](https://de.wikipedia.org/wiki/Lauri_Penna)) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Leonidas Stergiou](https://www.wikidata.org/wiki/Q64009619)** ([WP](https://de.wikipedia.org/wiki/Leonidas_Stergiou)) (2023–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
 - **[Lorenz Assignon](https://www.wikidata.org/wiki/Q108199499)** ([WP](https://de.wikipedia.org/wiki/Lorenz_Assignon)) (2025–) — Add a 'member of sports team' (P54) statement → VfB Stuttgart (Q4512); the player is in the current squad on Wikipedia.
