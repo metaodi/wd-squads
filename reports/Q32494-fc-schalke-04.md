@@ -3,8 +3,8 @@
 - Wikidata item: [Q32494](https://www.wikidata.org/wiki/Q32494)
 - Wikipedia article: [FC Schalke 04](https://de.wikipedia.org/wiki/FC_Schalke_04)
 - Players in Wikipedia squad: 27
-- Current members on Wikidata: 145
-- Suggested edits: 162
+- Current members on Wikidata: 146
+- Suggested edits: 163
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -41,11 +41,12 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (140)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (141)</strong></summary>
 
 - **[Ahmed Kutucu](https://www.wikidata.org/wiki/Q59641577)** ([WP](https://de.wikipedia.org/wiki/Ahmed_Kutucu)) (2018–2021) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alban Sabah](https://www.wikidata.org/wiki/Q2637203)** ([WP](https://de.wikipedia.org/wiki/Alban_Sabah)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alex Nielsen](https://www.wikidata.org/wiki/Q1681108)** ([WP](https://de.wikipedia.org/wiki/Alex_Nielsen)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Amine Harit](https://www.wikidata.org/wiki/Q26034345)** ([WP](https://de.wikipedia.org/wiki/Amine_Harit)) (2017–2023) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andrejs Ciganiks](https://www.wikidata.org/wiki/Q31762779)** ([WP](https://de.wikipedia.org/wiki/Andrejs_Ciga%C5%86iks)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arnold Cramer](https://www.wikidata.org/wiki/Q27868208)** ([WP](https://de.wikipedia.org/wiki/Arnold_Cramer)) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Assan Ouédraogo](https://www.wikidata.org/wiki/Q114825245)** ([WP](https://de.wikipedia.org/wiki/Assan_Ou%C3%A9draogo)) (2023–2024) — Add an end date (P582) to the membership → FC Schalke 04 (Q32494); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

@@ -2,14 +2,15 @@
 
 - Wikidata item: [Q309456](https://www.wikidata.org/wiki/Q309456)
 - Wikipedia article: [FC Lausanne-Sport](https://de.wikipedia.org/wiki/FC_Lausanne-Sport)
-- Players in Wikipedia squad: 29
+- Players in Wikipedia squad: 30
 - Current members on Wikidata: 68
-- Suggested edits: 93
+- Suggested edits: 94
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
 
 - **[Alban Ajdini](https://www.wikidata.org/wiki/Q101001363)** ([WP](https://de.wikipedia.org/wiki/Alban_Ajdini)) (2024–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
+- **[Alexis Blin](https://www.wikidata.org/wiki/Q18921447)** ([WP](https://de.wikipedia.org/wiki/Alexis_Blin)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Beyatt Lekoueiry](https://www.wikidata.org/wiki/Q110630118)** ([WP](https://en.wikipedia.org/wiki/Beyatt_Lekweiry)) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Brandon Soppy](https://www.wikidata.org/wiki/Q74050136)** ([WP](https://de.wikipedia.org/wiki/Brandon_Soppy)) (2025–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.
 - **[Enzo Molebe](https://www.wikidata.org/wiki/Q113505136)** ([WP](https://de.wikipedia.org/wiki/Enzo_Molebe)) (2026–) — Add a 'member of sports team' (P54) statement → FC Lausanne-Sport (Q309456); the player is in the current squad on Wikipedia.

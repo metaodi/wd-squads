@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q18739](https://www.wikidata.org/wiki/Q18739)
 - Wikipedia article: [Sunderland A.F.C.](https://en.wikipedia.org/wiki/Sunderland_A.F.C.)
-- Players in Wikipedia squad: 32
+- Players in Wikipedia squad: 33
 - Current members on Wikidata: 160
-- Suggested edits: 175
+- Suggested edits: 176
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (151)</strong></summary>
@@ -164,7 +164,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (23)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (24)</strong></summary>
 
 - **[Abdoullah Ba](https://www.wikidata.org/wiki/Q106860208)** ([WP](https://en.wikipedia.org/wiki/Abdoullah_Ba)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Aji Alese](https://www.wikidata.org/wiki/Q67853785)** ([WP](https://en.wikipedia.org/wiki/Aji_Alese)) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
@@ -187,6 +187,7 @@
 - **[Omar Alderete](https://www.wikidata.org/wiki/Q41800131)** ([WP](https://en.wikipedia.org/wiki/Omar_Alderete)) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Reinildo](https://www.wikidata.org/wiki/Q24451748)** ([WP](https://en.wikipedia.org/wiki/Reinildo_Mandava)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Simon Moore](https://www.wikidata.org/wiki/Q7519380)** ([WP](https://en.wikipedia.org/wiki/Simon_Moore_(footballer))) (2024–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
+- **[Timur Tutyerov](https://www.wikidata.org/wiki/Q117866426)** ([WP](https://en.wikipedia.org/wiki/Timur_Tutyerov)) (2023–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Trai Hume](https://www.wikidata.org/wiki/Q110425651)** ([WP](https://en.wikipedia.org/wiki/Trai_Hume)) (2022–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 - **[Wilson Isidor](https://www.wikidata.org/wiki/Q58484930)** ([WP](https://en.wikipedia.org/wiki/Wilson_Isidor)) (2025–) — Add a 'member of sports team' (P54) statement → Sunderland A.F.C. (Q18739); the player is in the current squad on Wikipedia.
 
