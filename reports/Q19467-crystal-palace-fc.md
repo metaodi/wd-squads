@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q19467](https://www.wikidata.org/wiki/Q19467)
 - Wikipedia article: [Crystal Palace F.C.](https://en.wikipedia.org/wiki/Crystal_Palace_F.C.)
-- Players in Wikipedia squad: 35
+- Players in Wikipedia squad: 34
 - Current members on Wikidata: 175
-- Suggested edits: 179
+- Suggested edits: 178
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -74,8 +74,8 @@
 - **[George Cooper](https://www.wikidata.org/wiki/Q40750243)** ([WP](https://en.wikipedia.org/wiki/George_Cooper_(footballer,_born_1932))) (1955–1959) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Johnson](https://www.wikidata.org/wiki/Q16027049)** ([WP](https://en.wikipedia.org/wiki/George_Johnson_(footballer,_born_1871))) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Rumbold](https://www.wikidata.org/wiki/Q5544106)** ([WP](https://en.wikipedia.org/wiki/George_Rumbold)) (1934–1937) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[George Walker](https://www.wikidata.org/wiki/Q16030107)** ([WP](https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1877))) (1905–) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Walker](https://www.wikidata.org/wiki/Q16886404)** ([WP](https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1909))) (1936–1939) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[George Walker](https://www.wikidata.org/wiki/Q16030107)** ([WP](https://en.wikipedia.org/wiki/George_Walker_(footballer,_born_1877))) (1905–) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Watson](https://www.wikidata.org/wiki/Q5546082)** ([WP](https://en.wikipedia.org/wiki/George_Watson_(cricketer,_born_1907))) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Harry Salt](https://www.wikidata.org/wiki/Q24284661)** ([WP](https://en.wikipedia.org/wiki/Harry_Salt)) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Henry Thompson](https://www.wikidata.org/wiki/Q85766295)** ([WP](https://en.wikipedia.org/wiki/Henry_Thompson_(footballer))) (1910–1911) — Add an end date (P582) to the membership → Crystal Palace F.C. (Q19467); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -205,12 +205,5 @@
 <summary><strong>Current member, but the membership has no start date (1)</strong></summary>
 
 - **[Tyrick Mitchell](https://www.wikidata.org/wiki/Q96943831)** ([WP](https://en.wikipedia.org/wiki/Tyrick_Mitchell)) (2020–) — Add a start date (P580) qualifier to the membership; it is currently open but undated, which makes 'current squad' queries unreliable.
-
-</details>
-
-<details open>
-<summary><strong>In current squad, but no Wikidata item could be found (1)</strong></summary>
-
-- **Sebastian Williams** — 'Sebastian Williams' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

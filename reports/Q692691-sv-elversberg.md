@@ -3,8 +3,8 @@
 - Wikidata item: [Q692691](https://www.wikidata.org/wiki/Q692691)
 - Wikipedia article: [SV Elversberg](https://de.wikipedia.org/wiki/SV_Elversberg)
 - Players in Wikipedia squad: 27
-- Current members on Wikidata: 40
-- Suggested edits: 65
+- Current members on Wikidata: 41
+- Suggested edits: 64
 
 <details open>
 <summary><strong>Recorded as a current member, but no longer in the squad (39)</strong></summary>
@@ -52,7 +52,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (26)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (25)</strong></summary>
 
 - **[Amara Condé](https://www.wikidata.org/wiki/Q26211996)** ([WP](https://de.wikipedia.org/wiki/Amara_Condé)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Cole Campbell](https://www.wikidata.org/wiki/Q116725515)** ([WP](https://de.wikipedia.org/wiki/Cole_Campbell)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
@@ -69,7 +69,6 @@
 - **[Luca Schnellbacher](https://www.wikidata.org/wiki/Q14776663)** ([WP](https://de.wikipedia.org/wiki/Luca_Schnellbacher)) (2020–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Luis Seifert](https://www.wikidata.org/wiki/Q140855129)** — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Lukas Petkov](https://www.wikidata.org/wiki/Q106938641)** ([WP](https://de.wikipedia.org/wiki/Lukas_Petkov)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
-- **[Lukas Pinckert](https://www.wikidata.org/wiki/Q107642880)** ([WP](https://de.wikipedia.org/wiki/Lukas_Pinckert)) (2022–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Maurice Krattenmacher](https://www.wikidata.org/wiki/Q124150768)** ([WP](https://de.wikipedia.org/wiki/Maurice_Krattenmacher)) (2026–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Maximilian Rohr](https://www.wikidata.org/wiki/Q66125888)** ([WP](https://de.wikipedia.org/wiki/Maximilian_Rohr)) (2024–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.
 - **[Nicholas Mickelson](https://www.wikidata.org/wiki/Q31080531)** ([WP](https://de.wikipedia.org/wiki/Nicholas_Mickelson)) (2025–) — Add a 'member of sports team' (P54) statement → SV Elversberg (Q692691); the player is in the current squad on Wikipedia.

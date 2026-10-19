@@ -214,7 +214,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (31)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (32)</strong></summary>
 
 - **[Anton Heinz](https://www.wikidata.org/wiki/Q128497615)** ([WP](https://de.wikipedia.org/wiki/Anton_Heinz)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Artur Degraf](https://www.wikidata.org/wiki/Q139666359)** ([WP](https://en.wikipedia.org/wiki/Artur_Degraf)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -242,6 +242,7 @@
 - **[Mudaser Sadat](https://www.wikidata.org/wiki/Q136344041)** ([WP](https://de.wikipedia.org/wiki/Mudaser_Sadat)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Nathaniel Brown](https://www.wikidata.org/wiki/Q122351097)** ([WP](https://de.wikipedia.org/wiki/Nathaniel_Brown_(Fußballspieler))) (2026–) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia.
 - **[Raphael Pavlić](https://www.wikidata.org/wiki/Q139500780)** ([WP](https://en.wikipedia.org/wiki/Raphael_Pavli%C4%87)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Richard Ajayi](https://www.wikidata.org/wiki/Q141717807)** ([WP](https://en.wikipedia.org/wiki/Richard_Ajayi)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Roko Mijatović](https://www.wikidata.org/wiki/Q138926025)** ([WP](https://en.wikipedia.org/wiki/Roko_Mijatovi%C4%87)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Tim Binder](https://www.wikidata.org/wiki/Q137473617)** ([WP](https://en.wikipedia.org/wiki/Tim_Binder)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Vincent Manuba](https://www.wikidata.org/wiki/Q121878164)** ([WP](https://en.wikipedia.org/wiki/Vincent_Manuba)) — Add a 'member of sports team' (P54) statement → FC Bayern München (Q15789); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -258,7 +259,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (37)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (36)</strong></summary>
 
 - **10. Januar 2007** — '10. Januar 2007' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **11. Februar 1996** — '11. Februar 1996' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -296,6 +297,5 @@
 - **Oluwaseyi Wilson** — 'Oluwaseyi Wilson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Philipp von Taube** — 'Philipp von Taube' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Rayan Moumouni** — 'Rayan Moumouni' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Richard Ajayi** — 'Richard Ajayi' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

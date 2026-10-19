@@ -3,8 +3,8 @@
 - Wikidata item: [Q18656](https://www.wikidata.org/wiki/Q18656)
 - Wikipedia article: [Manchester United F.C.](https://en.wikipedia.org/wiki/Manchester_United_F.C.)
 - Players in Wikipedia squad: 36
-- Current members on Wikidata: 407
-- Suggested edits: 399
+- Current members on Wikidata: 408
+- Suggested edits: 398
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -30,7 +30,7 @@
 - **[Alf Schofield](https://www.wikidata.org/wiki/Q975787)** ([WP](https://en.wikipedia.org/wiki/Alf_Schofield)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alf Steward](https://www.wikidata.org/wiki/Q3436805)** ([WP](https://en.wikipedia.org/wiki/Alf_Steward)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alfred Ambler](https://www.wikidata.org/wiki/Q1369552)** ([WP](https://en.wikipedia.org/wiki/Alfred_Ambler)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Amir Ibragimov](https://www.wikidata.org/wiki/Q117188295)** ([WP](https://en.wikipedia.org/wiki/Amir_Ibragimov)) (2025–) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Amir Ibragimov](https://www.wikidata.org/wiki/Q117188295)** ([WP](https://en.wikipedia.org/wiki/Amir_Ibragimov)) (2024–) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andie Newton](https://www.wikidata.org/wiki/Q4754452)** ([WP](https://en.wikipedia.org/wiki/Andie_Newton)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andrew Mitchell](https://www.wikidata.org/wiki/Q4758042)** ([WP](https://en.wikipedia.org/wiki/Andrew_Mitchell_(full-back))) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Anthony Tohill](https://www.wikidata.org/wiki/Q4773589)** ([WP](https://en.wikipedia.org/wiki/Anthony_Tohill)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -73,7 +73,7 @@
 - **[Busby Babes](https://www.wikidata.org/wiki/Q373507)** ([WP](https://en.wikipedia.org/wiki/Busby_Babes)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Cameron Borthwick-Jackson](https://www.wikidata.org/wiki/Q21403420)** ([WP](https://en.wikipedia.org/wiki/Cameron_Borthwick-Jackson)) (2015–2020) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Carmelo Valencia](https://www.wikidata.org/wiki/Q486642)** ([WP](https://en.wikipedia.org/wiki/Carmelo_Valencia)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Charles Rothwell](https://www.wikidata.org/wiki/Q5082188)** ([WP](https://en.wikipedia.org/wiki/Charles_Rothwell)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Charles Rothwell](https://www.wikidata.org/wiki/Q5082188)** ([WP](https://en.wikipedia.org/wiki/Charles_Rothwell_(footballer))) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charlie Harrison](https://www.wikidata.org/wiki/Q5084998)** ([WP](https://en.wikipedia.org/wiki/Charlie_Harrison_(Manchester_United_footballer))) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charlie Hillam](https://www.wikidata.org/wiki/Q5085023)** ([WP](https://en.wikipedia.org/wiki/Charlie_Hillam)) (1933–1934) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charlie Ramsden](https://www.wikidata.org/wiki/Q5085424)** ([WP](https://en.wikipedia.org/wiki/Charlie_Ramsden)) — Add an end date (P582) to the membership → Manchester United F.C. (Q18656); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -406,7 +406,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (12)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (11)</strong></summary>
 
 - **[Andrey Santos](https://www.wikidata.org/wiki/Q106171073)** ([WP](https://en.wikipedia.org/wiki/Andrey_Santos)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Bendito Mantato](https://www.wikidata.org/wiki/Q131385100)** ([WP](https://en.wikipedia.org/wiki/Bendito_Mantato)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
@@ -416,7 +416,6 @@
 - **[Harry Amass](https://www.wikidata.org/wiki/Q119971486)** ([WP](https://en.wikipedia.org/wiki/Harry_Amass)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Jack Fletcher](https://www.wikidata.org/wiki/Q129631946)** ([WP](https://en.wikipedia.org/wiki/Jack_Fletcher_(footballer,_born_2007))) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Karl Darlow](https://www.wikidata.org/wiki/Q1730695)** ([WP](https://en.wikipedia.org/wiki/Karl_Darlow)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
-- **[Leny Yoro](https://www.wikidata.org/wiki/Q112039295)** ([WP](https://en.wikipedia.org/wiki/Leny_Yoro)) (2024–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Patrick Dorgu](https://www.wikidata.org/wiki/Q121903982)** ([WP](https://en.wikipedia.org/wiki/Patrick_Dorgu)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Shea Lacey](https://www.wikidata.org/wiki/Q117207006)** ([WP](https://en.wikipedia.org/wiki/Shea_Lacey)) (2025–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.
 - **[Tyler Fletcher](https://www.wikidata.org/wiki/Q137384640)** ([WP](https://en.wikipedia.org/wiki/Tyler_Fletcher)) (2026–) — Add a 'member of sports team' (P54) statement → Manchester United F.C. (Q18656); the player is in the current squad on Wikipedia.

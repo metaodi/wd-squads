@@ -3,8 +3,8 @@
 - Wikidata item: [Q1128631](https://www.wikidata.org/wiki/Q1128631)
 - Wikipedia article: [Leeds United F.C.](https://en.wikipedia.org/wiki/Leeds_United_F.C.)
 - Players in Wikipedia squad: 31
-- Current members on Wikidata: 180
-- Suggested edits: 191
+- Current members on Wikidata: 181
+- Suggested edits: 190
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -189,14 +189,13 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (18)</strong></summary>
 
 - **[Brenden Aaronson](https://www.wikidata.org/wiki/Q33129609)** ([WP](https://en.wikipedia.org/wiki/Brenden_Aaronson)) (2022–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Daniel James](https://www.wikidata.org/wiki/Q30689579)** ([WP](https://en.wikipedia.org/wiki/Daniel_James_(footballer))) (2021–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Gabriel Gudmundsson](https://www.wikidata.org/wiki/Q29318963)** ([WP](https://en.wikipedia.org/wiki/Gabriel_Gudmundsson)) (2025–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Harry Wilson](https://www.wikidata.org/wiki/Q2476368)** ([WP](https://en.wikipedia.org/wiki/Harry_Wilson_(footballer,_born_1997))) (2026–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Ilia Gruev](https://www.wikidata.org/wiki/Q66433945)** ([WP](https://en.wikipedia.org/wiki/Ilia_Gruev_(footballer,_born_2000))) (2023–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
-- **[James Justin](https://www.wikidata.org/wiki/Q26251403)** ([WP](https://en.wikipedia.org/wiki/James_Justin)) (2025–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[James Trafford](https://www.wikidata.org/wiki/Q107985608)** ([WP](https://en.wikipedia.org/wiki/James_Trafford)) (2026–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Jayden Bogle](https://www.wikidata.org/wiki/Q56223640)** ([WP](https://en.wikipedia.org/wiki/Jayden_Bogle)) (2024–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.
 - **[Jayden Lienou](https://www.wikidata.org/wiki/Q140047230)** ([WP](https://en.wikipedia.org/wiki/Jayden_Lienou)) (2026–) — Add a 'member of sports team' (P54) statement → Leeds United F.C. (Q1128631); the player is in the current squad on Wikipedia.

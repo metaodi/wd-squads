@@ -3,11 +3,11 @@
 - Wikidata item: [Q216773](https://www.wikidata.org/wiki/Q216773)
 - Wikipedia article: [FC Vaduz](https://de.wikipedia.org/wiki/FC_Vaduz)
 - Players in Wikipedia squad: 27
-- Current members on Wikidata: 39
-- Suggested edits: 64
+- Current members on Wikidata: 38
+- Suggested edits: 63
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (38)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (37)</strong></summary>
 
 - **[Ali Messaoud](https://www.wikidata.org/wiki/Q2231370)** ([WP](https://de.wikipedia.org/wiki/Ali_Messaoud)) (2015–2017) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Axel Borgmann](https://www.wikidata.org/wiki/Q20080331)** ([WP](https://de.wikipedia.org/wiki/Axel_Borgmann)) (2015–2018) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -26,7 +26,6 @@
 - **[Igor Manojlović](https://www.wikidata.org/wiki/Q1448000)** ([WP](https://de.wikipedia.org/wiki/Igor_Manojlovi%C4%87)) (2005) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ivan Quintans](https://www.wikidata.org/wiki/Q3804756)** ([WP](https://de.wikipedia.org/wiki/Ivan_Quintans)) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jodel Dossou](https://www.wikidata.org/wiki/Q15908493)** ([WP](https://de.wikipedia.org/wiki/Jodel_Dossou)) (2018–2019) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Joel Untersee](https://www.wikidata.org/wiki/Q17198813)** ([WP](https://de.wikipedia.org/wiki/Joel_Untersee)) (2014–2016) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kristijan Dobras](https://www.wikidata.org/wiki/Q1192987)** ([WP](https://de.wikipedia.org/wiki/Kristijan_Dobras)) (2021–2023) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Ludwig Sklarski](https://www.wikidata.org/wiki/Q19630898)** ([WP](https://de.wikipedia.org/wiki/Ludwig_Sklarski)) (1981–1985) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manuel Sutter](https://www.wikidata.org/wiki/Q1891728)** ([WP](https://de.wikipedia.org/wiki/Manuel_Sutter)) (2019–2023) — Add an end date (P582) to the membership → FC Vaduz (Q216773); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

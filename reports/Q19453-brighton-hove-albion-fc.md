@@ -224,7 +224,7 @@
 - **[Rodrigo Rêgo](https://www.wikidata.org/wiki/Q137040896)** ([WP](https://en.wikipedia.org/wiki/Rodrigo_Rêgo_(footballer,_born_2005))) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Stefanos Tzimas](https://www.wikidata.org/wiki/Q115973968)** ([WP](https://en.wikipedia.org/wiki/Stefanos_Tzimas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Tommy Watson](https://www.wikidata.org/wiki/Q122878833)** ([WP](https://en.wikipedia.org/wiki/Tommy_Watson_(footballer,_born_2006))) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
-- **[Younes Ibrahim](https://www.wikidata.org/wiki/Q141478491)** ([WP](https://en.wikipedia.org/wiki/Younes_Ibrahim)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
+- **[Younes Ibrahim](https://www.wikidata.org/wiki/Q141478491)** ([WP](https://en.wikipedia.org/wiki/Younes_Ibrahim)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Zadok Yohanna](https://www.wikidata.org/wiki/Q135491767)** ([WP](https://en.wikipedia.org/wiki/Zadok_Yohanna)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 
 </details>
