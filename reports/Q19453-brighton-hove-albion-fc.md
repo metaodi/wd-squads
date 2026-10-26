@@ -2,8 +2,8 @@
 
 - Wikidata item: [Q19453](https://www.wikidata.org/wiki/Q19453)
 - Wikipedia article: [Brighton & Hove Albion F.C.](https://en.wikipedia.org/wiki/Brighton_&_Hove_Albion_F.C.)
-- Players in Wikipedia squad: 41
-- Current members on Wikidata: 202
+- Players in Wikipedia squad: 42
+- Current members on Wikidata: 201
 - Suggested edits: 208
 
 <details open>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (184)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (183)</strong></summary>
 
 - **[Aaron Connolly](https://www.wikidata.org/wiki/Q41560004)** ([WP](https://en.wikipedia.org/wiki/Aaron_Connolly_(Irish_footballer))) (2017–2023) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Chicksen](https://www.wikidata.org/wiki/Q4678848)** ([WP](https://en.wikipedia.org/wiki/Adam_Chicksen)) (2013–2016) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -82,7 +82,6 @@
 - **[Freddie Green](https://www.wikidata.org/wiki/Q60744394)** ([WP](https://en.wikipedia.org/wiki/Freddie_Green_(footballer))) (1938–1948) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Fretwell Hall](https://www.wikidata.org/wiki/Q59656539)** ([WP](https://en.wikipedia.org/wiki/Fretwell_Hall)) (1920–1921) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Gavin Geddes](https://www.wikidata.org/wiki/Q61467160)** ([WP](https://en.wikipedia.org/wiki/Gavin_Geddes)) (1993–1994) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Gaëtan Bong](https://www.wikidata.org/wiki/Q128889)** ([WP](https://en.wikipedia.org/wiki/Ga%C3%ABtan_Bong)) (2015–2020) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Cox](https://www.wikidata.org/wiki/Q60736700)** ([WP](https://en.wikipedia.org/wiki/George_Cox_(footballer))) (2018–2020) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Ley](https://www.wikidata.org/wiki/Q5541716)** ([WP](https://en.wikipedia.org/wiki/George_Ley)) (1973–) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[George Skinner](https://www.wikidata.org/wiki/Q5544596)** ([WP](https://en.wikipedia.org/wiki/George_Skinner_(footballer))) — Add an end date (P582) to the membership → Brighton & Hove Albion F.C. (Q19453); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -204,7 +203,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (21)</strong></summary>
 
 - **[Amario Cozier-Duberry](https://www.wikidata.org/wiki/Q121438432)** ([WP](https://en.wikipedia.org/wiki/Amario_Cozier-Duberry)) (2024–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Charalampos Kostoulas](https://www.wikidata.org/wiki/Q117360254)** ([WP](https://en.wikipedia.org/wiki/Charalampos_Kostoulas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
@@ -223,6 +222,7 @@
 - **[Promise David](https://www.wikidata.org/wiki/Q112988067)** ([WP](https://en.wikipedia.org/wiki/Promise_David)) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Rodrigo Rêgo](https://www.wikidata.org/wiki/Q137040896)** ([WP](https://en.wikipedia.org/wiki/Rodrigo_Rêgo_(footballer,_born_2005))) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Stefanos Tzimas](https://www.wikidata.org/wiki/Q115973968)** ([WP](https://en.wikipedia.org/wiki/Stefanos_Tzimas)) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
+- **[Steven Hall](https://www.wikidata.org/wiki/Q110442637)** ([WP](https://en.wikipedia.org/wiki/Steven_Hall_(soccer))) (2024–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Tommy Watson](https://www.wikidata.org/wiki/Q122878833)** ([WP](https://en.wikipedia.org/wiki/Tommy_Watson_(footballer,_born_2006))) (2025–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Younes Ibrahim](https://www.wikidata.org/wiki/Q141478491)** ([WP](https://en.wikipedia.org/wiki/Younes_Ibrahim)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.
 - **[Zadok Yohanna](https://www.wikidata.org/wiki/Q135491767)** ([WP](https://en.wikipedia.org/wiki/Zadok_Yohanna)) (2026–) — Add a 'member of sports team' (P54) statement → Brighton & Hove Albion F.C. (Q19453); the player is in the current squad on Wikipedia.

@@ -3,8 +3,8 @@
 - Wikidata item: [Q141971](https://www.wikidata.org/wiki/Q141971)
 - Wikipedia article: [1. FC Union Berlin](https://de.wikipedia.org/wiki/1._FC_Union_Berlin)
 - Players in Wikipedia squad: 53
-- Current members on Wikidata: 89
-- Suggested edits: 129
+- Current members on Wikidata: 88
+- Suggested edits: 128
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (19)</strong></summary>
@@ -32,7 +32,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (81)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (80)</strong></summary>
 
 - **[Abdallah Gomaa](https://www.wikidata.org/wiki/Q15770027)** ([WP](https://de.wikipedia.org/wiki/Abdallah_Gomaa)) (2014) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Nikçi](https://www.wikidata.org/wiki/Q373742)** ([WP](https://de.wikipedia.org/wiki/Adrian_Nikci)) (2015–2017) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -80,7 +80,6 @@
 - **[Keita Endo](https://www.wikidata.org/wiki/Q24872420)** ([WP](https://de.wikipedia.org/wiki/Keita_End%C5%8D)) (2020–2024) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kenny Prince Redondo](https://www.wikidata.org/wiki/Q15478102)** ([WP](https://de.wikipedia.org/wiki/Kenny_Prince_Redondo)) (2015–2018) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Keven Schlotterbeck](https://www.wikidata.org/wiki/Q56712044)** ([WP](https://de.wikipedia.org/wiki/Keven_Schlotterbeck)) (2019–2020) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Kevin Volland](https://www.wikidata.org/wiki/Q129810)** ([WP](https://de.wikipedia.org/wiki/Kevin_Volland)) (2023–2025) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Kurt Hallex](https://www.wikidata.org/wiki/Q74798415)** ([WP](https://de.wikipedia.org/wiki/Kurt_Hallex)) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Leonard Koch](https://www.wikidata.org/wiki/Q20172809)** ([WP](https://de.wikipedia.org/wiki/Leonard_Koch)) (2015–2016) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Manfred Jatzek](https://www.wikidata.org/wiki/Q52158014)** ([WP](https://de.wikipedia.org/wiki/Manfred_Jatzek)) — Add an end date (P582) to the membership → 1. FC Union Berlin (Q141971); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

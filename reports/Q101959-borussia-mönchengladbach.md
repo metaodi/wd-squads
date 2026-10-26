@@ -3,11 +3,11 @@
 - Wikidata item: [Q101959](https://www.wikidata.org/wiki/Q101959)
 - Wikipedia article: [Borussia Mönchengladbach](https://de.wikipedia.org/wiki/Borussia_Mönchengladbach)
 - Players in Wikipedia squad: 31
-- Current members on Wikidata: 85
-- Suggested edits: 97
+- Current members on Wikidata: 84
+- Suggested edits: 96
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (75)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (74)</strong></summary>
 
 - **[Alassane Pléa](https://www.wikidata.org/wiki/Q4708679)** ([WP](https://de.wikipedia.org/wiki/Alassane_Pl%C3%A9a)) (2018–2025) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Jansen](https://www.wikidata.org/wiki/Q2638234)** ([WP](https://de.wikipedia.org/wiki/Albert_Jansen)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -61,7 +61,6 @@
 - **[Marco Ketelaer](https://www.wikidata.org/wiki/Q1893798)** ([WP](https://de.wikipedia.org/wiki/Marco_Ketelaer)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Mario Bäger](https://www.wikidata.org/wiki/Q1898662)** ([WP](https://de.wikipedia.org/wiki/Mario_B%C3%A4ger)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Markus Mohren](https://www.wikidata.org/wiki/Q1265997)** ([WP](https://de.wikipedia.org/wiki/Markus_Mohren)) (1980–1983) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Marlon Ritter](https://www.wikidata.org/wiki/Q18127547)** ([WP](https://de.wikipedia.org/wiki/Marlon_Ritter)) (2014–2016) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marvin Ajani](https://www.wikidata.org/wiki/Q15834280)** ([WP](https://de.wikipedia.org/wiki/Marvin_Ajani)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Marvin Schulz](https://www.wikidata.org/wiki/Q20822661)** ([WP](https://de.wikipedia.org/wiki/Marvin_Schulz_(Fu%C3%9Fballspieler,_1995))) (2014–2017) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Muhittin Baştürk](https://www.wikidata.org/wiki/Q14542497)** ([WP](https://de.wikipedia.org/wiki/Muhittin_Bast%C3%BCrk)) — Add an end date (P582) to the membership → Borussia Mönchengladbach (Q101959); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -102,7 +101,7 @@
 - **[Jens Castrop](https://www.wikidata.org/wiki/Q98829565)** ([WP](https://de.wikipedia.org/wiki/Jens_Castrop)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Kevin Diks](https://www.wikidata.org/wiki/Q17602824)** ([WP](https://de.wikipedia.org/wiki/Kevin_Diks)) (2025–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Kevin Stöger](https://www.wikidata.org/wiki/Q86523)** ([WP](https://de.wikipedia.org/wiki/Kevin_Stöger)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
-- **[Lion Schweers](https://www.wikidata.org/wiki/Q24006307)** ([WP](https://de.wikipedia.org/wiki/Lion_Schweers)) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
+- **[Lion Schweers](https://www.wikidata.org/wiki/Q24006307)** ([WP](https://de.wikipedia.org/wiki/Lion_Schweers)) (2026) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Mathieu Nguefack](https://www.wikidata.org/wiki/Q141321232)** ([WP](https://de.wikipedia.org/wiki/Mathieu_Nguefack)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Nicolas Kühn](https://www.wikidata.org/wiki/Q50822050)** ([WP](https://de.wikipedia.org/wiki/Nicolas_Kühn)) (2026–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.
 - **[Philipp Sander](https://www.wikidata.org/wiki/Q57579312)** ([WP](https://de.wikipedia.org/wiki/Philipp_Sander_(Fußballspieler))) (2024–) — Add a 'member of sports team' (P54) statement → Borussia Mönchengladbach (Q101959); the player is in the current squad on Wikipedia.

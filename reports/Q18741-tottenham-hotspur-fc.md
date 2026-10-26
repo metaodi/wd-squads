@@ -3,8 +3,8 @@
 - Wikidata item: [Q18741](https://www.wikidata.org/wiki/Q18741)
 - Wikipedia article: [Tottenham Hotspur F.C.](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.)
 - Players in Wikipedia squad: 44
-- Current members on Wikidata: 200
-- Suggested edits: 180
+- Current members on Wikidata: 199
+- Suggested edits: 179
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (167)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (166)</strong></summary>
 
 - **[Aaron McEneff](https://www.wikidata.org/wiki/Q53567638)** ([WP](https://en.wikipedia.org/wiki/Aaron_McEneff)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Connell](https://www.wikidata.org/wiki/Q4706403)** ([WP](https://en.wikipedia.org/wiki/Alan_Connell)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -133,7 +133,6 @@
 - **[Martin Robinson](https://www.wikidata.org/wiki/Q6776477)** ([WP](https://en.wikipedia.org/wiki/Martin_Robinson_(footballer))) (1975–1978) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Martin Thomas](https://www.wikidata.org/wiki/Q6776739)** ([WP](https://en.wikipedia.org/wiki/Martin_Thomas_(footballer,_born_1959))) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Matt Doherty](https://www.wikidata.org/wiki/Q4167438)** ([WP](https://en.wikipedia.org/wiki/Matt_Doherty_(footballer,_born_1992))) (2020–2023) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Michel Vorm](https://www.wikidata.org/wiki/Q208518)** ([WP](https://en.wikipedia.org/wiki/Michel_Vorm)) (2014–2020) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Musa Yahaya](https://www.wikidata.org/wiki/Q20056621)** ([WP](https://en.wikipedia.org/wiki/Musa_Yahaya)) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nabil Bentaleb](https://www.wikidata.org/wiki/Q15410320)** ([WP](https://en.wikipedia.org/wiki/Nabil_Bentaleb)) (2013–2017) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Nathan Oduwa](https://www.wikidata.org/wiki/Q19577463)** ([WP](https://en.wikipedia.org/wiki/Nathan_Oduwa)) (2013–2017) — Add an end date (P582) to the membership → Tottenham Hotspur F.C. (Q18741); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

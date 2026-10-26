@@ -3,8 +3,8 @@
 - Wikidata item: [Q104761](https://www.wikidata.org/wiki/Q104761)
 - Wikipedia article: [Bayer 04 Leverkusen](https://de.wikipedia.org/wiki/Bayer_04_Leverkusen)
 - Players in Wikipedia squad: 29
-- Current members on Wikidata: 96
-- Suggested edits: 98
+- Current members on Wikidata: 97
+- Suggested edits: 99
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (3)</strong></summary>
@@ -16,7 +16,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (82)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (83)</strong></summary>
 
 - **[Abdullah Keseroğlu](https://www.wikidata.org/wiki/Q317682)** ([WP](https://de.wikipedia.org/wiki/Abdullah_Kesero%C4%9Flu)) (2006–2007) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Stanilewicz](https://www.wikidata.org/wiki/Q59694822)** ([WP](https://de.wikipedia.org/wiki/Adrian_Stanilewicz)) (2018–2020) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -25,6 +25,7 @@
 - **[Anderson Lucoqui](https://www.wikidata.org/wiki/Q27637435)** ([WP](https://de.wikipedia.org/wiki/Anderson_Lucoqui)) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Andrey Lunyov](https://www.wikidata.org/wiki/Q1656985)** ([WP](https://de.wikipedia.org/wiki/Andrei_Jewgenjewitsch_Lunjow)) (2021–2023) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[André Ramalho](https://www.wikidata.org/wiki/Q522418)** ([WP](https://de.wikipedia.org/wiki/Andr%C3%A9_Ramalho)) (2015–2017) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Axel Tape](https://www.wikidata.org/wiki/Q131308358)** ([WP](https://de.wikipedia.org/wiki/Axel_Tape)) (2025–) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Barbara Reger](https://www.wikidata.org/wiki/Q56702609)** ([WP](https://de.wikipedia.org/wiki/Barbara_Reger)) (2017–2021) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Britta Heidemann](https://www.wikidata.org/wiki/Q60203)** ([WP](https://de.wikipedia.org/wiki/Britta_Heidemann)) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Cataldo Cozza](https://www.wikidata.org/wiki/Q1050172)** ([WP](https://de.wikipedia.org/wiki/Cataldo_Cozza)) (2003–2006) — Add an end date (P582) to the membership → Bayer 04 Leverkusen (Q104761); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

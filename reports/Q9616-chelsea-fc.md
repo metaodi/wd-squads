@@ -2,9 +2,9 @@
 
 - Wikidata item: [Q9616](https://www.wikidata.org/wiki/Q9616)
 - Wikipedia article: [Chelsea F.C.](https://en.wikipedia.org/wiki/Chelsea_F.C.)
-- Players in Wikipedia squad: 55
+- Players in Wikipedia squad: 56
 - Current members on Wikidata: 154
-- Suggested edits: 146
+- Suggested edits: 147
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -40,7 +40,7 @@
 - **[Calum McFarlane](https://www.wikidata.org/wiki/Q137668183)** ([WP](https://en.wikipedia.org/wiki/Calum_McFarlane)) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charlie Brown](https://www.wikidata.org/wiki/Q85751626)** ([WP](https://en.wikipedia.org/wiki/Charlie_Brown_(footballer,_born_1999))) (2020–2021) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Charlie Colkett](https://www.wikidata.org/wiki/Q26923898)** ([WP](https://en.wikipedia.org/wiki/Charlie_Colkett)) (2015–2019) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Charly Musonda](https://www.wikidata.org/wiki/Q22669663)** ([WP](https://en.wikipedia.org/wiki/Charly_Musonda_Jr.)) (2016–2022) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Charly Musonda](https://www.wikidata.org/wiki/Q22669663)** ([WP](https://en.wikipedia.org/wiki/Charly_Musonda_(footballer,_born_1996))) (2016–2022) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Claire Rafferty](https://www.wikidata.org/wiki/Q10881)** ([WP](https://en.wikipedia.org/wiki/Claire_Rafferty_(footballer))) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Colin West](https://www.wikidata.org/wiki/Q60734407)** ([WP](https://en.wikipedia.org/wiki/Colin_West_(footballer,_born_1967))) (1986–1990) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Daishawn Redan](https://www.wikidata.org/wiki/Q55104858)** ([WP](https://en.wikipedia.org/wiki/Daishawn_Redan)) — Add an end date (P582) to the membership → Chelsea F.C. (Q9616); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -155,7 +155,7 @@
 - **[Kaiden Wilson](https://www.wikidata.org/wiki/Q128797472)** — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Kiano Dyer](https://www.wikidata.org/wiki/Q123002504)** ([WP](https://en.wikipedia.org/wiki/Kiano_Dyer)) (2024–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Landon Emenalo](https://www.wikidata.org/wiki/Q132129020)** ([WP](https://en.wikipedia.org/wiki/Landon_Emenalo)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
-- **[Mahdi Nicoll-Jazuli](https://www.wikidata.org/wiki/Q136678208)** ([WP](https://en.wikipedia.org/wiki/Mahdi_Nicoll-Jazuli)) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
+- **[Mahdi Nicoll-Jazuli](https://www.wikidata.org/wiki/Q136678208)** ([WP](https://en.wikipedia.org/wiki/Mahdi_Nicoll-Jazuli)) (2026–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
 - **[Max Merrick](https://www.wikidata.org/wiki/Q132128998)** — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Ollie Harrison](https://www.wikidata.org/wiki/Q132129011)** — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Reggie Walsh](https://www.wikidata.org/wiki/Q133443961)** ([WP](https://en.wikipedia.org/wiki/Reggie_Walsh)) (2025–) — Add a 'member of sports team' (P54) statement → Chelsea F.C. (Q9616); the player is in the current squad on Wikipedia.
@@ -175,9 +175,10 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (2)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (3)</strong></summary>
 
 - **Hudson Sands** — 'Hudson Sands' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Olutayo Subuloye** — 'Olutayo Subuloye' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
+- **Shaun Wade** — 'Shaun Wade' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 
 </details>

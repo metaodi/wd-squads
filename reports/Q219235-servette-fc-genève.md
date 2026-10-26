@@ -2,12 +2,12 @@
 
 - Wikidata item: [Q219235](https://www.wikidata.org/wiki/Q219235)
 - Wikipedia article: [Servette FC](https://de.wikipedia.org/wiki/Servette_FC)
-- Players in Wikipedia squad: 33
+- Players in Wikipedia squad: 31
 - Current members on Wikidata: 70
-- Suggested edits: 97
+- Suggested edits: 95
 
 <details open>
-<summary><strong>In current squad, but no membership statement on Wikidata (20)</strong></summary>
+<summary><strong>In current squad, but no membership statement on Wikidata (19)</strong></summary>
 
 - **[Ablie Jallow](https://www.wikidata.org/wiki/Q33183524)** ([WP](https://de.wikipedia.org/wiki/Ablie_Jallow)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
 - **[Alonzo Vincent](https://www.wikidata.org/wiki/Q136430467)** — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
@@ -27,7 +27,6 @@
 - **[Steve Rouiller](https://www.wikidata.org/wiki/Q27473642)** ([WP](https://de.wikipedia.org/wiki/Steve_Rouiller)) (2018–) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
 - **[Tiemoko Ouattara](https://www.wikidata.org/wiki/Q134564125)** ([WP](https://en.wikipedia.org/wiki/Tiemoko_Ouattara)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Timothé Cognat](https://www.wikidata.org/wiki/Q20666445)** ([WP](https://de.wikipedia.org/wiki/Timothé_Cognat)) (2018–) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
-- **[Tristan Nunez](https://www.wikidata.org/wiki/Q16236944)** ([WP](https://en.wikipedia.org/wiki/Tristan_Nunez)) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia. The item was matched by name (the player has no Wikipedia article linking it), so please check it is the right person.
 - **[Yoan Severin](https://www.wikidata.org/wiki/Q29016862)** ([WP](https://de.wikipedia.org/wiki/Yoan_Severin)) (2018–) — Add a 'member of sports team' (P54) statement → Servette FC Genève (Q219235); the player is in the current squad on Wikipedia.
 
 </details>
@@ -113,7 +112,7 @@
 </details>
 
 <details open>
-<summary><strong>In current squad, but no Wikidata item could be found (9)</strong></summary>
+<summary><strong>In current squad, but no Wikidata item could be found (8)</strong></summary>
 
 - **Eronis Haxhiu** — 'Eronis Haxhiu' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Ivan Izquierdo** — 'Ivan Izquierdo' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
@@ -121,7 +120,6 @@
 - **Jemy Sida** — 'Jemy Sida' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Louis Rieder** — 'Louis Rieder' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Léo Besson** — 'Léo Besson' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
-- **Sylvain Djoho** — 'Sylvain Djoho' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Thomas Lopes** — 'Thomas Lopes' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 - **Téo Allix** — 'Téo Allix' is listed in the squad on Wikipedia but has no article there, and no Wikidata item was found under that name. They may need a new item.
 

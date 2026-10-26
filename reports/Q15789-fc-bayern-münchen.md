@@ -3,8 +3,8 @@
 - Wikidata item: [Q15789](https://www.wikidata.org/wiki/Q15789)
 - Wikipedia article: [FC Bayern München](https://de.wikipedia.org/wiki/FC_Bayern_München)
 - Players in Wikipedia squad: 87
-- Current members on Wikidata: 210
-- Suggested edits: 264
+- Current members on Wikidata: 211
+- Suggested edits: 265
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (2)</strong></summary>
@@ -15,7 +15,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (193)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (194)</strong></summary>
 
 - **[Adam Aznou](https://www.wikidata.org/wiki/Q117288501)** ([WP](https://de.wikipedia.org/wiki/Adam_Aznou)) (2024–2025) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adrian Fein](https://www.wikidata.org/wiki/Q56705037)** ([WP](https://de.wikipedia.org/wiki/Adrian_Fein)) (2020–2022) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -99,6 +99,7 @@
 - **[Ivan Volf](https://www.wikidata.org/wiki/Q131748678)** ([WP](https://de.wikipedia.org/wiki/Ivan_Volf)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jana Plachá](https://www.wikidata.org/wiki/Q66363896)** ([WP](https://de.wikipedia.org/wiki/Jana_Plach%C3%A1)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jasmina Srna](https://www.wikidata.org/wiki/Q66364012)** ([WP](https://de.wikipedia.org/wiki/Jasmina_Srna)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
+- **[Jean Paul Pineda](https://www.wikidata.org/wiki/Q2741350)** ([WP](https://de.wikipedia.org/wiki/Jean_Paul_Pineda)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jelena Gatea](https://www.wikidata.org/wiki/Q34081948)** ([WP](https://de.wikipedia.org/wiki/Jelena_Gatea)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Jeong Woo-yeong](https://www.wikidata.org/wiki/Q36346274)** ([WP](https://de.wikipedia.org/wiki/Jeong_Woo-yeong)) (2018–2019) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Johannes Sarkany](https://www.wikidata.org/wiki/Q84417155)** ([WP](https://de.wikipedia.org/wiki/Johannes_Sarkany)) — Add an end date (P582) to the membership → FC Bayern München (Q15789); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

@@ -3,8 +3,8 @@
 - Wikidata item: [Q5794](https://www.wikidata.org/wiki/Q5794)
 - Wikipedia article: [Everton F.C.](https://en.wikipedia.org/wiki/Everton_F.C.)
 - Players in Wikipedia squad: 22
-- Current members on Wikidata: 304
-- Suggested edits: 311
+- Current members on Wikidata: 303
+- Suggested edits: 310
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (296)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (295)</strong></summary>
 
 - **[Adam Cummins](https://www.wikidata.org/wiki/Q4678918)** ([WP](https://en.wikipedia.org/wiki/Adam_Cummins)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam Eaton](https://www.wikidata.org/wiki/Q4679009)** ([WP](https://en.wikipedia.org/wiki/Adam_Eaton_(footballer))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
@@ -59,7 +59,6 @@
 - **[Archie Clark](https://www.wikidata.org/wiki/Q4786654)** ([WP](https://en.wikipedia.org/wiki/Archie_Clark_(footballer))) (1931–1936) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Archie Goodall](https://www.wikidata.org/wiki/Q4786692)** ([WP](https://en.wikipedia.org/wiki/Archie_Goodall)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Archie Livingstone](https://www.wikidata.org/wiki/Q42887480)** ([WP](https://en.wikipedia.org/wiki/Archie_Livingstone_(footballer,_born_1915))) (1946–1947) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Arouna Koné](https://www.wikidata.org/wiki/Q314789)** ([WP](https://en.wikipedia.org/wiki/Arouna_Kon%C3%A9)) (2013–2017) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Arthur Marshall](https://www.wikidata.org/wiki/Q4799653)** ([WP](https://en.wikipedia.org/wiki/Arthur_Marshall_(footballer))) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Barrie Rees](https://www.wikidata.org/wiki/Q93148214)** — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Barry Pierce](https://www.wikidata.org/wiki/Q20645617)** ([WP](https://en.wikipedia.org/wiki/Barry_Pierce)) — Add an end date (P582) to the membership → Everton F.C. (Q5794); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.

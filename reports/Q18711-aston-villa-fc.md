@@ -3,8 +3,8 @@
 - Wikidata item: [Q18711](https://www.wikidata.org/wiki/Q18711)
 - Wikipedia article: [Aston Villa F.C.](https://en.wikipedia.org/wiki/Aston_Villa_F.C.)
 - Players in Wikipedia squad: 57
-- Current members on Wikidata: 287
-- Suggested edits: 301
+- Current members on Wikidata: 286
+- Suggested edits: 300
 
 <details open>
 <summary><strong>Membership marked ended, but player is in the current squad (1)</strong></summary>
@@ -14,12 +14,11 @@
 </details>
 
 <details open>
-<summary><strong>Recorded as a current member, but no longer in the squad (263)</strong></summary>
+<summary><strong>Recorded as a current member, but no longer in the squad (262)</strong></summary>
 
 - **[Aaron Tshibola](https://www.wikidata.org/wiki/Q18128872)** ([WP](https://en.wikipedia.org/wiki/Aaron_Tshibola)) (2016–2019) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Abbey-Leigh Stringer](https://www.wikidata.org/wiki/Q24452314)** ([WP](https://en.wikipedia.org/wiki/Abbey-Leigh_Stringer)) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Adam McGurk](https://www.wikidata.org/wiki/Q4679472)** ([WP](https://en.wikipedia.org/wiki/Adam_McGurk)) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
-- **[Ahmed Elmohamady](https://www.wikidata.org/wiki/Q456647)** ([WP](https://en.wikipedia.org/wiki/Ahmed_Elmohamady)) (2017–2021) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Alan Hutton](https://www.wikidata.org/wiki/Q310037)** ([WP](https://en.wikipedia.org/wiki/Alan_Hutton)) (2011–2019) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Evans](https://www.wikidata.org/wiki/Q4710163)** ([WP](https://en.wikipedia.org/wiki/Albert_Evans_(footballer,_born_1874))) (1896–1907) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
 - **[Albert Wilkes](https://www.wikidata.org/wiki/Q4711473)** ([WP](https://en.wikipedia.org/wiki/Albert_Wilkes)) (1898–1907) — Add an end date (P582) to the membership → Aston Villa F.C. (Q18711); Wikidata lists the player as a current member, but they are no longer in the squad on Wikipedia.
